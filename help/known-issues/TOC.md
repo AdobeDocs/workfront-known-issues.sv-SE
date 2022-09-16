@@ -1,0 +1,182 @@
+---
+user-guide-title: Kända fel
+user-guide-description: Kända fel för [!DNL Adobe Workfront]
+source-git-commit: 13d173f82a6ac6894363dda746be98a22636a74d
+workflow-type: tm+mt
+source-wordcount: '1075'
+ht-degree: 0%
+
+---
+
+
+# Kända fel {#issues}
+
++ [Översikt](overview.md)
+
++ [!DNL Adobe Workfront] {#new-workfront-experience}
+   + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
+   + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Meddelanden: Fel vid åtkomst till e-postaviseringsinställningar](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
+      + [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
+      + [Tidrapporter: Timmar sparas inte när du använder [!UICONTROL Tab] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md)
+      + [Anpassade formulär: Element som överlappar på den vänstra panelen](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md)
+      + [Listor: Ny status visas inte vid infogad redigeringsstatus](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md)
+      + [Rapporter: Problem när du skapar och redigerar rapporter i [!UICONTROL Report builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md)
+      + [Dokument: Dokumentgodkännanden är inte tillgängliga från [!UICONTROL Document Details] page](known-issues-workfront/wf-documents-approvals-not-in-document-details.md)
+      + [Rapporter: Problem med problemrapporter i [!DNL Workfront]](known-issues-workfront/wf-reports-issues-with-issue-reports.md)
+      + [Uppdragsfält: Tillfälligt uppdaterade namn för användar- och rolltilldelningsfälten](known-issues-workfront/wf-assignments-temp-updated-names.md)
+      + [Anpassade formulär: Beskrivande textfält visar verktygstips](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)
+      + [Integrationer: 404-fel vid tillägg av ett dokument från [!DNL SharePoint] [!UICONTROL (Graph API)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
+      + [Integrationer: [!DNL SharePoint] mappen visas inte som mappägare](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
+      + [Integrationer: Fel när begäran skickades från [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
+      + [Tidrapporter: [!UICONTROL Whoops!] fel när en tidrapport öppnas](known-issues-workfront/wf-timesheet-whoops-error-when-opening-timesheet.md)
+      + [Integrationer: Fel vid öppning [!DNL Workfront for Jira] inom [!DNL Jira]](known-issues-workfront/wf-error-when-opening-wf-for-jira-within-jira.md)
+      + [Tidrapporter: &quot;[!UICONTROL Someone else tried to save this project]&quot; fel vid inmatning av timmar](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
+      + [Kontrollpaneler: Det går inte att komma åt instrumentpanelen från vänster navigering i ett objekt](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
+      + [Projekt, uppgifter och problem: Storleksändrad [!UICONTROL Description] går tillbaka till ursprunglig storlek](known-issues-workfront/wf-projects-description-field-size-snaps-back.md)
+      + [Projekt: Fel vid borttagning av [!UICONTROL Project Owner] från sidhuvudet](known-issues-workfront/wf-projects-error-when-removing-project-owner.md)
+      + [Uppgifter och problem: Oavsiktlig avslutning vid skapande av uppgifter eller problem](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
+      + [Problem: Om du konverterar ett problem till ett projekt med en mall visas ett felaktigt felmeddelande](known-issues-workfront/wf-converting-issue-to-project-missing-error-message.md)
+      + [Kontrollpaneler: [!UICONTROL Workload Balancer] länkar visas felaktigt på kontrollpaneler](known-issues-workfront/wf-dashboard-workload-balancer-links-display-incorrectly.md)
+      + [Uppdateringar: Det går inte att stänga användarkortet i uppdateringsströmmen](known-issues-workfront/wf-updates-cant-close-user-card.md)
+      + [Rapporter: &quot;[!UICONTROL Add to Iteration]&quot; och &quot;[!UICONTROL Add to Kanban Board]&quot; som inte är tillgängliga när infogade redigeringsåtgärder i en rapport](known-issues-workfront/wf-reports-no-option-to-add-to-kanban.md)
+      + [Begäranden: Det går inte att öppna sidor i begärandelistan efter den första sidan](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
+      + [Anpassad Forms: Data i fält som döljs av avsnittsbrytningar bevaras inte när en begäran konverteras till ett projekt](known-issues-workfront/wf-requests-cust-form-data-hidden-not-converted.md)
+      + [Projekt: &quot;[!UICONTROL Timeline Planning mode]&quot; fel vid ändring av ett datum i ett projekt](known-issues-workfront/wf-projects-error-when-using-timeline-planning.md)
+      + [Begäranden: Teamtilldelning när begäran skapas visas inte på ny begäran](known-issues-workfront/wf-teams-assignment-lost-when-creating-requests.md)
+      + [[!DNL Workfront]: Problem med att skicka en [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
+      + [Eget formulär: Det går inte att ta bort instruktioner från ett anpassat fält i det anpassade formulärverktyget](known-issues-workfront/wf-cust-form-cannot-remove-instructions-from-field.md)
+      + [Meddelanden: Användarna får inget e-postmeddelande när de nämns i en kommentar](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
+      + [Tidrapporter: Kommentarer sparas inte](known-issues-workfront/resolved-issues-wf/wf-timesheets-comments-not-save.md)
+      + [Tidrapporter: &quot;[!UICONTROL Billed hours already exist]&quot; fel när timmar läggs till i en tidrapport](known-issues-workfront/wf-timesheets-billed-hours-already-exist.md)
+      + [Uppgifter och problem: Fel vid ändring av [!UICONTROL Planned Completion Date] i huvudet på en uppgift eller ett problem](known-issues-workfront/resolved-issues-wf/wf-500-error-planned-completion.md)
+      + [Tidrapporter: Problem med att lägga till timmar i projekt i [!UICONTROL Complete] eller [!UICONTROL Dead] status](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md)
+      + [Layoutmallar: Layoutmallar som inte är tillgängliga för användare](known-issues-workfront/wf-layout-templates-not-available-to-assign.md)
+      + [Rapporter: Det går inte att exportera användningsrapporten](known-issues-workfront/wf-reports-cannot-export-utilization-report.md)
+      + [Tidrapporter: Felet&quot;Dina senaste ändringar har inte sparats&quot; när du sparar ändringar automatiskt på en tidrapport](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
+      + [Tidrapporter: Timmar sparar inte automatiskt](known-issues-workfront/wf-timesheets-hours-do-not-autosave.md)
+      + [Anpassad Forms: Data i fält som är dolda av avsnittsbrytningar bevaras inte vid konvertering av ett problem till ett projekt](known-issues-workfront/wf-custom-forms-data-lost-hidden-section-break.md)
+      + [Vagnarna: Problem med [!UICONTROL Status] ändringar för länkade objekt i vykort](known-issues-workfront/resolved-issues-wf/wf-boards-issues-status-change.md)
+      + [Kontrollpaneler: Rapportdiagram som visas på en kontrollpanel har andra färger än de som visas i rapporten](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
+      + [Anpassade formulär: Det går inte att redigera anpassade formulär på grund av en felaktig teckengräns på [!UICONTROL Descriptive text] fält](known-issues-workfront/wf-custom-form-incorrect-character-limit.md)
+      + [Inställningar: Kan inte skapa ny status](known-issues-workfront/resolved-issues-wf/wf-cannot-create-new-status.md)
+      + [Anpassade formulär: Det går inte att redigera anpassade formulär på grund av [!UICONTROL Descriptive Text] fält](known-issues-workfront/wf-cust-form-descr-text-label-error.md)
+      + [[!DNL Search]: Fel vid användning [!UICONTROL Search] in [!DNL Workfront]](known-issues-workfront/wf-search-error-using-search.md)
+      + [Problem: Det går inte att godkänna eller avvisa timmar i ett ärende](known-issues-workfront/wf-issues-cannot-approve-hours.md)
+      + [Rapporter: Rapporter som inte skickats som schemalagda](known-issues-workfront/wf-reports-not-sent-as-scheduled.md)
+      + [Rapporter: Matrisrapporter visas felaktigt vid bläddring](known-issues-workfront/wf-reports-matrix-display-incorrectly.md)
+      + [Agile: Problem vid flyttning av kort på Agile-tavlan](known-issues-workfront/wf-agile-issues-moving-cards.md)
+      + [Terminologi (tyska): Terminologi är fel i vissa områden när webbläsarspråket är tyska](known-issues-workfront/wf-terminology-in-german.md)
+      + [Uppdateringar: Om du taggar användare och sedan navigerar bort tas de taggade användarna bort](known-issues-workfront/resolved-issues-wf/wf-updates-tag-users-navigate-away-untags.md)
+      + [Sök: Det går inte att söka projekt efter referensnummer](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md)
+      + [Hem: Anpassad terminologi används inte i hemområdet](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
+      + [Agile: Kan inte redigera fält från anpassade formulär på kort](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)
+      + [Layoutmallar: Det går inte att markera grupp när en layoutmall skapas](known-issues-workfront/wf-layout-templ-cannot-select-group.md)
+      + [Godkännanden: Delegering av godkännande har angetts för felaktigt antal dagar](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md)
+      + [[!UICONTROL Home]: [!UICONTROL Home] sammanfattande problem vid användning av andra webbläsare än [!DNL Chrome]](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
+      + [[!UICONTROL Home]: Alternativet Ny aktivitet visar inaktiverade användare i [!UICONTROL Assign To] fält](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
+      + [Uppdateringar: Teamnamnet visas inte i @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
+      + [Kalendrar: Problem med [!UICONTROL Time Off] kalender](known-issues-workfront/wf-calendars-issue-time-off.md)
+      + [Agile: Störningar i [!UICONTROL Completed Points] för en iteration](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md)
+      + [E-postmeddelanden: &quot;[!UICONTROL I'm assigned to an issue]&quot;-inställningen visas](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)
+      + [E-postmeddelanden: Användaren är inte dirigerad till kommentarstråden](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)
+      + [Kalendrar: [!DNL OR] filterprogramsats exklusive filterregel](known-issues-workfront/wf-calendars-or-filter-statement.md)
+      + [Rapporter: Det går inte att rulla rapporten vågrätt vid visning på instrumentpanelen](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)
+      + [[!UICONTROL Home]: Projektnamnet visas som ett GUID i [!UICONTROL Work List]](known-issues-workfront/wf-home-project-name-shows-as-guid.md)
+      + [Rapporter: Kalendern har gamla datum som standard](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)
+      + [E-postmeddelanden: E-postmeddelanden formateras inte korrekt i [!DNL Outlook]](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md)
+      + [[!UICONTROL Home]: Det går inte att visa dokumentbilden i [!UICONTROL Work List]](known-issues-workfront/wf-home-unable-to-view-document-image.md)
+      + [Listor: Visningsnamnet används inte för anpassad fältgruppering](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
+      + [[!UICONTROL Home]: Datum för delegering av godkännande ändras efter uppdatering och 2 e-postmeddelanden skickas ut](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
+      + [Kalender: Aktiviteter visas inte](known-issues-workfront/wf-calendar-tasks-not-displaying.md)
+   + Lösta problem i [!DNL Adobe Workfront] {#wf-resolved}
+      + [Rapporter: Nytt [!UICONTROL Reporting Canvas] läser inte in](known-issues-workfront/resolved-issues-wf/wf-reports-new-canvas-does-not-load.md)
+      + [Kalender: Knappen visas felaktigt när objekt läggs till i kalendern](known-issues-workfront/resolved-issues-wf/wf-calendar-button-displays-incorrectly.md)
+      + [Tidrapporter: Problem när tidrapporter skapas](known-issues-workfront/resolved-issues-wf/wf-timesheets-issues-creating-timesheets.md)
+      + [Mallar: Det går inte att avmarkera uppgifter när mallen bifogas](known-issues-workfront/resolved-issues-wf/wf-templ-cannot-deselect-tasks.md)
+      + [Rapporter: Schemalagda rapporter skickas inte till alla mottagare](known-issues-workfront/resolved-issues-wf/wf-reports-scheduled-not-sent-to-all.md)
+      + [[!UICONTROL Home]: Ett fel uppstod när ett objekt öppnades från [!UICONTROL Home Work] Lista](known-issues-workfront/resolved-issues-wf/wf-home-error-opening-item-work-list.md)
+      + [Tidrapporter: Timmar som visas på tidrapporten skiljer sig från tidrapportlistan](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-different-in-list.md)
+      + [Begäranden: Begäran konverterad till projekt med mall visar grupp från begärandekö, inte grupp från mall](known-issues-workfront/resolved-issues-wf/wf-requests-converted-shows-group-from-queue.md)
+      + [Tidrapport: Tidrapportimmar sparas inte korrekt](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-not-autosaving-correctly.md)
+      + [Uppgifter: Kan inte markera [!UICONTROL Elapsed] tid när aktivitetsvaraktighet för infogad redigering](known-issues-workfront/resolved-issues-wf/wf-tasks-cannot-select-elapsed-time.md)
+      + [Uppdateringar: [!UICONTROL My Updates] sidan är tom](known-issues-workfront/resolved-issues-wf/wf-updates-my-updates-blank.md)
+      + [Användare: &quot;[!UICONTROL Only Allow SAML 2.0 Authentication]&quot;-inställningen saknas när en användare kopieras](known-issues-workfront/resolved-issues-wf/wf-users-only-allow-saml-setting-missing.md)
+
+
+
+
++ [!DNL Workfront Proof] {#proof}
+   + [Kända fel i [!DNL Workfront Proof]](workfrontproof.md)
+   + Aktuella problem i [!DNL Workfront Proof] {#proof-current}
+      + [Korrektur: Fel när korrektur lades till [!DNL Workfront] från [!DNL Workfront] Korrektur](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
+      + [[!DNL Workfront Proof]: Fel vid överföring av en fil till en kommentar](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
+      + [[!DNL Workfront Proof]: Mappvyer som inte visar korrektur](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
+      + [[!DNL Workfront Proof]: Kan inte skapa korrektur för filer över 1,5 GB](known-issues-workfront-proof/proof-cannot-proof-files-over-1-5gb.md)
+      + [[!DNL Workfront Proof]: [!UICONTROL New Proof] Sidan saknar textfält](known-issues-workfront-proof/proof-new-page-missing-text-fields.md)
+      + [[!DNL Workfront Proof]: E-postmeddelanden fördröjs](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md)
+      + [[!DNL Workfront Proof]: Begärande och granskare räknas in i en organisations licensantal](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md)
+      + [[!DNL Workfront Proof]: Dagliga e-postmeddelanden med sammanfattning innehåller inte knappen Visa detaljer](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
+      + [[!DNL Workfront Proof]: Användare som läggs till i ett korrektur har bara &quot;[!UICONTROL View]&quot; åtkomst](known-issues-workfront-proof/proof-added-users-have-only-view.md)
+      + [[!DNL Workfront Proof]: Korrekturadministratören har begränsad behörighet för ett korrektur](known-issues-workfront-proof/proof-admin-has-limited-permissions.md)
+      + [På kontrollpanelen visas 0 korrektur [!UICONTROL Proofs to manage]](known-issues-workfront-proof/zero-proofs-to-manage.md)
+      + [[!DNL Workfront Proof]: Hyperlänkar i ett interaktivt korrektur är inte aktiva](known-issues-workfront-proof/proof-hyperlinks-are-not-active.md)
+      + [Det går inte att ändra användaralternativen efter den första konfigurationen i Arbetsflödesmallar](known-issues-workfront-proof/user-options-cannot-be-modified-after-initial-configuration.md)
+      + [Användarna får inga meddelanden när de taggas i ett korrektur](known-issues-workfront-proof/users-do-not-receive-notifications-when-tagged-in-a-proof.md)
+      + [Kommentarer gjorda i [!UICONTROL Proof Viewer] syns inte i realtid](known-issues-workfront-proof/comments-not-visible-in-real-time.md)
+      + [Nytt stadium har skapats eftersom deadline inte kan matcha deadline för befintligt stadium](known-issues-workfront-proof/new-stage-created.md)
+      + [Felaktig deadline för korrekturgodkännande visas i hemarbetslista](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
+      + [Det går inte att lägga till användare i korrektur genom att tagga användaren i en kommentar](known-issues-workfront-proof/cannot-add-user-to-proof.md)
+      + [Det går inte att skapa en ny version av ett korrektur](known-issues-workfront-proof/cannot-create-a-new-version-of-a-proof.md)
+      + [[!UICONTROL Reply in Proof] knappbeteendet är inkonsekvent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
+      + [Automatisk åtkomst till korrektur fördröjs](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
+      + [[!UICONTROL Proof Approval] kan inte fastställa deadlines korrekt](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
+      + [[!UICONTROL Home]: Slutförda korrektur som sitter fast i [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
+      + [Dokument: Ikonen för korrekturarbetsflöde visas inte](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
+   + Lösta problem i [!DNL Workfront] Korrektur {#proof-resolved}
+      + [[!DNL Workfront Proof]: Områden i [!DNL Workfront Proof] uppdateras inte när ett korrektur skapas, flyttas eller arkiveras](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
+      + [Korrektur: Korrektur visas som[!UICONTROL Generating proof]&quot; för mycket tid](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
+      + [Användaren kan inte flytta sig till en annan fas i ett korrektur](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
+
+
++ [!DNL Adobe Workfront Fusion] {#fusion}
+   + [Kända fel i Workfront Fusion](workfrontfusion.md)
+   + Aktuella problem i [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Modulen läses inte in när ett scenario skapas eller redigeras](known-issues-workfront-fusion/fusion-module-does-not-load.md)
+      + [[!DNL Workfront Fusion]: [!DNL Fusion] modul returnerar 404-fel utan ytterligare information](known-issues-workfront-fusion/fusion-404-error-no-description.md)
+      + [[!DNL Workfront Fusion]: Det går inte att ansluta till MS Dynamics-modulen i Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
+      + [[!DNL Workfront Fusion]: 502-fel när scenariot innehåller en modul som kontrollerar korrekturbeslut i Workfront](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
+      + [[!DNL Workfront Fusion] hjälplänkar i appen leder inte till specifika hjälpsidor](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
+   + Lösta problem i [!DNL Workfront Fusion] {#fusion-resolved}
+      + [401-fel på [!DNL Workfront] moduler](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
+      + [Det går inte att rulla för att visa alla scenariokörningar](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
+      + [Data från anpassade formulär är inte tillgängliga i [!DNL Workfront Fusion] [!DNL Workfront] moduler](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
+
++ [!UICONTROL Adobe Workfront Goals] {#goals}
+   + [Kända fel i [!DNL Workfront Goals]](workfrontgoals.md)
++ [!DNL Workfront Library] {#library}
+   + [Kända fel i [!DNL Workfront Library]](workfrontlibrary.md)
++ [!DNL Workfront] Mobilapp {#mobile}
+   + [Kända fel i [!DNL Workfront] Mobilapp](workfrontmobile.md)
++ [!DNL Workfront Scenario Planner] {#scenarioplanner}
+   + [Kända fel i [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
+
+<!--
+
+Articles must be added to this TOC file in order to render.
+
+Use this list format to specify links to articles and section headings that expand and collapse in the left rail of the user guide.
+
+An article link CANNOT be used as a section heading.
+
+Page url - https://one.workfront.com/s/article/Known-Issues
+
+Known Issues in the new Workfront experience
+Known Issues in Workfront Fusion
+Known Issues in Workfront Goals
+Known Issues in Workfront Library
+Known Issues in the Workfront Mobile App
+Known Issues in Workfront Proof
+Known Issues in Workfront Scenario Planner
+
+-->
