@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e8d9550435882464904beed2acc25f9884fc2bd7
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,8 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 
 | **Problem** | **Senast ändrad** |
 |---|---|
+| [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 19 september 2022 |
+| [Korrektur: Användaren går inte tillbaka till föregående sida när korrektur stängs](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 19 september 2022 |
 | [Meddelanden: Fel vid åtkomst till e-postaviseringsinställningar](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 september 2022 |
 | [Uppgifter och problem: Oavsiktlig avslutning vid skapande av uppgifter eller problem](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 9 september 2022 |
 | [Rapporter: Problem när du skapar och redigerar rapporter i [!UICONTROL Report builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 6 september 2022 |
