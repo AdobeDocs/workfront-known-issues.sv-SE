@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,6 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 | [Anpassade formulär: Element som överlappar på den vänstra panelen](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 september 2022 |
 | [Tidrapporter: Timmar sparas inte när du använder [!UICONTROL Tab] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 16 september 2022 |
 | [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
-| [Listor: Ny status visas inte vid infogad redigeringsstatus](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md) | 9 september 2022 |
 | [Integrationer: Fel när begäran skickades från [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augusti 2022 |
 | [[!DNL Workfront Proof]: Dagliga e-postmeddelanden med sammanfattning innehåller inte en[!UICONTROL View Details]&quot;-knapp](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 5 augusti 2022 |
 | [Kontrollpaneler: Rapportdiagram som visas på en kontrollpanel har andra färger än de som visas i rapporten](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 augusti 2022 |
