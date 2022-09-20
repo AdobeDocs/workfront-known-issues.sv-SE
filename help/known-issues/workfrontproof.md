@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
+source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,7 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 
 | **Problem** | **Senast ändrad** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [Korrektur: Kan inte öppna korrektur i [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 20 september 2022 |
 | [Korrektur: Användaren går inte tillbaka till föregående sida när korrektur stängs](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 15 september 2022 |
 | [[!DNL Workfront Proof]: E-postmeddelanden fördröjs](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 15 september 2022 |
 | [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
