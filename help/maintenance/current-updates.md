@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 69fbacd0de7751bf9d9b597e6862fe3406a49fde
+source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
 workflow-type: tm+mt
-source-wordcount: '12111'
+source-wordcount: '12169'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,16 @@ Följande underhållsuppdateringar gjordes 2022.
 Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i september 2022
+
++++**Underhållsuppdatering 22 september 2022**
+
+**Det går inte att stänga användarkortet i uppdateringsströmmen**
+
+*Uppdateringar*
+
+När en användare visar uppdateringar och håller pekaren över ett namn visas ett kort med information om användaren vars namn det är öppet och stängs inte automatiskt. Sidan svarar inte förrän kortet stängs manuellt genom att klicka på X:et i det övre högra hörnet.
+
++++
 
 +++**Underhållsuppdatering 15 september 2022**
 

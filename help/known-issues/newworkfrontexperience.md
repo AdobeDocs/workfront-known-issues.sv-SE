@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
+source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,7 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 
 | **Problem** | **Senast ändrad** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [uppdateringar: Det går inte att stänga användarkortet i uppdateringsströmmen](known-issues-workfront/wf-updates-cant-close-user-card.md) | 20 september 2022 |
 | [Anpassade formulär: Element som överlappar på den vänstra panelen](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 september 2022 |
 | [Tidrapporter: Timmar sparas inte när du använder [!UICONTROL Tab] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 16 september 2022 |
 | [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
