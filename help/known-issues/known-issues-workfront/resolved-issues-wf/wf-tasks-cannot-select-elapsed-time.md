@@ -3,14 +3,14 @@ title: '''Uppgifter: Det går inte att välja Förfluten tid vid infogad rediger
 description: När en användare visar en uppgiftslista och försöker redigera aktivitetsvaraktighet, är enheter för förfluten varaktighet inte tillgängliga.
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
-source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-# Uppgifter: Det går inte att välja Förfluten tid vid infogad redigering av aktivitetsvaraktighet
+# Uppgifter: Kan inte markera [!UICONTROL Elapsed time] aktivitetsvaraktighet vid infogad redigering
 
 >[!NOTE]
 >

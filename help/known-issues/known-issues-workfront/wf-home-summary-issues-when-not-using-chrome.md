@@ -3,14 +3,14 @@ title: '''Hem: Hemsammanfattningsproblem vid användning av andra webbläsare ä
 description: När en användare visar sin hemsida och använder en annan webbläsare än Chrome, kan de se de olika problemen.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Home]: Sammanfattningsproblem i hemmet vid användning av andra webbläsare än [!DNL Chrome]
+# [!UICONTROL Home]: [!UICONTROL Home] sammanfattande problem vid användning av andra webbläsare än [!DNL Chrome]
 
 >[!NOTE]
 >
