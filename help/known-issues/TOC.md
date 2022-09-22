@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
 workflow-type: tm+mt
-source-wordcount: '1102'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Kända fel i [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuella problem i [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Tomma sidor vid visning av ett korrektur med flera sidor](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Korrektur: Fel när korrektur lades till [!DNL Workfront] från [!DNL Workfront] Korrektur](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Fel vid överföring av en fil till en kommentar](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
       + [[!DNL Workfront Proof]: Mappvyer som inte visar korrektur](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
@@ -130,7 +131,6 @@ ht-degree: 0%
       + [Nytt stadium har skapats eftersom deadline inte kan matcha deadline för befintligt stadium](known-issues-workfront-proof/new-stage-created.md)
       + [Felaktig deadline för korrekturgodkännande visas i hemarbetslista](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [Det går inte att lägga till användare i korrektur genom att tagga användaren i en kommentar](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + [Det går inte att skapa en ny version av ett korrektur](known-issues-workfront-proof/cannot-create-a-new-version-of-a-proof.md)
       + [[!UICONTROL Reply in Proof] knappbeteendet är inkonsekvent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [Automatisk åtkomst till korrektur fördröjs](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [[!UICONTROL Proof Approval] kan inte fastställa deadlines korrekt](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
@@ -152,7 +152,6 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion] hjälplänkar i appen leder inte till specifika hjälpsidor](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + Lösta problem i [!DNL Workfront Fusion] {#fusion-resolved}
       + [401-fel på [!DNL Workfront] moduler](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
-      + [Det går inte att rulla för att visa alla scenariokörningar](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
       + [Data från anpassade formulär är inte tillgängliga i [!DNL Workfront Fusion] [!DNL Workfront] moduler](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
