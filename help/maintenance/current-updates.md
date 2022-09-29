@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '12169'
+source-wordcount: '12342'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,36 @@ Följande underhållsuppdateringar gjordes 2022.
 Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i september 2022
+
++++**Underhållsuppdatering 29 september 2022**
+
+**Användaren går inte tillbaka till föregående sida när korrektur stängs**
+
+*Korrektur*
+
+När en användare som visar ett korrektur inom [!DNL Workfront] stänger korrekturet, de returnerar inte sidan de var på innan de öppnade korrekturet. I stället dirigeras de om till en annan sida i [!DNL Workfront].
+
+**Kan inte öppna korrektur i[!DNL Workfront]**
+
+*Korrektur*
+
+När en användare visar ett dokument i [!DNL Workfront] och försöker öppna korrekturet, korrekturet inte öppnas och användaren returneras till [!UICONTROL Document Details] sida.
+
+**Timmar sparas inte när du använder [!UICONTROL Tab] key**
+
+*Tidrapporter*
+
+När en användare fyller i en tidrapport och navigerar mellan celler med [!UICONTROL Tab] så sparas inte timmarna. The [!UICONTROL Auto-save] visas inte längst ned på skärmen och om användaren uppdaterar sidan kan användaren se att timmarna inte sparats.
+
+**Tomma sidor vid visning av ett korrektur med flera sidor**
+
+*[!DNL Workfront Proof]*
+
+När en användare visar ett korrektur med flera sidor kan användaren se sidminiatyrer, men sidorna öppnas inte i huvudvisningsprogrammet.
+
+
+
++++
 
 +++**Underhållsuppdatering 22 september 2022**
 
@@ -72,6 +102,8 @@ För att återspegla den nya funktionaliteten att kunna tilldela både uppgifter
 *[!DNL Workfront Scenario Planner]*
 
 När du nu delar ett projektfilter med en grupp som har ytterligare undergrupper visas filtret för alla grupp- och undergruppsmedlemmar som visar projekt i [!UICONTROL Import Projects] en planruta i [!DNL Scenario Planner].
+
++++
 
 +++**Underhållsuppdatering 8 september 2022**
 

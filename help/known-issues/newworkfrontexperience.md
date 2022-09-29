@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b53c6ea6e0c24581780855d37f4f20cbce41468c
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,6 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 | **Problem** | **Senast ändrad** |
 |---|---|
 | [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 19 september 2022 |
-| [Korrektur: Användaren går inte tillbaka till föregående sida när korrektur stängs](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 19 september 2022 |
 | [Meddelanden: Fel vid åtkomst till e-postaviseringsinställningar](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 september 2022 |
 | [Uppgifter och problem: Oavsiktlig avslutning vid skapande av uppgifter eller problem](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 9 september 2022 |
 | [Rapporter: Problem när du skapar och redigerar rapporter i [!UICONTROL Report builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 6 september 2022 |
@@ -37,9 +36,7 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 
 | **Problem** | **Senast ändrad** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [Korrektur: Kan inte öppna korrektur i [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 20 september 2022 |
 | [Anpassade formulär: Element som överlappar på den vänstra panelen](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 september 2022 |
-| [Tidrapporter: Timmar sparas inte när du använder [!UICONTROL Tab] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 16 september 2022 |
 | [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [Integrationer: Fel när begäran skickades från [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augusti 2022 |
 | [[!DNL Workfront Proof]: Dagliga e-postmeddelanden med sammanfattning innehåller inte en[!UICONTROL View Details]&quot;-knapp](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 5 augusti 2022 |
