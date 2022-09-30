@@ -2,15 +2,20 @@
 title: "Rapporter: Problem vid skapande och redigering av rapporter i Report builder"
 description: "Flera problem har rapporterats när du skapar och redigerar rapporter i Report Builder."
 hidefromtoc: true
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 
 # Rapporter: Problem när rapporter skapas och redigeras i Report Builder
+
+>[!NOTE]
+>
+>Problemet har åtgärdats.
+
 
 Följande problem har rapporterats när du skapar och redigerar rapporter i Report Builder:
 

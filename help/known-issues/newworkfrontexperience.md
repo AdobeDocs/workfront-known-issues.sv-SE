@@ -3,7 +3,7 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -23,7 +23,6 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 | **Problem** | **Senast ändrad** |
 |---|---|
 | [Meddelanden: Användare som inte meddelas när de nämns eller ingår i en kommentar](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 september 2022 |
-| [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 19 september 2022 |
 | [Meddelanden: Fel vid åtkomst till e-postaviseringsinställningar](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 september 2022 |
 | [Uppgifter och problem: Oavsiktlig avslutning vid skapande av uppgifter eller problem](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 9 september 2022 |
 | [Rapporter: Problem när du skapar och redigerar rapporter i [!UICONTROL Report builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 6 september 2022 |
@@ -37,6 +36,7 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 
 | **Problem** | **Senast ändrad** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 september 2022 |
 | [Tidrapporter: Fel när kommentarer läggs till i en tidrapport](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md) | 29 september 2022 |
 | [Anpassade formulär: Element som överlappar på den vänstra panelen](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 september 2022 |
 | [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |

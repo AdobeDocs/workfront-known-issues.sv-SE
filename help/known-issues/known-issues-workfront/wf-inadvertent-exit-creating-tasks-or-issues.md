@@ -3,9 +3,9 @@ title: 'Uppgifter och ärenden: Oavsiktlig avslutning när uppgifter eller ären
 description: När en användare skapar en uppgift eller ett problem i ett projekt och klickar utanför popup-fönstret för att skapa, stängs popup-fönstret utan förvarning och all information som angetts går förlorad.
 hidefromtoc: true
 exl-id: 52f86f2b-b451-495e-bbce-db94c593d4e1
-source-git-commit: 331e2f6196a7a7299117db2137e1e424bdda9195
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Detta problem korrigerades för uppgifter den 8 september 2022.
+> Problemet löstes den 8 september 2022.
 
 När en användare skapar en uppgift eller ett problem i ett projekt och klickar utanför popup-fönstret för att skapa, stängs popup-fönstret utan förvarning och all information som har angetts tidigare går förlorad.
 

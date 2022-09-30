@@ -2,15 +2,19 @@
 title: "Tidrapporter: Fel när kommentarer läggs till i en tidrapport"
 description: "När en användare försöker lägga till en kommentar i en tidrapport medan han/hon lägger till timmar sparas timmarna, men kommentaren sparas inte. Användaren ser även felmeddelanden."
 hidefromtoc: true
-source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 
 # Tidrapporter: Fel när kommentarer läggs till i en tidrapport
+
+>[!NOTE]
+>
+>Problemet korrigerades den 29 september 2022.
 
 När en användare försöker lägga till en kommentar i en tidrapport medan han/hon lägger till timmar, sparas timmarna, men kommentaren sparas inte. Användaren ser även följande felmeddelanden:
 
