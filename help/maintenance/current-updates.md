@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
 workflow-type: tm+mt
-source-wordcount: '12342'
+source-wordcount: '12397'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,18 @@ Följande underhållsuppdateringar gjordes 2022.
 -->
 
 Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
+
+## Uppdateringar i oktober 2022
+
++++**Underhållsuppdatering 3 oktober 2022**
+
+**Spara tidrapporten manuellt när tidigare jobbroller har ändrats**
+
+*Tidrapporter*
+
+Om en jobbroll som du loggade tid för har ändrats och [!UICONTROL Assign job roles to hour entries manually] inställningen har inaktiverats måste du spara dina tidsposter manuellt tills timmar inte längre är loggade för den ändrade jobbrollen.
+
++++
 
 ## Uppdateringar i september 2022
 
