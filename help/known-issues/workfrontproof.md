@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 
 | Problem | Senast ändrad |
 |---|---|
-| Ingen |  |
+| [Dokument: &quot;[!UICONTROL Failed to upload file]&quot;-fel](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 

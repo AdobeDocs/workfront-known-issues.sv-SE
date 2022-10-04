@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,7 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 
 | **Problem** | **Senast ändrad** |
 |---|---|
+| [Dokument: &quot;[!UICONTROL Failed to upload file]&quot;-fel](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
 | [Meddelanden: Användare som inte meddelas när de nämns eller ingår i en kommentar](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 september 2022 |
 | [Meddelanden: Fel vid åtkomst till e-postaviseringsinställningar](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 september 2022 |
 | [Uppgifter och problem: Oavsiktlig avslutning vid skapande av uppgifter eller problem](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 9 september 2022 |
