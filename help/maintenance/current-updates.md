@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
+source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
 workflow-type: tm+mt
-source-wordcount: '12397'
+source-wordcount: '12545'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,41 @@ Följande underhållsuppdateringar gjordes 2022.
 Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i oktober 2022
+
++++**(Planerat) Underhållsuppdatering 6 oktober 2022**
+
+**Element som överlappar på den vänstra panelen**
+
+*Egna formulär*
+
+När en användare arbetar i formulärbyggaren och formuläret har fler än 100 fält överlappar meddelandet som meddelar användaren om fältgränsen elementen i den vänstra panelen.
+
+**Datumväljaren öppnas automatiskt vid fokus**
+
+*Navigering*
+
+När du navigerar med tangentbordet öppnas nu inte längre datumväljare automatiskt och aktiveras när du får tangentbordsfokus.
+
+&quot;[!UICONTROL Your recent changes were not saved]&quot; fel vid autosparande av ändringar i en tidrapport
+
+*Tidrapporter*
+
+När en användare försöker redigera en tidrapport på ett sätt som skulle utlösa en autosparfunktion, sparas inte ändringarna och användaren ser följande meddelande:
+
+&quot;[!UICONTROL Your recent changes were not saved. Refresh the page to view.]&quot;
+
+Detta har rapporterats vid redigering av följande:
+
+* Timmar
+* Uppgifter
+
+E-postmeddelanden fördröjs
+
+*Workfront Proof*
+
+När en händelse inträffar i [!DNL Workfront Proof] som utlöser ett e-postmeddelande får användaren inte meddelandet omedelbart. Meddelandet kan fördröjas med flera timmar.
+
++++
 
 +++**Underhållsuppdatering 3 oktober 2022**
 
