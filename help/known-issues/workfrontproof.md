@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
+source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,22 +18,34 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 >
 >Mer information om serverns drifttid och avbrott finns i [status.adobe.com](https://status.adobe.com). Information om problem som nyligen har åtgärdats finns i [[!DNL Workfront] Underhållsuppdateringar](../maintenance/current-updates.md).
 
-## Ny eller under utredning
+## Nytt
 
-| Problem | Senast ändrad |
-|---|---|
+Dessa nyligen rapporterade problem granskas
+
+| **Problem** | **Senast ändrad** |
+| -----------------------------------------------------------------| ----------------- |
 | [Dokument: &quot;[!UICONTROL Failed to upload file]&quot;-fel](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
-## Aktuella problem
+## Pågår
+
+Korrigeringar av dessa problem pågår för närvarande eller planeras för den närmaste framtiden.
 
 | **Problem** | **Senast ändrad** |
-|-----------------------------------------------------------------------------------|-------------------|
+| -----------------------------------------------------------------| ----------------- |
 | [Korrektur: Kan inte jämföra korrektur automatiskt](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 oktober 2022 |
-| [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [[!DNL Workfront Proof]: Begärande och granskare räknas in i en organisations licensantal](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 12 augusti 2022 |
-| [Korrektur: Felaktig deadline för korrekturrundans visas i [!UICONTROL Home Work List]](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | 25 april 2022 |
+
+{style=&quot;table-layout:auto&quot;}
+
+## Ingen korrigering
+
+Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vissa fall åtgärdas dessa problem genom nya funktioner eller funktionsuppdateringar.
+
+| **Problem** | **Senast ändrad** |
+| -----------------------------------------------------------------| ----------------- |
+| [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [[!DNL Workfront Proof]: Det går inte att lägga till användare i korrektur genom att tagga användaren i en kommentar](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 mars 2022 |
 | [[!UICONTROL Home]: [!UICONTROL Reply in Proof] knappbeteendet är inkonsekvent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 juni 2021 |
 | [[!DNL Workfront Proof]: Automatisk åtkomst till korrektur fördröjs](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 14 juni 2021 |
@@ -42,3 +54,4 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 | [Dokument: Ikonen för korrekturarbetsflöde visas inte](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 mars 2021 |
 
 {style=&quot;table-layout:auto&quot;}
+

@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
+source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -18,37 +18,46 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 >
 >Mer information om serverns drifttid och avbrott finns i [status.adobe.com](https://status.adobe.com). Information om problem som nyligen har åtgärdats finns i [[!DNL Workfront] Underhållsuppdateringar](../maintenance/current-updates.md).
 
-## Ny eller under utredning
+## Nytt
+
+Dessa nyligen rapporterade problem granskas
 
 | **Problem** | **Senast ändrad** |
-|---|---|
+| -----------------------------------------------------------------| ----------------- |
 | [Dokument: &quot;[!UICONTROL Failed to upload file]&quot;-fel](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
 | [Meddelanden: Användare som inte meddelas när de nämns eller ingår i en kommentar](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 september 2022 |
 | [Meddelanden: Fel vid åtkomst till e-postaviseringsinställningar](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 september 2022 |
-| [Uppgifter och problem: Oavsiktlig avslutning vid skapande av uppgifter eller problem](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 9 september 2022 |
-| [Rapporter: Problem när du skapar och redigerar rapporter i [!UICONTROL Report builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 6 september 2022 |
 | [Kontrollpaneler: Det går inte att komma åt instrumentpanelen från vänster navigering i ett objekt](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md) | 24 augusti 2022 |
-| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
-| [Agile: Problem vid flyttning av kort på [!UICONTROL Agile] board](known-issues-workfront/wf-agile-issues-moving-cards.md) | 27 april 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
-## Aktuella problem
+
+## Pågår
+
+Korrigeringar av dessa problem pågår för närvarande eller planeras för den närmaste framtiden.
 
 | **Problem** | **Senast ändrad** |
-| -------------------------------------------------------------------------------------------------- | ----------------- |
+| -----------------------------------------------------------------| ----------------- |
 | [Korrektur: Kan inte jämföra korrektur automatiskt](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 oktober 2022 |
 | [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 september 2022 |
-| [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [Integrationer: Fel när begäran skickades från [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augusti 2022 |
-| [[!DNL Workfront Proof]: Dagliga e-postmeddelanden med sammanfattning innehåller inte en[!UICONTROL View Details]&quot;-knapp](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 5 augusti 2022 |
+| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
+
+{style=&quot;table-layout:auto&quot;}
+
+## Ingen korrigering
+
+Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vissa fall åtgärdas dessa problem genom nya funktioner eller funktionsuppdateringar.
+
+| **Problem** | **Senast ändrad** |
+| -----------------------------------------------------------------| ----------------- |
+| [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [Kontrollpaneler: Rapportdiagram som visas på en kontrollpanel har andra färger än de som visas i rapporten](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 augusti 2022 |
 | [[!UICONTROL Home]: Anpassad terminologi används inte i hemområdet](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3 juni 2022 |
 | [Agile: Kan inte redigera fält från anpassade formulär på kort](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 11 maj 2022 |
 | [Layoutmallar: Det går inte att markera grupp när en layoutmall skapas](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 4 maj 2022 |
-| [Korrektur: Felaktig deadline för korrekturgodkännande visas i hemarbetslista](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | 25 april 2022 |
+| [Agile: Problem vid flyttning av kort på [!UICONTROL Agile] board](known-issues-workfront/wf-agile-issues-moving-cards.md) | 27 april 2022 |
 | [Godkännanden: Delegering av godkännande har angetts för felaktigt antal dagar](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 20 april 2022 |
-| [[!UICONTROL Home]: [!UICONTROL Home] sammanfattande problem vid användning av andra webbläsare än [!DNL Chrome]](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md) | 24 februari 2022 |
 | [[!UICONTROL Home]: Alternativet Ny aktivitet visar inaktiverade användare i [!UICONTROL Assign To] fält](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 1 oktober 2021 |
 | [Uppdateringar: Teamnamnet visas inte i @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 1 oktober 2021 |
 | [Kalendrar: Problem med [!UICONTROL Time Off] kalender](known-issues-workfront/wf-calendars-issue-time-off.md) | 25 juni 2021 |
@@ -71,8 +80,3 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 
 {style=&quot;table-layout:auto&quot;}
 
-
-<!--
-
-
--->

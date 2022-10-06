@@ -3,14 +3,18 @@ title: '"Korrektur: Felaktig deadline för godkännande av korrektur visas i hem
 description: När en användare tilldelas ett korrekturgodkännande visas detta godkännande i användarens hemarbetslista med den tidsgräns för scenen som är längst i framtiden, oavsett vilken fas användaren är tilldelad.
 exl-id: 60dcc9c3-6c60-488e-921d-453d4b011f1b
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
+source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 # Korrektur: Felaktig deadline för korrekturrundans visas i [!UICONTROL Home Work List]
+
+>[!NOTE]
+>
+>Problemet löstes den 1 september 2022.
 
 När en användare tilldelas ett korrekturgodkännande visas det korrekturgodkännandet i användarens [!UICONTROL Home Work List] med deadline för den fas som är längst i framtiden, oavsett vilken fas användaren är tilldelad till.
 
