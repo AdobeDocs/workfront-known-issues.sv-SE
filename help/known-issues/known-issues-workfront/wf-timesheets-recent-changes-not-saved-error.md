@@ -3,14 +3,18 @@ title: '''Tidrapporter: Dina senaste ändringar sparades inte vid autosparande �
 description: När en användare försöker redigera en tidrapport på ett sätt som skulle utlösa ett automatiskt sparande sparas inte ändringarna och användaren ser meddelandet Dina senaste ändringar sparades inte. Uppdatera sidan för att visa den.
 hidefromtoc: true
 exl-id: b2eef921-84f0-4c58-890a-c27b6ecd3686
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 # Tidrapporter: &quot;[!UICONTROL Your recent changes were not saved]&quot; fel vid autosparande av ändringar i en tidrapport
+
+>[!NOTE]
+>
+>Problemet löstes 6 oktober 2022.
 
 När en användare försöker redigera en tidrapport på ett sätt som skulle utlösa en autosparfunktion, sparas inte ändringarna och användaren ser följande meddelande:
 

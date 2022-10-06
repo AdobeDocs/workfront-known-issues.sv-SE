@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '1141'
+source-wordcount: '1148'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Korrektur: Kan inte jämföra korrektur automatiskt](known-issues-workfront/wf-proofs-cannot-auto-compare.md)
       + [Dokument: &quot;[!UICONTROL Failed to upload file]&quot;-fel](known-issues-workfront/wf-documents-failed-to-upload-file.md)
       + [Team: Om du tilldelar flera team blir det bara ett team tilldelat](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [Meddelanden: Användare som inte meddelas när de nämns eller ingår i en kommentar](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
@@ -149,6 +150,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Kända fel i Workfront Fusion](workfrontfusion.md)
    + Aktuella problem i [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: 409-fel i [!DNL Fusion] scenario](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: &quot;[!UICONTROL Failed to load data]&quot;-fel](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
       + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] modul som returnerar 404- eller 422-fel](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extract Text] modul som inte skapar text](known-issues-workfront-fusion/fusion-pdf-extract-text.md)

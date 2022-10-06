@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '12545'
+source-wordcount: '12604'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i oktober 2022
 
-+++**(Planerat) Underhållsuppdatering 6 oktober 2022**
++++**Underhållsuppdatering 6 oktober 2022**
 
 **Element som överlappar på den vänstra panelen**
 
@@ -45,7 +45,17 @@ När en användare arbetar i formulärbyggaren och formuläret har fler än 100 
 
 När du navigerar med tangentbordet öppnas nu inte längre datumväljare automatiskt och aktiveras när du får tangentbordsfokus.
 
-&quot;[!UICONTROL Your recent changes were not saved]&quot; fel vid autosparande av ändringar i en tidrapport
+**Om du tilldelar flera team blir det bara ett team tilldelat**
+
+*Team*
+
+>[!NOTE]
+>
+>Problemet finns bara i förhandsvisningsmiljön.
+
+När en användare tilldelar flera team till en uppgift eller ett problem visas bara ett team i uppdragslistan. Detta påverkar även rapporteringen. Rapporter som visar grupptilldelningar är felaktiga eftersom bara ett team visas som tilldelat uppgiften eller utgåvan.
+
+**&quot;[!UICONTROL Your recent changes were not saved]&quot; fel vid autosparande av ändringar i en tidrapport**
 
 *Tidrapporter*
 
@@ -58,7 +68,7 @@ Detta har rapporterats vid redigering av följande:
 * Timmar
 * Uppgifter
 
-E-postmeddelanden fördröjs
+**E-postmeddelanden fördröjs**
 
 *Workfront Proof*
 

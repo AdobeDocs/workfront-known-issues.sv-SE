@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Fusion]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 75defe0270b4c2d0dab3e18886b7f8276030ca71
+source-git-commit: e6b43b56b1cff5cf56ebb2ccc1dabf8e3aa21459
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,8 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 
 | **Problem** | **Senast ändrad** |
 |-----------------------------------------------------------------------------------|-------------------|
-* | [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] modul som returnerar 404- eller 422-fel](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md) | 3 oktober 2022 |
+| [[!DNL Workfront Fusion]: 409 error in [!DNL Fusion] scenario](known-issues-workfront-fusion/fusion-409-error.md) | 6 oktober 2022 |
+| [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] modul som returnerar 404- eller 422-fel](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md) | 3 oktober 2022 |
 
 ## Aktuella problem
 

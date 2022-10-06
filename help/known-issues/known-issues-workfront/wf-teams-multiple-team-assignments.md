@@ -2,15 +2,19 @@
 title: "Team: Om du tilldelar flera team blir det bara ett team tilldelat"
 description: "När en användare tilldelar flera team till en uppgift eller ett problem visas bara ett team i uppdragslistan. Detta påverkar även rapporteringen. Rapporter som visar grupptilldelningar är felaktiga eftersom bara ett team visas som tilldelat uppgiften eller utgåvan."
 hidefromtoc: true
-source-git-commit: ed675a0d4f5dfd0f66b6756df3cae0935f33a286
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 
 # Team: Om du tilldelar flera team blir det bara ett team tilldelat
+
+>[!NOTE]
+>
+>Problemet löstes 6 oktober 2022.
 
 >[!NOTE]
 >

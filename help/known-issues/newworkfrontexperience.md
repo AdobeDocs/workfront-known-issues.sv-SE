@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -37,14 +37,12 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 
 | **Problem** | **Senast ändrad** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [Team: Om du tilldelar flera team blir det bara ett team tilldelat](known-issues-workfront/wf-teams-multiple-team-assignments.md) | 4 oktober 2022 |
+| [Korrektur: Kan inte jämföra korrektur automatiskt](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 oktober 2022 |
 | [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 september 2022 |
-| [Anpassade formulär: Element som överlappar på den vänstra panelen](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 september 2022 |
 | [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [Integrationer: Fel när begäran skickades från [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augusti 2022 |
 | [[!DNL Workfront Proof]: Dagliga e-postmeddelanden med sammanfattning innehåller inte en[!UICONTROL View Details]&quot;-knapp](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 5 augusti 2022 |
 | [Kontrollpaneler: Rapportdiagram som visas på en kontrollpanel har andra färger än de som visas i rapporten](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 augusti 2022 |
-| [Tidrapporter: &quot;[!UICONTROL Your recent changes were not saved]&quot; fel vid autosparande av ändringar i en tidrapport](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | 28 juli 2022 |
 | [[!UICONTROL Home]: Anpassad terminologi används inte i hemområdet](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3 juni 2022 |
 | [Agile: Kan inte redigera fält från anpassade formulär på kort](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 11 maj 2022 |
 | [Layoutmallar: Det går inte att markera grupp när en layoutmall skapas](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 4 maj 2022 |

@@ -3,7 +3,7 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 
 | **Problem** | **Senast ändrad** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [[!DNL Workfront Proof]: E-postmeddelanden fördröjs](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 15 september 2022 |
+| [Korrektur: Kan inte jämföra korrektur automatiskt](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 oktober 2022 |
 | [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [[!DNL Workfront Proof]: Begärande och granskare räknas in i en organisations licensantal](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 12 augusti 2022 |
 | [Korrektur: Felaktig deadline för korrekturrundans visas i [!UICONTROL Home Work List]](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | 25 april 2022 |
