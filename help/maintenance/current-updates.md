@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
+source-git-commit: 38e86575a1c495bc2340899562d68e59cbce7b06
 workflow-type: tm+mt
-source-wordcount: '12604'
+source-wordcount: '12630'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,12 @@ Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar
 ## Uppdateringar i oktober 2022
 
 +++**Underhållsuppdatering 6 oktober 2022**
+
+**Ny ritningstyp**
+
+*Blueprints*
+
+Ritningstypen Dashboard har lagts till i katalogen med ritningar. Tidigare var endast projektmallar och organisationsstrukturplaner tillgängliga.
 
 **Element som överlappar på den vänstra panelen**
 
