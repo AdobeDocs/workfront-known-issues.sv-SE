@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 25a0276d250c74496f91c912a7e59b33283973c1
+source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | [Dokument: &quot;[!UICONTROL Failed to upload file]&quot;-fel](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
 | [Meddelanden: Användare som inte meddelas när de nämns eller ingår i en kommentar](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 september 2022 |
 | [Meddelanden: Fel vid åtkomst till e-postaviseringsinställningar](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 september 2022 |
-| [Kontrollpaneler: Det går inte att komma åt instrumentpanelen från vänster navigering i ett objekt](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md) | 24 augusti 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
