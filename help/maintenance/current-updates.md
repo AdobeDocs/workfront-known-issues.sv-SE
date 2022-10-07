@@ -2,7 +2,7 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fae6d2991f44c333f9db1bd4c437ae3567387a86
+source-git-commit: 6ce6194f9f911b02457240645ce6407ec3eb7e26
 workflow-type: tm+mt
 source-wordcount: '12714'
 ht-degree: 0%
@@ -49,7 +49,7 @@ När en användare arbetar i formulärbyggaren och formuläret har fler än 100 
 
 *Navigering*
 
-När en användare navigerar med tangentbordet öppnas datumväljare inte längre automatiskt vid det datum som tangentbordsfokus skickas till. Tangentbordsanvändare ska i stället gå till datumväljarikonen med tabbtangenten och trycka på Retur för att öppna datumväljaren. När en användare navigerar med musen öppnas datumväljarna inte längre automatiskt vid det datum användaren klickade på. Istället ska tangentbordsanvändare klicka på datumväljarikonen för att öppna datumväljaren.
+När en användare navigerar med tangentbordet öppnas datumväljare inte längre automatiskt vid det datum som tangentbordsfokus skickas till. Tangentbordsanvändare ska i stället gå till datumväljarikonen med tabbtangenten och trycka på Retur för att öppna datumväljaren. När en användare navigerar med musen öppnas datumväljarna inte längre automatiskt vid det datum användaren klickade på. I stället ska musanvändarna klicka på datumväljarikonen för att öppna datumväljaren.
 
 Den här ändringen gjordes för att bättre överensstämma med gränssnittsmönster för datumväljare och för att skapa en mer tillgänglig upplevelse för användare som använder tangentbord och skärmläsare.
 
