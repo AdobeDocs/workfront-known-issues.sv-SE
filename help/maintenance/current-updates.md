@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 38e86575a1c495bc2340899562d68e59cbce7b06
+source-git-commit: fae6d2991f44c333f9db1bd4c437ae3567387a86
 workflow-type: tm+mt
-source-wordcount: '12630'
+source-wordcount: '12714'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,13 @@ Ritningstypen Dashboard har lagts till i katalogen med ritningar. Tidigare var e
 
 När en användare arbetar i formulärbyggaren och formuläret har fler än 100 fält överlappar meddelandet som meddelar användaren om fältgränsen elementen i den vänstra panelen.
 
-**Datumväljaren öppnas automatiskt vid fokus**
+**Datumväljaren öppnas inte längre automatiskt vid indatafokus eller klickar**
 
 *Navigering*
 
-När du navigerar med tangentbordet öppnas nu inte längre datumväljare automatiskt och aktiveras när du får tangentbordsfokus.
+När en användare navigerar med tangentbordet öppnas datumväljare inte längre automatiskt vid det datum som tangentbordsfokus skickas till. Tangentbordsanvändare ska i stället gå till datumväljarikonen med tabbtangenten och trycka på Retur för att öppna datumväljaren. När en användare navigerar med musen öppnas datumväljarna inte längre automatiskt vid det datum användaren klickade på. Istället ska tangentbordsanvändare klicka på datumväljarikonen för att öppna datumväljaren.
+
+Den här ändringen gjordes för att bättre överensstämma med gränssnittsmönster för datumväljare och för att skapa en mer tillgänglig upplevelse för användare som använder tangentbord och skärmläsare.
 
 **Om du tilldelar flera team blir det bara ett team tilldelat**
 
