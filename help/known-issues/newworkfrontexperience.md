@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
+source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tidrapporter: Kan inte ange timmar i [!UICONTROL General Time]](known-issues-workfront/wf-timesheets-general-time-disabled.md) | 12 oktober 2022 |
 | [Uppdrag: Fel vid grupptilldelning av ett team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 11 oktober 2022 |
 | [Korrektur: När du lägger till en grupp i ett korrektur läggs inte alla medlemmar i gruppen till](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10 oktober 2022 |
 | [Layoutmallar: Fel vid anpassning av listor i en layoutmall](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6 oktober 2022 |
