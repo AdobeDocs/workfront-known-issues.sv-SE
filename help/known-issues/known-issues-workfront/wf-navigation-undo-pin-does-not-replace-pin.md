@@ -4,7 +4,7 @@ description: "När en användare väljer alternativet Ta bort häftstift på ett
 hidefromtoc: true
 source-git-commit: 166754914f4d532ffdb63555270548a676cf63d0
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
