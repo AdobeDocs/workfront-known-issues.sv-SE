@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
+source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
 workflow-type: tm+mt
-source-wordcount: '1219'
+source-wordcount: '1227'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Listor: [!UICONTROL Quick filter] returnerar inga resultat vid sökning efter team](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
       + [Navigering: Det går inte att fästa om en sida efter att nålen tagits bort](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
       + [Uppdrag: Fel vid grupptilldelning av ett team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
       + [Uppgifter: [!UICONTROL Predecessor] ikon saknas i uppgiftshuvud](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)

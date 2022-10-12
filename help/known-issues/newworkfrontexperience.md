@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
+source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Listor: [!UICONTROL Quick filter] returnerar inga resultat vid sökning efter team](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 12 oktober 2022 |
 | [Navigering: Det går inte att fästa om en sida efter att nålen tagits bort](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 oktober 2022 |
 | [Uppgifter: [!UICONTROL Predecessor] ikon saknas i uppgiftshuvud](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10 oktober 2022 |
 | [Uppgifter och problem: Det går inte att redigera namn eller procent färdigt för en aktivitet eller ett problem](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 10 oktober 2022 |
