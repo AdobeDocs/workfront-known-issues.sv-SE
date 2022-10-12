@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6ce6194f9f911b02457240645ce6407ec3eb7e26
+source-git-commit: 166754914f4d532ffdb63555270548a676cf63d0
 workflow-type: tm+mt
-source-wordcount: '12714'
+source-wordcount: '13070'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,56 @@ Följande underhållsuppdateringar gjordes 2022.
 Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i oktober 2022
+
++++**(Planerat) Underhållsuppdatering 13 oktober 2022**
+
+**Det går inte att fästa om en sida efter att nålen tagits bort**
+
+*Navigering*
+
+>[!NOTE]
+>
+>Problemet kommer att åtgärdas i förhandsversionen den 13 oktober 2022. Den kommer att fastställas i produktion den 27 oktober 2022.
+
+När en användare väljer[!UICONTROL Remove pin]&quot; på ett stift, får ett meddelande om borttagningen och försöker ersätta stiftet genom att klicka på &quot;[!UICONTROL Undo]&quot; i meddelandet ersätts inte stiftet i den övre navigeringen och inte heller läggs det till i listan över punkter under [!UICONTROL More pins] list (the three-dot menu in the [!UICONTROL Pins] område).
+
+Om en användare försöker fästa sidan igen genom att gå till sidan och fästa den, skapas inte stiftet och användaren kan inte fästa sidan.
+
+**Kan inte namnge eller spara nyskapade filter**
+
+*[!UICONTROL Resource Planner]*
+
+När en användare försöker namnge ett nytt filter i [!UICONTROL Resource Planner]är namnrutan tom. Om användaren har tryckt ned blankstegstangenten visas dessutom [!UICONTROL Save] knappen inaktiveras.
+
+**Det går inte att redigera namn eller procent färdigt för en aktivitet eller ett problem**
+
+*Uppgifter och problem*
+
+Användare med [!UICONTROL Contribute] åtkomst till en aktivitet eller ett problem kan inte redigera namnet på aktiviteten eller problemet i huvudet. Dessutom har användare med [!UICONTROL Contribute] åtkomsten kan inte redigera procentandelen färdigt för en aktivitet eller ett problem.
+
+**Begärande och granskare räknas in i en organisations licensantal**
+
+*[!DNL Workfront Proof]*
+
+När en användare läggs till i ett korrektur som en granskare eller en begärande får han eller hon ett &quot;[!UICONTROL Visitor]&quot; permissions profile, which should not use a [!DNL Workfront Proof] licens. När användaren läggs till används dock antalet [!DNL Workfront Proof] antalet licenser ökar.
+
++++
+
+++**Underhållsuppdatering 11 oktober 2022
+
+**Det går inte att fästa om en sida efter att nålen tagits bort**
+
+*Navigering*
+
+>[!NOTE]
+>
+>Problemet löstes i Preview den 13 oktober 2022. Den kommer att fastställas i produktion den 27 oktober 2022.
+
+När en användare väljer[!UICONTROL Remove pin]&quot; på ett stift, får ett meddelande om borttagningen och försöker ersätta stiftet genom att klicka på &quot;[!UICONTROL Undo]&quot; i meddelandet ersätts inte stiftet i den övre navigeringen och inte heller läggs det till i listan över punkter under [!UICONTROL More pins] list (the three-dot menu in the [!UICONTROL Pins] område).
+
+Om en användare försöker fästa sidan igen genom att gå till sidan och fästa den, skapas inte stiftet och användaren kan inte fästa sidan.
+
++++
 
 +++**Underhållsuppdatering 6 oktober 2022**
 
