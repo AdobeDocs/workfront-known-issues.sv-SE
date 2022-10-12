@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Uppdrag: Fel vid grupptilldelning av ett team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 11 oktober 2022 |
 | [Korrektur: När du lägger till en grupp i ett korrektur läggs inte alla medlemmar i gruppen till](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10 oktober 2022 |
 | [Layoutmallar: Fel vid anpassning av listor i en layoutmall](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6 oktober 2022 |
 | [Korrektur: Textrutan&quot;Nya korrekturmottagare&quot; är för liten](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 oktober 2022 |
@@ -40,6 +41,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Navigering: Det går inte att fästa om en sida efter att nålen tagits bort](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 oktober 2022 |
 | [Uppgifter: [!UICONTROL Predecessor] ikon saknas i uppgiftshuvud](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10 oktober 2022 |
 | [Uppgifter och problem: Det går inte att redigera namn eller procent färdigt för en aktivitet eller ett problem](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 10 oktober 2022 |
 | [Korrektur: Kan inte jämföra korrektur automatiskt](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 oktober 2022 |

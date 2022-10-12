@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '1202'
+source-wordcount: '1219'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Navigering: Det går inte att fästa om en sida efter att nålen tagits bort](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
+      + [Uppdrag: Fel vid grupptilldelning av ett team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
       + [Uppgifter: [!UICONTROL Predecessor] ikon saknas i uppgiftshuvud](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
       + [Korrektur: När du lägger till en grupp i ett korrektur läggs inte alla medlemmar i gruppen till](known-issues-workfront/wf-proofs-group-members-not-added.md)
       + [Uppgifter och problem: Det går inte att redigera namn eller procent färdigt för en aktivitet eller ett problem](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
