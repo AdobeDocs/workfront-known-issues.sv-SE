@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '444'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Tidrapporter: Kan inte ange timmar i [!UICONTROL General Time]](known-issues-workfront/wf-timesheets-general-time-disabled.md) | 12 oktober 2022 |
-| [Uppdrag: Fel vid grupptilldelning av ett team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 11 oktober 2022 |
-| [Korrektur: När du lägger till en grupp i ett korrektur läggs inte alla medlemmar i gruppen till](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10 oktober 2022 |
-| [Layoutmallar: Fel vid anpassning av listor i en layoutmall](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6 oktober 2022 |
 | [Korrektur: Textrutan&quot;Nya korrekturmottagare&quot; är för liten](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 oktober 2022 |
 | [Dokument: &quot;[!UICONTROL Failed to upload file]&quot;-fel](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
 | [Meddelanden: Användare som inte meddelas när de nämns eller ingår i en kommentar](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 september 2022 |
@@ -42,11 +38,11 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Uppdrag: Fel vid grupptilldelning av ett team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 13 oktober 2022 |
+| [Layoutmallar: Fel vid anpassning av listor i en layoutmall](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 13 oktober 2022 |
 | [Listor: [!UICONTROL Quick filter] returnerar inga resultat vid sökning efter team](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 12 oktober 2022 |
 | [Navigering: Det går inte att fästa om en sida efter att nålen tagits bort](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 oktober 2022 |
 | [Uppgifter: [!UICONTROL Predecessor] ikon saknas i uppgiftshuvud](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10 oktober 2022 |
-| [Uppgifter och problem: Det går inte att redigera namn eller procent färdigt för en aktivitet eller ett problem](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 10 oktober 2022 |
-| [Korrektur: Kan inte jämföra korrektur automatiskt](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 oktober 2022 |
 | [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 september 2022 |
 | [Integrationer: Fel när begäran skickades från [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augusti 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |

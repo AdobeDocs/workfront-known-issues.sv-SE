@@ -2,15 +2,19 @@
 title: "[!DNL Workfront Fusion]: Det gick inte att läsa in data"
 description: "Workfront Fusion-anslutningar till ett Workfront-konto kan misslyckas med autentiseringen, vilket orsakar följande fel i scenarierna: Det gick inte att läsa in data! Begäran misslyckades på grund av fel i en tidigare begäran."
 hidefromtoc: true
-source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 
 # [!DNL Workfront Fusion]: &quot;[!UICONTROL Failed to load data]&quot;-fel
+
+>[!NOTE]
+>
+>Problemet korrigerades den 7 oktober 2022.
 
 [!DNL Workfront Fusion] anslutningar till [!DNL Workfront] Kontot kan misslyckas med autentiseringen, vilket orsakar följande fel:
 

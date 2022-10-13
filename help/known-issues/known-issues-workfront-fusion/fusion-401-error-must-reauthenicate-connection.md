@@ -2,9 +2,9 @@
 title: "[!DNL Workfront Fusion]: Det gick inte att verifiera anslutningsfelet"
 description: "Workfront Fusion-anslutningar till ett Workfront-konto kan misslyckas med autentiseringen, vilket orsakar följande fel i scenarierna: Det gick inte att verifiera anslutningen."
 hidefromtoc: true
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Scenariot kan inte köras förrän anslutningen har återställts.
 
 **Tillfällig lösning**
 
-Återauktorisering av anslutningen kan tillfälligt lösa problemet.
+Skapa en ny anslutning och ersätt de aktuella anslutningarna i dina Workfront-moduler med den nya anslutningen.
 
 _Först rapporterad den 8 september 2022._
 
