@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
+source-git-commit: f7685aec7811e8741440479d083ef13922b73327
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Program: Problem vid tilldelning av en [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17 oktober 2022 |
 | [Rapporter: Alternativet &quot;Flytta till&quot; är inte tillgängligt i problemrapporter](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 oktober 2022 |
 | [Agile: Problem med uppgifter som lagts till i en iteration](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 oktober 2022 |
 | [Anpassade formulär: &quot;Hoppfel&quot; vid inställning av ett beräkningsfält](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 oktober 2022 |

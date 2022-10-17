@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
+source-git-commit: f7685aec7811e8741440479d083ef13922b73327
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1274'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Program: Problem vid tilldelning av en [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [Rapporter: Alternativet &quot;Flytta till&quot; är inte tillgängligt i problemrapporter](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [Problem: Antalet fel i den vänstra navigeringen av aktiviteten är felaktigt](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
       + [Agile: Problem med uppgifter som lagts till i en iteration](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
