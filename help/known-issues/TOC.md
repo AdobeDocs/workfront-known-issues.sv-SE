@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '1274'
+source-wordcount: '1298'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Boards]: [!UICONTROL Boards] sidan läses inte in](known-issues-workfront/wf-boards-boards-do-not-load.md)
+      + [Dokument: Länken för extern dokumentbegäran leder till inloggningssidan](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [Program: Problem vid tilldelning av en [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [Rapporter: Alternativet &quot;Flytta till&quot; är inte tillgängligt i problemrapporter](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [Problem: Antalet fel i den vänstra navigeringen av aktiviteten är felaktigt](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
@@ -131,6 +133,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Kända fel i [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuella problem i [!DNL Workfront Proof] {#proof-current}
+      + [Korrektur: Korredet delas inte med användare i korrekturarbetsflödet](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: Tomma sidor vid visning av ett korrektur med flera sidor](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Korrektur: Fel när korrektur lades till [!DNL Workfront] från [!DNL Workfront] Korrektur](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Fel vid överföring av en fil till en kommentar](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)

@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Boards]: [!UICONTROL Boards] sidan läses inte in](known-issues-workfront/wf-boards-boards-do-not-load.md) | 18 oktober 2022 |
+| [Dokument: Länken för extern dokumentbegäran leder till inloggningssidan](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 oktober 2022 |
 | [Problem: Antalet fel i den vänstra navigeringen av aktiviteten är felaktigt](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12 oktober 2022 |
 | [Korrektur: Textrutan&quot;Nya korrekturmottagare&quot; är för liten](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 oktober 2022 |
 | [Dokument: &quot;[!UICONTROL Failed to upload file]&quot;-fel](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
@@ -59,6 +61,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Korredet delas inte med användare i korrekturarbetsflödet](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 september 2022 |
 | [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [Kontrollpaneler: Rapportdiagram som visas på en kontrollpanel har andra färger än de som visas i rapporten](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 augusti 2022 |
 | [[!UICONTROL Home]: Anpassad terminologi används inte i hemområdet](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3 juni 2022 |
