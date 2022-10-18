@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
+source-git-commit: ed7f0376de050a220e907bb793c4911f88390a80
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [Dokument: Länken för extern dokumentbegäran leder till inloggningssidan](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 oktober 2022 |
-| [Korrektur: Textrutan&quot;Nya korrekturmottagare&quot; är för liten](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 oktober 2022 |
 | [Dokument: &quot;[!UICONTROL Failed to upload file]&quot;-fel](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -36,7 +35,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| Ingen |  |
+| [Korrektur: Textrutan&quot;Nya korrekturmottagare&quot; är för liten](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 

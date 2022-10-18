@@ -3,7 +3,7 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
+source-git-commit: ed7f0376de050a220e907bb793c4911f88390a80
 workflow-type: tm+mt
 source-wordcount: '507'
 ht-degree: 0%
@@ -27,7 +27,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | [[!UICONTROL Boards]: [!UICONTROL Boards] sidan läses inte in](known-issues-workfront/wf-boards-boards-do-not-load.md) | 18 oktober 2022 |
 | [Dokument: Länken för extern dokumentbegäran leder till inloggningssidan](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 oktober 2022 |
 | [Problem: Antalet fel i den vänstra navigeringen av aktiviteten är felaktigt](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12 oktober 2022 |
-| [Korrektur: Textrutan&quot;Nya korrekturmottagare&quot; är för liten](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 oktober 2022 |
 | [Dokument: &quot;[!UICONTROL Failed to upload file]&quot;-fel](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
 | [Meddelanden: Användare som inte meddelas när de nämns eller ingår i en kommentar](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 september 2022 |
 | [Meddelanden: Fel vid åtkomst till e-postaviseringsinställningar](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 september 2022 |
@@ -41,6 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Textrutan&quot;Nya korrekturmottagare&quot; är för liten](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 oktober 2022 |
 | [Program: Problem vid tilldelning av en [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17 oktober 2022 |
 | [Rapporter: Alternativet &quot;Flytta till&quot; är inte tillgängligt i problemrapporter](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 oktober 2022 |
 | [Agile: Problem med uppgifter som lagts till i en iteration](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 oktober 2022 |
