@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
+source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
 workflow-type: tm+mt
-source-wordcount: '13069'
+source-wordcount: '13205'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,39 @@ Följande underhållsuppdateringar gjordes 2022.
 Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i oktober 2022
+
++++**Underhållsuppdatering 20 oktober 2022**
+
+**Fel vid grupptilldelning av ett team**
+
+*Uppdrag*
+
+När en användare gör en gruppredigering av uppgifter eller problem och tilldelar ett team efter att ha tilldelat en individ, sparas inte uppdragen och användaren ser följande fel:
+
+&quot;[!UICONTROL Let's try that again - The following error occurred: teamAssignments must be either a list of objects or a list of IDs]&quot;
+
+**[!UICONTROL Failed to upload file]&quot;-fel**
+
+*Dokument*
+
+När en användare försöker överföra en fil till [!UICONTROL Documents] -området, filen överförs inte och användaren ser felet &quot;[!UICONTROL Failed to upload file].&quot;
+
+Detta har rapporterats vid försök att överföra MP4-filer.
+
+**Antalet fel i den vänstra navigeringen av aktiviteten är felaktigt**
+
+*Problem*
+
+När en användare visar en uppgift visas numret på [!UICONTROL Issues] -avsnittet i den vänstra navigeringen representerar inte det faktiska antalet problem som är kopplade till uppgiften.
+
+
+**[!UICONTROL Predecessor]ikon saknas i uppgiftshuvud**
+
+*Uppgifter*
+
+När en användare visar en uppgift saknas ikonen för föregående aktivitet i sidhuvudet.
+
++++
 
 +++**Underhållsuppdatering 13 oktober 2022**
 
