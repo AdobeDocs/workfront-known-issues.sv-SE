@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '1329'
+source-wordcount: '1341'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Agile: Uppgifter som tilldelats via gruppredigering visas inte i teamets eftersläpning](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [Rapporter: Rapportanvändningsinformationen uppdateras inte](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [Navigering: Kan inte fästa objekt](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL Boards]: [!UICONTROL Boards] sidan läses inte in](known-issues-workfront/wf-boards-boards-do-not-load.md)

@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 51b03717b9db0e9247954ce72a58c25764766a18
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile: Uppgifter som tilldelats via gruppredigering visas inte i teamets eftersläpning](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 20 oktober 2022 |
 | [Korrektur: Utskriftssammanfattningen visar inte alla sidor med korrektur](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
-| [[!UICONTROL Boards]: [!UICONTROL Boards] sidan läses inte in](known-issues-workfront/wf-boards-boards-do-not-load.md) | 18 oktober 2022 |
-| [Dokument: Länken för extern dokumentbegäran leder till inloggningssidan](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 oktober 2022 |
-| [Problem: Antalet fel i den vänstra navigeringen av aktiviteten är felaktigt](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12 oktober 2022 |
-| [Dokument: &quot;[!UICONTROL Failed to upload file]&quot;-fel](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 oktober 2022 |
 | [Meddelanden: Användare som inte meddelas när de nämns eller ingår i en kommentar](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 september 2022 |
 | [Meddelanden: Fel vid åtkomst till e-postaviseringsinställningar](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15 september 2022 |
 
@@ -41,6 +38,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokument: Länken för extern dokumentbegäran leder till inloggningssidan](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 oktober 2022 |
+| [[!UICONTROL Boards]: [!UICONTROL Boards] sidan läses inte in](known-issues-workfront/wf-boards-boards-do-not-load.md) | 20 oktober 2022 |
 | [Rapporter: Rapportanvändningsinformationen uppdateras inte](known-issues-workfront/wf-reports-usage-not-updating.md) | 19 oktober 2022 |
 | [Navigering: Kan inte fästa objekt](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19 oktober 2022 |
 | [Korrektur: Textrutan&quot;Nya korrekturmottagare&quot; är för liten](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 oktober 2022 |
@@ -48,10 +47,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Rapporter: Alternativet &quot;Flytta till&quot; är inte tillgängligt i problemrapporter](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 oktober 2022 |
 | [Agile: Problem med uppgifter som lagts till i en iteration](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 oktober 2022 |
 | [Anpassade formulär: &quot;Hoppfel&quot; vid inställning av ett beräkningsfält](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 oktober 2022 |
-| [Uppdrag: Fel vid grupptilldelning av ett team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 13 oktober 2022 |
 | [Listor: [!UICONTROL Quick filter] returnerar inga resultat vid sökning efter team](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 12 oktober 2022 |
 | [Navigering: Det går inte att fästa om en sida efter att nålen tagits bort](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 oktober 2022 |
-| [Uppgifter: [!UICONTROL Predecessor] ikon saknas i uppgiftshuvud](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10 oktober 2022 |
 | [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 september 2022 |
 | [Integrationer: Fel när begäran skickades från [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augusti 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
