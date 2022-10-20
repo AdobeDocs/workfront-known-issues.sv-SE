@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
 workflow-type: tm+mt
-source-wordcount: '1341'
+source-wordcount: '1328'
 ht-degree: 0%
 
 ---
@@ -165,7 +165,6 @@ ht-degree: 0%
    + Lösta problem i [!DNL Workfront] Korrektur {#proof-resolved}
       + [[!DNL Workfront Proof]: Områden i [!DNL Workfront Proof] uppdateras inte när ett korrektur skapas, flyttas eller arkiveras](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [Korrektur: Korrektur visas som[!UICONTROL Generating proof]&quot; för mycket tid](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
-      + [Användaren kan inte flytta sig till en annan fas i ett korrektur](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
@@ -183,7 +182,6 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion]: 502-fel när scenariot innehåller en modul som kontrollerar korrekturbeslut i Workfront](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [[!DNL Workfront Fusion] hjälplänkar i appen leder inte till specifika hjälpsidor](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + Lösta problem i [!DNL Workfront Fusion] {#fusion-resolved}
-      + [401-fel på [!DNL Workfront] moduler](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
       + [Data från anpassade formulär är inte tillgängliga i [!DNL Workfront Fusion] [!DNL Workfront] moduler](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
