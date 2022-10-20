@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Fusion]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: 323f4e42b6b0093858542ada3812f9a630bd3a5f
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Fel vid visning av ett fel i en scenariokörningshistorik](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 19 oktober 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] hjälplänkar i appen leder inte till specifika hjälpsidor](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2 augusti 2022 |
 
 {style=&quot;table-layout:auto&quot;}
