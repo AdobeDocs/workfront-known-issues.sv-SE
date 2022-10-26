@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: b2994f5f4dfd018d18d3a7f45dae01bb8e9023f6
+source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
 workflow-type: tm+mt
-source-wordcount: '1340'
+source-wordcount: '1344'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Boards]: [!UICONTROL Intake] kolumnsökning är ineffektiv](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL Setup]: Listor läses in långsamt in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Anpassade formulär: [!UICONTROL HOUR] funktionen i beräkningsfält använder UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
       + [Agile: Uppgifter som tilldelats via gruppredigering visas inte i teamets eftersläpning](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)

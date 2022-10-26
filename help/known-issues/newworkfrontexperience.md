@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b2994f5f4dfd018d18d3a7f45dae01bb8e9023f6
+source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '534'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Boards]: [!UICONTROL Intake] kolumnsökning är ineffektiv](known-issues-workfront/wf-boards-search-returns-no-results.md) | 26 oktober 2022 |
 | [[!UICONTROL Setup]: Listor läses in långsamt in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 24 oktober 2022 |
 | [Agile: Uppgifter som tilldelats via gruppredigering visas inte i teamets eftersläpning](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 20 oktober 2022 |
 | [Korrektur: Utskriftssammanfattningen visar inte alla sidor med korrektur](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
