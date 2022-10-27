@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d607895a61242dc6a9a9ddfc7c728fe3e29c29f6
+source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
-source-wordcount: '13446'
+source-wordcount: '13445'
 ht-degree: 0%
 
 ---
@@ -31,19 +31,7 @@ Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i oktober 2022
 
-+++**(Planerat) Underhållsuppdatering 27 oktober 2022**
-
-**Det går inte att fästa om en sida efter att nålen tagits bort**
-
-*Navigering*
-
->[!NOTE]
->
->Problemet löstes i Preview den 13 oktober 2022. Den kommer att fastställas i produktion den 27 oktober 2022.
-
-När en användare väljer[!UICONTROL Remove pin]&quot; på ett stift, får ett meddelande om borttagningen och försöker ersätta stiftet genom att klicka på &quot;[!UICONTROL Undo]&quot; i meddelandet ersätts inte stiftet i den övre navigeringen och inte heller läggs det till i listan över punkter under [!UICONTROL More pins] list (the three-dot menu in the [!UICONTROL Pins] område).
-
-Om en användare försöker fästa sidan igen genom att gå till sidan och fästa den, skapas inte stiftet och användaren kan inte fästa sidan.
++++**Underhållsuppdatering 27 oktober 2022**
 
 **[!UICONTROL HOUR]funktionen i beräkningsfält använder UTC**
 
@@ -56,6 +44,18 @@ När ett beräkningsfält innehåller [!UICONTROL HOUR] funktionen returnerar fu
 *Listor*
 
 När en användare försöker använda [!UICONTROL Quick filter] i en lista för att söka efter ett team och om du anger namnet på teamet visas inga resultat, även när teamet är synligt i listan (till exempel i [!UICONTROL Assigned to] fält). Söker efter ordet[!UICONTROL team]&quot; returnerar inte heller några resultat.
+
+**Det går inte att fästa om en sida efter att nålen tagits bort**
+
+*Navigering*
+
+>[!NOTE]
+>
+>Problemet löstes i Preview den 13 oktober 2022. Den kommer att fastställas i produktion den 27 oktober 2022.
+
+När en användare väljer[!UICONTROL Remove pin]&quot; på ett stift, får ett meddelande om borttagningen och försöker ersätta stiftet genom att klicka på &quot;[!UICONTROL Undo]&quot; i meddelandet ersätts inte stiftet i den övre navigeringen och inte heller läggs det till i listan över punkter under [!UICONTROL More pins] list (the three-dot menu in the [!UICONTROL Pins] område).
+
+Om en användare försöker fästa sidan igen genom att gå till sidan och fästa den, skapas inte stiftet och användaren kan inte fästa sidan.
 
 **Alla användare listas i [!UICONTROL Workload Balancer] när du använder en delbar länk i [!DNL Safari] webbläsare**
 
