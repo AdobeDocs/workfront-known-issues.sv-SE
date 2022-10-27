@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Bevisgenereringen är extremt långsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
 | [Begäranden: Det går inte att visa fler än 100 köämnen på en sida](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 27 oktober 2022 |
 | [Problem: I den vänstra navigeringen visas (0) problem när det finns problem](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md) | 27 oktober 2022 |
 | [Begäranden: [!UICONTROL Email Queue Settings] inte tillgängligt](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 oktober 2022 |
