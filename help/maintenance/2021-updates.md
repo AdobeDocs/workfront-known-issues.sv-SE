@@ -2,7 +2,7 @@
 title: Workfront Maintenance Updates for 2021
 description: Historik över underhållsuppdateringar för 2021 för [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
-source-git-commit: 7fa90198186a7b0f392683d432a7da0424943da2
+source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
 workflow-type: tm+mt
 source-wordcount: '8963'
 ht-degree: 0%
@@ -335,7 +335,7 @@ Filtren i [!UICONTROL Workload Balancer] har nu stöd för anpassade kvartal.
 
 _[!UICONTROL Workload Balancer]_
 
-Filteroperatorerna har uppdaterats vid filtrering av[!UICONTROL  Workload Balancer] områden efter [!UICONTROL Duration].
+Filteroperatorerna har uppdaterats vid filtrering av [!UICONTROL Workload Balancer] områden efter [!UICONTROL Duration].
 
 +++
 
@@ -860,7 +860,7 @@ När en användare konverterar en utgåva till en uppgift och utgåvan har ett b
 
 _[!DNL Workfront Proof]_
 
-När en användare befinner sig på den nya [!DNL Adobe Workfront] upplevelsen skapar ett nytt korrektur och de anger ett värde i vissa anpassade fält på ett korrektur. Värdet i vissa tidigare fält återställs till standardvärdena i stället för det värde användaren angav.
+När en användare befinner sig på den nya [!DNL Adobe Workfront] upplevelsen skapar ett nytt korrektur och anger ett värde i vissa anpassade fält på ett korrektur. Värdet i vissa tidigare fält återställs till standardvärdena i stället för det värde användaren angav.
 
 **[!UICONTROL Assign to]skrivhuvud fungerar inte**
 
