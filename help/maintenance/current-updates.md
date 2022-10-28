@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
-source-wordcount: '13445'
+source-wordcount: '13444'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ När en användare försöker använda [!UICONTROL Quick filter] i en lista för
 
 >[!NOTE]
 >
->Problemet löstes i Preview den 13 oktober 2022. Den kommer att fastställas i produktion den 27 oktober 2022.
+>Problemet löstes i Preview den 13 oktober 2022. Den fastställdes i produktion den 27 oktober 2022.
 
 När en användare väljer[!UICONTROL Remove pin]&quot; på ett stift, får ett meddelande om borttagningen och försöker ersätta stiftet genom att klicka på &quot;[!UICONTROL Undo]&quot; i meddelandet ersätts inte stiftet i den övre navigeringen och inte heller läggs det till i listan över punkter under [!UICONTROL More pins] list (the three-dot menu in the [!UICONTROL Pins] område).
 
