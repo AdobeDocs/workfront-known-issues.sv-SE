@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
+source-git-commit: 0f9815d500d0da022a217f023b14379cfbda645b
 workflow-type: tm+mt
-source-wordcount: '1385'
+source-wordcount: '1391'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [API: Kan inte sortera efter dynamiska fält](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [Korrektur: Bevisgenereringen är extremt långsam](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [Projekt: Prestandaproblem och felmeddelande när du skapar ett projekt från en mall](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
       + [Begäranden: Det går inte att visa fler än 100 köämnen på en sida](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)

@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
+source-git-commit: 0f9815d500d0da022a217f023b14379cfbda645b
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '567'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [API: Kan inte sortera efter dynamiska fält](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 oktober 2022 |
 | [[!UICONTROL Setup]: Listor läses in långsamt in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 oktober 2022 |
 | [Korrektur: Korredet delas inte med användare i korrekturarbetsflödet](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 september 2022 |
 | [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
