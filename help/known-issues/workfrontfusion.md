@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Fusion]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] visas som &quot;[!UICONTROL object Object]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 1 november 2022 |
 | [[!DNL Workfront Fusion]: Fel vid visning av ett fel i en scenariokörningshistorik](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 19 oktober 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] hjälplänkar i appen leder inte till specifika hjälpsidor](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2 augusti 2022 |
 

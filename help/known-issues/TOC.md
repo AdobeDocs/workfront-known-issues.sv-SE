@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '1394'
+source-wordcount: '1400'
 ht-degree: 0%
 
 ---
@@ -180,6 +180,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Kända fel i Workfront Fusion](workfrontfusion.md)
    + Aktuella problem i [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Arrayelement i [!UICONTROL Iterator] visas som &quot;[!UICONTROL object Object]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fel vid visning av ett fel i en scenariokörningshistorik](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: 409-fel i [!DNL Fusion] scenario](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: &quot;[!UICONTROL Failed to load data]&quot;-fel](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
