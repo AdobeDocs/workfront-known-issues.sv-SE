@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 34cded8048e7f2c9e99f9c29303acde09ac76be1
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Listor: Inline-redigeringsfel per användare orsakar inga felmeddelanden](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2 november 2022 |
 | [Sök: Sökningen är extremt långsam](known-issues-workfront/wf-search-basic-search-is-slow.md) | 1 november 2022 |
 | [Korrektur: Bevisgenereringen är extremt långsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
 | [Begäranden: Det går inte att visa fler än 100 köämnen på en sida](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 27 oktober 2022 |

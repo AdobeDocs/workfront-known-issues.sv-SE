@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '13494'
+source-wordcount: '13537'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,12 @@ Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar
 ## Uppdateringar i oktober 2022
 
 +++**Underhållsuppdatering 3 november 2022**
+
+**Byt namn på avsnitten &quot;Schema&quot; och &quot;Schemaläggning&quot; för team och projekt i layoutmallen**
+
+*Layoutmallar*
+
+Flikarna Schema och Schemaläggning som är tillgängliga för att läggas till i en layoutmall på den vänstra panelen i ett team eller projekt har bytt namn till Arbetsbelastningsutjämning.
 
 **Fel vid åtkomst till e-postaviseringsinställningar**
 
