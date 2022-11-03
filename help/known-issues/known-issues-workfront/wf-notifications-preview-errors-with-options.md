@@ -2,9 +2,9 @@
 title: "Meddelanden: Fel vid åtkomst till e-postmeddelandeinställningar"
 description: "När en användare försöker ändra inställningarna för e-postmeddelanden kan ett fel uppstå."
 hidefromtoc: true
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
+source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Problemet förekommer både i produktions- och förhandsvisningsmiljön.
+>Problemet löstes den 3 november 2022.
 
 När en användare försöker ändra inställningarna för e-postmeddelanden kan ett av följande fel uppstå:
 
