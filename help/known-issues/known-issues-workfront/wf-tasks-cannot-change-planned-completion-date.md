@@ -2,15 +2,19 @@
 title: "Uppgifter: Det går inte att ändra planerat slutförandedatum för en aktivitet"
 description: "När en användare försöker ändra det planerade slutförandedatumet för en aktivitet svarar inte fältet. "
 hidefromtoc: true
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
 # Uppgifter: Kan inte ändra [!UICONTROL Planned Completion Date] av en uppgift
+
+>[!NOTE]
+>
+>Problemet har stängts eftersom det fungerar som det ska.
 
 När en användare försöker ändra [!UICONTROL Planned Completion Date] för en uppgift är fältet inte responsivt.
 

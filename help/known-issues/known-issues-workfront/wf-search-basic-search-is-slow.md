@@ -2,7 +2,7 @@
 title: "Sök: Sökningen är extremt långsam"
 description: "När en användare söker med hjälp av grundläggande sökning (sökikonen) returneras sökresultaten extremt långsamt."
 hidefromtoc: true
-source-git-commit: 2716a6fe76366e7225ca8c199e8e53ba5805c856
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -11,6 +11,10 @@ ht-degree: 0%
 
 
 # Sök: [!UICONTROL Search] är extremt långsam
+
+>[!NOTE]
+>
+>Problemet löstes den 3 november 2022.
 
 När en användare söker med hjälp av grundläggande sökning (kommandot [!UICONTROL Search] ) returneras sökresultaten extremt långsamt.
 

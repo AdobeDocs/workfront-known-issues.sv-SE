@@ -2,15 +2,19 @@
 title: "Problem: Vänster navigering visar (0) problem när det finns problem"
 description: "När en användare visar en uppgift där det finns problem visas (0) i området Problem till vänster om uppgiften, vilket anger att det inte finns några problem. Om användaren visar aktivitetens problemområde visas problemen."
 hidefromtoc: true
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
 # Problem: I den vänstra navigeringen visas (0) problem när det finns problem
+
+>[!NOTE]
+>
+>Problemet har stängts eftersom det fungerar som det ska. Antalet i området Problem avser antalet öppna utgåvor, inte totalt antal utgåvor.
 
 När en användare visar en uppgift där det finns problem, visas &quot;(0)&quot; i området Problem till vänster för uppgiften, vilket anger att det inte finns några problem. Om användaren visar aktivitetens problemområde visas problemen.
 

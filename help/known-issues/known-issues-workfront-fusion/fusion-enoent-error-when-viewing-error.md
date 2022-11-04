@@ -2,15 +2,19 @@
 title: "Workfront Fusion: Fel vid visning av ett fel i en körningshistorik för scenario"
 description: "När en användare visar en körningshistorik för scenarier och försöker se mer information om ett fel genom att klicka på felet, öppnas inte informationen och användaren ser ett felmeddelande."
 hidefromtoc: true
-source-git-commit: 323f4e42b6b0093858542ada3812f9a630bd3a5f
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
 # [!DNL Workfront Fusion]: Fel vid visning av ett fel i en scenariokörningshistorik
+
+>[!NOTE]
+>
+>Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
 När en användare visar en körningshistorik för scenarier och försöker se mer information om ett fel genom att klicka på felet, öppnas inte informationen och användaren ser följande meddelande:
 
