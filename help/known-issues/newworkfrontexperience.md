@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,10 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile: Aktiviteten har en kanban-eftersläpningsordning på 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7 november 2022 |
 | [Begäranden: &quot;Hoppmeddelande&quot; vid redigering av begärandekö](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2 november 2022 |
 | [Korrektur: Bevisgenereringen är extremt långsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
 | [Begäranden: [!UICONTROL Email Queue Settings] inte tillgängligt](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 oktober 2022 |
-| [Agile: Uppgifter som tilldelats via gruppredigering visas inte i teamets eftersläpning](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 20 oktober 2022 |
 | [Korrektur: Utskriftssammanfattningen visar inte alla sidor med korrektur](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
 | [Meddelanden: Användare som inte meddelas när de nämns eller ingår i en kommentar](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 september 2022 |
 
@@ -42,15 +42,11 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | -----------------------------------------------------------------| ----------------- |
 | [Listor: Inline-redigeringsfel per användare orsakar inga felmeddelanden](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 november 2022 |
 | [Begäranden: Det går inte att visa fler än 100 köämnen på en sida](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 november 2022 |
-| [[!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] object](known-issues-workfront/wf-500-error-when-making-changes.md) | 3 november 2022 |
 | [Projekt: Prestandaproblem och felmeddelande när du skapar ett projekt från en mall](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 oktober 2022 |
 | [Dokument: Länken för extern dokumentbegäran leder till inloggningssidan](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 oktober 2022 |
-| [Rapporter: Rapportanvändningsinformationen uppdateras inte](known-issues-workfront/wf-reports-usage-not-updating.md) | 19 oktober 2022 |
 | [Navigering: Kan inte fästa objekt](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19 oktober 2022 |
-| [Korrektur: Textrutan&quot;Nya korrekturmottagare&quot; är för liten](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 oktober 2022 |
 | [Program: Problem vid tilldelning av en [!UICONTROL Program Owner]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17 oktober 2022 |
 | [Rapporter: Alternativet &quot;Flytta till&quot; är inte tillgängligt i problemrapporter](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 oktober 2022 |
-| [Agile: Problem med uppgifter som lagts till i en iteration](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13 oktober 2022 |
 | [Anpassade formulär: &quot;Hoppfel&quot; vid inställning av ett beräkningsfält](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 oktober 2022 |
 | [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 september 2022 |
 | [Integrationer: Fel när begäran skickades från [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augusti 2022 |

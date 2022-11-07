@@ -2,15 +2,19 @@
 title: "Rapporter: Rapportanvändningsinformationen uppdateras inte"
 description: "När en användare visar en rapport uppdateras inte den senast visade informationen, t.ex. det senast visade datumet och senast visade av. Detta innebär att all användarinformation kan vara felaktig."
 hidefromtoc: true
-source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
 
 # Rapporter: Rapportanvändningsinformationen uppdateras inte
+
+>[!NOTE]
+>
+>Problemet korrigerades den 4 november 2022.
 
 När en användare visar en rapport uppdateras inte den senast visade informationen, t.ex. Senast visade den och Senast visade av. Detta innebär att all användarinformation kan vara felaktig.
 

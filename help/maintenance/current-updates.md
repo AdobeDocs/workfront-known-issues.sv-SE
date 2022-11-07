@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
+source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
 workflow-type: tm+mt
-source-wordcount: '13537'
+source-wordcount: '13837'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,77 @@ Följande underhållsuppdateringar gjordes 2022.
 Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i november 2022
+
++++**Underhållsuppdatering (snabbkorrigering) 4 november 2022**
+
+**Problem med uppgifter som lagts till i en iteration**
+
+*Agile*
+
+Följande problem har rapporterats om problem som har lagts till i en iteration:
+
+* Vissa underuppgifter för en uppgift som lagts till i en iteration visas inte på [!UICONTROL Iteration] sida.
+* När en användare försöker lägga till en saknad uppgift i iterationen läggs uppgiften inte till och användaren ser följande meddelande:
+
+   &quot;[!UICONTROL The following error occurred: None of the selected items could be moved, because they are not assigned to an agile team or are not agile items]&quot;
+
+**Uppgifter som tilldelats via gruppredigering visas inte i teamets eftersläpning**
+
+*Agile*
+
+När en användare tilldelar uppgifter till ett Scrum-team genom att använda gruppredigering visas inte dessa uppgifter i gruppens eftersläpning.
+
+Kanban-teamen påverkas inte av detta problem.
+
+**&quot;[!UICONTROL New proof recipients]&quot; textrutan är för liten**
+
+*Korrektur*
+
+När en användare visar ett korrektur och försöker dela korrekturet från [!UICONTROL Sharing] -fliken, &quot;[!UICONTROL New proof reciepients]är mycket liten. Användaren kan skriva ett namn, men eftersom rutan är så liten radbryts texten på ett sätt som är svårt att läsa.
+
+**Rapportanvändningsinformationen uppdateras inte**
+
+*Rapporter*
+
+När en användare visar en rapport uppdateras inte den senast visade informationen, t.ex. Senast visade den och Senast visade av. Detta innebär att all användarinformation kan vara felaktig.
+
+Detta beteende har rapporterats när användaren öppnar rapporten på följande sätt:
+
+* Sök
+* Stift
+* Favoriter
+* Senaste
+
+När du öppnar rapporter via en kontrollpanel uppdateras den senast visade informationen.
+
+**[!DNL Workfront]: 500-fel vid ändringar i en [!DNL Workfront] object**
+
+*[!DNL Workfront]*
+
+När en användare försöker göra ändringar i en [!DNL Workfront] -objektet, ändringarna sparas inte och användaren ser följande fel:
+
+&quot;[!UICONTROL 500: Database error due to invalid SQL statement.]&quot;
+
+Detta har rapporterats i följande situationer:
+
+* Ändra ett objekts status
+* Beräknar om tidslinjer
+* Bifoga en mall
+* Loggningstid
+
++++
+
++++**[!DNL Workfront Fusion]Underhållsuppdatering 3 november 2022**
+
+**Fel gällande [!UICONTROL apiKey] in [!DNL Workfront] > [!UICONTROL Watch Events] modul**
+
+*[!DNL Workfront Fusion]*
+
+När en användare försöker lägga till en webkrok i [!DNL Workfront] > [!UICONTROL Watch Events] får de följande fel:
+
+&quot;[!UICONTROL The apiKey provided was empty or deemed invalid.]&quot;
+
++++
 
 +++**Underhållsuppdatering 3 november 2022**
 

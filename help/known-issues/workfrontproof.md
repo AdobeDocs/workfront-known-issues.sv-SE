@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof]: Kan inte öppna ett interaktivt korrektur](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md) | 3 november 2022 |
 | [Dokument: Länken för extern dokumentbegäran leder till inloggningssidan](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 oktober 2022 |
-| [Korrektur: Textrutan&quot;Nya korrekturmottagare&quot; är för liten](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
