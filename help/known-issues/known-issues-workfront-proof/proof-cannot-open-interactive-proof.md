@@ -1,10 +1,10 @@
 ---
 title: "Workfront Proof: Kan inte öppna ett interaktivt korrektur"
-description: ""
+description: "När en användare försöker öppna ett interaktivt korrektur öppnas inte korrekturet och användaren ser ett felmeddelande."
 hidefromtoc: true
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---

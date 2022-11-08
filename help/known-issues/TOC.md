@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '1451'
+source-wordcount: '1458'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppgifter: Gruppredigera uppgifter ändrar aktivitetstilldelningar](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [Agile: Aktiviteten har en kanban-eftersläpningsordning på 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [Uppgifter: Kan inte ändra [!UICONTROL Planned Completion Date] av en uppgift](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront: 500-fel vid ändringar i ett Workfront-objekt](known-issues-workfront/wf-500-error-when-making-changes.md)

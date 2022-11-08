@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '13837'
+source-wordcount: '13870'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,18 @@ Följande underhållsuppdateringar gjordes 2022.
 Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i november 2022
+
++++**(Planerat) Underhållsuppdatering 10 november 2022**
+
+**Kan inte öppna ett interaktivt korrektur**
+
+*Workfront Proof*
+
+När en användare försöker öppna ett interaktivt korrektur öppnas inte korrekturet och användaren ser följande meddelande:
+
+&quot;[!UICONTROL Proof not loaded (501) Try again]&quot;
+
++++
 
 +++**Underhållsuppdatering (snabbkorrigering) 4 november 2022**
 
