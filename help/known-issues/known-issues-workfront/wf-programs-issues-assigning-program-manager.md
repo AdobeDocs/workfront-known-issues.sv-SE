@@ -2,15 +2,19 @@
 title: "Program: Problem vid tilldelning av programägare"
 description: "När en användare skapar ett program och tilldelar en programägare uppstår problemen som beskrivs i den här artikeln."
 hidefromtoc: true
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 
 # Program: Problem vid tilldelning av en [!UICONTROL Program Owner]
+
+>[!NOTE]
+>
+>Problemet löstes den 7 november 2022.
 
 När en användare skapar ett program och tilldelar [!UICONTROL Program Owner]uppstår följande problem:
 

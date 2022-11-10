@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '13870'
+source-wordcount: '13903'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,13 @@ Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i november 2022
 
-+++**(Planerat) Underhållsuppdatering 10 november 2022**
++++**Underhållsuppdatering 10 november 2022**
+
+**Gruppredigera uppgifter ändrar aktivitetstilldelningar**
+
+*Uppgifter*
+
+När en användare gruppvis redigerar ett fält för en uppsättning uppgifter, tillämpas den första uppgiftens tilldelningar på alla uppgifter. Detta tar bort tidigare tilldelningar.
 
 **Kan inte öppna ett interaktivt korrektur**
 

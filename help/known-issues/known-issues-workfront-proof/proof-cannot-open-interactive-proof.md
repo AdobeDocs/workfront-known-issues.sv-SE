@@ -2,15 +2,19 @@
 title: "Workfront Proof: Kan inte öppna ett interaktivt korrektur"
 description: "När en användare försöker öppna ett interaktivt korrektur öppnas inte korrekturet och användaren ser ett felmeddelande."
 hidefromtoc: true
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
 
 # [!DNL Workfront Proof]: Kan inte öppna ett interaktivt korrektur
+
+>[!NOTE]
+>
+>Problemet korrigerades den 10 november 2022.
 
 När en användare försöker öppna ett interaktivt korrektur öppnas inte korrekturet och användaren ser följande meddelande:
 
