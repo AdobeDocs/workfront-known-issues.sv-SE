@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
-source-wordcount: '1458'
+source-wordcount: '1467'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Layoutmallar: Om du döljer ett objekt döljs det felaktiga objektet](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [Uppgifter: Gruppredigera uppgifter ändrar aktivitetstilldelningar](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [Agile: Aktiviteten har en kanban-eftersläpningsordning på 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [Uppgifter: Kan inte ändra [!UICONTROL Planned Completion Date] av en uppgift](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)

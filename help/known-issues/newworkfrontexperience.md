@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Layoutmallar: Om du döljer ett objekt döljs det felaktiga objektet](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 10 november 2022 |
 | [Listor: Inline-redigeringsfel per användare orsakar inga felmeddelanden](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 november 2022 |
 | [Begäranden: Det går inte att visa fler än 100 köämnen på en sida](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 november 2022 |
 | [Projekt: Prestandaproblem och felmeddelande när du skapar ett projekt från en mall](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 oktober 2022 |
