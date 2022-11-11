@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Fusion]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
+source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] moduler](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 31 oktober 2022 |
-| [[!DNL Workfront Fusion]: 409 error in [!DNL Fusion] scenario](known-issues-workfront-fusion/fusion-409-error.md) | 6 oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 

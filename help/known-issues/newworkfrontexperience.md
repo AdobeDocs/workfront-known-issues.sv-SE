@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
+source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | [Korrektur: Bevisgenereringen är extremt långsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
 | [Begäranden: [!UICONTROL Email Queue Settings] inte tillgängligt](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 oktober 2022 |
 | [Korrektur: Utskriftssammanfattningen visar inte alla sidor med korrektur](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
-| [Meddelanden: Användare som inte meddelas när de nämns eller ingår i en kommentar](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 september 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -60,6 +59,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Meddelanden: Användare som inte meddelas när de nämns eller ingår i en kommentar](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11 november 2022 |
 | [API: Kan inte sortera efter dynamiska fält](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 oktober 2022 |
 | [[!UICONTROL Setup]: Listor läses in långsamt in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 oktober 2022 |
 | [Korrektur: Korredet delas inte med användare i korrekturarbetsflödet](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 september 2022 |
