@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Problem med att lägga till anpassade meddelanden i visningsprogrammet för korrektur](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 november 2022 |
 | [Dokument: Länken för extern dokumentbegäran leder till inloggningssidan](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}

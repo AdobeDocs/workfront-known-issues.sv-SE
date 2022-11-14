@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '1482'
+source-wordcount: '1511'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporter: &quot;Hoppfel&quot; när en ny utgåva läggs till i en problemrapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+      + [Rapporter: Kombinationsdiagram visar samma data två gånger](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
+      + [Korrektur: Problem med att lägga till anpassade meddelanden i visningsprogrammet för korrektur](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
       + [Korrektur: Utskriftssammanfattningen visar inte bildminiatyrer](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [Integrationer: [!UICONTROL Home Calendar] visar händelser en timme senare [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [Layoutmallar: Om du döljer ett objekt döljs det felaktiga objektet](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)

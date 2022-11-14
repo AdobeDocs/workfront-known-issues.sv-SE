@@ -1,10 +1,10 @@
 ---
-title: ""
-description: ""
+title: "Korrektur: [!UICONTROL Print summary] visar inte miniatyrbild"
+description: "När en användare tittar på [!UICONTROL Print summary] sida med korrektur i [!DNL Workfront]visas inte korrekturens miniatyrbild. Istället visas en enkel platshållarbild."
 hidefromtoc: true
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
