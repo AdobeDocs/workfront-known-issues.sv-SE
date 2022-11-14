@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| Ingen |  |
+| [Korrektur: [!UICONTROL Print summary] visar inte bildminiatyr](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14 november 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
