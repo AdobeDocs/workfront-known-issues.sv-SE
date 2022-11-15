@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
 workflow-type: tm+mt
-source-wordcount: '13903'
+source-wordcount: '13941'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,17 @@ Följande underhållsuppdateringar gjordes 2022.
 Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i november 2022
+
++++**(Planerat) Underhållsuppdatering 17 november 2022**
+
+**Om du döljer ett objekt döljs det felaktiga objektet**
+
+*Layoutmallar*
+
+När en användare ändrar om ett objekt är dolt eller visas, återspeglas ändringarna i ett annat objekt i layoutmallen.
+
+
++++
 
 +++**Underhållsuppdatering 10 november 2022**
 
