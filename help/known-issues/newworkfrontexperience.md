@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
+source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Anpassade formulär: &quot;[!UICONTROL You do not have sufficient access]&quot; fel vid redigering av eget formulär](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 16 november 2022 |
 | [Korrektur: [!UICONTROL Print summary] visar inte bildminiatyr](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14 november 2022 |
 | [Integrationer: [!UICONTROL Home Calendar] visar händelser en timme senare [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 november 2022 |
 | [Agile: Aktiviteten har en kanban-eftersläpningsordning på 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7 november 2022 |
