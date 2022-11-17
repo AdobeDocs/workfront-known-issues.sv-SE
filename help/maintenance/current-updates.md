@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
+source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
 workflow-type: tm+mt
-source-wordcount: '13941'
+source-wordcount: '13940'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i november 2022
 
-+++**(Planerat) Underhållsuppdatering 17 november 2022**
++++**Underhållsuppdatering 17 november 2022**
 
 **Om du döljer ett objekt döljs det felaktiga objektet**
 

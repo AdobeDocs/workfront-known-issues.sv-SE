@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
+source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Rapporter: &quot;Hoppfel&quot; när en ny utgåva läggs till i en problemrapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
 | [Rapporter: Kombinationsdiagram visar samma data två gånger](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 november 2022 |
 | [Korrektur: Problem med att lägga till anpassade meddelanden i visningsprogrammet för korrektur](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 november 2022 |
-| [Layoutmallar: Om du döljer ett objekt döljs det felaktiga objektet](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 10 november 2022 |
 | [Listor: Inline-redigeringsfel per användare orsakar inga felmeddelanden](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 november 2022 |
 | [Begäranden: Det går inte att visa fler än 100 köämnen på en sida](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 november 2022 |
 | [Projekt: Prestandaproblem och felmeddelande när du skapar ett projekt från en mall](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 oktober 2022 |
