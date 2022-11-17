@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
+source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
 workflow-type: tm+mt
-source-wordcount: '13940'
+source-wordcount: '14022'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,12 @@ Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar
 ## Uppdateringar i november 2022
 
 +++**Underhållsuppdatering 17 november 2022**
+
+**Dokument som placerats i [!UICONTROL Recycle Bin] om det är omarkerat när en aktivitet flyttas eller ett problem**
+
+*Dokument*
+
+När du avmarkerar [!UICONTROL Documents] när en uppgift eller ett problem flyttas, de dokument som är bifogade uppgiften eller problemet placeras i [!UICONTROL Recycle Bin] i 30 dagar. Administratören kan vid behov återställa dem. Den användare som avmarkerar Dokument i den rörliga processen får en varning om detta i [!UICONTROL Move Task] eller [!UICONTROL Move Issue] box. Före den här förbättringen togs dokumenten bort permanent.
 
 **Om du döljer ett objekt döljs det felaktiga objektet**
 
