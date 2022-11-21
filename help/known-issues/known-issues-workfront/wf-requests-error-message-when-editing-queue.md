@@ -2,15 +2,19 @@
 title: "Begäranden: Hoppar över meddelandet när begärandekön redigeras"
 description: "När en användare redigerar en begärandekö och försöker spara ändringar visas ett fel."
 hidefromtoc: true
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
+source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
 
 # Begäranden: &quot;Hoppmeddelande&quot; vid redigering av begärandekö
+
+>[!NOTE]
+>
+>Problemet korrigerades den 10 november 2022.
 
 När en användare redigerar en begärandekö och försöker spara ändringar visas följande fel:
 
