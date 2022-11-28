@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
-source-wordcount: '1567'
+source-wordcount: '1592'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Integrationer: Kan inte komma åt element i [!DNL Workfront for Jira] integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [Anpassade formulär: Det går inte att använda fältet i beräkningen om fältnamnet innehåller apostrofer eller citattecken](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [Agile: Fel vid flyttning av arbetsobjekt till en iteration](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [Tidrapporter: Inaktiverade användare är tillgängliga vid val av tidrapportgodkännare](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [Anpassade formulär: Egna formulär för flera objekt kräver [!UICONTROL Manage] eller [!UICONTROL Edit] behörighet att redigera fält](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
@@ -200,6 +202,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Kända fel i Workfront Fusion](workfrontfusion.md)
    + Aktuella problem i [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Kan inte skapa anslutning till [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: Arrayelement i [!UICONTROL Iterator] visas som &quot;[!UICONTROL object Object]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fel vid visning av ett fel i en scenariokörningshistorik](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: 409-fel i [!DNL Fusion] scenario](known-issues-workfront-fusion/fusion-409-error.md)

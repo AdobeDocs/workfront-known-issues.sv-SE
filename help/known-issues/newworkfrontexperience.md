@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '611'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrationer: Kan inte komma åt element i [!DNL Workfront for Jira] integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md) | 28 november 2022 |
+| [Anpassade formulär: Det går inte att använda fältet i beräkningen om fältnamnet innehåller apostrofer eller citattecken](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 november 2022 |
 | [Tidrapporter: Inaktiverade användare är tillgängliga vid val av tidrapportgodkännare](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 23 november 2022 |
 | [Anpassade formulär: &quot;[!UICONTROL You do not have sufficient access]&quot; fel vid redigering av eget formulär](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 november 2022 |
 | [Agile: Aktiviteten har en kanban-eftersläpningsordning på 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 21 november 2022 |
