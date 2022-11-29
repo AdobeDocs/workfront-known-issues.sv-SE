@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
+source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
 workflow-type: tm+mt
-source-wordcount: '14022'
+source-wordcount: '14257'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,56 @@ Följande underhållsuppdateringar gjordes 2022.
 -->
 
 Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
+
+## Uppdateringar i december 2022
+
++++**(Planerat) Underhållsuppdatering 1 december 2022**
+
+**Aktiviteten har en kanban-eftersläpningsordning på 0**
+
+*Agile*
+
+När en användare visar ett kanban-teams eftersläpning visas en eftersläpningsordning på 0 för en eller flera av uppgifterna.
+
+**&quot;[!UICONTROL Invalid custom expression]&quot; när det refereras till &quot;[!UICONTROL owner]&quot; i ett beräkningsfält**
+
+*Egna formulär*
+
+När en användare lägger till ett beräknat fält i ett anpassat formulär på problemnivå och försöker lägga till en referens till ett[!UICONTROL owner]&quot; (t.ex. `ownerID`) sparas inte fältet och användaren ser följande meddelande:
+
+&quot;[!UICONTROL This is an invalid customer expression, please try again.]&quot;
+
+Detta inträffar även när uttrycket är giltigt.
+
+**Kan inte komma åt element i [!DNL Workfront for Jira] integration**
+
+*Integreringar*
+
+Följande element kan för närvarande inte användas i [!DNL Workfront for Jira] integration för [!DNL Jira Cloud]:
+
+* The [!UICONTROL Configuration] page
+* The &quot;[!UICONTROL Open Workfront]&quot; på en [!DNL Jira] problem
+
+**Problem med att lägga till anpassade meddelanden i visningsprogrammet för korrektur**
+
+*Korrektur*
+
+När en användare delar ett korrektur och försöker lägga till ett eget meddelande händer följande:
+
+* Visningsprogrammet för korrektur zoomas in i korrekturet.
+* Områdena i den vänstra navigeringen är inte längre responsiva.
+
+**Inaktiverade användare är tillgängliga vid val av tidrapportgodkännare**
+
+*Tidrapporter*
+
+När en användare skapar en tidrapport och försöker tilldela en godkännare, innehåller listrutan inaktiverade användare. Om en inaktiverad användare väljs sparas inte tidrapporten och användaren ser följande meddelande:
+
+&quot;[!UICONTROL Error. Sorry! Only users with Plan license can approve or reject timesheets. Please contact your system administrator.]&quot;
+
+Eftersom den inaktiverade användaren inte kan tilldelas måste användaren välja en aktiverad användare. Tidrapporten fungerar därför som förväntat, men de inaktiverade användarna i listan kan orsaka förvirring eller besvär för användaren.
+
++++
 
 ## Uppdateringar i november 2022
 
