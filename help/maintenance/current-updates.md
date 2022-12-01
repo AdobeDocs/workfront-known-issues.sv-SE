@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '14257'
+source-wordcount: '14293'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i december 2022
 
-+++**(Planerat) Underhållsuppdatering 1 december 2022**
++++**Underhållsuppdatering 1 december 2022**
 
 **Aktiviteten har en kanban-eftersläpningsordning på 0**
 
@@ -76,6 +76,12 @@ När en användare skapar en tidrapport och försöker tilldela en godkännare, 
 &quot;[!UICONTROL Error. Sorry! Only users with Plan license can approve or reject timesheets. Please contact your system administrator.]&quot;
 
 Eftersom den inaktiverade användaren inte kan tilldelas måste användaren välja en aktiverad användare. Tidrapporten fungerar därför som förväntat, men de inaktiverade användarna i listan kan orsaka förvirring eller besvär för användaren.
+
+**Tidrapporten genereras inte**
+
+*Tidrapporter*
+
+Tidrapporter genereras inte trots inställningarna för tidrapportprofilen. Eftersom tidrapporten aldrig genereras är den inte tillgänglig för användaren att ange tid, och den visas inte i listor.
 
 +++
 
