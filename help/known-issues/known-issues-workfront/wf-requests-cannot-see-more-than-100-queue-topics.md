@@ -2,15 +2,19 @@
 title: "Begäranden: Det går inte att visa fler än 100 köämnen på en sida"
 description: "När en användare visar en lista med köämnen med fler än 100 objekt och försöker ändra listan för att visa fler köämnen per sida eller för att visa alla köämnen, ändras inte listan och användaren ser ett felmeddelande."
 hidefromtoc: true
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 
 # Begäranden: Det går inte att visa fler än 100 köämnen på en sida
+
+>[!NOTE]
+>
+>Problemet korrigerades den 2 december 2022.
 
 När en användare visar en lista med köämnen med fler än 100 objekt och försöker ändra listan för att visa fler köämnen per sida eller för att visa alla köämnen, ändras inte listan och användaren ser följande meddelande:
 

@@ -2,15 +2,19 @@
 title: "Listor: Inline-redigeringsfel per användare orsakar inga felmeddelanden"
 description: "När en användare infogar redigering av ett objekt och gör ett fel som ska skapa ett felmeddelande, visas inget felmeddelande. Själva felet sparas inte i Workfront, vilket betyder att data inte påverkas, men det beror på att ett felmeddelande saknas."
 hidefromtoc: true
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
 
 # Listor: Inline-redigeringsfel per användare orsakar inga felmeddelanden
+
+>[!NOTE]
+>
+>Problemet korrigerades den 1 december 2022.
 
 När en användare infogar redigering av ett objekt och gör ett fel som ska skapa ett felmeddelande, visas inget felmeddelande. Själva felet sparas inte i Workfront, vilket betyder att data inte påverkas, men det beror på att ett felmeddelande saknas.
 

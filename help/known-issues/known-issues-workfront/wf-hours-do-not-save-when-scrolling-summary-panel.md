@@ -2,15 +2,19 @@
 title: "Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]"
 description: "När en användare försöker ange timmar för en uppgift i sammanfattningspanelen sparas inte timmarna. Detta inträffar när användaren lämnar markören i rutan där han/hon angav timmar och rullar [!UICONTROL Summary panel]. "
 hidefromtoc: true
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
 
 # Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel].
+
+>[!NOTE]
+>
+>Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
 När en användare försöker ange timmar för en uppgift i sammanfattningspanelen sparas inte timmarna. Detta inträffar när användaren lämnar markören i rutan där han/hon angav timmar och rullar [!UICONTROL Summary panel].
 

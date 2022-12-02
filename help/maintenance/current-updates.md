@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '14293'
+source-wordcount: '14492'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,35 @@ Följande underhållsuppdateringar gjordes 2022.
 Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i december 2022
+
++++**Underhållsuppdatering (snabbkorrigering) 1 december 2022**
+
+**Inline-redigeringsfel per användare orsakar inga felmeddelanden**
+
+*Listor*
+
+När en användare infogar redigering av ett objekt och gör ett fel som ska skapa ett felmeddelande, visas inget felmeddelande. Själva felet sparas inte i Workfront, vilket betyder att data inte påverkas, men det beror på att ett felmeddelande saknas.
+
+Detta har rapporterats i följande situationer:
+
+* Föregående: En föregående slinga skapas, till exempel tilldelas en uppgift till sig själv
+* Datum: Ett omöjligt datum har angetts, till exempel ett slutförandedatum som är tidigare än startdatumet eller som ligger efter projektets slutförandedatum
+
+**Alternativet &quot;Flytta till&quot; är inte tillgängligt i problemrapporter**
+
+*Rapporter*
+
+När en användare visar en problemrapport och försöker flytta ett problem är alternativet &quot;Flytta till&quot; inte tillgängligt på menyn Mer (tre punkter).
+
+
+**Det går inte att stänga användarkortet i uppdateringsströmmen**
+
+*Uppdateringar*
+
+När en användare visar uppdateringar och håller pekaren över ett namn visas ett kort med information om användaren vars namn det är öppet och stängs inte automatiskt. Sidan svarar inte förrän kortet stängs manuellt genom att klicka på X:et i det övre högra hörnet.
+
+
++++
 
 +++**Underhållsuppdatering 1 december 2022**
 
