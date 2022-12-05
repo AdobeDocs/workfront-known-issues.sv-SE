@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Tidrapporter: Inaktiverade användare är tillgängliga vid val av tidrapportgodkännare](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 december 2022 |
+| [Tidrapporter: Det går inte att ange tid på tidrapporten](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 december 2022 |
+| [Tidrapporter: Inaktiverade användare är tillgängliga vid val av tidrapportgodkännare](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2 december 2022 |
 | [Anpassade formulär: &quot;[!UICONTROL Invalid custom expression]&quot; när det refereras till &quot;[!UICONTROL owner]&quot; i ett beräkningsfält](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 december 2022 |
 | [Projekt: Projektstatus följer inte gruppprojektinställningarna](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2 december 2022 |
 | [Projekt: &quot;Hoppfel&quot; när ett projekt skapas från en mall](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2 december 2022 |
@@ -58,6 +59,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
 | [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 december 2022 |
 | [Projekt: Prestandaproblem och felmeddelande när du skapar ett projekt från en mall](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2 december 2022 |
 | [Anpassade formulär: Egna formulär för flera objekt kräver [!UICONTROL Manage] eller [!UICONTROL Edit] behörighet att redigera fält](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 november 2022 |

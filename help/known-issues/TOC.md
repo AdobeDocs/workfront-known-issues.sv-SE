@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
 workflow-type: tm+mt
-source-wordcount: '1622'
+source-wordcount: '1636'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Tidrapporter: Det går inte att ange tid på tidrapporten](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
+      + [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Projekt: Projektstatus följer inte gruppprojektinställningarna](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [Projekt: &quot;Hoppfel&quot; när ett projekt skapas från en mall](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL Home]: Det går inte att ta bort en utgivningstilldelning i [!UICONTROL Home]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
