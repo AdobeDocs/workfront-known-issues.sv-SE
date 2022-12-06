@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: dd71044b671b7a7da8a8769039485b80664880d7
 workflow-type: tm+mt
-source-wordcount: '14492'
+source-wordcount: '14545'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,18 @@ Följande underhållsuppdateringar gjordes 2022.
 Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i december 2022
+
++++**(Planerat) Underhållsuppdatering den 8 december 2022**
+
++++
+
+**Projektstatus följer inte gruppprojektinställningarna**
+
+*Projekt*
+
+När en användare skapar ett projekt från en mall får det nya projektet inte den status som angetts i gruppprojektinställningarna. Om ett projekt skapas utan en mall visas gruppprojektinställningarna som förväntat.
+
++++
 
 +++**Underhållsuppdatering (snabbkorrigering) 1 december 2022**
 
