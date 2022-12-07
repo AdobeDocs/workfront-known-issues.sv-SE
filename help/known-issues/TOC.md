@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
+source-git-commit: 835873c47203f6f13e0c5239ff2e68d18049762d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1643'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Integrationer: Kan inte öppna [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Uppgifter: Det går inte att lägga till underaktivitet](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
       + [Tidrapporter: Det går inte att ange tid på tidrapporten](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
       + [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)

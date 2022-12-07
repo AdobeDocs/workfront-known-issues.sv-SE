@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
+source-git-commit: 835873c47203f6f13e0c5239ff2e68d18049762d
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrationer: Kan inte öppna [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 7 december 2022 |
 | [[!UICONTROL Home]: Det går inte att ta bort en utgivningstilldelning i [!UICONTROL Home]](known-issues-workfront/wf-home-cannot-remove-assignment.md) | 29 november 2022 |
 | [Korrektur: Korrektur visas i korrekturläsaren som mindre tydliga än originalbilden](known-issues-workfront/wf-proofs-are-blurry.md) | 18 november 2022 |
 | [Korrektur: Bevisgenereringen är extremt långsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
