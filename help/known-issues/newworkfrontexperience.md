@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 835873c47203f6f13e0c5239ff2e68d18049762d
+source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '593'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokument: Det går inte att överföra MP4-filen](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 december 2022 |
 | [Uppgifter: Det går inte att lägga till underaktivitet](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 december 2022 |
 | [Tidrapporter: Det går inte att ange tid på tidrapporten](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 december 2022 |
 | [Tidrapporter: Inaktiverade användare är tillgängliga vid val av tidrapportgodkännare](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2 december 2022 |
