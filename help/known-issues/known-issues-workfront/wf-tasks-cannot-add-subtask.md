@@ -2,15 +2,19 @@
 title: "Uppgifter: Det går inte att lägga till underaktivitet"
 description: "När en användare försöker lägga till en underaktivitet med knappen +Nytt visas inga alternativ i fönstret Ny uppgift och användaren ser ett felmeddelande."
 hidefromtoc: true
-source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
+source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
 
 # Uppgifter: Det går inte att lägga till underaktivitet
+
+>[!NOTE]
+>
+>Detta problem korrigerades den 8 december 2022.
 
 När en användare försöker lägga till en underaktivitet med hjälp av[!UICONTROL +New]&quot; visas inga alternativ i [!UICONTROL New Task] och användaren ser följande meddelande:
 

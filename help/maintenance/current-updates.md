@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dd71044b671b7a7da8a8769039485b80664880d7
+source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
 workflow-type: tm+mt
-source-wordcount: '14545'
+source-wordcount: '14625'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,30 @@ Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i december 2022
 
-+++**(Planerat) Underhållsuppdatering den 8 december 2022**
-
-+++
++++**Underhållsuppdatering 8 december 2022**
 
 **Projektstatus följer inte gruppprojektinställningarna**
 
 *Projekt*
 
 När en användare skapar ett projekt från en mall får det nya projektet inte den status som angetts i gruppprojektinställningarna. Om ett projekt skapas utan en mall visas gruppprojektinställningarna som förväntat.
+
+**Det går inte att lägga till underaktivitet**
+
+*Uppgifter*
+
+När en användare försöker lägga till en underaktivitet med hjälp av[!UICONTROL +New]&quot; visas inga alternativ i [!UICONTROL New Task] och användaren ser följande meddelande:
+
+&quot;[!UICONTROL Cannot read properties of undefined (reading 'validations)]&quot;
+
+**Fel vid stängning eller sparande av tidrapporter**
+
+*Tidrapporter*
+
+När en användare försöker lägga till eller stänga en tidrapport, sparas inte tidrapporten och användaren ser följande fel:
+
+* Databasfel på grund av ogiltig SQL-sats.
+* Dina senaste ändringar sparades inte. Uppdatera sidan för att visa de senast sparade ändringarna.
 
 +++
 
