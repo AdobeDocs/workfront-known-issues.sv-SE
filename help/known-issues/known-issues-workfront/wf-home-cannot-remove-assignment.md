@@ -2,15 +2,19 @@
 title: "Hem: Det går inte att ta bort en utgivningstilldelning i Hem"
 description: "När en användare visar ett problem i hemarbetslistan och försöker ta bort uppdraget uppdateras sidan och uppdraget har inte tagits bort."
 hidefromtoc: true
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: a25db8e8235f2140b1364d60e2a96729931fea49
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
 
 # [!UICONTROL Home]: Det går inte att ta bort en utgivningstilldelning i [!UICONTROL Home]
+
+>[!NOTE]
+>
+>Problemet korrigerades den 1 december 2022.
 
 När en användare visar ett problem i [!UICONTROL Home Work List] och försöker ta bort uppdraget, uppdateras sidan och uppdraget har inte tagits bort.
 
