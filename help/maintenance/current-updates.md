@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
+source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
 workflow-type: tm+mt
-source-wordcount: '14625'
+source-wordcount: '14779'
 ht-degree: 0%
 
 ---
@@ -276,6 +276,21 @@ Detta har rapporterats i följande områden:
 * [!UICONTROL Setup] > [!UICONTROL Email notifications]
 * [!UICONTROL User] > [!UICONTROL Edit user]
 * [!UICONTROL Groups]
+
+**Nya informationsikoner för tidrapporter, tidrapportprofiler och tidrapportinställningar**
+
+*Workfront*
+
+>[!NOTE]
+>
+>Den här uppdateringen har endast släppts till förhandsvisningsmiljön. Den kommer att lanseras i Production med version 23.1.
+
+Vi har lagt till flera informationsikoner i följande inställningar:
+
+* Kryssrutan&quot;Kan redigera tid&quot; när du skapar eller redigerar en tidrapportprofil eller en tidrapportprofil för att ange att godkännare när den är aktiverad även kan skicka, öppna eller redigera tidrapporten, såvida inte administratören begränsar dessa åtgärder under Inställningar för tidrapport i dialogrutan Inställningar.
+* &quot;Begränsa redigering av tidrapporter till ägare och administratörer&quot; i inställningsområdet för tidrapport och timinställningar för att ange att följande användare även kan redigera tidrapporterna när de är inaktiverade: användare med administrativ åtkomst till tidrapporter och timmar, tidrapportgodkännare som kan redigera tid och tidrapportägarnas chefer.
+
+Observera att funktionaliteten för de här inställningarna inte har ändrats och att bara informationsikonerna har lagts till för att göra inställningarna tydligare.
 
 +++
 
