@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
+source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -85,7 +85,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [E-postmeddelanden: Användaren är inte dirigerad till kommentarstråden](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 23 april 2021 |
 | [Kalendrar: [!DNL OR] filterprogramsats exklusive filterregel](known-issues-workfront/wf-calendars-or-filter-statement.md) | 23 april 2021 |
 | [[!UICONTROL Workfront Proof]: [!UICONTROL Proof Approval] kan inte fastställa deadlines korrekt](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 april 2021 |
-| [[!UICONTROL Home]: Slutförda korrektur som sitter fast i [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 14 juni 2021 |
 | [Rapporter: Det går inte att rulla rapporten vågrätt vid visning på instrumentpanelen](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 30 mars 2021 |
 | [[!UICONTROL Home]: Projektnamnet visas som ett GUID i [!UICONTROL Work List]](known-issues-workfront/wf-home-project-name-shows-as-guid.md) | 11 februari 2021 |
 | [Dokument: Ikonen för korrekturarbetsflöde visas inte](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25 januari 2021 |
