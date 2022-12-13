@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
+source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
 workflow-type: tm+mt
-source-wordcount: '14779'
+source-wordcount: '14934'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,34 @@ Följande underhållsuppdateringar gjordes 2022.
 Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i december 2022
+
++++**Underhållsuppdatering 15 december 2022**
+
+**&quot;[!UICONTROL Whoops]&quot; fel när ett projekt skapas från en mall**
+
+*Projekt*
+
+När en användare försöker skapa ett projekt från en mall skapas inte projektet och användaren ser följande fel:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]&quot;
+
+**Kombinationsdiagram visar samma data två gånger**
+
+*Rapporter*
+
+När en användare visar ett kombinationsdiagram visas en värdeuppsättning två gånger i stället för att två värdeuppsättningar jämförs. Rätt värdeuppsättningar finns i rapportinformationen.
+
+**Inaktiverade användare är tillgängliga vid val av tidrapportgodkännare**
+
+*Tidrapporter*
+
+När en användare skapar en tidrapport och försöker tilldela en godkännare, innehåller listrutan inaktiverade användare. Om en inaktiverad användare väljs sparas inte tidrapporten och användaren ser följande meddelande:
+
+&quot;[!UICONTROL Error. Sorry! Only users with Plan license can approve or reject timesheets. Please contact your system administrator.]&quot;
+
+Eftersom den inaktiverade användaren inte kan tilldelas måste användaren välja en aktiverad användare. Tidrapporten fungerar därför som förväntat, men de inaktiverade användarna i listan kan orsaka förvirring eller besvär för användaren.
+
++++
 
 +++**Underhållsuppdatering 8 december 2022**
 
@@ -220,7 +248,7 @@ Detta beteende har rapporterats när användaren öppnar rapporten på följande
 
 När du öppnar rapporter via en kontrollpanel uppdateras den senast visade informationen.
 
-**[!DNL Workfront]: 500-fel vid ändringar i en [!DNL Workfront] object**
+**[!DNL Workfront]: 500-fel vid ändringar i en [!DNL Workfront] object**+
 
 *[!DNL Workfront]*
 
