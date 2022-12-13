@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
+source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
 workflow-type: tm+mt
-source-wordcount: '14934'
+source-wordcount: '15004'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,14 @@ Eftersom den inaktiverade användaren inte kan tilldelas måste användaren väl
 +++
 
 +++**Underhållsuppdatering 8 december 2022**
+
+**Val av smarta användare när godkännare läggs till i en godkännandesökväg**
+
+*Godkännanden*
+
+Vi har förbättrat det sätt på vilket användare visas när du lägger till dem i [!UICONTROL Approvers] för ett nytt godkännande.
+
+Nu när du lägger till en användare i [!UICONTROL Approvers] fält för ett godkännande på systemnivå eller för engångsbruk, förutom namn och avatar, visas även deras primära roll och e-postadressen. Detta gör det lättare att skilja mellan flera användare med liknande eller identiska namn.
 
 **Projektstatus följer inte gruppprojektinställningarna**
 
