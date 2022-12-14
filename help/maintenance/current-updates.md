@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
+source-git-commit: 927ea8bc10eb333428f1d10961c0b859be8f19bb
 workflow-type: tm+mt
-source-wordcount: '15004'
+source-wordcount: '15050'
 ht-degree: 0%
 
 ---
@@ -46,6 +46,12 @@ När en användare försöker skapa ett projekt från en mall skapas inte projek
 *Rapporter*
 
 När en användare visar ett kombinationsdiagram visas en värdeuppsättning två gånger i stället för att två värdeuppsättningar jämförs. Rätt värdeuppsättningar finns i rapportinformationen.
+
+**Verktygstips för nedtonade timceller i tidrapporter**
+
+*Tidrapporter*
+
+Vi har lagt till verktygstips som förklarar varför en timcell kan vara nedtonad i en tidrapport. En del orsaker kan till exempel vara att tidrapporten är stängd eller att projektet är slutfört.
 
 **Inaktiverade användare är tillgängliga vid val av tidrapportgodkännare**
 
