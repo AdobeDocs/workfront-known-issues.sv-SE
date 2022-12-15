@@ -2,9 +2,9 @@
 title: "Tidrapporter: Inaktiverade användare är tillgängliga vid val av tidrapportgodkännare"
 description: "När en användare skapar en tidrapport och försöker tilldela en godkännare, innehåller listrutan inaktiverade användare. Om en inaktiverad användare väljs sparas inte tidrapporten och användaren ser ett felmeddelande."
 hidefromtoc: true
-source-git-commit: 800d8330bfc7a4f964ea4f4b4ae4217c26eb09b6
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -12,11 +12,9 @@ ht-degree: 0%
 
 # Tidrapporter: Inaktiverade användare är tillgängliga vid val av tidrapportgodkännare
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on December 1, 2022.
--->
+>Problemet korrigerades den 15 december 2022.
 
 När en användare skapar en tidrapport och försöker tilldela en godkännare, innehåller listrutan inaktiverade användare. Om en inaktiverad användare väljs sparas inte tidrapporten och användaren ser följande meddelande:
 

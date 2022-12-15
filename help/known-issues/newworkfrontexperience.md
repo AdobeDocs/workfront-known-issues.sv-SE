@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -42,13 +42,10 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Dokument: Det går inte att överföra MP4-filen](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 december 2022 |
 | [Uppgifter: Det går inte att lägga till underaktivitet](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 december 2022 |
 | [Tidrapporter: Det går inte att ange tid på tidrapporten](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 december 2022 |
-| [Tidrapporter: Inaktiverade användare är tillgängliga vid val av tidrapportgodkännare](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2 december 2022 |
 | [Anpassade formulär: &quot;[!UICONTROL Invalid custom expression]&quot; när det refereras till &quot;[!UICONTROL owner]&quot; i ett beräkningsfält](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 december 2022 |
-| [Projekt: &quot;Hoppfel&quot; när ett projekt skapas från en mall](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2 december 2022 |
 | [Anpassade formulär: Det går inte att använda fältet i beräkningen om fältnamnet innehåller apostrofer eller citattecken](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 november 2022 |
 | [Anpassade formulär: &quot;[!UICONTROL You do not have sufficient access]&quot; fel vid redigering av eget formulär](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 november 2022 |
 | [Rapporter: &quot;Hoppfel&quot; när en ny utgåva läggs till i en problemrapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
-| [Rapporter: Kombinationsdiagram visar samma data två gånger](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 november 2022 |
 | [Anpassade formulär: &quot;Hoppfel&quot; vid inställning av ett beräkningsfält](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 oktober 2022 |
 | [Integrationer: Fel när begäran skickades från [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augusti 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |

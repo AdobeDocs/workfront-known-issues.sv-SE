@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 927ea8bc10eb333428f1d10961c0b859be8f19bb
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '15050'
+source-wordcount: '15231'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,17 @@ Underhållsuppdateringar före 2022 finns på [Tidigare underhållsuppdateringar
 ## Uppdateringar i december 2022
 
 +++**Underhållsuppdatering 15 december 2022**
+
+**Tillgänglighetsuppdateringar i listor**
+
+*Listor*
+
+Följande tillgänglighetsfunktioner finns nu i listor:
+
+* Kryssrutor i listor har nu en synlig fokusindikator när du tabbar till dem. Detta gör det enklare att visuellt följa tangentbordsnavigering för objekt i en lista.
+* Alla knappar i verktygsfälten för listor har nu enhetliga hovring- och fokuslägen, med en grå bakgrund som visas vid hovring och en grå bakgrund och blå kontur som visas vid fokus.
+* Tidigare, när en nedrullningsbar meny öppnades i en lista med blankstegstangenten, skulle menyn öppnas och sidan rullas ned en bit, vilket inte var tänkt. Nu rullar sidan inte längre när du trycker på Blanksteg i en listruta, vilket är det korrekta avsedda beteendet.
+* När du visar en lista där kryssrutan för rader är markerad kan du nu bläddra igenom varje redigerbart objekt med tabbtangenten och sedan trycka på blankstegstangenten för att växla till redigeringsläget och börja redigera cellen i raden. Tidigare gick det inte att navigera med tangentbordet och dessa objekt krävde att en mus användes. Nu kan du växla till redigeringsläget med både mus och tangentbord.
 
 **&quot;[!UICONTROL Whoops]&quot; fel när ett projekt skapas från en mall**
 
