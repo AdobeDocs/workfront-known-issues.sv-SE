@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
-source-wordcount: '15231'
+source-wordcount: '15282'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,12 @@ När en användare skapar en tidrapport och försöker tilldela en godkännare, 
 &quot;[!UICONTROL Error. Sorry! Only users with Plan license can approve or reject timesheets. Please contact your system administrator.]&quot;
 
 Eftersom den inaktiverade användaren inte kan tilldelas måste användaren välja en aktiverad användare. Tidrapporten fungerar därför som förväntat, men de inaktiverade användarna i listan kan orsaka förvirring eller besvär för användaren.
+
+**Det går inte att ange tid på tidrapporten**
+
+*Tidrapporter*
+
+När en användare försöker lägga till tid i en tidrapport ser han eller hon att timrutorna i valfri projekttid eller aktivitetstidsrader är nedtonade och att de inte kan ange tid i dessa rutor. De kan bara ange tid i området Allmän tid.
 
 +++
 
