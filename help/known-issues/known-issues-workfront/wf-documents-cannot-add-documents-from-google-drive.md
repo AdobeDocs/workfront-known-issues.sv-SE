@@ -1,0 +1,24 @@
+---
+title: "Dokument: Det går inte att lägga till dokument från Google Drive"
+description: "När en användare försöker lägga till ett dokument i Workfront från Google Drive visas inga filer i filväljaren och användaren kan inte markera önskad fil."
+hidefromtoc: true
+source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
+
+---
+
+
+# Dokument: Kan inte lägga till dokument från [!DNL Google Drive]
+
+<!--On WF and WFP TOCs-->
+
+När en användare försöker lägga till ett dokument i [!DNL Workfront] från [!DNL Google Drive]visas inga filer i filväljaren och användaren kan inte markera önskad fil.
+
+**Tillfällig lösning**
+
+Hämta filen från [!DNL Google Drive] till datorn och sedan överföra filen från datorn till [!DNL Workfront].
+
+_Först rapporterad den 15 december 2022._
+
