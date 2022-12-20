@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
+source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
 workflow-type: tm+mt
-source-wordcount: '1132'
+source-wordcount: '1138'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporter: Redigeringsrapportskärmen är tom](known-issues-workfront/wf-reports-edit-report-is-blank.md)
       + [Dokument: Dokumentbehörigheter ärvs inte när deras överordnade problem konverteras till ett projekt](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [Rapporter: Rapporten använder rapportskaparen i stället för jokertecknet &quot;$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [Dokument: Det går inte att överföra MP4-filen](known-issues-workfront/wf-documents-cannot-upload-mp4.md)

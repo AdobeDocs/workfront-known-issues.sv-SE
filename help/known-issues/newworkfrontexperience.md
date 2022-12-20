@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
+source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapporter: Redigeringsrapportskärmen är tom](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 december 2022 |
 | [Dokument: Det går inte att överföra MP4-filen](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 december 2022 |
 | [Uppgifter: Det går inte att lägga till underaktivitet](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 december 2022 |
 | [Anpassade formulär: &quot;[!UICONTROL Invalid custom expression]&quot; när det refereras till &quot;[!UICONTROL owner]&quot; i ett beräkningsfält](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 december 2022 |
