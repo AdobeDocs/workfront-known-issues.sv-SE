@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 69396ba9c1dabade728cca5c9dce97b2d7c1998c
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,15 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 +++**(Planerat) Underhållsuppdatering den 5 januari 2023**
 
-Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar.
+**Fästfunktionen är tillgänglig i [!UICONTROL More] meny**
+
+_Navigering_
+
+Följande funktioner är nu tillgängliga i [!UICONTROL More] meny för punkter, endast i förhandsvisningsmiljön:
+
+* Byter namn på punkter
+* Ändra ordning på punkter i [!UICONTROL More] meny
+* Flytta ut ett häftstift från [!UICONTROL More] (när du gör det flyttas det sista stiftet i det övre navigeringsfältet till [!UICONTROL More] meny)
 
 +++
 
