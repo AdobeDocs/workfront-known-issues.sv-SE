@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3c46566128f154a129b0a88a3a6ea335cc07273
+source-git-commit: fef42f59b0dd8f9494478254e73fa9615852bf8a
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,12 @@ Följande funktioner är nu tillgängliga i [!UICONTROL More] meny för punkter,
 * Byter namn på punkter
 * Ändra ordning på punkter i [!UICONTROL More] meny
 * Flytta ut ett häftstift från [!UICONTROL More] (när du gör det flyttas det sista stiftet i det övre navigeringsfältet till [!UICONTROL More] meny)
+
+**Begränsningen för projektgruppen har tagits bort från möjligheten att lägga till användare i projektteamet**
+
+_Team_
+
+Vi har tagit bort den begränsning som innebar att användare som måste läggas till i ett projektteam måste finnas i den grupp som är kopplad till projektet. Nu kan du lägga till alla aktiva användare i ett projektteam, oavsett vilka grupper de tillhör.
 
 +++
 
