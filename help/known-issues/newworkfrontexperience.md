@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
+source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [Uppdateringar: Skärmen blir tillfälligt tom när svar skickas](known-issues-workfront/wf-updates-reply-goes-blank.md) | 6 januari 2023 |
-| [Dokument: Kan inte lägga till dokument från [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 december 2022 |
-| [Dokument: Dokumentbehörigheter ärvs inte när deras överordnade problem konverteras till ett projekt](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 december 2022 |
-| [Rapporter: Rapporten använder rapportskaparen i stället för jokertecknet &quot;$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | 13 december 2022 |
-| [Integrationer: Kan inte öppna [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 7 december 2022 |
 | [Korrektur: Korrektur visas i korrekturläsaren som mindre tydliga än originalbilden](known-issues-workfront/wf-proofs-are-blurry.md) | 18 november 2022 |
 | [Korrektur: Bevisgenereringen är extremt långsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
 | [Korrektur: Utskriftssammanfattningen visar inte alla sidor med korrektur](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
@@ -42,16 +38,15 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrationer: Kan inte öppna [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 6 januari 2023 |
+| [Dokument: Dokumentbehörigheter ärvs inte när deras överordnade problem konverteras till ett projekt](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 december 2022 |
 | [Uppgifter: Indragna uppgifter förblir inte indragna](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 6 januari 2023 |
 | [Anpassad Forms: Ctrl+F eller Cmd+F fungerar inte som väntat i listrutor](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 3 januari 2023 |
 | [Korrektur: Korrektur arkiveras inte](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 december 2022 |
 | [Rapporter: Redigeringsrapportskärmen är tom](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 december 2022 |
-| [Dokument: Det går inte att överföra MP4-filen](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 december 2022 |
 | [Uppgifter: Det går inte att lägga till underaktivitet](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 december 2022 |
 | [Anpassade formulär: &quot;[!UICONTROL Invalid custom expression]&quot; när det refereras till &quot;[!UICONTROL owner]&quot; i ett beräkningsfält](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 december 2022 |
-| [Anpassade formulär: Det går inte att använda fältet i beräkningen om fältnamnet innehåller apostrofer eller citattecken](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 november 2022 |
 | [Rapporter: &quot;Hoppfel&quot; när en ny utgåva läggs till i en problemrapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
-| [Anpassade formulär: &quot;Hoppfel&quot; vid inställning av ett beräkningsfält](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 oktober 2022 |
 | [Integrationer: Fel när begäran skickades från [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augusti 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 
@@ -63,6 +58,8 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Anpassade formulär: Det går inte att använda fältet i beräkningen om fältnamnet innehåller apostrofer eller citattecken](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6 januari 2023 |
+| [Projekt: Projektstatus följer inte gruppprojektinställningarna](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 6 januari 2023 |
 | [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
 | [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 december 2022 |
 | [Projekt: Prestandaproblem och felmeddelande när du skapar ett projekt från en mall](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2 december 2022 |

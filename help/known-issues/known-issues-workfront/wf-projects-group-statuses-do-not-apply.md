@@ -2,9 +2,9 @@
 title: "Projekt: Projektstatus följer inte gruppprojektinställningarna"
 description: "När en användare skapar ett projekt från en mall får det nya projektet inte den status som angetts i gruppprojektinställningarna. Om ett projekt skapas utan en mall visas gruppprojektinställningarna som förväntat."
 hidefromtoc: true
-source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
+source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Detta problem korrigerades den 8 december 2022.
+>Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
 När en användare skapar ett projekt från en mall får det nya projektet inte den status som angetts i gruppprojektinställningarna. Om ett projekt skapas utan en mall visas gruppprojektinställningarna som förväntat.
 
