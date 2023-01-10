@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: aa129b37ee460450fa8c015b2f1c4b15c1dc466f
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,28 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i januari 2023
+
++++**(Planerat) Underhållsuppdatering 12 januari 2023**
+
+**Ctrl+F eller Cmd+F fungerar inte som väntat i listrutor**
+
+_Anpassad Forms_
+
+När en användare fyller i ett anpassat formulär och söker i en listruta med Ctrl+F eller Cmd+F och sedan försöker hoppa till nästa förekomst av sökningen, återgår listrutan till början av listan i stället för att hoppa till nästa förekomst av sökningen. Detta inträffar när en listruta är inställd på att tillåta flera val.
+
+**[!UICONTROL Edit Report]skärmen är tom**
+
+_Rapporter_
+
+När en användare visar en rapport och försöker redigera rapporten, visas användaren på en tom skärm och kan inte redigera rapporten.
+
+**Indragna uppgifter förblir inte indragna**
+
+_Uppgifter_
+
+När en användare visar en uppgiftslista och drar in en uppgift återgår uppgiften omedelbart till det ursprungliga (indraget) läget.
+
++++
 
 +++**Underhållsuppdatering 5 januari 2023**
 
