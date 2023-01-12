@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
+source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '552'
 ht-degree: 0%
 
 ---
@@ -40,10 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | -----------------------------------------------------------------| ----------------- |
 | [Integrationer: Kan inte öppna [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 6 januari 2023 |
 | [Dokument: Dokumentbehörigheter ärvs inte när deras överordnade problem konverteras till ett projekt](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 december 2022 |
-| [Uppgifter: Indragna uppgifter förblir inte indragna](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 6 januari 2023 |
-| [Anpassad Forms: Ctrl+F eller Cmd+F fungerar inte som väntat i listrutor](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 3 januari 2023 |
 | [Korrektur: Korrektur arkiveras inte](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 december 2022 |
-| [Rapporter: Redigeringsrapportskärmen är tom](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 december 2022 |
 | [Anpassade formulär: &quot;[!UICONTROL Invalid custom expression]&quot; när det refereras till &quot;[!UICONTROL owner]&quot; i ett beräkningsfält](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 december 2022 |
 | [Rapporter: &quot;Hoppfel&quot; när en ny utgåva läggs till i en problemrapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
 | [Integrationer: Fel när begäran skickades från [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augusti 2022 |
