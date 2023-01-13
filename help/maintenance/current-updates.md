@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
+source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,40 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i januari 2023
+
++++**[!DNL Adobe Workfront Fusion]Underhållsuppdatering (snabbkorrigering) 12 januari 2023**
+
+**404 fel på [!DNL Workfront] moduler**
+
+_Workfront Fusion_
+
+När ett scenario körs [!DNL Workfront] modulen returnerar ett 404-fel.
+
+Detta har rapporterats i följande moduler:
+
+* [!UICONTROL Read a record]
+
++++
+
++++**Underhållsuppdatering (snabbkorrigering) 12 januari 2023**
+
+**&quot;[!UICONTROL Whoops]&quot; fel vid inställning av beräkningsfält**
+
+_Anpassad Forms_
+
+När en användare skapar eller redigerar ett beräknat fält i ett anpassat formulär och inkluderar ett anpassat fält i det beräknade fältets uttryck, anses uttrycket vara ogiltigt. The [!UICONTROL Save] är inaktiverad och användaren kan inte navigera bort från det anpassade fältet. Dessutom ser användaren följande meddelande under fältet:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+
+Om du tar bort det anpassade fältet från uttrycket kan användaren spara och navigera bort från fältet.
+
+**Det går inte att ange åtkomstnivåer**
+
+_Användare_
+
+När en användare försöker ändra åtkomstnivån för en annan användare är åtkomstnivåerna nedtonade och användaren kan inte ändra dem. Detta inträffar även om användaren som försöker göra ändringen är systemadministratör.
+
++++
 
 +++**Underhållsuppdatering 12 januari 2023**
 
