@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: '1205'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Inställningar: Kan inte spara e-postmallar](known-issues-workfront/wf-setup-email-templates-not-working.md)
+      + [Användare: Användaren kan inte redigera sin egen användarinställning](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Dokument: Kan inte återställa borttaget dokument](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [Dokument: Fel vid överföring av stor fil](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Uppgifter: Indragna uppgifter förblir inte indragna](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
