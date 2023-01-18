@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
+source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
 workflow-type: tm+mt
-source-wordcount: '1181'
+source-wordcount: '1192'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Dokument: Kan inte återställa borttaget dokument](known-issues-workfront/wf-documents-cannot-restore-document.md)
+      + [Dokument: Fel vid överföring av stor fil](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Uppgifter: Indragna uppgifter förblir inte indragna](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [Uppdateringar: Skärmen blir tillfälligt tom när svar skickas](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Anpassad Forms: Ctrl+F eller Cmd+F fungerar inte som väntat i listrutor](known-issues-workfront/wf-custom-forms-dropdown-search.md)

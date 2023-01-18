@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b6182d9693b48e4b3bdacb783d202522d23583f6
+source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i januari 2023
 
-+++**(Planerat) Underhållsuppdatering 19 januari 2023**
++++**Underhållsuppdatering 18 januari 2023**
 
 **Uttryck med jokertecken är inte giltiga i anpassade fält**
 
 _Anpassad Forms_
 
-När en användare använder jokertecken som $$TODAY eller $$NOW tillsammans med en modifierare (till exempel&quot;-30d&quot;) i ett anpassat fält, accepterar inte valideraren jokertecknet som giltigt. Jokertecken utan modifierare betraktas som giltiga.
+När en användare använder ett jokertecken som \$$TODAY eller $$NOW tillsammans med en modifierare (till exempel&quot;-30d&quot;) i ett anpassat fält, accepterar inte valideraren jokertecknet som giltigt. Jokertecken utan modifierare betraktas som giltiga.
 
 **[!UICONTROL Workload Balancer]visar timmar som inte är associerade med ett projekt/en uppgift/utleverans**
 

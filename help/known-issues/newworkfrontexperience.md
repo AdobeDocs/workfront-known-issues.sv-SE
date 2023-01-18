@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
+source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '555'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Uppdateringar: Skärmen blir tillfälligt tom när svar skickas](known-issues-workfront/wf-updates-reply-goes-blank.md) | 6 januari 2023 |
+| [Dokument: Kan inte återställa borttaget dokument](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 januari 2023 |
+| [Dokument: Fel vid överföring av stor fil](known-issues-workfront/wf-documents-large-uploads-fail.md) | 18 januari 2023 |
 | [Korrektur: Korrektur visas i korrekturläsaren som mindre tydliga än originalbilden](known-issues-workfront/wf-proofs-are-blurry.md) | 18 november 2022 |
 | [Korrektur: Bevisgenereringen är extremt långsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
 | [Korrektur: Utskriftssammanfattningen visar inte alla sidor med korrektur](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
