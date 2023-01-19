@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '837'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,26 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i januari 2023
+
++++**Underhållsuppdatering 19 januari 2023**
+
+**Intagskolumnfilter kan nu delas**
+
+_Varumärkena_
+
+När intagskolumnens funktion släpptes till Boards kunde filter för att ställa in intagskolumnen bara ses av den person som skapade dessa filter. Nu kan skaparen dela filtren med andra användare eller team.
+
+**Fästfunktionen är tillgänglig i [!UICONTROL More] meny**
+
+_Navigering_
+
+Följande funktioner är nu tillgängliga i [!UICONTROL More] för stift, i produktionsmiljön:
+
+* Byter namn på punkter
+* Ändra ordning på punkter i [!UICONTROL More] meny
+* Flytta ut ett häftstift från [!UICONTROL More] (när du gör det flyttas det sista stiftet i det övre navigeringsfältet till [!UICONTROL More] meny)
+
++++
 
 +++**Underhållsuppdatering 18 januari 2023**
 
