@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -24,12 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Dokument: Kan inte återställa borttaget dokument](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 januari 2023 |
-| [Dokument: Fel vid överföring av stor fil](known-issues-workfront/wf-documents-large-uploads-fail.md) | 18 januari 2023 |
-| [[!DNL Workfront Proof] API: &quot;[!UICONTROL Body is not a valid XML]&quot;-fel](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 10 januari 2023 |
 | [Dokument: Kan inte lägga till dokument från [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 december 2022 |
-| [Dokument: Dokumentbehörigheter ärvs inte när deras överordnade problem konverteras till ett projekt](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 december 2022 |
-| [Korrektur: Korrektur visas i korrekturläsaren som mindre tydliga än originalbilden](known-issues-workfront/wf-proofs-are-blurry.md) | 18 november 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -39,6 +34,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof] API: &quot;[!UICONTROL Body is not a valid XML]&quot;-fel](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 januari 2023 |
+| [Dokument: Kan inte återställa borttaget dokument](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 januari 2023 |
 | [Korrektur: Korrektur arkiveras inte](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 december 2022 |
 
 {style=&quot;table-layout:auto&quot;}

@@ -2,9 +2,9 @@
 title: "Korrektur visas lika tydligt som originalbilden"
 description: "När en användare skapar ett korrektur och sedan visar det korrekturet i visningsprogrammet för korrektur ser korrekturet mindre tydligt (mer oskarpt) ut än originalbilden."
 hidefromtoc: true
-source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Korrektur: Korrektur visas i korrekturläsaren som mindre tydliga än originalbilden
 
 <!--This is on both the WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Problemet har stängts eftersom det inte gick att reproducera.
 
 När en användare skapar ett korrektur och sedan visar det korrekturet i visningsprogrammet för korrektur ser korrekturet mindre tydligt (mer oskarpt) ut än originalbilden.
 

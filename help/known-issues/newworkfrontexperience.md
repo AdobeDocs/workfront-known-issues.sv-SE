@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '540'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Inställningar: Kan inte spara e-postmallar](known-issues-workfront/wf-setup-email-templates-not-working.md) | 18 januari 2023 |
 | [Dokument: Kan inte återställa borttaget dokument](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 januari 2023 |
-| [Dokument: Fel vid överföring av stor fil](known-issues-workfront/wf-documents-large-uploads-fail.md) | 18 januari 2023 |
-| [Korrektur: Korrektur visas i korrekturläsaren som mindre tydliga än originalbilden](known-issues-workfront/wf-proofs-are-blurry.md) | 18 november 2022 |
 | [Korrektur: Bevisgenereringen är extremt långsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
 | [Korrektur: Utskriftssammanfattningen visar inte alla sidor med korrektur](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
 
@@ -40,10 +37,10 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Inställningar: Kan inte spara e-postmallar](known-issues-workfront/wf-setup-email-templates-not-working.md) | 20 januari 2023 |
+| [Dokument: Kan inte återställa borttaget dokument](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 januari 2023 |
 | [Användare: Användaren kan inte redigera sin egen användarinställning](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | 18 januari 2023 |
-| [Dokument: Dokumentbehörigheter ärvs inte när deras överordnade problem konverteras till ett projekt](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 december 2022 |
 | [Korrektur: Korrektur arkiveras inte](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 december 2022 |
-| [Anpassade formulär: &quot;[!UICONTROL Invalid custom expression]&quot; när det refereras till &quot;[!UICONTROL owner]&quot; i ett beräkningsfält](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 december 2022 |
 | [Rapporter: &quot;Hoppfel&quot; när en ny utgåva läggs till i en problemrapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
 | [Integrationer: Fel när begäran skickades från [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augusti 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
@@ -56,6 +53,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Anpassade formulär: &quot;[!UICONTROL Invalid custom expression]&quot; när det refereras till &quot;[!UICONTROL owner]&quot; i ett beräkningsfält](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 20 januari 2023 |
 | [Integrationer: Kan inte öppna [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 12 januari 2023 |
 | [[!UICONTROL Home]: Slutförda korrektur som sitter fast i [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 januari 2023 |
 | [Anpassade formulär: Det går inte att använda fältet i beräkningen om fältnamnet innehåller apostrofer eller citattecken](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6 januari 2023 |
