@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
+source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '898'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,20 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i januari 2023
+
++++**(Planerat) Underhållsuppdatering 26 januari 2023**
+
+**Fel när begäran skickades från[!DNL Outlook]**
+
+_Integreringar_
+
+När en användare försöker skicka en begäran med bilagor från en [!DNL Outlook] e-post, en eller flera bilagor överförs inte och användaren ser följande fel:
+
+&quot;[!UICONTROL The following error occurred: File with handle xxxx does not exist.]&quot;
+
+Detta inträffar endast när en tilldelning görs för den nya begäran, antingen via begärandekön eller manuellt när begäran skapas.
+
++++
 
 +++**Underhållsuppdatering 19 januari 2023**
 
