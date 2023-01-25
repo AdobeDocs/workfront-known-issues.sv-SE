@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
+source-git-commit: 9d19a853dbd123107d55eb362d383f5080ff1b8a
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '947'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,12 @@ När en användare försöker skicka en begäran med bilagor från en [!DNL Outl
 &quot;[!UICONTROL The following error occurred: File with handle xxxx does not exist.]&quot;
 
 Detta inträffar endast när en tilldelning görs för den nya begäran, antingen via begärandekön eller manuellt när begäran skapas.
+
+**Användaren kan inte redigera sin egen användarinställning**
+
+_Användare_
+
+När en användare med en licens för Arbete, Granska eller Begäran försöker redigera sina egna användarinställningar, är popup-fönstret som öppnas tomt och användaren kan inte göra några ändringar. Användaren måste uppdatera sidan för att kunna stänga popup-fönstret.
 
 +++
 
