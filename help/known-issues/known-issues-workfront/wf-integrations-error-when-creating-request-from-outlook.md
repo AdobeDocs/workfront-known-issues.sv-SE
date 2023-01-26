@@ -2,15 +2,19 @@
 title: '"Integrationer: Fel när begäran skickades från Outlook'
 description: "När en användare försöker skicka en begäran med bilagor från en [!DNL Outlook] e-post, en eller flera bilagor överförs inte och användaren ser ett fel."
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 
 # Integrationer: Fel när begäran skickades från [!DNL Outlook]
+
+>[!NOTE]
+>
+>Problemet korrigerades den 26 januari 2023.
 
 När en användare försöker skicka en begäran med bilagor från en [!DNL Outlook] e-post, en eller flera bilagor överförs inte och användaren ser följande fel:
 

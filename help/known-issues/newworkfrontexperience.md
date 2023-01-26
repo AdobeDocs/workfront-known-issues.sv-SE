@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
+source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '524'
 ht-degree: 0%
 
 ---
@@ -39,10 +39,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | -----------------------------------------------------------------| ----------------- |
 | [Inställningar: Kan inte spara e-postmallar](known-issues-workfront/wf-setup-email-templates-not-working.md) | 20 januari 2023 |
 | [Dokument: Kan inte återställa borttaget dokument](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 januari 2023 |
-| [Användare: Användaren kan inte redigera sin egen användarinställning](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | 18 januari 2023 |
 | [Korrektur: Korrektur arkiveras inte](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 december 2022 |
 | [Rapporter: &quot;Hoppfel&quot; när en ny utgåva läggs till i en problemrapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
-| [Integrationer: Fel när begäran skickades från [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 augusti 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 
 {style=&quot;table-layout:auto&quot;}
