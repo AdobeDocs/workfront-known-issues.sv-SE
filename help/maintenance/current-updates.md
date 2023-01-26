@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
-source-wordcount: '946'
+source-wordcount: '1018'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,17 @@ När en användare försöker skicka en begäran med bilagor från en [!DNL Outl
 &quot;[!UICONTROL The following error occurred: File with handle xxxx does not exist.]&quot;
 
 Detta inträffar endast när en tilldelning görs för den nya begäran, antingen via begärandekön eller manuellt när begäran skapas.
+
+**Ny version av Desktop Proofing Viewer**
+
+_Korrektur_
+
+För att åtgärda ett problem med frysning i Desktop Proofing Viewer har vi distribuerat en ny version av Desktop Proofing Viewer. Användare som redan har installerat Desktop Proofing Viewer får den här uppdateringen automatiskt.
+
+Användarna kan även manuellt välja den senaste versionen. Mer information finns i [Installera Desktop Proofing Viewer](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+
+* Föregående version: 2.1.19
+* Ny version: 2.1.20
 
 **Användaren kan inte redigera sin egen användarinställning**
 
