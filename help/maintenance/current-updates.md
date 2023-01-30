@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
+source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1249'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,41 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i januari 2023
+
++++**Underhållsuppdatering 30 januari 2023**
+
+**Kortkommandon som lagts till för vanliga tidrapportåtgärder**
+
+_Tidrapporter_
+
+Vi har introducerat följande kortkommandon för följande vanliga åtgärder i en tidrapport:
+
+* Lägg till rad (Cmd+Option++ / Ctrl+Alt++)
+* Radera en rad (Cmd+Option+- / Ctrl+Alt+-)
+* Fäst eller ta bort fästpunkter för ett arbetsobjekt (Alt+P/Alternativ+P)
+* Öppna kommentar (Skift+F2 / Skift+F2)
+* Spara kommentar (Cmd+Enter / Ctrl+Retur)
+* Expandera (Skift+Alt+Uppåtpil/Skift+Alt+Uppåtpil)
+* Komprimera (Skift+Alt+Nedpil/Skift+Alt+Nedpil)
+
+Området där dessa åtgärder utförs måste markeras för att de ska kunna tillämpas.
+
+**Nya informationsikoner för tidrapporter, tidrapportprofiler och tidrapportinställningar**
+
+_Tidrapporter_
+
+>[!NOTE]
+>
+>Den här uppdateringen släpptes endast i förhandsvisningsmiljön den 3 november 2022 och är nu tillgänglig i Production.
+
+Vi har lagt till flera informationsikoner i följande inställningar:
+
+* &quot;[!UICONTROL Can edit time]&quot;, kryssruta när du skapar eller redigerar en tidrapport eller en tidrapportprofil för att ange att godkännare när den är aktiverad även kan skicka, öppna igen eller redigera tidrapporten, såvida inte administratören begränsar dessa åtgärder i [!UICONTROL Timesheet Preferences] område på [!UICONTROL Setup].
+* &quot;[!UICONTROL Restrict timesheet editing to owners and admins]&quot; i [!UICONTROL Timesheet & Hour Preferences] område på [!UICONTROL Setup] om du vill ange att följande användare även kan redigera tidrapporterna när de är inaktiverade: användare med administrativ åtkomst till tidrapporter och timmar, tidrapportgodkännare som kan redigera tid och tidrapportägarnas chefer.
+
+Observera att funktionaliteten för de här inställningarna inte har ändrats och att bara informationsikonerna har lagts till för att göra inställningarna tydligare.
+
++++
 
 +++**Underhållsuppdatering 26 januari 2023**
 
