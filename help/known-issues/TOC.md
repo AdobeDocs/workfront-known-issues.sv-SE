@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
+source-git-commit: 1ab3d654c933d21a1ec7f91e04a454c96622aa64
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Projekt: Projekt som konverterats från utgåva ärver inte behörigheter från portfölj eller program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL Setup]: Granskningsloggar exporteras inte](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL Summary]: Kan inte rulla [!UICONTROL Summary] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [Dokument: Felet &quot;Ogiltigt svar&quot; när ett dokument öppnas eller hämtas](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [Användare: Schemalagd inaktivering inaktiverar inte användare](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Inställningar: Kan inte spara e-postmallar](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Användare: Användaren kan inte redigera sin egen användarinställning](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
@@ -167,6 +171,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Kända fel i Workfront Fusion](workfrontfusion.md)
    + Aktuella problem i [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Adobe Workfront Fusion]: 404 fel i Workfront-moduler](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: Kan inte skapa anslutning till [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: Arrayelement i [!UICONTROL Iterator] visas som &quot;[!UICONTROL object Object]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fel vid visning av ett fel i en scenariokörningshistorik](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
