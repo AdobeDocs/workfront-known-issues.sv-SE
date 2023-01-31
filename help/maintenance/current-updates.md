@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
+source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
 workflow-type: tm+mt
-source-wordcount: '1249'
+source-wordcount: '1280'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,17 @@ Följande underhållsuppdateringar gjordes 2023.
 
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
-## Uppdateringar i januari 2023
+## Uppdateringar i februari 2023
+
++++**Underhållsuppdatering 2 februari 2023**
+
+**Kan inte spara e-postmallar**
+
+_Inställningar_
+
+När en användare försöker skapa eller redigera en e-postmall [!UICONTROL Save] knappen svarar inte och användaren kan inte spara mallen.
+
++++
 
 +++**Underhållsuppdatering 30 januari 2023**
 
