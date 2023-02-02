@@ -2,7 +2,7 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
+source-git-commit: 9cd28fae4c6e1a3c6759353351de4b09a46984f3
 workflow-type: tm+mt
 source-wordcount: '1331'
 ht-degree: 0%
@@ -27,7 +27,9 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 _Varumärkena_
 
-Ikonen för anslagstavlor visas nu på huvudmenyn för användare som inte har någon layoutmall. Alla nya layoutmallar som skapas innehåller som standard även stödlinjer på huvudmenyn. Befintliga layoutmallar har inte ändrats.**Kan inte spara e-postmallar**
+Ikonen för anslagstavlor visas nu på huvudmenyn för användare som inte har någon layoutmall. Alla nya layoutmallar som skapas innehåller som standard även stödlinjer på huvudmenyn. Befintliga layoutmallar har inte ändrats.
+
+**Kan inte spara e-postmallar**
 
 _Inställningar_
 
