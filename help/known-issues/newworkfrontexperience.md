@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [[!UICONTROL Setup]: Granskningsloggar exporteras inte](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 januari 2023 |
 | [[!UICONTROL Summary]: Kan inte rulla [!UICONTROL Summary] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 30 januari 2023 |
 | [Användare: Schemalagd inaktivering inaktiverar inte användare](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 januari 2023 |
-| [Inställningar: Kan inte spara e-postmallar](known-issues-workfront/wf-setup-email-templates-not-working.md) | 20 januari 2023 |
 | [Dokument: Kan inte återställa borttaget dokument](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 januari 2023 |
 | [Rapporter: &quot;Hoppfel&quot; när en ny utgåva läggs till i en problemrapport](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 november 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
