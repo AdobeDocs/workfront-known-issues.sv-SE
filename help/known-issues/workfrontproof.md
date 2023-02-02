@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: 202602937d0734716871d78d0863a46cf646ced5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Nytt stadium har skapats eftersom deadline inte kan matcha deadline för befintligt stadium](known-issues-workfront-proof/proof-new-stage-created.md) | 2 februari 2023 |
 | [[!UICONTROL Home]: Slutförda korrektur som sitter fast i [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 januari 2023 |
 | [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
 | [Korrektur: Korredet delas inte med användare i korrekturarbetsflödet](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 september 2022 |

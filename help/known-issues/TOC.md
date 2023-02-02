@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
+source-git-commit: 3826558093ba7d8aa6ee25211010c60610d03fcc
 workflow-type: tm+mt
-source-wordcount: '1281'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -150,6 +150,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Kända fel i [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuella problem i [!DNL Workfront Proof] {#proof-current}
+      + [Korrektur: Nytt stadium har skapats eftersom deadline inte kan matcha deadline för befintligt stadium](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: &quot;[!UICONTROL Body is not a valid XML]&quot;-fel](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [[!DNL Workfront Proof]: Kan inte öppna ett interaktivt korrektur](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Korrektur: Utskriftssammanfattningen visar inte alla sidor med korrektur](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
