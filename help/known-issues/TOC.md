@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
+source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1322'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett nytt projekt](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Utjämning av arbetsbelastning: Felaktiga resultat vid användning av flera filter samtidigt](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [Grupper: Undergrupper tar inte emot meddelanden baserat på meddelandeinställningar för grupphändelser](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [Dokument: Sammanfattningspanelen återgår till den övre när du klickar på menyn med tre punkter](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)

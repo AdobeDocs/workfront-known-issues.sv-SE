@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
+source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett nytt projekt](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 februari 2023 |
 | [Utjämning av arbetsbelastning: Felaktiga resultat vid användning av flera filter samtidigt](known-issues-workfront/wf-workload-balancer-multiple-filters.md) | 3 februari 2023 |
 | [Dokument: Sammanfattningspanelen återgår till den övre när du klickar på menyn med tre punkter](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 januari 2023 |
 | [Dokument: Felet &quot;Den sidan finns inte&quot; när ett dokument öppnas eller laddas ned](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 januari 2023 |
