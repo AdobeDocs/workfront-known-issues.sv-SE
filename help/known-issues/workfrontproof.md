@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 202602937d0734716871d78d0863a46cf646ced5
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | -----------------------------------------------------------------| ----------------- |
 | [Dokument: Sammanfattningspanelen återgår till den övre när du klickar på menyn med tre punkter](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 januari 2023 |
 | [Dokument: Felet &quot;Den sidan finns inte&quot; när ett dokument öppnas eller laddas ned](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 januari 2023 |
-| [Dokument: Felet &quot;Ogiltigt svar&quot; när ett dokument öppnas eller hämtas](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 30 januari 2023 |
 | [Dokument: Kan inte lägga till dokument från [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 december 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -38,7 +37,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof] API: &quot;[!UICONTROL Body is not a valid XML]&quot;-fel](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 januari 2023 |
-| [Dokument: Kan inte återställa borttaget dokument](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 januari 2023 |
 
 {style=&quot;table-layout:auto&quot;}
 

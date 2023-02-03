@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '575'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | [Dokument: Sammanfattningspanelen återgår till den övre när du klickar på menyn med tre punkter](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 januari 2023 |
 | [Dokument: Felet &quot;Den sidan finns inte&quot; när ett dokument öppnas eller laddas ned](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 januari 2023 |
 | [Projekt: Projekt som konverterats från utgåva ärver inte behörigheter från portfölj eller program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 januari 2023 |
-| [Dokument: Felet &quot;Ogiltigt svar&quot; när ett dokument öppnas eller hämtas](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 30 januari 2023 |
-| [Dokument: Kan inte återställa borttaget dokument](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 januari 2023 |
 | [Korrektur: Bevisgenereringen är extremt långsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 oktober 2022 |
 | [Korrektur: Utskriftssammanfattningen visar inte alla sidor med korrektur](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
 
