@@ -1,7 +1,7 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 3826558093ba7d8aa6ee25211010c60610d03fcc
+source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Utjämning av arbetsbelastning: Felaktiga resultat vid användning av flera filter samtidigt](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [Grupper: Undergrupper tar inte emot meddelanden baserat på meddelandeinställningar för grupphändelser](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [Dokument: Sammanfattningspanelen återgår till den övre när du klickar på menyn med tre punkter](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
       + [Dokument: Felet &quot;Den sidan finns inte&quot; när ett dokument öppnas eller laddas ned](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
@@ -175,6 +176,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Kända fel i Workfront Fusion](workfrontfusion.md)
    + Aktuella problem i [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Adobe Workfront Fusion]: Timeoutfel i Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: 404 fel i Workfront-moduler](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: Kan inte skapa anslutning till [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: Arrayelement i [!UICONTROL Iterator] visas som &quot;[!UICONTROL object Object]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)

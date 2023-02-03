@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Fusion]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 1ab3d654c933d21a1ec7f91e04a454c96622aa64
+source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| Ingen |  |
+| [[!DNL Adobe Workfront Fusion]: Timeoutfel i Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md) | 3 februari 2023 |
 
 {style=&quot;table-layout:auto&quot;}
 
