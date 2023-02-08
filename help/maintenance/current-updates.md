@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c85772aa45bce70beb6f0f52fec926abcf8d5843
+source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1411'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,16 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 +++**(Planerat) Underhållsuppdatering 9 februari 2023**
 
 Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
+
++++
+
++++**Underhållsuppdatering 8 februari 2023**
+
+**Filterknapp i intagskolumnen**
+
+_Varumärkena_
+
+Inloppskolumnen på en anslagstavla innehåller nu en **Lägga till ett filter** när kolumnen är tom och inga filter har skapats. Knappen öppnar konfigurationsområdet, där du kan lägga till filter för att ta in uppgifter och problem i inloppskolumnen.
 
 +++
 
