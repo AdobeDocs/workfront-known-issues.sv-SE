@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
+source-git-commit: f31a0b764aa1e734fc2cb997b7f7170b315f3086
 workflow-type: tm+mt
-source-wordcount: '1411'
+source-wordcount: '1422'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,13 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i februari 2023
 
-+++**(Planerat) Underhållsuppdatering 9 februari 2023**
++++**Underhållsuppdatering 9 februari 2023**
 
-Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
+**[!UICONTROL Story Points]fält som lagts till i uppgiftslistor och problemlistor och rapporter**
+
+_Rapporter_
+
+The [!UICONTROL Story Points] -fältet är nu tillgängligt för att lägga till i listor och rapporter för uppgifter eller problem. Det är ett redigerbart frihandsfält som inte är kopplat till planerade timmar eller grupptilldelningar.
 
 +++
 
@@ -33,17 +37,17 @@ Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrige
 
 _Varumärkena_
 
-Inloppskolumnen på en anslagstavla innehåller nu en **Lägga till ett filter** när kolumnen är tom och inga filter har skapats. Knappen öppnar konfigurationsområdet, där du kan lägga till filter för att ta in uppgifter och problem i inloppskolumnen.
+Inloppskolumnen på en anslagstavla innehåller nu en **[!UICONTROL Add a filter]** när kolumnen är tom och inga filter har skapats. Knappen öppnar konfigurationsområdet, där du kan lägga till filter för att ta in uppgifter och problem i inloppskolumnen.
 
 +++
 
 +++**Underhållsuppdatering 2 februari 2023**
 
-**Ikonen för anslagstavlor visas som standard på huvudmenyn**
+**[!UICONTROL Boards]ikonen visas i [!UICONTROL Main Menu] som standard**
 
 _Varumärkena_
 
-Ikonen för anslagstavlor visas nu på huvudmenyn för användare som inte har någon layoutmall. Alla nya layoutmallar som skapas innehåller som standard även stödlinjer på huvudmenyn. Befintliga layoutmallar har inte ändrats.
+The [!UICONTROL Boards] ikonen visas nu i [!UICONTROL Main Menu] för användare som inte har någon layoutmall. Alla nya layoutmallar som skapas innehåller som standard även stödlinjer på huvudmenyn. Befintliga layoutmallar har inte ändrats.
 
 **Kan inte spara e-postmallar**
 
