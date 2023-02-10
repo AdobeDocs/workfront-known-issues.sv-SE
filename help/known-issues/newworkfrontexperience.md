@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
+source-git-commit: e82b48da068f119a5ab42410b86dd47bf0aa0bc3
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Uppdateringar: Länk till en kommentar omdirigeras till sidan Detaljer](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 10 februari 2023 |
 | [[!UICONTROL Setup]: Granskningsloggar exporteras inte](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 januari 2023 |
 | [Användare: Schemalagd inaktivering inaktiverar inte användare](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 januari 2023 |
 | [Dokument: Kan inte återställa borttaget dokument](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 januari 2023 |
