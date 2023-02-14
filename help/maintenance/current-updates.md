@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f31a0b764aa1e734fc2cb997b7f7170b315f3086
+source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1454'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i februari 2023
+
++++**(Planerat) Underhållsuppdatering 16 februari 2023**
+
+**Schemalagd inaktivering inaktiverar inte användare**
+
+_Användare_
+
+När en användare är schemalagd att inaktiveras och det schemalagda datumet och den schemalagda tiden passerar, inaktiveras inte användaren.
+
++++
 
 +++**Underhållsuppdatering 9 februari 2023**
 
