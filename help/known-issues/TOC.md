@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: ae624c4cf75d907613bd0fc7f2efbedf73b1c35d
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '992'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Boards]: Det går inte att lägga till kort när gruppering används](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Användare: Åtkomstnivån tilldelas inte när användaren återaktiveras](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Uppdateringar: Länka till en kommentar omdirigeras till [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [Användare: Användaren kan inte redigera sina egna meddelandeinställningar](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)

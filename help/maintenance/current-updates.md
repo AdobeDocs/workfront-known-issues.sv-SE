@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1454'
+source-wordcount: '1498'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,19 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i februari 2023
 
-+++**(Planerat) Underhållsuppdatering 16 februari 2023**
++++**Underhållsuppdatering 16 februari 2023**
+
+**Flera teamuppdrag på styrelser**
+
+_Varumärkena_
+
+Du kan nu tilldela flera team till en uppgift eller ett ärende i en styrelse och till själva styrelsen.
+
+**Ökning av kortets utfallsgräns**
+
+_Varumärkena_
+
+Utgångsdatumet för kortet har ökat till 8 veckor/60 dagar i stället för 4 veckor/30 dagar.
 
 **Schemalagd inaktivering inaktiverar inte användare**
 
