@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
+source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1004'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Projekt: 504-fel i projekthuvudet](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL Boards]: Det går inte att lägga till kort när gruppering används](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Användare: Åtkomstnivån tilldelas inte när användaren återaktiveras](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Uppdateringar: Länka till en kommentar omdirigeras till [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
