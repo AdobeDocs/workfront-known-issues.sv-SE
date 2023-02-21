@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
+source-git-commit: e98fb79ece32db7e590078660a4fcf560b8e6be8
 workflow-type: tm+mt
-source-wordcount: '1498'
+source-wordcount: '1604'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,24 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i februari 2023
+
++++**(Planerat) Underhållsuppdatering 23 februari 2023**
+
+**Länka till en kommentar omdirigeras till [!UICONTROL Details] page**
+
+_Uppdateringar_
+
+När en användare följer en länk till en kommentar om ett objekt i Workfront läses uppdateringsströmmen in en kort stund och sedan dirigeras användaren till objektets [!UICONTROL Details] område. Detta kan inträffa om användaren klickar på länken från ett e-postmeddelande eller klistrar in länken i sin webbläsare.
+
+Detta påverkar för närvarande bara Document-objekt.
+
+**Användaren kan inte redigera sina egna meddelandeinställningar**
+
+_Användare_
+
+När en användare med [!UICONTROL Worker] licensförsök att redigera sina egna meddelandeinställningar, [!UICONTROL Notifications] alternativen inte visas i [!UICONTROL Edit] och användaren kan inte redigera inställningarna.
+
++++
 
 +++**Underhållsuppdatering 16 februari 2023**
 
@@ -78,6 +96,8 @@ _Inställningar_
 När en användare försöker skapa eller redigera en e-postmall [!UICONTROL Save] knappen svarar inte och användaren kan inte spara mallen.
 
 +++
+
+## Uppdateringar i januari 2023
 
 +++**Underhållsuppdatering 30 januari 2023**
 
