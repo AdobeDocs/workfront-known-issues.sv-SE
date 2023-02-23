@@ -3,7 +3,7 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: ace7bcf248b16fa62c04cc112b5844f5fcb38a2d
 workflow-type: tm+mt
 source-wordcount: '565'
 ht-degree: 0%
@@ -27,7 +27,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | [Projekt: 504-fel i projekthuvudet](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 februari 2023 |
 | [[!UICONTROL Boards]: Det går inte att lägga till kort när gruppering används](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 16 februari 2023 |
 | [Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett nytt projekt](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 februari 2023 |
-| [Projekt: Projekt som konverterats från utgåva ärver inte behörigheter från portfölj eller program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 januari 2023 |
 | [Korrektur: Utskriftssammanfattningen visar inte alla sidor med korrektur](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -38,6 +37,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projekt: Projekt som konverterats från utgåva ärver inte behörigheter från portfölj eller program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 februari 2023 |
 | [Integrationer: Kan inte öppna [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 14 februari 2023 |
 | [Användare: Åtkomstnivån tilldelas inte när användaren återaktiveras](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 februari 2023 |
 | [Dokument: Kan inte återställa borttaget dokument](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 januari 2023 |
