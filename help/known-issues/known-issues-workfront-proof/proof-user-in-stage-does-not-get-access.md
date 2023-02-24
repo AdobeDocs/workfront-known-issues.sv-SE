@@ -2,7 +2,7 @@
 title: "Korrektur: Korredet delas inte med användare i korrekturarbetsflödet"
 description: "När ett korrektur når en fas i ett arbetsflöde som en användare har lagts till när ett korrektur skapas, delas inte korrekturet med användaren och användaren kan inte komma åt korrekturet."
 hidefromtoc: true
-source-git-commit: 4addd191c4d14a2661dfc670a65edd72fe3ed146
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -13,6 +13,7 @@ ht-degree: 0%
 # Korrektur: Korredet delas inte med användare i korrekturarbetsflödet
 
 <!--This issue is on the WF and WFP TOCs-->
+<!--Article live by request-->
 
 >[!NOTE]
 >
