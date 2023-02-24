@@ -1,10 +1,10 @@
 ---
-title: ""
-description: ""
+title: "Korrektur: Användaren får inte e-post när den taggas i en korrekturkommentar"
+description: "När en användare taggas med formatet @name i en korrekturkommentar får användaren inget e-postmeddelande om kommentaren."
 hidefromtoc: true
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
