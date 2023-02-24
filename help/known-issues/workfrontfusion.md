@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Fusion]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
+source-git-commit: 6290d20892889fb2a31ae2a7a2a844dfe4cc2952
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Fel vid visning av ett fel i en scenariokörningshistorik](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 4 november 2022 |
 | [[!DNL Workfront Fusion]: Felet &quot;Det gick inte att verifiera anslutningen&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29 september 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] modul returnerar 404-fel utan ytterligare information](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9 september 2022 |
 
