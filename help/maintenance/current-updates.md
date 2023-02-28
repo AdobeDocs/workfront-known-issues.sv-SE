@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
 workflow-type: tm+mt
-source-wordcount: '1603'
+source-wordcount: '1774'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,34 @@ Följande underhållsuppdateringar gjordes 2023.
 >Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
 
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
+
+## Uppdateringar i mars 2023
+
++++**(Planerat) Underhållsuppdatering 2 mars 2023**
+
+**Det går inte att lägga till kort när gruppering används**
+
+_Varumärkena_
+
+När en användare visar en anslagstavla med en gruppering och försöker lägga till ett kort, kan användaren bara ange kortets namn. Resten av kortfälten är inaktiverade, inklusive [!UICONTROL Save] -knappen.
+
+Om användaren ändrar grupperingen till [!UICONTROL None]kvarstår problemet. Användaren måste ändra grupperingen till [!UICONTROL None] och sedan uppdatera sidan för att återställa möjligheten att lägga till ett kort.
+
+**Länka till en kommentar omdirigeras till [!UICONTROL Details] page**
+
+_Uppdateringar_
+
+När en användare följer en länk till en kommentar om ett objekt i Workfront läses uppdateringsströmmen in en kort stund och sedan dirigeras användaren till objektets [!UICONTROL Details] område. Detta kan inträffa om användaren klickar på länken från ett e-postmeddelande eller klistrar in länken i sin webbläsare.
+
+Detta påverkar för närvarande bara Document-objekt.
+
+**Utskriftssammanfattning läses inte in**
+
+_[!UICONTROL Workfront Proof]_
+
+När en användare försöker att läsa in sidan Skriv ut sammanfattning ser det ut som om sidan läses in, men aldrig läses in.
+
++++
 
 ## Uppdateringar i februari 2023
 
