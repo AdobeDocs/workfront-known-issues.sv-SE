@@ -2,15 +2,19 @@
 title: "Varor: Det går inte att lägga till kort när gruppering används"
 description: "När en användare visar en anslagstavla med en gruppering och försöker lägga till ett kort, kan användaren bara ange kortets namn. Resten av kortfälten är inaktiverade, inklusive knappen Spara."
 hidefromtoc: true
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
 
 # [!UICONTROL Boards]: Det går inte att lägga till kort när gruppering används
+
+>[!NOTE]
+>
+>Problemet korrigerades den 2 mars 2023.
 
 När en användare visar en anslagstavla med en gruppering och försöker lägga till ett kort, kan användaren bara ange kortets namn. Resten av kortfälten är inaktiverade, inklusive [!UICONTROL Save] -knappen.
 

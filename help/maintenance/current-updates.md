@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '1774'
+source-wordcount: '1809'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i mars 2023
 
-+++**(Planerat) Underhållsuppdatering 2 mars 2023**
++++**Underhållsuppdatering 2 mars 2023**
 
 **Det går inte att lägga till kort när gruppering används**
 
@@ -30,6 +30,13 @@ _Varumärkena_
 När en användare visar en anslagstavla med en gruppering och försöker lägga till ett kort, kan användaren bara ange kortets namn. Resten av kortfälten är inaktiverade, inklusive [!UICONTROL Save] -knappen.
 
 Om användaren ändrar grupperingen till [!UICONTROL None]kvarstår problemet. Användaren måste ändra grupperingen till [!UICONTROL None] och sedan uppdatera sidan för att återställa möjligheten att lägga till ett kort.
+
+**Anslutna kort har inte lagts till i kolumner baserat på status**
+
+_Varumärkena_
+
+Även om kolumnprofiler används för status, visas nya anslutna kort i kolumnen längst till vänster och inte i den kolumn som motsvarar deras status.
+
 
 **Länka till en kommentar omdirigeras till [!UICONTROL Details] page**
 
