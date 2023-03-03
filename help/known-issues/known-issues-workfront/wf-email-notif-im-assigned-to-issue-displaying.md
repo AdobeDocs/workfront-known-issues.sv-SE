@@ -3,7 +3,7 @@ title: "E-postmeddelanden: Jag är tilldelad en probleminställning som visas"
 description: I [!UICONTROL Setup] visas inställningen "Jag har tilldelats ett problem" för e-postmeddelanden för användare med licens för granskning och begäran. Den här inställningen är inte tillgänglig för de här licenstyperna och aktivering av inställningen utlöser inte e-postmeddelanden för den här händelsen.
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -11,6 +11,8 @@ ht-degree: 0%
 ---
 
 # E-postmeddelanden: &quot;[!UICONTROL I'm assigned to an issue]&quot;-inställningen visas
+
+<!--Article created by request-->
 
 >[!NOTE]
 >

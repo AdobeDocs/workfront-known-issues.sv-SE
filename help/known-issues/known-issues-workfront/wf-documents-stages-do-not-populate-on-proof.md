@@ -2,7 +2,7 @@
 title: "Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt"
 description: '"När en användare skapar ett bevis och sedan visar det i en rapport som [!UICONTROL Document Version] eller [!UICONTROL Proof Approval] de ser att [!UICONTROL Active Proof Stages] fältet är tomt. Detta inträffar när korrekturet skapas efter att dokumentet har överförts, antingen som en [!UICONTROL Simple Proof] eller en [!UICONTROL Advanced Proof] med [!UICONTROL Basic Workflow].'
 hidefromtoc: true
-source-git-commit: 40763737feab664840a600224cff2f2889cbef72
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt
 
-<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
+<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof. Article created by request.-->
 
 >[!NOTE]
 >
