@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
-source-wordcount: '1809'
+source-wordcount: '1881'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i mars 2023
+
++++**(Planerat) Underhållsuppdatering 9 mars 2023**
+
+**Åtkomstnivån tilldelas inte när användaren återaktiveras**
+
+_Användare_
+
+När en användare återaktiverar en inaktiverad användare och försöker tilldela dem en åtkomstnivå i [!UICONTROL Reactivate User] -fönstret fylls inte listrutan på åtkomstnivå som användartyper och användaren kan inte välja en åtkomstnivå. Om användaren skriver i åtkomstnivån och sparar, tilldelas den återaktiverade användaren inte den åtkomstnivån.
+
++++
 
 +++**Underhållsuppdatering 2 mars 2023**
 
