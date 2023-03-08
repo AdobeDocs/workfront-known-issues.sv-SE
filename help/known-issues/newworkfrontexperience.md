@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
+source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Tidrapporter: [!UICONTROL Hour Type] listrutan öppnas inte](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 3 mars 2023 |
 | [Dokument: [!UICONTROL Summary] panelinnehållet är för brett för panelen](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 mars 2023 |
 | [Korrektur: Anpassade meddelanden visas inte i e-postmeddelanden](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 3 mars 2023 |
-| [Integrationer: Fel vid inloggning till [!DNL Workfront] från [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 2 mars 2023 |
 | [Projekt: Anpassat fält saknas när utgåva konverteras till projekt](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2 mars 2023 |
 | [Projekt: Projekt som konverterats från utgåva ärver inte behörigheter från portfölj eller program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 februari 2023 |
 | [Användare: Åtkomstnivån tilldelas inte när användaren återaktiveras](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 februari 2023 |
