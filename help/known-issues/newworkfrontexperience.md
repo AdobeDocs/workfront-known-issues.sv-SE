@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
+source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '501'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Korrektur: Anpassade meddelanden visas inte i e-postmeddelanden](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 3 mars 2023 |
 | [Projekt: Anpassat fält saknas när utgåva konverteras till projekt](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2 mars 2023 |
 | [Projekt: Projekt som konverterats från utgåva ärver inte behörigheter från portfölj eller program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 februari 2023 |
-| [Användare: Åtkomstnivån tilldelas inte när användaren återaktiveras](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 februari 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 
 {style="table-layout:auto"}
@@ -55,7 +54,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett nytt projekt](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
 | [Integrationer: Kan inte öppna [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 februari 2023 |
 | [Korrektur: Användaren får inte e-post när den taggas i en korrekturkommentar](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 februari 2023 |
-| [Anpassade formulär: &quot;[!UICONTROL Invalid custom expression]&quot; när det refereras till &quot;[!UICONTROL owner]&quot; i ett beräkningsfält](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 20 januari 2023 |
 | [[!UICONTROL Home]: Slutförda korrektur som sitter fast i [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 januari 2023 |
 | [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
 | [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 december 2022 |

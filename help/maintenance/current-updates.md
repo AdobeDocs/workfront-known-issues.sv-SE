@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
+source-git-commit: 3c0a34c118c8a3b900890a7126a7502b7556b0d4
 workflow-type: tm+mt
-source-wordcount: '1881'
+source-wordcount: '1926'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,19 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i mars 2023
 
-+++**(Planerat) Underhållsuppdatering 9 mars 2023**
++++**Underhållsuppdatering 9 mars 2023**
 
 **Åtkomstnivån tilldelas inte när användaren återaktiveras**
 
 _Användare_
 
 När en användare återaktiverar en inaktiverad användare och försöker tilldela dem en åtkomstnivå i [!UICONTROL Reactivate User] -fönstret fylls inte listrutan på åtkomstnivå som användartyper och användaren kan inte välja en åtkomstnivå. Om användaren skriver i åtkomstnivån och sparar, tilldelas den återaktiverade användaren inte den åtkomstnivån.
+
+**Spara utkastet av en kommentar i [!DNL Goals] area**
+
+_[!DNL Workfront Goals]_
+
+Nu när du navigerar bort från [!UICONTROL Updates] sida för ett mål när ett meddelande disponeras bevaras meddelandet när du navigerar tillbaka. Före den här uppdateringen skulle den ej inskickade kommentaren ha tagits bort.
 
 +++
 

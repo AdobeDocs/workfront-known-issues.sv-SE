@@ -3,9 +3,9 @@ title: 'Anpassade formulär: Ogiltigt meddelande om anpassat uttryck när ägare
 description: '"När en användare lägger till ett beräknat fält i ett anpassat formulär på problemnivå och försöker lägga till en referens till en ägare (t.ex. "ownerID"), sparas inte fältet och användaren ser följande meddelande: Det här är ett ogiltigt kunduttryck, försök igen.'''
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
+source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
+>Problemet korrigerades den 9 mars 2023.
 
 <!--
 >[!NOTE]
