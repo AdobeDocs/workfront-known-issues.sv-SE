@@ -3,7 +3,7 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
+source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
 workflow-type: tm+mt
 source-wordcount: '501'
 ht-degree: 0%
@@ -36,7 +36,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Tidrapporter: [!UICONTROL Hour Type] listrutan öppnas inte](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 3 mars 2023 |
 | [Dokument: [!UICONTROL Summary] panelinnehållet är för brett för panelen](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 mars 2023 |
 | [Korrektur: Anpassade meddelanden visas inte i e-postmeddelanden](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 3 mars 2023 |
 | [Projekt: Anpassat fält saknas när utgåva konverteras till projekt](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2 mars 2023 |
@@ -51,6 +50,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tidrapporter: [!UICONTROL Hour Type] listrutan öppnas inte](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 mars 2023 |
 | [Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett nytt projekt](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
 | [Integrationer: Kan inte öppna [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 februari 2023 |
 | [Korrektur: Användaren får inte e-post när den taggas i en korrekturkommentar](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 februari 2023 |
