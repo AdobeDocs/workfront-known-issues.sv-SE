@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: a91992049d298aaa47dc5510d0bb6af850cf314e
+source-git-commit: 506874e3b4503db3390a09f44b4be204b4ead2b3
 workflow-type: tm+mt
-source-wordcount: '1128'
+source-wordcount: '1126'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
-      + [Utjämning av arbetsbelastning: Timmar justeras inte efter användarens ledig tid](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
+      + [[!UICONTROL Workload Balancer]: Timmar justeras inte efter användarens ledig tid](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [Rapporter: Sortering efter kolumnrubrik återgår till föregående sortering](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
       + [[!UICONTROL Updates]: Det går inte att logga tiden för den aktuella dagen i [!UICONTROL Updates] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Tidrapporter: [!UICONTROL Hour Type] listrutan öppnas inte](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
