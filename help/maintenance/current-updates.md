@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 7738ac9b68dd48817105171d7f9ae2cf97e742fe
+source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
 workflow-type: tm+mt
-source-wordcount: '2092'
+source-wordcount: '2121'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,12 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 ## Uppdateringar i mars 2023
 
 +++**(Planerat) Underhållsuppdatering 16 mars 2023**
+
+**Checklisteobjekt kopieras inte när ett kort kopieras**
+
+_Varumärkena_
+
+När du kopierar ett ad hoc-kort (anslutna kort kan inte kopieras) kopieras inte checklisteobjekt till det nya kortet.
 
 **[!UICONTROL Summary]panelinnehållet är för brett för panelen**
 
