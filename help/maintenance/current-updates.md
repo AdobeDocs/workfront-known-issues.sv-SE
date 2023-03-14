@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3c0a34c118c8a3b900890a7126a7502b7556b0d4
+source-git-commit: 7f4d16ac984134af0f16122ea0aa79a6bcc4cd3c
 workflow-type: tm+mt
-source-wordcount: '1926'
+source-wordcount: '2091'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,28 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i mars 2023
+
++++**Underhållsuppdatering 16 mars 2023**
+
+**[!UICONTROL Summary]panelinnehållet är för brett för panelen**
+
+_Dokument_
+
+När en användare tittar på [!UICONTROL Summary] för ett dokument är innehållet för brett för att visas på panelen. Panelen har nu en vågrät rullningslist och användaren måste rulla vågrätt för att se [!UICONTROL Summary] panelinnehåll. Det beror på att dokumentets filnamn inte radbryts. Problemet är begränsat till filer där filnamnet har filtillägget HTML.
+
+**Anpassat fält saknas när utgåva konverteras till projekt**
+
+_Projekt_
+
+När en användare konverterar ett problem till ett projekt med hjälp av en mall visas inte ett anpassat fält som fanns på problemet i projektet. Problemet gäller endast icke-administratörer.
+
+**Anpassade meddelanden visas inte i e-postmeddelanden**
+
+_Korrektur_
+
+När en användare delar ett korrektur och lägger till ett anpassat meddelande visas inte det anpassade meddelandet i e-postmeddelandet till mottagaren. Ämnet är korrekturnamnet och meddelandet visas inte i e-postmeddelandet.
+
++++
 
 +++**Underhållsuppdatering 9 mars 2023**
 
