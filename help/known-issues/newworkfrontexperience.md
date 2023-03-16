@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '505'
 ht-degree: 0%
 
 ---
@@ -24,12 +24,9 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tidrapporter: [!UICONTROL Hour Type] listrutan öppnas inte](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 16 mars 2023 |
 | [[!UICONTROL Workload Balancer]: Timmar justeras inte efter användarens ledig tid](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 mars 2023 |
-| [Rapporter: Sortering efter kolumnrubrik återgår till föregående sortering](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 10 mars 2023 |
 | [[!UICONTROL Updates]: Det går inte att logga tiden för den aktuella dagen i [!UICONTROL Updates] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 mars 2023 |
-| [Korrektur: Det går inte att lägga till användare eller grupp i provarbetsflödet](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 februari 2023 |
-| [Korrektur: Korrekturroller har ändrats till [!UICONTROL Read Only]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 februari 2023 |
-| [Projekt: 504-fel i projekthuvudet](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 februari 2023 |
 
 {style="table-layout:auto"}
 
@@ -39,6 +36,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapporter: Sortering efter kolumnrubrik återgår till föregående sortering](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16 mars 2023 |
 | [Filter: Filtret används inte när sidan uppdateras](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 mars 2023 |
 | [Dokument: [!UICONTROL Summary] panelinnehållet är för brett för panelen](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 mars 2023 |
 | [Projekt: Projekt som konverterats från utgåva ärver inte behörigheter från portfölj eller program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 februari 2023 |

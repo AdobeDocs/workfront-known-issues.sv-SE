@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: e2b518715b4283ed7940ee51dda44cc1cad0227a
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-|  | 24 februari 2023 |
 | [[!DNL Workfront Proof]: Listor är inte korrekt sorterade](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 15 mars 2023 |
-| [Korrektur: Det går inte att lägga till användare eller grupp i provarbetsflödet](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 februari 2023 |
-| [Korrektur: Korrekturroller har ändrats till [!UICONTROL Read Only]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 februari 2023 |
 
 {style="table-layout:auto"}
 

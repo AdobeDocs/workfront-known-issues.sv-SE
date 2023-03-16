@@ -1,15 +1,19 @@
 ---
 title: "Projekt: 504-fel i projekthuvudet"
 description: "När en användare visar ett projekt finns det inget namn eller data i projekthuvudet. Användaren ser i stället ett fel."
-source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 
 # Projekt: 504-fel i projekthuvudet
+
+>[!NOTE]
+>
+>Problemet har åtgärdats.
 
 När en användare visar ett projekt finns det inget namn eller data i projekthuvudet. I stället ser användaren ett fel som liknar följande:
 
