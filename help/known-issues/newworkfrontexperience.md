@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 506874e3b4503db3390a09f44b4be204b4ead2b3
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filter: Filtret används inte när sidan uppdateras](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 mars 2023 |
 | [Dokument: [!UICONTROL Summary] panelinnehållet är för brett för panelen](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 mars 2023 |
-| [Korrektur: Anpassade meddelanden visas inte i e-postmeddelanden](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 3 mars 2023 |
-| [Projekt: Anpassat fält saknas när utgåva konverteras till projekt](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2 mars 2023 |
 | [Projekt: Projekt som konverterats från utgåva ärver inte behörigheter från portfölj eller program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 februari 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 

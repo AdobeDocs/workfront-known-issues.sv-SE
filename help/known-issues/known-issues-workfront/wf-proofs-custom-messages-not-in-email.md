@@ -2,15 +2,19 @@
 title: "Korrektur: Anpassade meddelanden visas inte i e-postmeddelanden"
 description: "När en användare delar ett korrektur och lägger till ett anpassat meddelande visas inte det anpassade meddelandet i e-postmeddelandet till mottagaren. Ämnet är korrekturnamnet och meddelandet visas inte i e-postmeddelandet."
 hidefromtoc: true
-source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
 # Korrektur: Anpassade meddelanden visas inte i e-postmeddelanden
+
+>[!NOTE]
+>
+>Problemet korrigerades den 16 mars 2023.
 
 När en användare delar ett korrektur och lägger till ett anpassat meddelande visas inte det anpassade meddelandet i e-postmeddelandet till mottagaren. Ämnet är korrekturnamnet och meddelandet visas inte i e-postmeddelandet.
 

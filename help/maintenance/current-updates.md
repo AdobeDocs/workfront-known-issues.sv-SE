@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '2121'
+source-wordcount: '2049'
 ht-degree: 0%
 
 ---
@@ -28,12 +28,6 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 _Varumärkena_
 
 När du kopierar ett ad hoc-kort (anslutna kort kan inte kopieras) kopieras inte checklisteobjekt till det nya kortet.
-
-**[!UICONTROL Summary]panelinnehållet är för brett för panelen**
-
-_Dokument_
-
-När en användare tittar på [!UICONTROL Summary] för ett dokument är innehållet för brett för att visas på panelen. Panelen har nu en vågrät rullningslist och användaren måste rulla vågrätt för att se [!UICONTROL Summary] panelinnehåll. Det beror på att dokumentets filnamn inte radbryts. Problemet är begränsat till filer där filnamnet har filtillägget HTML.
 
 **Anpassat fält saknas när utgåva konverteras till projekt**
 
