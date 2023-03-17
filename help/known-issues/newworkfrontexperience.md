@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
+source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,9 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokument: 404-fel vid åtkomst av dokument som är länkade från [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 17 mars 2023 |
+| [Dokument: [!UICONTROL Proofing Activities] alternativ leder till inloggningssida](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 mars 2023 |
+| [Uppdateringar: Uppdateringar som gjorts för en användares räkning visas som direkt från användaren](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 17 mars 2023 |
 | [Tidrapporter: [!UICONTROL Hour Type] listrutan öppnas inte](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 16 mars 2023 |
 | [[!UICONTROL Workload Balancer]: Timmar justeras inte efter användarens ledig tid](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 mars 2023 |
 | [[!UICONTROL Updates]: Det går inte att logga tiden för den aktuella dagen i [!UICONTROL Updates] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 mars 2023 |

@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
 workflow-type: tm+mt
-source-wordcount: '1140'
+source-wordcount: '1167'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Dokument: 404-fel vid åtkomst av dokument som är länkade från [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
+      + [Dokument: [!UICONTROL Proofing Activities] alternativ leder till inloggningssida](known-issues-workfront/wf-documents-taken-to-login-screen.md)
+      + [Uppdateringar: Uppdateringar som gjorts för en användares räkning visas som direkt från användaren](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
       + [Filter: Filtret används inte när sidan uppdateras](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL Workload Balancer]: Timmar justeras inte efter användarens ledig tid](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [Rapporter: Sortering efter kolumnrubrik återgår till föregående sortering](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)

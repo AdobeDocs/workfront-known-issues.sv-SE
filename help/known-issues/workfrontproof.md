@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
+source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokument: 404-fel vid åtkomst av dokument som är länkade från [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 17 mars 2023 |
+| [Dokument: [!UICONTROL Proofing Activities] alternativ leder till inloggningssida](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 mars 2023 |
 | [[!DNL Workfront Proof]: Listor är inte korrekt sorterade](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 15 mars 2023 |
 
 {style="table-layout:auto"}
