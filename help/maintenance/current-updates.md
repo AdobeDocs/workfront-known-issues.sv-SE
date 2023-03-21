@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
 workflow-type: tm+mt
-source-wordcount: '2049'
+source-wordcount: '2125'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,17 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i mars 2023
 
-+++**(Planerat) Underhållsuppdatering 16 mars 2023**
++++**(Planerat) Underhållsuppdatering 23 mars 2023**
+
+**[!UICONTROL Summary]panelinnehållet är för brett för panelen**
+
+_Dokument_
+
+När en användare tittar på [!UICONTROL Summary] för ett dokument är innehållet för brett för att visas på panelen. Panelen har nu en vågrät rullningslist och användaren måste rulla vågrätt för att se [!UICONTROL Summary] panelinnehåll. Det beror på att dokumentets filnamn inte radbryts. Problemet är begränsat till filer där filnamnet har filtillägget HTML.
+
++++
+
++++**Underhållsuppdatering 16 mars 2023**
 
 **Checklisteobjekt kopieras inte när ett kort kopieras**
 
