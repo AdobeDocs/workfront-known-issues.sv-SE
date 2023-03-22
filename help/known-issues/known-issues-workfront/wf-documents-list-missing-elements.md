@@ -2,7 +2,7 @@
 title: '"Dokument: Problem med dokumentlistan'
 description: "I den här artikeln beskrivs de senaste problemen som har rapporterats angående dokumentlistan."
 hidefromtoc: true
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: 9d76e762063f7922b1d47930a0aa0b7e812ae7f9
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Följande problem har rapporterats angående dokumentlistan:
 
-* Miniatyrbilder visas inte
+* Miniatyrbilder visas inte.
 * Om en användare byter den markerade mappen i listvyn fungerar inte längre alternativen Filtervy och Gruppering.
 
 **Tillfällig lösning**
