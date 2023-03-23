@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Dokument: Problem med dokumentlistan](known-issues-workfront/wf-documents-list-missing-elements.md) | 22 mars 2023 |
-| [Korrektur: Korrekturstadiet aktiveras inte när en deadline för föregående fas har passerat](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 21 mars 2023 |
-| [Dokument: 404-fel vid åtkomst av dokument som är länkade från [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 17 mars 2023 |
 | [Dokument: [!UICONTROL Proofing Activities] alternativ leder till inloggningssida](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 mars 2023 |
-| [[!DNL Workfront Proof]: Listor är inte korrekt sorterade](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 15 mars 2023 |
 
 {style="table-layout:auto"}
 
@@ -38,7 +34,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Dokument: [!UICONTROL Summary] panelinnehållet är för brett för panelen](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 mars 2023 |
+| [Korrektur: Korrekturstadiet aktiveras inte när en deadline för föregående fas har passerat](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
 | [[!DNL Workfront Proof] API: &quot;[!UICONTROL Body is not a valid XML]&quot;-fel](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 januari 2023 |
 
 {style="table-layout:auto"}
@@ -49,6 +45,9 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokument: 404-fel vid åtkomst av dokument som är länkade från [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |
+| [Dokument: Problem med dokumentlistan](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 mars 2023 |
+| [[!DNL Workfront Proof]: Listor är inte korrekt sorterade](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 23 mars 2023 |
 | [Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett nytt projekt](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports] område stöds inte längre](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 mars 2023 |
 | [Korrektur: Användaren får inte e-post när den taggas i en korrekturkommentar](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 februari 2023 |
