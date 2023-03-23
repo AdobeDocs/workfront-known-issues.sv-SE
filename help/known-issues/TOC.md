@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1208'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Korrektur: Användaren inaktiveras från korrekturarbetsflödet och hämtar &quot;[!UICONTROL Access not permitted]&quot; vid åtkomst till korrektur](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [Dokument: Problem med dokumentlistan](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [Korrektur: Korrekturstadiet aktiveras inte när en deadline för föregående fas har passerat](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [Användare: Åtkomstnivån har ändrats av systemet utan att det gick att registrera ändringen](known-issues-workfront/wf-users-access-level-is-changed.md)
