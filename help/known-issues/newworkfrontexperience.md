@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,9 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Sök: [!DNL Workfront] Timeout för sökning](known-issues-workfront/wf-search-search-times-out.md) | 27 mars 2023 |
+| [Korrektur: Det går inte att växla korrekturversion vid visning av korrektur](known-issues-workfront/wf-proofs-cannot-switch-version.md) | 27 mars 2023 |
+| [Korrektur: Listrutor öppnas inte när en användare läggs till i ett korrektur](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 27 mars 2023 |
 | [Tidrapporter: [!UICONTROL Hour Type] listrutan öppnas inte](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 mars 2023 |
 | [Korrektur: Korrekturstadiet aktiveras inte när en deadline för föregående fas har passerat](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
 | [Korrektur: Användaren inaktiveras från korrekturarbetsflödet och hämtar &quot;[!UICONTROL Access not permitted]&quot; vid åtkomst till korrektur](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 mars 2023 |

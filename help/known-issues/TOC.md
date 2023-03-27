@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '1208'
+source-wordcount: '1233'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Sök: [!DNL Workfront] Timeout för sökning](known-issues-workfront/wf-search-search-times-out.md)
+      + [Korrektur: Det går inte att växla korrekturversion vid visning av korrektur](known-issues-workfront/wf-proofs-cannot-switch-version.md)
+      + [Korrektur: Listrutor öppnas inte när en användare läggs till i ett korrektur](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [Korrektur: Användaren inaktiveras från korrekturarbetsflödet och hämtar &quot;[!UICONTROL Access not permitted]&quot; vid åtkomst till korrektur](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [Dokument: Problem med dokumentlistan](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [Korrektur: Korrekturstadiet aktiveras inte när en deadline för föregående fas har passerat](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
