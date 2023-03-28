@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 861e0f3e69cf30e897315fa7f999ef5ac4cbee3a
+source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Det går inte att använda verktyget Polyline när du gör en kommentar i ett korrektur](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 28 mars 2023 |
 | [Dokument: [!UICONTROL Proofing Activities] alternativ leder till inloggningssida](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 mars 2023 |
 
 {style="table-layout:auto"}
