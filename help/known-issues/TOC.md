@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
 workflow-type: tm+mt
-source-wordcount: '1253'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Projekt: [!UICONTROL Home Group] anpassade statusvärden som inte är tillgängliga när du skapar ett projekt från en mall](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Korrektur: Det går inte att använda verktyget Polyline när du gör en kommentar i ett korrektur](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [Korrektur: Mätverktyget accepterar inte decimalpunkter](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Sök: [!DNL Workfront] Timeout för sökning](known-issues-workfront/wf-search-search-times-out.md)
