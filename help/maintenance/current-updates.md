@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
 workflow-type: tm+mt
-source-wordcount: '2263'
+source-wordcount: '2307'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,25 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i mars 2023
 
-+++**(Planerat) Underhållsuppdatering 23 mars 2023**
++++**Underhållsuppdatering 23 mars 2023**
 
 **Det går inte att växla korrekturversion vid visning av korrektur**
 
 _Korrektur_
 
-När en användare visar ett korrektur i [!UICONTROL Proofing Viewer]och växlar till en annan version, blir listrutan över versioner inaktiverad och användaren kan inte växla tillbaka till den ursprungliga versionen som han/hon visade eller till en annan version av korrekturet.
+När en användare visar ett korrektur i [!UICONTROL Proofing Viewer]och växlar till en annan version, blir listrutan i version inaktiverad och användaren kan inte växla tillbaka till den ursprungliga versionen som han/hon visade eller till en annan version av korrekturet.
 
 **504-fel vid export av rapporter**
 
 _Rapporter_
 
 När en användare försöker exportera en rapport med ett stort antal objekt visas ett 504-fel och rapporten kan inte exporteras.
+
+**Uppdateringar som gjorts för en användares räkning visas som direkt från användaren**
+
+_Uppdateringar_
+
+När en administratör är inloggad som användare och gör en kommentar, visas kommentaren som direkt från användaren, i stället för från administratören för användarens räkning.
 
 +++
 
