@@ -3,7 +3,7 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -40,6 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Det går inte att växla mellan korrektur i [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 mars 2023 |
 | [Projekt: [!UICONTROL Home Group] anpassade statusvärden som inte är tillgängliga när du skapar ett projekt från en mall](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
 | [Sök: [!DNL Workfront] Timeout för sökning](known-issues-workfront/wf-search-search-times-out.md) | 27 mars 2023 |
 | [Korrektur: Listrutor öppnas inte när en användare läggs till i ett korrektur](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 27 mars 2023 |

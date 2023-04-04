@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '2307'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,21 @@ Följande underhållsuppdateringar gjordes 2023.
 
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
+## Uppdateringar i april 2023
+
++++**Underhållsuppdatering 4 april 2023**
+
+**Listrutor öppnas inte när en användare läggs till i ett korrektur**
+
+_Korrektur_
+
+När en användare lägger till en annan användare i ett korrektur i [!UICONTROL Proofing Viewer], &quot;[!UICONTROL Proof role]&quot; och &quot;[!UICONTROL Email alerts]&quot; kan inte öppnas. Användaren kan inte tilldela ett korrekturfält eller en e-postavisering. Detta kan inträffa när en användare läggs till via en kommentar eller när korrekturet delas med användaren.
+
++++
+
 ## Uppdateringar i mars 2023
 
-+++**Underhållsuppdatering 23 mars 2023**
++++**Underhållsuppdatering 30 mars 2023**
 
 **Det går inte att växla korrekturversion vid visning av korrektur**
 

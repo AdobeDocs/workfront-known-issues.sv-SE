@@ -2,7 +2,7 @@
 title: "Korrektur: Listrutor öppnas inte när en användare läggs till i ett korrektur"
 description: "När en användare lägger till en annan användare i ett korrekturläsare kan inte rollerna Korrektur och E-postaviseringar öppnas. Användaren kan inte tilldela ett korrekturfält eller en e-postavisering. Detta kan inträffa när en användare läggs till via en kommentar eller när korrekturet delas med användaren."
 hidefromtoc: true
-source-git-commit: fe6df1e3aa832e310fbbe0f4b02e3052d138fc6e
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

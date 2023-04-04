@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '1275'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Korrektur: Det går inte att växla mellan korrektur i [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [Användare: Kan inte markera [!UICONTROL Default Hour Type] eller [!UICONTROL Available Hour Types]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [Projekt: [!UICONTROL Home Group] anpassade statusvärden som inte är tillgängliga när du skapar ett projekt från en mall](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Korrektur: Det går inte att använda verktyget Polyline när du gör en kommentar i ett korrektur](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
