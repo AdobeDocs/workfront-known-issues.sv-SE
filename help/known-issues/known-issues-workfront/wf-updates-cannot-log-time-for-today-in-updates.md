@@ -2,15 +2,19 @@
 title: "Uppdateringar: Det går inte att logga tiden för den aktuella dagen i uppdateringsområdet"
 description: "När en användare försöker logga in tid för den aktuella dagen i uppdateringsområdet är den aktuella dagen nedtonad och användaren kan inte ange några timmar."
 hidefromtoc: true
-source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
+source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 
 # [!UICONTROL Updates]: Det går inte att logga tiden för den aktuella dagen i [!UICONTROL Updates] area
+
+>[!NOTE]
+>
+>Problemet har stängts eftersom det inte gick att reproducera.
 
 När en användare försöker logga tid för den aktuella dagen i [!UICONTROL Updates] är den aktuella dagen nedtonad och användaren kan inte ange några timmar.
 
