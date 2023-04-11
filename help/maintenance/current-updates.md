@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
+source-git-commit: ff0a984c4f9f2041f1e3f3d8da6432f6b1a6d499
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '2439'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,22 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i april 2023
 
-+++**Underhållsuppdatering 4 april 2023**
++++**Underhållsuppdatering 13 april 2023**
+
+**Filter används inte på förfrågningslistor**
+
+_Begäranden_
+
+När en användare visar en lista med begäranden som har ett filter, innehåller listan begäranden som filtret ska utesluta.
+
+**Kan inte markera [!UICONTROL Default Hour Type] eller[!UICONTROL Available Hour Types]**
+
+_Användare_
+
+När en administratör redigerar en användare och försöker markera en [!UICONTROL Default Hour Type] eller [!UICONTROL Available Hour Type]ser de att listrutorna för dessa fält är inaktiverade och att de inte kan välja timtyper.
++++
+
++++**Underhållsuppdatering 6 april 2023**
 
 **Listrutor öppnas inte när en användare läggs till i ett korrektur**
 
