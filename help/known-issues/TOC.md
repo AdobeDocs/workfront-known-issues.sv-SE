@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
+source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
 workflow-type: tm+mt
-source-wordcount: '1296'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Mallar: Kan inte välja mall från [!UICONTROL Favorite templates]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
+      + [Filter: Det går inte att dela ett filter från en rapport på en instrumentpanel](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [[!UICONTROL Home]: Klicka nära miniatyrbilden i [!UICONTROL Work List] leder till tom sida](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [Anpassade formulär: Problem i anpassade listrutefält](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [Korrektur: Det går inte att växla mellan korrektur i [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)

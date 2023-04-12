@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
+source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '627'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Mallar: Kan inte välja mall från [!UICONTROL Favorite templates]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 april 2023 |
 | [[!UICONTROL Home]: Klicka nära miniatyrbilden i [!UICONTROL Work List] leder till tom sida](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 10 april 2023 |
 | [Användare: Kan inte markera [!UICONTROL Default Hour Type] eller [!UICONTROL Available Hour Types]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | 6 april 2023 |
 | [Korrektur: Det går inte att använda verktyget Polyline när du gör en kommentar i ett korrektur](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 april 2023 |
@@ -59,6 +60,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filter: Det går inte att dela ett filter från en rapport på en instrumentpanel](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 april 2023 |
 | [Korrektur: Mätverktyget accepterar inte decimalpunkter](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
 | [Dokument: 404-fel vid åtkomst av dokument som är länkade från [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |
 | [Dokument: Problem med dokumentlistan](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 mars 2023 |
