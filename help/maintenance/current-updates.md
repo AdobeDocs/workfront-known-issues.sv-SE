@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5291904cc6e086d8f943f2141874df944b64a7bd
+source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
 workflow-type: tm+mt
-source-wordcount: '2519'
+source-wordcount: '2616'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,25 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i april 2023
+
++++**(Planerat) Underhållsuppdatering 20 april 2023**
+
+**Problem i anpassade listrutefält**
+
+_Egna formulär_
+
+Anpassade listrutefält som är aktiverade som flervalsfält kan visa följande problem:
+
+* The &quot;+[!UICONTROL Add]knappen finns inte när formuläret inte är i redigeringsläge.
+* Fält som inte har värden visar ett &quot;—[!UICONTROL no label]—&quot;.
+
+**Textalternativrutan visar&quot;textAnnotations&quot;**
+
+_Korrektur_
+
+När en användare visar ett korrektur, börjar lägga till en kommentar och öppnar textverktyget, visas ordet&quot;textAnnotation&quot; bredvid alternativen i verktyget. Textverktyget fungerar fortfarande som förväntat och&quot;textAnnotation&quot; försvinner när kommentaren har publicerats.
+
++++
 
 +++**Underhållsuppdatering 17 april 2023**
 
