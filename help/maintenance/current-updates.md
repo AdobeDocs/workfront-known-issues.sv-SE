@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
+source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
 workflow-type: tm+mt
-source-wordcount: '2616'
+source-wordcount: '2718'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,14 @@ Anpassade listrutefält som är aktiverade som flervalsfält kan visa följande 
 _Korrektur_
 
 När en användare visar ett korrektur, börjar lägga till en kommentar och öppnar textverktyget, visas ordet&quot;textAnnotation&quot; bredvid alternativen i verktyget. Textverktyget fungerar fortfarande som förväntat och&quot;textAnnotation&quot; försvinner när kommentaren har publicerats.
+
+## Behåll bilder som utkast när du flyttar bort från en uppdatering för mål och för problem i kommenteringsbetaupplevelsen
+
+>[!NOTE]
+>
+>Den här funktionen släpptes för förhandsgranskning den 19 april 2023. Den lanseras i produktion den 20 april 2023.
+
+När du nu navigerar bort från uppdateringssidan medan du komponerar ett meddelande där du har bifogat en bild bevaras meddelandet och bilden när du går tillbaka. Före den här uppdateringen bevarades den ej inskickade kommentaren, men bilden togs bort. Detta är tillgängligt i uppdateringsavsnittet för mål och problem när du aktiverar betafunktionen för kommentarer.
 
 +++
 
