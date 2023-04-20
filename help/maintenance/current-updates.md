@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '2718'
+source-wordcount: '2804'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,12 @@ Anpassade listrutefält som är aktiverade som flervalsfält kan visa följande 
 * The &quot;+[!UICONTROL Add]knappen finns inte när formuläret inte är i redigeringsläge.
 * Fält som inte har värden visar ett &quot;—[!UICONTROL no label]—&quot;.
 
+**Det går inte att använda verktyget Polyline när du gör en kommentar i ett korrektur**
+
+_Korrektur_
+
+När en användare visar ett korrektur i korrekturläsaren och försöker göra en kommentar med polygonverktyget markeras inte korrekturet.
+
 **Textalternativrutan visar&quot;textAnnotations&quot;**
 
 _Korrektur_
@@ -42,9 +48,17 @@ När en användare visar ett korrektur, börjar lägga till en kommentar och öp
 
 >[!NOTE]
 >
->Den här funktionen släpptes för förhandsgranskning den 19 april 2023. Den lanseras i produktion den 20 april 2023.
+>Den här funktionen släpptes för förhandsgranskning den 19 april 2023. Den kommer att lanseras i produktion inom den närmaste framtiden.
+
+_Uppdateringar_
 
 När du nu navigerar bort från uppdateringssidan medan du komponerar ett meddelande där du har bifogat en bild bevaras meddelandet och bilden när du går tillbaka. Före den här uppdateringen bevarades den ej inskickade kommentaren, men bilden togs bort. Detta är tillgängligt i uppdateringsavsnittet för mål och problem när du aktiverar betafunktionen för kommentarer.
+
+**Åtkomstnivån har ändrats av systemet utan att det gick att registrera ändringen**
+
+_Användare_
+
+En användares åtkomstnivå kan ändras oförutsägbart av systemet. När detta inträffar finns det ingen synlig uppdatering och ändringen visas inte i granskningsloggen.
 
 +++
 
