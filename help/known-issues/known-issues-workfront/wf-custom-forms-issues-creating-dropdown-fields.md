@@ -2,15 +2,19 @@
 title: "Anpassade formulär: Problem i anpassade listrutefält"
 description: "Anpassade listrutefält som är aktiverade som flervalsfält kan visa problemen."
 hidefromtoc: true
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
 
 # Anpassade formulär: Problem i anpassade listrutefält
+
+>[!NOTE]
+>
+>Problemet korrigerades den 20 april 2023.
 
 Anpassade listrutefält som är aktiverade som flervalsfält kan visa följande problem:
 
