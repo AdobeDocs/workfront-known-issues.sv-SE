@@ -2,9 +2,9 @@
 title: "Hem: Om du klickar nära miniatyrbilden i Arbetslistan blir sidan tom"
 description: "När en användare försöker visa ett dokument eller ett korrektur genom att klicka på miniatyrbilden i hemarbetslistan dirigeras de till en tom sida. Det beror på att en osynlig URL-adress ligger precis under miniatyrbilden och att om användaren klickar på den här URL-adressen kommer den att visas på en tom sida."
 hidefromtoc: true
-source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
+source-git-commit: 3943ffe8a6dc392e8604dbd2f1a410d2ed11aaf6
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Problemet har stängts eftersom det inte gick att reproducera.
+>Problemet korrigerades den 12 april 2023.
 
 När en användare försöker visa ett dokument eller ett korrektur genom att klicka på miniatyrbilden i dialogrutan [!UICONTROL Home Work List], dirigeras de till en tom sida. Detta beror på att en osynlig URL-adress ligger precis under miniatyrbilden, och om användaren klickar på den här URL-adressen tar det dem till en tom sida.
 
