@@ -2,9 +2,9 @@
 title: "Korrektur: Det går inte att använda verktyget Polyline när du gör en kommentar i ett korrektur"
 description: "När en användare visar ett korrektur i korrekturläsaren och försöker göra en kommentar med verktyget Polyline markeras inte korrekturet. "
 hidefromtoc: true
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Korrektur: Det går inte att använda verktyget Polyline när du gör en kommentar i ett korrektur
 
 <!--This article is on the WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Problemet korrigerades den 20 april 2023.
 
 När en användare visar ett korrektur i korrekturläsaren och försöker göra en kommentar med polygonverktyget markeras inte korrekturet.
 
