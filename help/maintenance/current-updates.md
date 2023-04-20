@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 64c3ac3656a8caf38a224bf092c9e755b04fc179
 workflow-type: tm+mt
-source-wordcount: '2804'
+source-wordcount: '2880'
 ht-degree: 0%
 
 ---
@@ -44,15 +44,25 @@ _Korrektur_
 
 När en användare visar ett korrektur, börjar lägga till en kommentar och öppnar textverktyget, visas ordet&quot;textAnnotation&quot; bredvid alternativen i verktyget. Textverktyget fungerar fortfarande som förväntat och&quot;textAnnotation&quot; försvinner när kommentaren har publicerats.
 
-## Behåll bilder som utkast när du flyttar bort från en uppdatering för mål och för problem i kommenteringsbetaupplevelsen
+**Behåll bilder som utkast när du flyttar bort från en uppdatering för mål och för problem i kommenteringsbetaupplevelsen**
 
 >[!NOTE]
 >
->Den här funktionen släpptes för förhandsgranskning den 19 april 2023. Den kommer att lanseras i produktion inom den närmaste framtiden.
+>Den här funktionen släpptes till Preview den 19 april 2023 och släpptes till produktion den 20 april 2023.
 
 _Uppdateringar_
 
 När du nu navigerar bort från uppdateringssidan medan du komponerar ett meddelande där du har bifogat en bild bevaras meddelandet och bilden när du går tillbaka. Före den här uppdateringen bevarades den ej inskickade kommentaren, men bilden togs bort. Detta är tillgängligt i uppdateringsavsnittet för mål och problem när du aktiverar betafunktionen för kommentarer.
+
+**Uppdateringar i realtid och borttagna kommentarer i uppdateringsavsnittet**
+
+>[!NOTE]
+>
+>Den här funktionen släpptes till Preview den 19 april 2023 och släpptes till produktion den 20 april 2023.
+
+_Uppdateringar_
+
+När någon lägger till en kommentar eller svarar, eller tar bort en kommentar från uppdateringsområdet, kan du nu se den nya kommentaren eller en indikation på att kommentaren togs bort i realtid, utan fördröjning. Detta är tillgängligt i uppdateringsavsnittet för mål och problem när du aktiverar betafunktionen för kommentarer.
 
 **Åtkomstnivån har ändrats av systemet utan att det gick att registrera ändringen**
 
