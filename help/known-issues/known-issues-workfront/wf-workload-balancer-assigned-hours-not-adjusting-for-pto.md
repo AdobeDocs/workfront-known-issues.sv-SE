@@ -1,8 +1,8 @@
 ---
 title: "Utjämning av arbetsbelastning: Timmarna justeras inte efter användarens ledig tid"
-description: '"Om en användare schemalägger en tid utan och har tilldelat uppgifter, kommer inte tidslinjen att uppdateras för att ta hänsyn till den lediga tiden. I stället visar Arbetsbelastningsutjämnaren att användaren är överallokerad för de dagar som den har schemalagt. Administratören måste gå in i projektet och beräkna om tidslinjen för att justera timmarna.'
+description: "Om en användare schemalägger en tid utan och har tilldelat uppgifter, kommer inte tidslinjen att uppdateras för att ta hänsyn till den lediga tiden. I stället visar Arbetsbelastningsutjämnaren att användaren är överallokerad för de dagar som den har schemalagt. Administratören måste gå in i projektet och beräkna om tidslinjen för att justera timmarna."
 hidefromtoc: true
-source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%

@@ -1,8 +1,8 @@
 ---
 title: "Användare: Åtkomstnivån har ändrats av systemet utan att ändringen har registrerats"
-description: '"En användares åtkomstnivå kan ändras oförutsägbart av systemet. När detta inträffar finns det ingen synlig uppdatering och ändringen visas inte i granskningsloggen.'
+description: "En användares åtkomstnivå kan ändras oförutsägbart av systemet. När detta inträffar finns det ingen synlig uppdatering och ändringen visas inte i granskningsloggen."
 hidefromtoc: true
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
