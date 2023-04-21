@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3943ffe8a6dc392e8604dbd2f1a410d2ed11aaf6
+source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Låsta korrekturgodkännanden visas fortfarande i arbetslistan](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 april 2023 |
 | [[!UICONTROL Resource Planner]: Kan inte spara efter tillagd tid](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 20 april 2023 |
 | [Dokument: [!UICONTROL Proofing Activities] alternativ leder till inloggningssida](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 mars 2023 |
 

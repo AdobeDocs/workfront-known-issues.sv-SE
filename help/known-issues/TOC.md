@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: 51db31ccf47c4219f678c1b11f4ef715aed0c1c6
+source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
 workflow-type: tm+mt
-source-wordcount: '1320'
+source-wordcount: '1329'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Korrektur: Låsta korrekturgodkännanden visas fortfarande i arbetslistan](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL Resource Planner]: Kan inte spara efter tillagd tid](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [Korrektur: [!UICONTROL Proof Activity] tabböppna [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [Mallar: Kan inte välja mall från [!UICONTROL Favorite templates]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
