@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
+source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '2879'
+source-wordcount: '2976'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,26 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i april 2023
+
++++**(Planerat) Underhållsuppdatering 27 april 2023**
+
+**Det går inte att växla mellan korrektur i[!UICONTROL Proof Viewer]**
+
+_Korrektur_
+
+När en användare visar ett korrektur i [!UICONTROL Proofing Viewer]och växlar till ett annat korrektur, ändras inte skärmkorrektusknappen. Användaren kan inte växla tillbaka till det ursprungliga korrekturet eller till ett annat korrektur.
+
++++
+
++++**[!DNL Adobe Workfront Fusion]Underhållsuppdatering 25 april 2023**
+
+**[!DNL Fusion]hjälplänkar i appen leder inte till specifika hjälpsidor**
+
+_[!DNL Workfront Fusion]_
+
+När en användare visar ett korrektur i [!UICONTROL Proofing Viewer]och växlar till ett annat korrektur, ändras inte skärmkorrektusknappen. Användaren kan inte växla tillbaka till det ursprungliga korrekturet eller till ett annat korrektur.
+
++++
 
 +++**Underhållsuppdatering 20 april 2023**
 
