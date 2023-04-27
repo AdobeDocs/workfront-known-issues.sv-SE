@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '584'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | -----------------------------------------------------------------| ----------------- |
 | [Korrektur: [!UICONTROL Proof Activity] tabböppna [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 april 2023 |
 | [Mallar: Kan inte välja mall från [!UICONTROL Favorite templates]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 april 2023 |
-| [Korrektur: Det går inte att växla mellan korrektur i [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 mars 2023 |
 | [Projekt: [!UICONTROL Home Group] anpassade statusvärden som inte är tillgängliga när du skapar ett projekt från en mall](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
 | [Sök: [!DNL Workfront] Timeout för sökning](known-issues-workfront/wf-search-search-times-out.md) | 27 mars 2023 |
 | [Korrektur: Korrekturstadiet aktiveras inte när en deadline för föregående fas har passerat](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |

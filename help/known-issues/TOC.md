@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '1338'
+source-wordcount: '1342'
 ht-degree: 0%
 
 ---
@@ -152,6 +152,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Kända fel i [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuella problem i [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Sökningen returnerar inga resultat](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Korrektur: Textalternativrutan visar&quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: Listor är inte korrekt sorterade](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [Korrektur: Anpassade meddelanden visas inte i e-postmeddelanden](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)

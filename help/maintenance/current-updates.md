@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '2976'
+source-wordcount: '3020'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,19 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i april 2023
 
-+++**(Planerat) Underhållsuppdatering 27 april 2023**
++++**Underhållsuppdatering 27 april 2023**
 
 **Det går inte att växla mellan korrektur i[!UICONTROL Proof Viewer]**
 
 _Korrektur_
 
 När en användare visar ett korrektur i [!UICONTROL Proofing Viewer]och växlar till ett annat korrektur, ändras inte skärmkorrektusknappen. Användaren kan inte växla tillbaka till det ursprungliga korrekturet eller till ett annat korrektur.
+
+**Redigera bifogade bilder när du redigerar en kommentar**
+
+_Uppdateringar_
+
+Du kan nu redigera bilden som är kopplad till en kommentar när du redigerar en kommentar. Det här är tillgängligt i uppdateringsavsnittet för Workfront-mål och i det som gäller problem när du aktiverar betafunktionen för kommentarer.
 
 +++
 

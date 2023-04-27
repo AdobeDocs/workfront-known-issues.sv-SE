@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: Sökningen returnerar inga resultat](known-issues-workfront-proof/proof-search-returns-no-results.md) | 27 april 2023 |
 | [Korrektur: Låsta korrekturgodkännanden visas fortfarande i arbetslistan](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 april 2023 |
 
 {style="table-layout:auto"}
@@ -35,7 +36,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [Korrektur: [!UICONTROL Proof Activity] tabböppna [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 april 2023 |
-| [Korrektur: Det går inte att växla mellan korrektur i [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 mars 2023 |
 | [Korrektur: Korrekturstadiet aktiveras inte när en deadline för föregående fas har passerat](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
 | [[!DNL Workfront Proof] API: &quot;[!UICONTROL Body is not a valid XML]&quot;-fel](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 januari 2023 |
 
