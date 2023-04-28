@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
+source-git-commit: 7fc9e90be94c30dff1c8de17c033407c165b45f2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
 | [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 december 2022 |
 | [Anpassade formulär: Egna formulär för flera objekt kräver [!UICONTROL Manage] eller [!UICONTROL Edit] behörighet att redigera fält](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 november 2022 |
-| [Meddelanden: Användare som inte meddelas när de nämns eller ingår i en kommentar](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11 november 2022 |
 | [API: Kan inte sortera efter dynamiska fält](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 oktober 2022 |
 | [[!UICONTROL Setup]: Listor läses in långsamt in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 oktober 2022 |
 | [Korrektur: Korredet delas inte med användare i korrekturarbetsflödet](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 september 2022 |
