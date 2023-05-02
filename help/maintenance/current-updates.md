@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: e50e74711a4c19c3f9f6964ec228dbe50c7b00c5
 workflow-type: tm+mt
-source-wordcount: '3020'
+source-wordcount: '3097'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,18 @@ Följande underhållsuppdateringar gjordes 2023.
 >Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
 
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
+
+## Uppdateringar i maj 2023
+
++++**(Planerat) Underhållsuppdatering den 4 maj 2023**
+
+**Kan inte välja mall från[!UICONTROL Favorite templates]**
+
+_Mallar_
+
+När en användare försöker välja en mall på Åtgärder-menyn (tre punkter) försvinner listan med mallar när användaren flyttar musen till listan och användaren inte kan välja någon mall. Det beror på att rullningslisten är mellan menyn och listan med mallar och musen fokuserar på rullningslisten när den flyttas till listan med mallar.
+
++++
 
 ## Uppdateringar i april 2023
 
