@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7fc9e90be94c30dff1c8de17c033407c165b45f2
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -59,10 +59,8 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Korrektur: Mätverktyget accepterar inte decimalpunkter](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
 | [Dokument: 404-fel vid åtkomst av dokument som är länkade från [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |
 | [Dokument: Problem med dokumentlistan](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 mars 2023 |
-| [Tidrapporter: [!UICONTROL Hour Type] listrutan öppnas inte](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9 mars 2023 |
 | [Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett nytt projekt](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
 | [Integrationer: Kan inte öppna [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 februari 2023 |
-| [Korrektur: Användaren får inte e-post när den taggas i en korrekturkommentar](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 februari 2023 |
 | [[!UICONTROL Home]: Slutförda korrektur som sitter fast i [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 januari 2023 |
 | [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
 | [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2 december 2022 |

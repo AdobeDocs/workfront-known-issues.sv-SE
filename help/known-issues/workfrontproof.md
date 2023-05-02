@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [[!DNL Workfront Proof]: Listor är inte korrekt sorterade](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 23 mars 2023 |
 | [Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett nytt projekt](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports] område stöds inte längre](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 mars 2023 |
-| [Korrektur: Användaren får inte e-post när den taggas i en korrekturkommentar](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 februari 2023 |
 | [Korrektur: Nytt stadium har skapats eftersom deadline inte kan matcha deadline för befintligt stadium](known-issues-workfront-proof/proof-new-stage-created.md) | 2 februari 2023 |
 | [[!UICONTROL Home]: Slutförda korrektur som sitter fast i [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 januari 2023 |
 | [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |

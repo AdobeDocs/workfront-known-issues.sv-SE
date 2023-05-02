@@ -1,20 +1,20 @@
 ---
-title: "Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett nytt projekt"
-description: "När en användare flyttar ett dokument till ett annat projekt ärver dokumentet inte delningsbehörigheter från det nya projektet. Dokumentet delas inte med användarna som projektet delas till. "
+title: '"Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett nytt projekt'
+description: '"När en användare flyttar ett dokument till ett annat projekt ärver dokumentet inte delningsbehörigheter från det nya projektet. Dokumentet delas inte med användarna som projektet delas till. '''
 hidefromtoc: true
-source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
+exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
-
 # Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett nytt projekt
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
 
-<!--This issue has been closed as won't fix, but no reason.-->
+<!--Valid issue, won't fix.-->
 
 När en användare flyttar ett dokument till ett annat projekt ärver dokumentet inte delningsbehörigheter från det nya projektet. Dokumentet delas inte med användarna som projektet delas till.
 
@@ -29,4 +29,3 @@ När en användare flyttar ett dokument till ett annat projekt ärver dokumentet
 Du kan också anteckna dokumentets ID (finns i URL:en för [!UICONTROL Document Details] sida) och kontakt [!DNL Workfront] kundsupport.
 
 _Först rapporterad den 6 januari 2023._
-
