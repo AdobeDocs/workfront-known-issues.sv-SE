@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 0a1b37c657f460ba5d6773e36e69de60f1efdddd
+source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,8 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Tidrapporter: Filtret används inte när sidan uppdateras](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 25 april 2023 |
-| [Korrektur: Låsta korrekturgodkännanden visas fortfarande i arbetslistan](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 april 2023 |
+| Ingen |  |
 
 {style="table-layout:auto"}
 
@@ -35,14 +34,12 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Låsta korrekturgodkännanden visas fortfarande i arbetslistan](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 maj 2023 |
 | [Uppgifter: Inget felmeddelande visas när aktiviteten sorteras om i [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 3 maj 2023 |
-| [Korrektur: [!UICONTROL Proof Activity] tabböppna [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 april 2023 |
 | [Projekt: [!UICONTROL Home Group] anpassade statusvärden som inte är tillgängliga när du skapar ett projekt från en mall](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
 | [Sök: [!DNL Workfront] Timeout för sökning](known-issues-workfront/wf-search-search-times-out.md) | 27 mars 2023 |
 | [Korrektur: Korrekturstadiet aktiveras inte när en deadline för föregående fas har passerat](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
 | [Korrektur: Användaren inaktiveras från korrekturarbetsflödet och hämtar &quot;[!UICONTROL Access not permitted]&quot; vid åtkomst till korrektur](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 mars 2023 |
-| [Filter: Filtret används inte när sidan uppdateras](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 mars 2023 |
-| [Projekt: Projekt som konverterats från utgåva ärver inte behörigheter från portfölj eller program](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 februari 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 
 {style="table-layout:auto"}

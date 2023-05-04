@@ -3,9 +3,9 @@ title: Kända fel i [!DNL Adobe Workfront Proof]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -24,8 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: Sökningen returnerar inga resultat](known-issues-workfront-proof/proof-search-returns-no-results.md) | 27 april 2023 |
-| [Korrektur: Låsta korrekturgodkännanden visas fortfarande i arbetslistan](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 april 2023 |
+| Ingen |  |
 
 {style="table-layout:auto"}
 
@@ -35,7 +34,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrektur: [!UICONTROL Proof Activity] tabböppna [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 april 2023 |
+| [Korrektur: Låsta korrekturgodkännanden visas fortfarande i arbetslistan](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 maj 2023 |
 | [Korrektur: Korrekturstadiet aktiveras inte när en deadline för föregående fas har passerat](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 mars 2023 |
 
 {style="table-layout:auto"}
