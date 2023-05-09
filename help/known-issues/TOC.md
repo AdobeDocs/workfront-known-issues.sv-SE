@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1039'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporter: Sortering efter kolumnrubrik återgår till föregående sortering](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [Projekt: Fel vid användning [!UICONTROL Milestone] visa](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Uppgifter: Inget felmeddelande visas när aktiviteten sorteras om i [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Tidrapporter: Filtret används inte när sidan uppdateras](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)

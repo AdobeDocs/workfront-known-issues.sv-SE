@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
 workflow-type: tm+mt
-source-wordcount: '3096'
+source-wordcount: '3303'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,52 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i maj 2023
+
++++**(Planerat) Underhållsuppdatering 11 maj 2023**
+
+**[!DNL Workfront]Timeout för sökning**
+
+_Sök_
+
+[!DNL Workfront] sökningen tar slut. Sökningen kan returnera några få resultat, eller inga alls.
+
+Detta påverkar även funktionaliteten i [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] -modul.
+
+**Det går inte att växla korrekturversion vid visning av korrektur**
+
+_Korrektur_
+
+När en användare visar ett korrektur i [!UICONTROL Proofing Viewer]och växlar till en annan version, blir listrutan i version inaktiverad och användaren kan inte växla tillbaka till den ursprungliga versionen som han/hon visade eller till en annan version av korrekturet.
+
++++
+
++++**(Planerat) [!DNL Adobe Workfront Fusion] Underhållsuppdatering 11 maj 2023**
+
+**Timeoutfel i[!DNL Workfront Fusion]**
+
+_Adobe Workfront Fusion_
+
+När ett scenario körs kan det ha ett timeout-fel. Informationen från modulen som innehåller felet når inte sitt mål.
+
+**[!DNL Workfront]Timeout för sökning**
+
+_Sök_
+
+[!DNL Workfront] sökningen tar slut. Sökningen kan returnera några få resultat, eller inga alls.
+
+Detta påverkar även funktionaliteten i [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] -modul.
+
++++
+
++++**Underhållsuppdatering 9 maj 2023**
+
+**Sparade filter finns i inloppskolumnen**
+
+_Varumärkena_
+
+Nu kan du använda befintliga Workfront-uppgiftsfilter och utgivningsfilter när du konfigurerar en anslagskolumn för en anslagstavla. Befintliga filter för inloppskolumner är nu skrivskyddade på konfigurationspanelen. De befintliga filtren används fortfarande i inloppskolumnen, men du måste återskapa filtren om du vill redigera dem.
+
++++
 
 +++**Underhållsuppdatering 4 maj 2023**
 
