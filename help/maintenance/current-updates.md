@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
-source-wordcount: '3303'
+source-wordcount: '3301'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,13 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i maj 2023
 
-+++**(Planerat) Underhållsuppdatering 11 maj 2023**
++++**Underhållsuppdatering 11 maj 2023**
+
+**Det går inte att växla korrekturversion vid visning av korrektur**
+
+_Korrektur_
+
+När en användare visar ett korrektur i [!UICONTROL Proofing Viewer]och växlar till en annan version, blir listrutan i version inaktiverad och användaren kan inte växla tillbaka till den ursprungliga versionen som han/hon visade eller till en annan version av korrekturet.
 
 **[!DNL Workfront]Timeout för sökning**
 
@@ -31,15 +37,9 @@ _Sök_
 
 Detta påverkar även funktionaliteten i [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] -modul.
 
-**Det går inte att växla korrekturversion vid visning av korrektur**
-
-_Korrektur_
-
-När en användare visar ett korrektur i [!UICONTROL Proofing Viewer]och växlar till en annan version, blir listrutan i version inaktiverad och användaren kan inte växla tillbaka till den ursprungliga versionen som han/hon visade eller till en annan version av korrekturet.
-
 +++
 
-+++**(Planerat) [!DNL Adobe Workfront Fusion] Underhållsuppdatering 11 maj 2023**
++++**[!DNL Adobe Workfront Fusion]Underhållsuppdatering 11 maj 2023**
 
 **Timeoutfel i[!DNL Workfront Fusion]**
 
