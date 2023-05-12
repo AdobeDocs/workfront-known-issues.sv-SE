@@ -3,7 +3,7 @@ title: '"Korrektur: Automatisk åtkomst till korrektur fördröjs'
 description: När en användare utses till granskare och godkännare för ett korrektur med automatiserat arbetsflöde, kommer åtkomsten att fördröjas och de kan inte komma åt korrekturet.
 exl-id: 5b6fffed-a9af-4f1f-83a6-d4b992067b3a
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
+source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -11,6 +11,8 @@ ht-degree: 0%
 ---
 
 # [!DNL Workfront Proof]: Automatisk åtkomst till korrektur fördröjs
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

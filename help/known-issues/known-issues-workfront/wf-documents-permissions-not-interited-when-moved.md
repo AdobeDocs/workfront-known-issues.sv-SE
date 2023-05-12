@@ -3,7 +3,7 @@ title: '"Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett n
 description: '"När en användare flyttar ett dokument till ett annat projekt ärver dokumentet inte delningsbehörigheter från det nya projektet. Dokumentet delas inte med användarna som projektet delas till. '''
 hidefromtoc: true
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
 
-<!--Valid issue, won't fix.-->
+<!--Won't fix tab: Valid issue, won't fix.-->
 
 När en användare flyttar ett dokument till ett annat projekt ärver dokumentet inte delningsbehörigheter från det nya projektet. Dokumentet delas inte med användarna som projektet delas till.
 

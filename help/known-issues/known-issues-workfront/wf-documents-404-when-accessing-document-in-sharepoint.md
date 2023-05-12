@@ -3,7 +3,7 @@ title: '"Dokument: 404-fel vid åtkomst av dokument länkade från SharePoint'
 description: När en användare försöker få åtkomst till ett dokument som är länkat via SharePoint, dirigeras de till en sida med ett 404-fel.
 hidefromtoc: true
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Dokument: 404-fel vid åtkomst av dokument som är länkade från [!DNL SharePoint]
 
-<!--This issue is on the WF and WFP TOCs. By request.-->
+<!--Requested article. This issue is on the WF and WFP TOCs.-->
 
 När en användare försöker få åtkomst till ett dokument som länkats via [!DNL SharePoint], tas de till en sida med följande fel:
 

@@ -3,7 +3,7 @@ title: 'Anpassade formulär: Hoppfel vid inställning av ett beräkningsfält'
 description: När en användare skapar eller redigerar ett beräknat fält i ett anpassat formulär och inkluderar ett anpassat fält i det beräknade fältets uttryck, anses uttrycket vara ogiltigt. Knappen Spara är inaktiverad och användaren kan inte navigera bort från det anpassade fältet. Dessutom ser användaren ett meddelande under fältet.
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
-source-git-commit: 4cc779627205b6b66876e6e7323cdf0ce94477b6
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Anpassade formulär: &quot;[!UICONTROL Whoops]&quot; fel vid inställning av beräkningsfält
 
-<!--Do not delete without approval from Alex Beach-->
+<!--Requested: Do not delete without approval from Alex Beach-->
 
 >[!NOTE]
 >
