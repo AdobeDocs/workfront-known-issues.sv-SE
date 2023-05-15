@@ -1,16 +1,16 @@
 ---
-title: "Rapporter: Rapporten sorteras inte korrekt"
-description: ""
+title: '"Rapporter: Rapporten sorteras inte korrekt vid sortering efter anpassat fält'
+description: '"När en användare kör en uppgiftsrapport ser rapporten ut att sorteras korrekt när den läses in, men när den har lästs in ser användaren att rapporten inte är korrekt sorterad. '
 hidefromtoc: true
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
 
-# Rapporter: Rapporten sorteras inte korrekt
+# Rapporter: Rapporten sorteras inte korrekt vid sortering efter anpassat fält
 
 När en användare kör en uppgiftsrapport ser rapporten ut att sorteras korrekt när den läses in, men när den har lästs in ser användaren att rapporten inte är korrekt sorterad.
 

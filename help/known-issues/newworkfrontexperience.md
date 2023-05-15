@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '517'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| Ingen |  |
+| [Rapporter: Rapporten sorteras inte korrekt vid sortering efter fält](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 15 maj 2023 |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Rapporter: Sortering efter kolumnrubrik återgår till föregående sortering](known-issues-workfront/wf-reports-sorting-not-applied.md) | 11 maj 2023 |
+| [Rapporter: Rapporten sorteras inte korrekt vid sortering efter anpassat fält](known-issues-workfront/wf-reports-sorting-not-applied.md) | 11 maj 2023 |
 | [Uppgifter: Inget felmeddelande visas när aktiviteten sorteras om i [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11 maj 2023 |
 | [Utjämning av arbetsbelastning: Omfördelning av timmar oväntat](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 maj 2023 |
 | [Korrektur: Låsta korrekturgodkännanden visas fortfarande i arbetslistan](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 maj 2023 |

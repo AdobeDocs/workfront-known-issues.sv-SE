@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
-user-guide-description: Kända fel för [!DNL Adobe Workfront]
-source-git-commit: c9876398ffdec456113d3343c8fb19ae8ca8ae83
+user-guide-description: Kända fel i [!DNL Adobe Workfront]
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '1053'
+source-wordcount: '1063'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporter: Rapporten sorteras inte korrekt vid sortering efter fält](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Utjämning av arbetsbelastning: Omfördelning av timmar oväntat](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Anpassade formulär: &quot;[!UICONTROL Whoops]&quot; fel vid inställning av beräkningsfält](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Rapporter: Sortering efter kolumnrubrik återgår till föregående sortering](known-issues-workfront/wf-reports-sorting-not-applied.md)
