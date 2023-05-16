@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+source-git-commit: cc698b048b0e13e52fa5b0739a7354097018f011
 workflow-type: tm+mt
-source-wordcount: '3301'
+source-wordcount: '3380'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,22 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i maj 2023
+
++++**(Planerat) Underhållsuppdatering 18 maj 2023**
+
+
+**Rapporten sorteras inte korrekt vid sortering efter anpassat fält**
+
+_Rapporter_
+När en användare kör en uppgiftsrapport ser rapporten ut att sorteras korrekt när den läses in, men när den har lästs in ser användaren att rapporten inte är korrekt sorterad.
+
+Detta verkar inträffa om alla följande omständigheter är uppfyllda:
+
+* Rapporten är en uppgiftsrapport
+* Rapporten sorteras efter ett anpassat fält
+* En gruppering används för rapporten
+
++++
 
 +++**Underhållsuppdatering 11 maj 2023**
 
