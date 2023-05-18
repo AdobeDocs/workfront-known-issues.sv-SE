@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
 workflow-type: tm+mt
-source-wordcount: '1074'
+source-wordcount: '1081'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Agile: [!UICONTROL Kanban] kortet blir tomt när du redigerar kort](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Rapporter: Rapporten sorteras inte korrekt vid sortering efter fält](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Utjämning av arbetsbelastning: Omfördelning av timmar oväntat](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Anpassade formulär: &quot;[!UICONTROL Whoops]&quot; fel vid inställning av beräkningsfält](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
