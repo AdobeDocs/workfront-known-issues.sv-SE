@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
 workflow-type: tm+mt
-source-wordcount: '3379'
+source-wordcount: '3428'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i maj 2023
+
++++**Underhållsuppdatering 22 maj 2023**
+
+**Det går inte att justera storleken på beskrivande text**
+
+_Egna formulär_
+
+När den anpassade formulärdesignern släpptes som betaversion var funktionen för att justera storleken på den beskrivande texten inte tillgänglig. Problemet har åtgärdats och användare kan nu justera storleken på beskrivande text.
+
++++
 
 +++**Underhållsuppdatering 18 maj 2023**
 
