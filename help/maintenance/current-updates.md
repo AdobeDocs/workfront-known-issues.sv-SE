@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
+source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
-source-wordcount: '3428'
+source-wordcount: '3489'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,22 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i maj 2023
+
++++**(Planerat) Underhållsuppdatering 25 maj 2023**
+
+**[!UICONTROL Kanban]kortet blir tomt när du redigerar kort**
+
+_Agile_
+
+När en användare ändrar något om ett kort på [!UICONTROL Kanban] bräda [!UICONTROL Kanban] kortet blir tomt i stället för att uppdateras med ändringen. Om användaren uppdaterar sidan manuellt uppdaterar [!UICONTROL Kanban] kortreturer som visar rätt ändring.
+
+Detta har rapporterats under följande omständigheter:
+
+* Redigera ett kort
+* Flytta ett kort
+
+
++++
 
 +++**Underhållsuppdatering 22 maj 2023**
 
