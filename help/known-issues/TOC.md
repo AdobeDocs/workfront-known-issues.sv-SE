@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
-source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
+source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
 workflow-type: tm+mt
-source-wordcount: '1081'
+source-wordcount: '1103'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Anpassade formulär: Visningslogiken förloras när ett anpassat formulär redigeras i en ny formulärdesigner (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [Agile: [!UICONTROL Kanban] kortet blir tomt när du redigerar kort](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Rapporter: Rapporten sorteras inte korrekt vid sortering efter fält](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Utjämning av arbetsbelastning: Omfördelning av timmar oväntat](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
@@ -149,6 +150,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Kända fel i Workfront Fusion](workfrontfusion.md)
    + Aktuella problem i [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Meddelanden skickas inte via e-post](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: Körningar har fastnat eller fördröjts](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]: Historik för scenariokörning visar inte hela historiken](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]: Timeoutfel i Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
