@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '512'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Rapporter: Rapporten sorteras inte korrekt vid sortering efter fält](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 15 maj 2023 |
+| Ingen |  |
 
 {style="table-layout:auto"}
 

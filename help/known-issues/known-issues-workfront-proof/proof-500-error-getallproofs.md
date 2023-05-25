@@ -2,15 +2,19 @@
 title: "Workfront Proof: 500 fel vid åtkomst till Workfront Proof via API eller Workfront Fusion"
 description: "När en användare kommer åt åtgärden getAllProofs i API:t för Korrektur returnerar Workfront-servern meddelandet: 500 internt serverfel"
 hidefromtoc: true
-source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 
 # [!DNL Workfront Proof]: 500-fel vid åtkomst [!DNL Workfront Proof] via API eller [!DNL Workfront Fusion]
+
+>[!NOTE]
+>
+>Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
 <!--This article is on Proof and Fusion TOCs-->
 

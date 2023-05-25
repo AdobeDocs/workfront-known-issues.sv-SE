@@ -2,9 +2,9 @@
 title: "Rapporter: Rapportera som inte är korrekt vid sortering efter fält"
 description: ""
 hidefromtoc: true
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,9 @@ ht-degree: 0%
 
 # Rapporter: Rapporten sorteras inte korrekt vid sortering efter fält
 
+>[!NOTE]
+>
+>Problemet har stängts eftersom det inte är något problem.
 
 När en användare kör en uppgiftsrapport ser rapporten ut att sorteras korrekt när den läses in, men när den har lästs in ser användaren att rapporten inte är korrekt sorterad.
 
