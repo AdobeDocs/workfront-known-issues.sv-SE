@@ -2,15 +2,19 @@
 title: "Agile: Kanban-tavlan blir tom när du redigerar kort"
 description: "När en användare ändrar något om ett kort på [!UICONTROL Kanban] bräda [!UICONTROL Kanban] kortet blir tomt i stället för att uppdateras med ändringen. Om användaren uppdaterar sidan manuellt uppdaterar [!UICONTROL Kanban] kort returneras och rätt ändring visas."
 hidefromtoc: true
-source-git-commit: 97538739d474bd79b28362b1f21527d9dbe1486b
+source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
 
 # Agile: [!UICONTROL Kanban] kortet blir tomt när du redigerar kort
+
+>[!NOTE]
+>
+>Problemet korrigerades den 25 maj 2023.
 
 När en användare ändrar något om ett kort på [!UICONTROL Kanban] bräda [!UICONTROL Kanban] kortet blir tomt i stället för att uppdateras med ändringen. Om användaren uppdaterar sidan manuellt uppdaterar [!UICONTROL Kanban] kortreturer som visar rätt ändring.
 

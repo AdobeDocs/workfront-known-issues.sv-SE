@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
+source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [Anpassade formulär: Visningslogiken förloras när ett anpassat formulär redigeras i en ny formulärdesigner (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 24 maj 2023 |
-| [Agile: [!UICONTROL Kanban] kortet blir tomt när du redigerar kort](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | 18 maj 2023 |
 | [Uppgifter: Inget felmeddelande visas när aktiviteten sorteras om i [!UICONTROL Pending approval] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11 maj 2023 |
 | [Utjämning av arbetsbelastning: Omfördelning av timmar oväntat](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 maj 2023 |
 | [Korrektur: Låsta korrekturgodkännanden visas fortfarande i arbetslistan](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 maj 2023 |
