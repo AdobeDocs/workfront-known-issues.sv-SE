@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
+source-git-commit: 2919ae11be238227242de8a5863f19ebd6099f92
 workflow-type: tm+mt
-source-wordcount: '3489'
+source-wordcount: '3656'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,27 @@ Följande underhållsuppdateringar gjordes 2023.
 
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
+## Uppdateringar i juni 2023
+
++++**(Planerat) Underhållsuppdatering 1 juni 2023**
+
+**Inget felmeddelande visas när aktiviteten sorteras om i [!UICONTROL Pending approval] status**
+
+_Uppgifter_
+
+När en användare försöker ordna om en uppgift i en uppgiftslista och uppgiften finns [!UICONTROL Pending approval] status, aktiviteten verkar flyttas i uppgiftslistan. Användaren ser att objektet inte har flyttats vid uppdateringen. Objektet kan inte flyttas eftersom det finns i [!UICONTROL Pending approval] status, men det finns inget meddelande som talar om för användaren att objektet inte kan flyttas, vilket kan leda till missförstånd.
+
+**Inget felmeddelande visas när föregående aktivitet flyttas under beroende aktivitet**
+
+_Uppgifter_
+
+När en användare försöker ordna om en uppgift i en uppgiftslista och uppgiften finns [!UICONTROL Pending approval] status, aktiviteten verkar flyttas i uppgiftslistan. Användaren ser att objektet inte har flyttats vid uppdateringen. Det går inte att flytta objektet eftersom en föregående aktivitet inte kan flyttas under en aktivitet som det är föregångare till, men det finns inget meddelande som talar om för användaren att objektet inte kan flyttas, vilket kan leda till missförstånd.
+
++++
+
 ## Uppdateringar i maj 2023
 
-+++**(Planerat) Underhållsuppdatering 25 maj 2023**
++++**Underhållsuppdatering 25 maj 2023**
 
 **[!UICONTROL Kanban]kortet blir tomt när du redigerar kort**
 
