@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
+source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Godkännanden: Delegering av godkännande har angetts för felaktigt antal dagar](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 20 april 2022 |
 | [[!UICONTROL Home]: Alternativet Ny aktivitet visar inaktiverade användare i [!UICONTROL Assign To] fält](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 1 oktober 2021 |
 | [Uppdateringar: Teamnamnet visas inte i @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 1 oktober 2021 |
-| [Kalendrar: Problem med [!UICONTROL Time Off] kalender](known-issues-workfront/wf-calendars-issue-time-off.md) | 25 juni 2021 |
 | [Agile: Störningar i [!UICONTROL Completed Points] för en iteration](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 22 juni 2021 |
 | [[!UICONTROL Home]: [!UICONTROL Reply in Proof] knappbeteendet är inkonsekvent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 juni 2021 |
 | [E-postmeddelanden: &quot;[!UICONTROL I'm assigned to an issue]&quot;-inställningen visas](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 juni 2021 |
