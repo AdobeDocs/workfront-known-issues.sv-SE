@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
-source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
+source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
 workflow-type: tm+mt
-source-wordcount: '1103'
+source-wordcount: '1104'
 ht-degree: 0%
 
 ---
@@ -150,6 +150,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Kända fel i Workfront Fusion](workfrontfusion.md)
    + Aktuella problem i [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: &quot;[!UICONTROL cannot execute UPDATE]&quot;-fel](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: Meddelanden skickas inte via e-post](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: Körningar har fastnat eller fördröjts](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]: Historik för scenariokörning visar inte hela historiken](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
