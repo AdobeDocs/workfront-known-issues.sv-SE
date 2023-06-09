@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
-source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
+source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
 workflow-type: tm+mt
-source-wordcount: '1128'
+source-wordcount: '1137'
 ht-degree: 0%
 
 ---
@@ -128,6 +128,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Kända fel i [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuella problem i [!DNL Workfront Proof] {#proof-current}
+      + [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: 500-fel vid åtkomst [!DNL Workfront Proof] via API eller [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: Sökningen returnerar inga resultat](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Korrektur: Textalternativrutan visar&quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md)
