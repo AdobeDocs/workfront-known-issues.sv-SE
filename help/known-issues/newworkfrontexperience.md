@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| Ingen |  |
+| [Rapporter: &quot;[!UICONTROL Whoops]&quot; fel vid visning av matrisrapport](known-issues-workfront/wf-reports-error-matrix-report.md) | 9 juni 2023 |
+| [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 9 juni 2023 |
 
 {style="table-layout:auto"}
 
