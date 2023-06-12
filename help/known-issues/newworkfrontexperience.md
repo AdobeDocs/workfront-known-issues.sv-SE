@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
+source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '529'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: Objekten visas inte i [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 juni 2023 |
 | [Rapporter: &quot;[!UICONTROL Whoops]&quot; fel vid visning av matrisrapport](known-issues-workfront/wf-reports-error-matrix-report.md) | 9 juni 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 9 juni 2023 |
 

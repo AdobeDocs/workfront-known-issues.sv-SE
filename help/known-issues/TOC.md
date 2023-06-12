@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
-source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
+source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
-source-wordcount: '1137'
+source-wordcount: '1142'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Home]: Objekten visas inte i [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Rapporter: &quot;[!UICONTROL Whoops]&quot; fel vid visning av matrisrapport](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
