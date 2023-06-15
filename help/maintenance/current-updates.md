@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 0be265067c6f281c2f125a8f54e4f381da2f8ffe
+source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
 workflow-type: tm+mt
-source-wordcount: '3745'
+source-wordcount: '3743'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrige
 
 [!DNL Fusion] har distribuerat en korrigering som förhindrar att en användares anslutningar tas bort när användaren tas bort eller inaktiveras i [!UICONTROL Adobe Admin Console].
 
-[!DNL Fusion] Teamadministratörer kan fortfarande ta bort onödiga anslutningar från [!UICONTROL Connections] sida i fokus[!DNL]jon.
+[!DNL Fusion] Teamadministratörer kan fortfarande ta bort onödiga anslutningar från [!UICONTROL Connections] sida in [!DNL Fusion].
 
 +++
 
