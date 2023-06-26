@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
+source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,9 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapporter: Användningsrapporten läses inte in](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26 juni 2023 |
+| [Korrektur: Godkännandealternativ visas inte i [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 juni 2023 |
+| [Tidrapporter: Fel vid loggning av timmar på en tidrapport](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | 26 juni 2023 |
 | [Anpassade formulär: Visningslogiken förloras när ett anpassat formulär redigeras i en ny formulärdesigner (beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 24 maj 2023 |
 | [Utjämning av arbetsbelastning: Omfördelning av timmar oväntat](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 maj 2023 |
 | [Korrektur: Låsta korrekturgodkännanden visas fortfarande i arbetslistan](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 maj 2023 |

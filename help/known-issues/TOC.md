@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
+source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
 workflow-type: tm+mt
-source-wordcount: '1142'
+source-wordcount: '1163'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporter: Användningsrapporten läses inte in](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+      + [Korrektur: Godkännandealternativ visas inte i [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [Tidrapporter: Fel vid loggning av timmar på en tidrapport](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL Home]: Objekten visas inte i [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Rapporter: &quot;[!UICONTROL Whoops]&quot; fel vid visning av matrisrapport](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
