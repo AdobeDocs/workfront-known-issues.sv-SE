@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
+source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
 workflow-type: tm+mt
-source-wordcount: '3743'
+source-wordcount: '3817'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,26 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i juni 2023
+
++++**Underhållsuppdatering 22 juni 2023**
+
+**&quot;[!UICONTROL Whoops]&quot; fel vid visning av matrisrapport**
+
+_Rapporter_
+
+När en användare visar en matrisrapport visas följande fel:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+
+Detta har rapporterats när rapporten sorteras efter datum och &quot;[!UICONTROL Show weeks with no results]Alternativet &quot; är aktiverat.
+
+**Datumen visas felaktigt i matrisrapporter**
+
+_Rapporter_
+
+När ett diagram eller en matrisrapport grupperas efter datum kan datum nära grupperingens kanter visas i rätt gruppering, föregående/nästa gruppering eller båda.
+
++++
 
 +++**Underhållsuppdatering 15 juni 2023**
 
