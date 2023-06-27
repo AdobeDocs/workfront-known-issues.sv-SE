@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projekt/uppgifter/problem: Tidslinjen räknar inte om](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 27 juni 2023 |
 | [[!UICONTROL Home]: Objekten visas inte i [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 juni 2023 |
 
 {style="table-layout:auto"}
@@ -34,6 +35,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filter: &quot;[!UICONTROL Enable system-wide]&quot; och &quot;[!UICONTROL View system-wide]&quot; representerar olika funktioner](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 juni 2023 |
 | [Rapporter: Användningsrapporten läses inte in](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26 juni 2023 |
 | [Korrektur: Godkännandealternativ visas inte i [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 juni 2023 |
 | [Tidrapporter: Fel vid loggning av timmar på en tidrapport](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | 26 juni 2023 |

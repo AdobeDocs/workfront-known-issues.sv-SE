@@ -1,9 +1,9 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
 workflow-type: tm+mt
-source-wordcount: '1163'
+source-wordcount: '1175'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Projekt/uppgifter/problem: Tidslinjen räknar inte om](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
+      + [Filter: &quot;[!UICONTROL Enable system-wide]&quot; och &quot;[!UICONTROL View system-wide]&quot; representerar olika funktioner](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Rapporter: Användningsrapporten läses inte in](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [Korrektur: Godkännandealternativ visas inte i [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
       + [Tidrapporter: Fel vid loggning av timmar på en tidrapport](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
