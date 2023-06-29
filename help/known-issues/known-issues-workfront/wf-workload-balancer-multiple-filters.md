@@ -1,14 +1,14 @@
 ---
-title: "Utjämning av arbetsbelastning: Felaktiga resultat vid användning av flera filter samtidigt"
-description: "När en användare visar belastningsutjämnaren och använder flera filter samtidigt blir resultatet inte korrekt. Ett resultat som till exempel visas när filter A används och när filter B används visas inte när både filter A och B används samtidigt."
+title: '''Utjämning av arbetsbelastning: Felaktiga resultat vid användning av flera filter samtidigt'
+description: När en användare visar belastningsutjämnaren och använder flera filter samtidigt blir resultatet inte korrekt. Ett resultat som till exempel visas när du använder Filter A och när Filter B används visas inte när både Filter A och B används samtidigt.
 hidefromtoc: true
-source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
+exl-id: 4e708a5c-c0db-4395-a6ac-e947c7368494
+source-git-commit: 207dd6e09e40f58ee13f790aa9ddcaf2277c93dc
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # Utjämning av arbetsbelastning: Felaktiga resultat vid användning av flera filter samtidigt
 
@@ -16,11 +16,10 @@ ht-degree: 0%
 >
 >Problemet har stängts eftersom det inte är något problem.
 
-När en användare visar belastningsutjämnaren och använder flera filter samtidigt blir resultatet inte korrekt. Ett resultat som till exempel visas när du använder Filter A och när Filter B används visas inte när både Filter A och B används samtidigt.
+När en användare visar belastningsutjämnaren i resurshanteringsområdet och använder flera filter samtidigt blir resultatet inte korrekt. Ett resultat som till exempel visas när du använder Filter A och när Filter B används visas inte när både Filter A och B används samtidigt.
 
 **Tillfällig lösning**
 
 Du kan kombinera båda filtren i ett nytt filter.
 
 _Först rapporterad den 31 januari 2023._
-
