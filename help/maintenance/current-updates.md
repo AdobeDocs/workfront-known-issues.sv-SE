@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3d5489cd6a5474d4a53800f7bea1475aa8ddc482
+source-git-commit: ddda3e0d0f00d935e8be5789b41f7e05b91299d6
 workflow-type: tm+mt
-source-wordcount: '3842'
+source-wordcount: '4000'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,38 @@ Följande underhållsuppdateringar gjordes 2023.
 >Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
 
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
+
+## Uppdateringar i juli 2023
+
++++**Underhållsuppdatering 13 juli 2023**
+
+**Tidslinjen räknar inte om**
+
+_Projekt/uppgifter/problem_
+
+När en jämn händelse inträffar som ska utlösa en tidslinjeberäkning, beräknas inte tidslinjen om. Detta påverkar omberäkningar som sker vid ändringar och schemalagda omberäkningar. Detta kan påverka noggrannheten för belastningsutjämnaren.
+
+**Låsta korrekturgodkännanden visas fortfarande i arbetslistan**
+
+_Korrektur_
+
+Bevis på godkännanden som har passerat sin deadline och som är låsta visas fortfarande i godkännarens hemarbetslista, i stället för att släppas från listan när tidsgränsen har passerats.
+
+**Användningsrapporten läses inte in**
+
+_Rapporter_
+
+När en kund försöker visa en användningsrapport ser användaren en indikator för snurrande inläsning, men rapporten läses inte in. Rapporten returnerade ett 500-fel, men användaren ser inget som tyder på att rapporten har misslyckats.
+
+**Sidan Redigera användare är tom**
+
+<!--no article-->
+
+_Användare_
+
+När en användare försöker redigera en annan användare är sidan Redigera användare tom och användaren kan inte redigera den andra användaren.
+
++++
 
 ## Uppdateringar i juni 2023
 
