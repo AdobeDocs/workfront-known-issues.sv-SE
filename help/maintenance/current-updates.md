@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 45e4dc8ef13db59dd9f578c63f190d0249bc7def
+source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
 workflow-type: tm+mt
-source-wordcount: '4034'
+source-wordcount: '4000'
 ht-degree: 0%
 
 ---
@@ -48,12 +48,6 @@ När en kund försöker visa en användningsrapport ser användaren en indikator
 _Användare_
 
 När en användare försöker redigera en annan användare är sidan Redigera användare tom och användaren kan inte redigera den andra användaren.
-
-**Omfördelning av timmar oväntat**
-
-_Utjämning av arbetsbelastning_
-
-När timtilldelningar görs för specifika uppgifter kan dessa timmar beräknas om och fördelas oväntat. Detta kan inträffa efter att du har bläddrat mellan datum eller sidor, eller efter att du har uppdaterat sidan.
 
 +++
 
