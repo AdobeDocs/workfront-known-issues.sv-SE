@@ -2,9 +2,9 @@
 title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+source-git-commit: 52db6449599843d31e6fcb6e0b664801fbf978a5
 workflow-type: tm+mt
-source-wordcount: '4026'
+source-wordcount: '4064'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,11 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 +++**(Planerat) Underhållsuppdatering 20 juli 2023**
 
-Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
+**Ange planerade timmar för återkommande aktiviteter med underordnade [!UICONTROL Simple] varaktighetstyp utan tilldelningar**
+
+_Uppgifter_
+
+Nu när du anger Planerade timmar för en ny överordnad återkommande uppgift med en [!UICONTROL Simple] Varaktighetstyp och inga tilldelningar, timarna läggs också till i de enskilda perioderna. Före den här ändringen sparades inte timmarna för de återkommande aktiviteterna när de överordnade aktiviteterna inte tilldelades.
 
 +++
 
