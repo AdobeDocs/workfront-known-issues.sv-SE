@@ -1,9 +1,10 @@
 ---
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+role: User
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '1203'
+source-wordcount: '1220'
 ht-degree: 0%
 
 ---
@@ -16,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [Korrektur: Meddelandet &quot;Ingen bild&quot; visas när du klickar på korrektur](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [Dokumentintegreringar: Kan inte se alla mappar i [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL Home]: [!UICONTROL Home Work List] är tom/långsam att läsa in](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Inställningar: Det går inte att redigera jobbrollens kostnad/timme eller fakturering/timme](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)

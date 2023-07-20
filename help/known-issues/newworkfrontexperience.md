@@ -3,9 +3,9 @@ title: Kända fel i nya [!DNL Adobe Workfront] Upplevelse
 description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juli 2023 |
+| [Korrektur: Meddelandet &quot;Ingen bild&quot; visas när du klickar på korrektur](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 juli 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Home Work List] är tom/långsam att läsa in](known-issues-workfront/wf-home-blank-slow-to-load.md) | 18 juli 2023 |
 | [Vagnarna: Vågrät rullningslist finns inte](known-issues-workfront/wf-board-no-scrollbar.md) | 28 juni 2023 |
 | [[!UICONTROL Home]: Objekten visas inte i [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 juni 2023 |
