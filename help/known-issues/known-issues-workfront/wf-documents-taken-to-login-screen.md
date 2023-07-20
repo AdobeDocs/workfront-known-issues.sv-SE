@@ -2,8 +2,9 @@
 title: '"Dokument: Alternativen för korrekturaktiviteter leder till inloggningssidans'
 description: När en användare visar sidan Dokumentinformation och klickar på ett alternativ på menyn Korrekturaktiviteter dirigeras användaren till en inloggningssida i stället för till den avsedda målsidan.
 hidefromtoc: true
+feature: Digital Content and Documents
 exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

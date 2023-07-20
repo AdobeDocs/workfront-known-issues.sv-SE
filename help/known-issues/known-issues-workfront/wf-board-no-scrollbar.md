@@ -1,8 +1,9 @@
 ---
 title: "Varor: Vågrät rullningslist finns inte"
 description: "När en användare visar en bräda och försöker rulla vågrätt, finns inte rullningslisten och användaren kan inte rulla vågrätt."
+feature: Agile
 hidefromtoc: true
-source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%

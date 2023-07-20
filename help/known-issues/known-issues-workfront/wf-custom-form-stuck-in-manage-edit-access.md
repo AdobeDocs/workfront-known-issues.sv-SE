@@ -2,8 +2,9 @@
 title: 'Anpassade formulär: Egna formulär för flera objekt kräver behörighet att hantera eller redigera för att redigera fält'
 description: När en användare skapar ett formulär med korsobjekt som bara tillåter hanterings- eller redigeringsåtkomst, och sedan tar bort den objekttypen, kräver det anpassade formuläret fortfarande behörighet att redigera fälten. Det finns ingen visuell indikation på att fälten kräver behörigheten Hantera eller Redigera och det finns inget sätt att återställa formuläret.
 hidefromtoc: true
+feature: Custom Forms
 exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%

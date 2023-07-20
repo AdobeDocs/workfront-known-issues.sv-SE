@@ -2,8 +2,9 @@
 title: '"Kalender: Aktiviteter visas inte'
 description: När en användare har en listrapport och en kalenderrapport som har samma filter ser de att vissa uppgifter visas i listrapporten men inte i kalenderrapporten.
 exl-id: 1c606629-0db5-4096-af13-5e637a16ea7c
+feature: Reports and Dashboards
 hidefromtoc: true
-source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%

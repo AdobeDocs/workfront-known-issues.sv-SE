@@ -2,8 +2,9 @@
 title: '"Agile: Det går inte att redigera fält från anpassade formulär på kort'
 description: När ett fält på ett kort på Kanban-tavlan hämtas från ett anpassat formulär kan användarna inte redigera fältet direkt från kortet.
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
+feature: Agile
 hidefromtoc: true
-source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%

@@ -1,8 +1,9 @@
 ---
 title: "Filter: Möjliggör systemomfattande och Visa systemomfattande representerar olika funktioner"
 description: "Om en användare delar ett filter och aktiverar [!UICONTROL View system-wide] om du vill att filtret ska delas med alla användare i systemet. Om en administratör sedan visar det här filtret i [!UICONTROL Setup]ser de att det här filtret visas [!UICONTROL false] i [!UICONTROL Visible System-Wide] kolumn. Administratören måste aktivera [!UICONTROL Enable system-wide] i installationsprogrammet. Detta kan skapa viss förvirring på grund av likheter i ordalydelsen."
+feature: System Setup and Administration
 hidefromtoc: true
-source-git-commit: 9ac3e334b0f29031bbf81763341c52b73dd762e6
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%

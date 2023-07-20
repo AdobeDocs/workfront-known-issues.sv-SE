@@ -3,9 +3,10 @@ title: '''Hem: Det går inte att visa dokumentbilden i arbetslistan'
 description: När en användare klickar på en .docx-miniatyrbild för att visa en förhandsgranskning av dokumentet öppnas en videospelare som inte kan se dokumentet.
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
-source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+feature: Get Started with Workfront, Digital Content and Documents
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---

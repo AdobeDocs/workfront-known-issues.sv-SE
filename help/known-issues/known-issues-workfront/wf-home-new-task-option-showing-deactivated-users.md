@@ -2,8 +2,9 @@
 title: '''Hem: Alternativet Ny uppgift visar inaktiverade användare i fältet Tilldela till'
 description: När en användare befinner sig på den nya [!DNL Adobe Workfront] upplevelsen skapar en ny uppgift eller ett problem i hemområdet och försöker tilldela en användare. Inaktiverade användare visas som val i dialogrutan [!UICONTROL typeahead] nedrullningsbar lista.
 exl-id: 32257ac1-9804-4793-9c37-62ca5608df3d
+feature: Get Started with Workfront, Tasks
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

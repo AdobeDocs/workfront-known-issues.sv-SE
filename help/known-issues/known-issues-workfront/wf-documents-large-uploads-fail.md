@@ -1,14 +1,15 @@
 ---
-title: "Dokument: Fel vid överföring av stor fil"
-description: "När en användare försöker överföra en stor fil (över 25 MB) överförs inte filen och användaren ser felet Det gick inte att överföra filen."
+title: '"Dokument: Fel vid överföring av stor fil'
+description: När en användare försöker överföra en stor fil (över 25 MB) överförs inte filen och användaren ser felet Det gick inte att överföra filen.
 hidefromtoc: true
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
+feature: Digital Content and Documents
+exl-id: 6887a0a1-4f0b-4c91-b20f-664dd5f94470
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # Dokument: Fel vid överföring av stor fil
 
@@ -25,4 +26,3 @@ När en användare försöker överföra en stor fil (över 25 MB) överförs in
 Överför dokumentet som ett bevis.
 
 _Först rapporterad den 14 november 2022._
-

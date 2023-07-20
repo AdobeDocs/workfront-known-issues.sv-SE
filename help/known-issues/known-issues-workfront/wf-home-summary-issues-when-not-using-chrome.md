@@ -3,7 +3,8 @@ title: '''Hem: Hemsammanfattningsproblem vid användning av andra webbläsare ä
 description: När en användare visar sin hemsida och använder en annan webbläsare än Chrome, kan de se de olika problemen.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
-source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
