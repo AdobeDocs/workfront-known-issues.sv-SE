@@ -1,14 +1,15 @@
 ---
-title: "Uppdateringar: Uppdateringar som gjorts för en användares räkning visas som direkt från användaren"
-description: "När en administratör är inloggad som användare och gör en kommentar, visas kommentaren som direkt från användaren, i stället för från administratören för användarens räkning."
+title: '''Uppdateringar: Uppdateringar som gjorts för en användares räkning visas som direkt från användarens'
+description: När en administratör är inloggad som användare och gör en kommentar, visas kommentaren som direkt från användaren, i stället för från administratören för användarens räkning.
 hidefromtoc: true
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
+exl-id: b094dc2d-5cd8-4d48-9793-386256db7b4c
+feature: Updates and Notifications
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
-
 
 # Uppdateringar: Uppdateringar som gjorts för en användares räkning visas som direkt från användaren
 
@@ -19,4 +20,3 @@ ht-degree: 0%
 När en administratör är inloggad som användare och gör en kommentar, visas kommentaren som direkt från användaren, i stället för från administratören för användarens räkning.
 
 _Först rapporterad den 1 mars 2023._
-

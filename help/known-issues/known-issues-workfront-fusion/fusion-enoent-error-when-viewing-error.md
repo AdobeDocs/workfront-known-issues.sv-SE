@@ -3,7 +3,8 @@ title: '"Workfront Fusion: Fel vid visning av ett fel i en scenariekörningshist
 description: När en användare visar en körningshistorik för scenarier och försöker se mer information om ett fel genom att klicka på felet, öppnas inte informationen och användaren ser ett felmeddelande.
 hidefromtoc: true
 exl-id: c997469f-b80c-4438-b353-897f9cdb9481
-source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

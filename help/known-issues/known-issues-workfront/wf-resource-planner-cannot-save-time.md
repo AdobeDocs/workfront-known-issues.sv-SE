@@ -3,9 +3,10 @@ title: 'Resursplanering: Det går inte att spara efter att tid har lagts till'
 description: När en användare i [!UICONTROL Resource Planner] lägger till tid och försöker sedan spara, [!UICONTROL Save] knappen svarar inte. Om användaren klickar [!UICONTROL Cancel]visas ett meddelande om osparade ändringar.
 hidefromtoc: true
 exl-id: a5e2aefb-e1f6-48dc-9fe8-e03c0c157274
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---

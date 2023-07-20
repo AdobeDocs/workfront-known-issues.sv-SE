@@ -2,9 +2,10 @@
 title: "Projekt: Fel vid användning av milstolpe-vyn"
 description: "När en användare visar en projektlista och försöker använda vyn Milstolpe, läses vyn inte in och användaren ser ett fel."
 hidefromtoc: true
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+feature: Projects
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---

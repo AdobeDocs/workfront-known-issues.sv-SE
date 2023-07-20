@@ -2,7 +2,8 @@
 title: "Korrektur: Godkännandealternativen visas inte i korrekturläsaren"
 description: "När en användare försöker godkänna ett korrektur i Desktop Proofing Viewer visas inte godkännandealternativen omedelbart efter att godkännandet begärdes och användaren kan inte godkänna korrekturet. Godkännandealternativen visas flera timmar efter att godkännandet begärdes."
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

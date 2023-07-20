@@ -2,7 +2,8 @@
 title: "Rapporter: Användningsrapporten läses inte in"
 description: "När en kund försöker visa en användningsrapport ser användaren en indikator för snurrande inläsning, men rapporten läses inte in. Rapporten returnerade ett 500-fel, men användaren ser inget som tyder på att rapporten har misslyckats."
 hidefromtoc: true
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

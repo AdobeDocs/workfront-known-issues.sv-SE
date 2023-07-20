@@ -1,14 +1,15 @@
 ---
-title: "Problem: Vänster navigering visar (0) problem när det finns problem"
-description: "När en användare visar en uppgift där det finns problem visas (0) i området Problem till vänster om uppgiften, vilket anger att det inte finns några problem. Om användaren visar aktivitetens problemområde visas problemen."
+title: '''Problem: Vänster navigering visar (0) problem när det finns problem'
+description: När en användare visar en uppgift där det finns problem, visas (0) i området Problem till vänster för uppgiften, vilket anger att det inte finns några problem. Om användaren visar aktivitetens problemområde visas problemen.
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+exl-id: 96fd8e29-3184-4423-bf6e-dbe2f9d8e154
+feature: Tasks
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # Problem: I den vänstra navigeringen visas (0) problem när det finns problem
 
@@ -19,4 +20,3 @@ ht-degree: 0%
 När en användare visar en uppgift där det finns problem, visas &quot;(0)&quot; i området Problem till vänster för uppgiften, vilket anger att det inte finns några problem. Om användaren visar aktivitetens problemområde visas problemen.
 
 _Först rapporterad den 17 oktober 2022._
-

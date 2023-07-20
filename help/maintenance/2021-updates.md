@@ -2,7 +2,8 @@
 title: Workfront Maintenance Updates for 2021
 description: Historik över underhållsuppdateringar för 2021 för [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
-source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
+feature: Get Started with Workfront
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '8963'
 ht-degree: 0%

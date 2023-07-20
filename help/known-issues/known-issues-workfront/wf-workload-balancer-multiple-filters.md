@@ -3,7 +3,8 @@ title: '''Utjämning av arbetsbelastning: Felaktiga resultat vid användning av 
 description: När en användare visar belastningsutjämnaren och använder flera filter samtidigt blir resultatet inte korrekt. Ett resultat som till exempel visas när du använder Filter A och när Filter B används visas inte när både Filter A och B används samtidigt.
 hidefromtoc: true
 exl-id: 4e708a5c-c0db-4395-a6ac-e947c7368494
-source-git-commit: 207dd6e09e40f58ee13f790aa9ddcaf2277c93dc
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%

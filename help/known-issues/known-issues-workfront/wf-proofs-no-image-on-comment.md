@@ -2,7 +2,8 @@
 title: "Korrektur: Inget bildmeddelande när du klickar på korrektur"
 description: "När en användare i Desktop Proofing Viewer klickar på en kommentar öppnas inte bilden som är kopplad till kommentaren och användaren ser ett meddelande."
 hidefromtoc: true
-source-git-commit: 79ebbfd795616da4431fcbcca7676e03b5e2d927
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%

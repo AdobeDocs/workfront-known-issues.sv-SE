@@ -3,7 +3,8 @@ title: Kända fel i [!DNL Adobe Workfront Scenario Planner]
 description: Rapporterade kända fel för [!DNL Adobe Workfront Scenario Planner]
 keywords: ny fil, lägga till fil
 exl-id: b8978767-93dd-42c5-bd85-27b1f4509191
-source-git-commit: e224cfec1fc166f042b6c84d4dcfd35d35fd7559
+feature: Workfront Scenario Planner
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%

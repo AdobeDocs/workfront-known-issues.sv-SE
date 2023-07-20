@@ -2,7 +2,8 @@
 title: "Korrektur: Korrektur visas inte i rapporter som godkända"
 description: "När en användare visar en rapport som innehåller bevis för godkännande visar rapporten inte det godkända beslutet för alla godkända korrektur. När användaren tittar på själva beviset kan han eller hon se att det har godkänts."
 hidefromtoc: true
-source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

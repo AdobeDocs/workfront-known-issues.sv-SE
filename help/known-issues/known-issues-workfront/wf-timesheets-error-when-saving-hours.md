@@ -2,7 +2,8 @@
 title: "Tidrapporter: Fel vid loggning av timmar på en tidrapport"
 description: "När en användare försöker logga timmar på en uppgift i sin tidrapport sparas inte timmarna och användaren ser felmeddelanden."
 hidefromtoc: true
-source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
+feature: Timesheets
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%

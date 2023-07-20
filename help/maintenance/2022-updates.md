@@ -1,7 +1,9 @@
 ---
 title: Workfront Maintenance Updates in 2022
 description: Underhållsuppdateringar för 2022 för [!DNL Adobe Workfront]
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
+feature: Get Started with Workfront
+source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
 workflow-type: tm+mt
 source-wordcount: '15283'
 ht-degree: 0%
@@ -247,7 +249,7 @@ Följande problem har rapporterats om problem som har lagts till i en iteration:
 * Vissa underuppgifter för en uppgift som lagts till i en iteration visas inte på [!UICONTROL Iteration] sida.
 * När en användare försöker lägga till en saknad uppgift i iterationen läggs uppgiften inte till och användaren ser följande meddelande:
 
-   &quot;[!UICONTROL The following error occurred: None of the selected items could be moved, because they are not assigned to an agile team or are not agile items]&quot;
+  &quot;[!UICONTROL The following error occurred: None of the selected items could be moved, because they are not assigned to an agile team or are not agile items]&quot;
 
 **Uppgifter som tilldelats via gruppredigering visas inte i teamets eftersläpning**
 
@@ -475,7 +477,7 @@ Om en användare försöker fästa sidan igen genom att gå till sidan och fäst
 
 **Ny ritningstyp**
 
-*Blueprints*
+*Utkast*
 
 Ritningstypen Dashboard har lagts till i katalogen med ritningar. Tidigare var endast projektmallar och organisationsstrukturplaner tillgängliga.
 
@@ -1910,7 +1912,7 @@ När en rapport har en inbyggd gruppering och användaren försöker välja &quo
 
 **Borttagen &quot;[!UICONTROL Blueprints access]&quot; -flik från inställningar för utkast**
 
-*Blueprints*
+*Utkast*
 
 OBS! Problemet finns bara i förhandsvisningsmiljön.
 

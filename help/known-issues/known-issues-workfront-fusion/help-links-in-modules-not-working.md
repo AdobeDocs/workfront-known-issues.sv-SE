@@ -3,7 +3,8 @@ title: Hjälplänkar i appen för Fusion leder inte till specifika hjälpsidor
 description: Hjälplänkar i [!DNL Workfront Fusion] leder för närvarande inte till hjälpsidorna. Istället leder alla Fusion-hjälplänkar till startsidan för Workfront Documentation. Från den här landningssidan kan du söka efter den information du behöver.
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%

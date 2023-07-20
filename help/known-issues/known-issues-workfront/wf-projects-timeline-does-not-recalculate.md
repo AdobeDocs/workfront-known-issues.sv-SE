@@ -2,7 +2,8 @@
 title: "Projekt/uppgifter/ärenden: Tidslinjen räknar inte om"
 description: "När en jämn händelse inträffar som borde utlösa en tidslinjeberäkning, beräknas inte tidslinjen om. Detta påverkar omberäkningar som sker vid ändringar och schemalagda omberäkningar. Detta kan påverka noggrannheten för belastningsutjämnaren."
 hidefromtoc: true
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
+feature: Projects, Tasks
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

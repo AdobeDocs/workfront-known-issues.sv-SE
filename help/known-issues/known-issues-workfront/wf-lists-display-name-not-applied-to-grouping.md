@@ -3,7 +3,8 @@ title: '''Listor: Visningsnamnet används inte för anpassad fältgruppering'
 description: När en användare grupperar en lista efter ett anpassat fält och ändrar visningsnamnet i textläge, visas i stället fältets ursprungliga namn.
 exl-id: 70fda3fe-336c-4ee5-a47c-b1095e470865
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+feature: Text Mode Reporting
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%

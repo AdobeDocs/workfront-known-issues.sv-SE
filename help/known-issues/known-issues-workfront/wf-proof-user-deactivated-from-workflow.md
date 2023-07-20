@@ -3,9 +3,10 @@ title: '"Korrektur: Användaren inaktiveras från korrekturarbetsflödet och åt
 description: När en användare försöker få åtkomst till ett korrektur som de har tilldelats till ett arbetsflöde i visas ett meddelande om åtkomst som inte är tillåtet.
 hidefromtoc: true
 exl-id: af7d70af-3d4c-40a8-a8c4-429f38e62d34
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---

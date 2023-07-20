@@ -2,7 +2,8 @@
 title: "Workfront Proof: 500 fel vid åtkomst till Workfront Proof via API eller Workfront Fusion"
 description: "När en användare kommer åt åtgärden getAllProofs i API:t för Korrektur returnerar Workfront-servern meddelandet: 500 internt serverfel"
 hidefromtoc: true
-source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

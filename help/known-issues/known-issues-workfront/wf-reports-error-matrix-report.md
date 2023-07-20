@@ -2,7 +2,8 @@
 title: "Rapporter: Hoppfel vid visning av matrisrapport"
 description: '"När en användare visar en matrisrapport visas felet "Hopp"."'
 hidefromtoc: true
-source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%

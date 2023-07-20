@@ -3,7 +3,8 @@ title: '"Korrektur: Det går inte att lägga till användare i korrektur genom a
 description: När en användare taggar en annan användare som inte finns med i korrekturet i en kommentar, har de inte möjlighet att välja en jobbroll eller e-postadress för användaren och kan därför inte lägga till användaren i korrekturet.
 exl-id: 0ed7af8f-b177-4839-8045-24a5be2c764f
 hidefromtoc: true
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

@@ -3,9 +3,10 @@ title: '"Korrektur: Fliken Korrekturaktivitet öppnar Korrekturinformation'
 description: När en användare visar ett korrektur och klickar på fliken Korrekturaktivitet öppnas i stället fliken Korrekturinformation. Detta inträffar när ett korrekturstadium har lagts till manuellt i arbetsflödet.
 hidefromtoc: true
 exl-id: 153a7289-d1e3-4894-bb0d-5baafebb7dac
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---

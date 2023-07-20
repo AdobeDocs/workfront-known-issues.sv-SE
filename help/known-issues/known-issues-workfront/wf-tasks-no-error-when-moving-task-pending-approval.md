@@ -2,7 +2,8 @@
 title: "Uppgifter: Inget felmeddelande visas när aktiviteten ordnas om i statusen Väntar på godkännande"
 description: "När en användare försöker ordna om en uppgift i en uppgiftslista och uppgiften finns i [!UICONTROL Pending approval] status, aktiviteten verkar flyttas i uppgiftslistan. Användaren ser att objektet inte har flyttats vid uppdateringen. Objektet kan inte flyttas eftersom det finns i [!UICONTROL Pending approval] status, men det finns inget meddelande som talar om för användaren att objektet inte kan flyttas, vilket kan leda till missförstånd."
 hidefromtoc: true
-source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
+feature: Tasks
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%

@@ -2,8 +2,9 @@
 title: '''Integrationer: Det går inte att öppna Workfront för G Suite'
 description: '"När en användare befinner sig i en G Suite-app och försöker öppna tillägget Workfront for G Suite öppnas inte tillägget och användaren ser att något gick fel. Försök igen. Att försöka igen är ineffektivt. '''
 hidefromtoc: true
+feature: Workfront Integrations and Apps
 exl-id: e7331cff-0f96-4080-ae53-286776fd6f31
-source-git-commit: 092056ca967a2fb28bbc80e61a44b83da9f705b4
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%

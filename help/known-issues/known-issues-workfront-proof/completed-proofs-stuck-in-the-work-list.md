@@ -3,7 +3,8 @@ title: '''Hem: Slutförda korrektur som fastnat i arbetslistan'
 description: När en användare har slutfört ett korrektur visas det fortfarande i [!UICONTROL Work List].
 exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
 hidefromtoc: true
-source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%

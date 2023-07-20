@@ -1,14 +1,15 @@
 ---
-title: "Tidrapporter: Listrutan Timtyp öppnas inte"
-description: "När en användare försöker öppna listrutan Timtyp på en tidrapport flimrar skärmen men listrutan öppnas inte. Detta inträffar när skärmen har en ovanlig upplösning eller när zoominställningen för webbläsarfönstret inte är 100 %."
+title: '''Tidrapporter: Listrutan Timtyp öppnas inte'
+description: När en användare försöker öppna listrutan Timtyp på en tidrapport flimrar skärmen men listrutan öppnas inte. Detta inträffar när skärmen har en ovanlig upplösning eller när zoominställningen för webbläsarfönstret inte är 100 %.
 hidefromtoc: true
-source-git-commit: 3943ffe8a6dc392e8604dbd2f1a410d2ed11aaf6
+exl-id: 50660f78-b963-4eb9-b95f-3fdc129d9ecb
+feature: Timesheets
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # Tidrapporter: [!UICONTROL Hour Type] listrutan öppnas inte
 
@@ -26,4 +27,3 @@ Försök med något av följande:
 * Justera bildskärmsupplösningen
 
 _Först rapporterad den 30 januari 2023._
-

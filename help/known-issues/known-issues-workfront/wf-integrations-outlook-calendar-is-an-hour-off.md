@@ -1,14 +1,15 @@
 ---
-title: "Integrationer: Hemkalendern visar händelser en timme senare än Outlook"
-description: "När en användare har sin hemkalender integrerad med Workfront och visar kalendrarna visas händelser i Workfront en timme senare än de visar i Outlook. En händelse som visas i Outlook som kl. 10:00 visas i Workfront som kl. 11:00."
+title: '''Integrationer: I hemkalendern visas händelser en timme senare än Outlook'
+description: När en användare har sin hemkalender integrerad med Workfront och visar kalendrar visas händelser i Workfront som en timme senare än de visar i Outlook. En händelse som till exempel visas i Outlook som 10:00 visas i Workfront som 11:00.
 hidefromtoc: true
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+feature: Workfront Integrations and Apps
+exl-id: 29c2e1ce-02dc-4546-99ef-9249c9598880
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
-
 
 # Integrationer: [!UICONTROL Home Calendar] visar händelser en timme senare [!DNL Outlook]
 
@@ -19,4 +20,3 @@ ht-degree: 0%
 När en användare har sin hemkalender integrerad med [!DNL Workfront]och visar kalendrar, händelser visas i [!DNL Workfront] som en timme senare än de visar om [!DNL Outlook]. En händelse som visas i [!DNL Outlook] som kl. 10.00 visas i [!DNL Workfront] kl. 11.00.
 
 _Först rapporterad den 4 november 2022._
-

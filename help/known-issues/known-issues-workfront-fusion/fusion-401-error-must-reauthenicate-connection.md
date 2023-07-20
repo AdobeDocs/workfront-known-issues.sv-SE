@@ -3,7 +3,8 @@ title: '''[!DNL Workfront Fusion]: Det gick inte att verifiera anslutningsfelet'
 description: '"Workfront Fusion-anslutningar till ett Workfront-konto kan misslyckas med autentiseringen, vilket orsakar följande fel i scenarierna: Det gick inte att verifiera anslutningen.'
 hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
-source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

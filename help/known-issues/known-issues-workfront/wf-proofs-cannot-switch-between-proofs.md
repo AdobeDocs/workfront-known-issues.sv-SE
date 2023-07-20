@@ -3,7 +3,8 @@ title: '"Korrektur: Det går inte att växla mellan korrektur i korrekturläsare
 description: När en användare visar ett korrektur i [!UICONTROL Proofing Viewer]och växlar till en annan version, blir listrutan över versioner inaktiverad och användaren kan inte växla tillbaka till den ursprungliga versionen som han/hon visade eller till en annan version av korrekturet.
 hidefromtoc: true
 exl-id: 52e7b55e-4239-4785-9b27-25e91b5eb8bd
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

@@ -3,7 +3,8 @@ title: "Korrektur: Godkännanderapporten kan inte fastställa deadlines korrekt"
 description: När en användare skapar en [!UICONTROL Proof Approval] rapport som innehåller korrekturdatum för deadline, de datum som visas i rapporten är felaktiga, vilket leder till felrapportering och felaktig information i resultaten.
 exl-id: 1f636a74-9522-4f2b-8e91-4f0facf1cdbc
 hidefromtoc: true
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

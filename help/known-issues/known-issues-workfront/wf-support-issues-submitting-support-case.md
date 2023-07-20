@@ -3,7 +3,8 @@ title: '[!DNL Workfront]: Problem med att skicka in ett supportärende från Wor
 description: '""Om du är en [!DNL Workfront] Kontakta oss om du har problem med att lämna in ett supportärende. Ring oss på telefonnumren nedan så att vi kan hjälpa dig."'
 hidefromtoc: true
 exl-id: f19b3e67-d31d-48f8-b847-dd4d309e11fc
-source-git-commit: c619bd4970134541e5d9960cd140fdca13d33641
+feature: System Setup and Administration
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%

@@ -2,7 +2,8 @@
 title: "Workfront Fusion: Körningar fastnar eller fördröjs"
 description: "En körning kan fastna och fortsätta trots att inga data bearbetas. Eftersom scenariot har fastnat kan senare körningar av det scenariot fördröjas."
 hidefromtoc: true
-source-git-commit: 9d4cabdf936594d4460204c9b4a405ca4bcf99f2
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%

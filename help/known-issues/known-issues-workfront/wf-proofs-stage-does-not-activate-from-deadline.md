@@ -3,9 +3,10 @@ title: '"Korrektur: Korrekturfasen aktiveras inte när den föregående fasens d
 description: När ett korrektur har flera steg och inställningen Aktivera stadium för en senare fas är inställd på När deadline för föregående fas har passerat, aktiveras inte den senare fasen när deadline har passerat.
 hidefromtoc: true
 exl-id: c3a16e21-f645-4382-94d8-9836a773132f
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
