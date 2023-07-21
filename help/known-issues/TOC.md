@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '1237'
+source-wordcount: '1243'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Dokument: EPS-filer stöds för närvarande inte](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Dokument: XML-fel vid hämtning](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [Projekt/problem: Projektet löser inte problemet korrekt](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL Setup]: Det går inte att exportera granskningsloggar](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)

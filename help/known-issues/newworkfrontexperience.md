@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | [Projekt/problem: Projektet löser inte problemet korrekt](known-issues-workfront/wf-projects-resolving-issue.md) | 21 juli 2023 |
 | [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juli 2023 |
 | [Korrektur: Meddelandet &quot;Ingen bild&quot; visas när du klickar på korrektur](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 juli 2023 |
-| [[!UICONTROL Home]: [!UICONTROL Home Work List] är tom/långsam att läsa in](known-issues-workfront/wf-home-blank-slow-to-load.md) | 18 juli 2023 |
 | [Vagnarna: Vågrät rullningslist finns inte](known-issues-workfront/wf-board-no-scrollbar.md) | 28 juni 2023 |
-| [[!UICONTROL Home]: Objekten visas inte i [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 juni 2023 |
 
 {style="table-layout:auto"}
 
@@ -41,10 +39,11 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Inställningar: Det går inte att redigera jobbrollens kostnad/timme eller fakturering/timme](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 10 juli 2023 |
+| [Dokument: EPS-filer stöds för närvarande inte](known-issues-workfront/wf-documents-not-supporting-eps.md) | 21 juli 2023 |
+| [Korrektur: Låsta korrekturgodkännanden visas fortfarande i arbetslistan](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 juli 2023 |
+| [[!UICONTROL Home]: Objekten visas inte i [!UICONTROL Home Work List]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21 juli 2023 |
 | [Filter: &quot;[!UICONTROL Enable system-wide]&quot; och &quot;[!UICONTROL View system-wide]&quot; representerar olika funktioner](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 juni 2023 |
 | [Korrektur: Godkännandealternativ visas inte i [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 juni 2023 |
-| [Utjämning av arbetsbelastning: Omfördelning av timmar oväntat](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 maj 2023 |
 | [Projekt: [!UICONTROL Home Group] anpassade statusvärden som inte är tillgängliga när du skapar ett projekt från en mall](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 
@@ -56,6 +55,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Inställningar: Det går inte att redigera jobbrollens kostnad/timme eller fakturering/timme](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 21 juli 2023 |
 | [[!UICONTROL Setup]: Det går inte att exportera granskningsloggar](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20 juli 2023 |
 | [Dokumentintegreringar: Kan inte se alla mappar i [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 juli 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |

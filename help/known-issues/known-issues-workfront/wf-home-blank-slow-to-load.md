@@ -3,15 +3,19 @@ title: "Hem: Arbetslista för hemmet är tom/långsam att läsa in"
 description: "När en användare försöker visa sin hemarbetslista är sidan tom under en längre tid när sidan läses in. Inläsningen kan ta flera minuter, då arbetslistan är tom."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 
 # [!UICONTROL Home]: [!UICONTROL Home Work List] är tom/långsam att läsa in
+
+>[!NOTE]
+>
+>Problemet korrigerades den 19 juli 2023.
 
 När en användare försöker visa sina [!UICONTROL Home Work List], är sidan tom under en längre tid när sidan läses in. Inläsningen kan ta flera minuter, under vilka [!UICONTROL Work List] är tom.
 
