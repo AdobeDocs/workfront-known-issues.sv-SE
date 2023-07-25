@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
+source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
 workflow-type: tm+mt
-source-wordcount: '1243'
+source-wordcount: '1252'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Dokument: Dokumentgodkännanden visas inte i godkännandeområdet](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Dokument: EPS-filer stöds för närvarande inte](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Dokument: XML-fel vid hämtning](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [Projekt/problem: Projektet löser inte problemet korrekt](known-issues-workfront/wf-projects-resolving-issue.md)

@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
 workflow-type: tm+mt
-source-wordcount: '4025'
+source-wordcount: '4098'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,16 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i juli 2023
+
++++**(Planerat) Underhållsuppdatering 27 juli 2023**
+
+**&quot;[!UICONTROL Enable system-wide]&quot; och &quot;[!UICONTROL View system-wide]&quot; representerar olika funktioner**
+
+_Filter_
+
+Om en användare delar ett filter och aktiverar[!UICONTROL View system-wide]&quot; delas filtret med alla användare i systemet. Om en administratör sedan visar det här filtret i [!UICONTROL Setup]ser de att det här filtret visar &quot;[!UICONTROL false]&quot; i &quot;[!UICONTROL Visible System-Wide]&quot;. Administratören måste aktivera alternativet[!UICONTROL Enable system-wide]&quot; i [!UICONTROL Setup]. Detta kan orsaka viss förvirring på grund av likheter i ordalydelsen.
+
++++
 
 +++**Underhållsuppdatering 20 juli 2023**
 
