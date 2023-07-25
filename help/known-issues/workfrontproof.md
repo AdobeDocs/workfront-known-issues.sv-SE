@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
+source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Dokument: Dokumentgodkännanden visas inte i godkännandeområdet](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juli 2023 |
+| [Dokument: Dokumentgodkännanden visas inte i [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juli 2023 |
 | [Dokument: XML-fel vid hämtning](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 21 juli 2023 |
 | [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juli 2023 |
 | [Korrektur: Meddelandet &quot;Ingen bild&quot; visas när du klickar på korrektur](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 juli 2023 |
