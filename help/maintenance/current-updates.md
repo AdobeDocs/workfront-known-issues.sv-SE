@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
+source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
-source-wordcount: '4098'
+source-wordcount: '4097'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i juli 2023
 
-+++**(Planerat) Underhållsuppdatering 27 juli 2023**
++++**Underhållsuppdatering 27 juli 2023**
 
-**&quot;[!UICONTROL Enable system-wide]&quot; och &quot;[!UICONTROL View system-wide]&quot; representerar olika funktioner**
+**&quot;[!UICONTROL Enable system-wide]och &quot;[!UICONTROL View system-wide]&quot; representerar olika funktioner**
 
 _Filter_
 
@@ -88,7 +88,7 @@ När en användare visar en matrisrapport visas följande fel:
 
 Detta har rapporterats när rapporten sorteras efter datum och &quot;[!UICONTROL Show weeks with no results]Alternativet &quot; är aktiverat.
 
-**Datumen visas felaktigt i matrisrapporter**
+**Datum visas felaktigt i matrisrapporter**
 
 _Rapporter_
 
@@ -235,7 +235,7 @@ När en användare försöker välja en mall på Åtgärder-menyn (tre punkter) 
 
 +++**Underhållsuppdatering 27 april 2023**
 
-**Det går inte att växla mellan korrektur i[!UICONTROL Proof Viewer]**
+**Kan inte växla mellan korrektur i[!UICONTROL Proof Viewer]**
 
 _Korrektur_
 
@@ -270,7 +270,7 @@ Anpassade listrutefält som är aktiverade som flervalsfält kan visa följande 
 * The &quot;+[!UICONTROL Add]knappen finns inte när formuläret inte är i redigeringsläge.
 * Fält som inte har värden visar ett &quot;—[!UICONTROL no label]—&quot;.
 
-**Det går inte att använda verktyget Polyline när du gör en kommentar i ett korrektur**
+**Det går inte att använda verktyget Polyline när du kommenterar ett korrektur**
 
 _Korrektur_
 
@@ -342,7 +342,7 @@ När en administratör redigerar en användare och försöker markera en [!UICON
 
 _Korrektur_
 
-När en användare lägger till en annan användare i ett korrektur i [!UICONTROL Proofing Viewer], &quot;[!UICONTROL Proof role]&quot; och &quot;[!UICONTROL Email alerts]&quot; kan inte öppnas. Användaren kan inte tilldela ett korrekturfält eller en e-postavisering. Detta kan inträffa när en användare läggs till via en kommentar eller när korrekturet delas med användaren.
+När en användare lägger till en annan användare i ett korrektur i [!UICONTROL Proofing Viewer], &quot;[!UICONTROL Proof role]och &quot;[!UICONTROL Email alerts]&quot;-listrutor kan inte öppnas. Användaren kan inte tilldela ett korrekturfält eller en e-postavisering. Detta kan inträffa när en användare läggs till via en kommentar eller när korrekturet delas med användaren.
 
 +++
 
@@ -384,11 +384,11 @@ _Korrektur_
 
 Åtgärda ett problem med kommentarer i [!UICONTROL Desktop Proofing Viewe]r har vi driftsatt en ny version av korrekturläsaren för skrivbordet.
 
-Användare som redan har [!UICONTROL Desktop Proofing Viewer] den här uppdateringen hämtas automatiskt.
+Användare som redan [!UICONTROL Desktop Proofing Viewer] den här uppdateringen hämtas automatiskt.
 
 Användarna kan även manuellt välja den senaste versionen. Mer information finns i [Installera [!UICONTROL Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
 
-* Föregående version: 2.1.22
+* Tidigare version: 2.1.22
 * Ny version: 2.1.23
 
 +++
@@ -427,7 +427,7 @@ När en användare återaktiverar en inaktiverad användare och försöker tilld
 
 _[!DNL Workfront Goals]_
 
-Nu när du navigerar bort från [!UICONTROL Updates] sida för ett mål när ett meddelande disponeras bevaras meddelandet när du navigerar tillbaka. Före den här uppdateringen skulle den ej inskickade kommentaren ha tagits bort.
+Nu när du navigerar bort från [!UICONTROL Updates] när du skriver ett meddelande bevaras meddelandet när du kommer tillbaka. Före den här uppdateringen skulle den ej inskickade kommentaren ha tagits bort.
 
 +++
 
@@ -480,7 +480,7 @@ Detta påverkar för närvarande bara Document-objekt.
 
 _Användare_
 
-När en användare med [!UICONTROL Worker] licensförsök att redigera sina egna meddelandeinställningar, [!UICONTROL Notifications] alternativen inte visas i [!UICONTROL Edit] och användaren kan inte redigera inställningarna.
+När en användare har en [!UICONTROL Worker] licensförsök att redigera sina egna meddelandeinställningar, [!UICONTROL Notifications] alternativen inte visas i [!UICONTROL Edit] och användaren kan inte redigera inställningarna.
 
 +++
 
@@ -508,7 +508,7 @@ När en användare är schemalagd att inaktiveras och det schemalagda datumet oc
 
 +++**Underhållsuppdatering 9 februari 2023**
 
-**[!UICONTROL Story Points]fält som lagts till i uppgiftslistor och problemlistor och rapporter**
+**[!UICONTROL Story Points]fält som lagts till i uppgifts- och utgivningslistor och rapporter**
 
 _Rapporter_
 
@@ -573,7 +573,7 @@ _Tidrapporter_
 Vi har lagt till flera informationsikoner i följande inställningar:
 
 * &quot;[!UICONTROL Can edit time]&quot;, kryssruta när du skapar eller redigerar en tidrapport eller en tidrapportprofil för att ange att godkännare när den är aktiverad även kan skicka, öppna igen eller redigera tidrapporten, såvida inte administratören begränsar dessa åtgärder i [!UICONTROL Timesheet Preferences] område på [!UICONTROL Setup].
-* &quot;[!UICONTROL Restrict timesheet editing to owners and admins]&quot; i [!UICONTROL Timesheet & Hour Preferences] område på [!UICONTROL Setup] om du vill ange att följande användare även kan redigera tidrapporterna när de är inaktiverade: användare med administrativ åtkomst till tidrapporter och timmar, tidrapportgodkännare som kan redigera tid och tidrapportägarnas chefer.
+* &quot;[!UICONTROL Restrict timesheet editing to owners and admins]&quot; i [!UICONTROL Timesheet & Hour Preferences] område på [!UICONTROL Setup] om du vill ange att följande användare även kan redigera tidrapporterna när de är inaktiverade: användare med administrativ åtkomst till tidrapporter och timmar, tidrapportgodkännare som kan redigera tid och tidrapportägares chefer.
 
 Observera att funktionaliteten för de här inställningarna inte har ändrats och att bara informationsikonerna har lagts till för att göra inställningarna tydligare.
 
@@ -599,7 +599,7 @@ För att åtgärda ett problem med frysning i Desktop Proofing Viewer har vi dis
 
 Användarna kan även manuellt välja den senaste versionen. Mer information finns i [Installera Desktop Proofing Viewer](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
 
-* Föregående version: 2.1.19
+* Tidigare version: 2.1.19
 * Ny version: 2.1.20
 
 **Användaren kan inte redigera sin egen användarinställning**
@@ -724,14 +724,14 @@ Vi har tagit bort den begränsning som innebar att användare som måste läggas
 
 >[!NOTE]
 >
->Uppdateringen släpptes till förhandsvisningsmiljön den 3 november 2022 och är nu tillgänglig i Production
+>Den här uppdateringen släpptes till förhandsvisningsmiljön den 3 november 2022 och är nu tillgänglig i Production
 
 _Workfront_
 
 Vi har lagt till flera informationsikoner i följande inställningar:
 
 * Kryssrutan&quot;Kan redigera tid&quot; när du skapar eller redigerar en tidrapportprofil eller en tidrapportprofil för att ange att godkännare när den är aktiverad även kan skicka, öppna eller redigera tidrapporten, såvida inte administratören begränsar dessa åtgärder under Inställningar för tidrapport i dialogrutan Inställningar.
-* &quot;Begränsa redigering av tidrapporter till ägare och administratörer&quot; i inställningsområdet för tidrapport och timinställningar för att ange att följande användare även kan redigera tidrapporterna när de är inaktiverade: användare med administrativ åtkomst till tidrapporter och timmar, tidrapportgodkännare som kan redigera tid och tidrapportägarnas chefer.
+* &quot;Begränsa redigering av tidrapporter till ägare och administratörer&quot; i delen Inställningar för tidrapport och timmar i installationsprogrammet för att ange att följande användare även kan redigera tidrapporterna när de är inaktiverade: användare med administrativ åtkomst till tidrapporter och timmars-, tidrapportgodkännare som kan redigera tid och tidrapportägarnas chefer.
 
 Observera att funktionaliteten för de här inställningarna inte har ändrats och att bara informationsikonerna har lagts till för att göra inställningarna tydligare.
 
