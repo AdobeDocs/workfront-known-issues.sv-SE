@@ -3,9 +3,9 @@ title: "Dokument: EPS-filer stöds för närvarande inte"
 description: "Workfront har för närvarande inte stöd för att skapa korrektur från EPS-filer."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0094ecfc0db68c446bd6e63323caeac75d9593eb
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Dokument: EPS-filer stöds för närvarande inte
 
 <!--WF, WFP-->
+
+>[!NOTE]
+>
+>Problemet korrigerades den 27 juli 2023.
 
 Workfront har för närvarande inte stöd för att skapa korrektur från EPS-filer.
 
