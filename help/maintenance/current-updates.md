@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
+source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
 workflow-type: tm+mt
-source-wordcount: '4186'
+source-wordcount: '4227'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ Följande underhållsuppdateringar gjordes 2023.
 
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
-## Uppdateringar i juli 2023
+## Uppdateringar i augusti 2023
 
-+++**(Planerat) Underhållsuppdatering 27 juli 2023**
++++**(Planerat) Underhållsuppdatering 3 augusti 2023**
 
 **Projektet löser inte problemet korrekt**
 
@@ -45,6 +45,12 @@ Detta har rapporterats för användare inom EMEA.
 ## Uppdateringar i juli 2023
 
 +++**Underhållsuppdatering 27 juli 2023**
+
+**Taggar och checklisteobjekt fungerar inte korrekt i projektpanelsvyn**
+
+_Varumärkena_
+
+Taggar och checklisteobjekt har tagits bort från projektvyn eftersom de inte ingår i Workfront-åtgärderna och inte kan delas mellan användare.
 
 **&quot;[!UICONTROL Enable system-wide]och &quot;[!UICONTROL View system-wide]&quot; representerar olika funktioner**
 
