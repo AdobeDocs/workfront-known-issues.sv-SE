@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
+source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
 workflow-type: tm+mt
-source-wordcount: '4097'
+source-wordcount: '4186'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,28 @@ Följande underhållsuppdateringar gjordes 2023.
 >Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
 
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
+
+## Uppdateringar i juli 2023
+
++++**(Planerat) Underhållsuppdatering 27 juli 2023**
+
+**Projektet löser inte problemet korrekt**
+
+_Projekt/problem_
+
+När en användare ändrar status för ett projekt som är det lösta objektet för ett problem, ändras ärendestatusen till en status som inte matchar samma nyckel som statusen för projektet.
+
+**&quot;Hoppfel&quot; i matrisrapporter**
+
+_Rapporter_
+
+När en användare försöker visa en matrisrapport läses rapporten inte in och användaren ser följande fel:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+
+Detta har rapporterats för användare inom EMEA.
+
++++
 
 ## Uppdateringar i juli 2023
 
