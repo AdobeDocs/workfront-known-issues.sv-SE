@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '4227'
+source-wordcount: '4285'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,24 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 ## Uppdateringar i augusti 2023
 
 +++**(Planerat) Underhållsuppdatering 3 augusti 2023**
+
+**Svårighet att hitta objekt i inloppskolumnen**
+
+_Varumärkena_
+
+Inloppskolumnen på en styrelse sorterades tidigare efter den prioritet som definierats för uppgifter och frågor, vilket gjorde det svårt att hitta specifika punkter.
+
+Standardordningen är nu följande:
+
+Uppgifter:
+
+* Primär order: Projektnamn
+* Sekundär ordning: Arbetsfördelningsstruktur
+
+Problem
+
+* Primär order: Projektnamn
+* Sekundärordning: Referensnummer
 
 **Projektet löser inte problemet korrekt**
 
