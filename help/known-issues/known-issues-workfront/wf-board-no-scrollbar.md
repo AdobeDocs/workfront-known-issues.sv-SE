@@ -1,17 +1,21 @@
 ---
-title: "Varor: Vågrät rullningslist finns inte"
+title: "Tavlor: Vågrät rullningslist finns inte"
 description: "När en användare visar en bräda och försöker rulla vågrätt, finns inte rullningslisten och användaren kan inte rulla vågrätt."
 feature: Agile
 hidefromtoc: true
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
 
-# Vagnarna: Vågrät rullningslist finns inte
+# Tavlor: Vågrät rullningslist finns inte
+
+>[!NOTE]
+>
+>Problemet korrigerades den 13 juli 2023.
 
 När en användare visar en rityta och försöker rulla vågrätt, finns inte rullningslisten och användaren kan inte rulla vågrätt.
 
