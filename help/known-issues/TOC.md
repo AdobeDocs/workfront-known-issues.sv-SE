@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '959'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Korrektur: Det går inte att justera korrekturmarkeringar](known-issues-workfront/wf-proof-markup-tools-not-working.md)
+      + [Korrektur: korrektur kan inte genereras](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [korrektur: Om du skapar en ny korrekturversion tas alla versioner av korrektur bort](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
       + [Korrektur: Godkänt korrektur finns kvar på godkännarens [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
       + [Korrektur: Korrekturskärmar med övre klippgräns](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
@@ -137,6 +139,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Kända fel i Workfront Fusion](workfrontfusion.md)
    + Aktuella problem i [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Vilolägesmodulen orsakar att scenarier låser sig](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
+      + [[!DNL Workfront Fusion]: Scenario misslyckas med &quot;[!UICONTROL read ECONNRESET]&quot;-fel](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: Det går inte att ange värde i [!DNL Workfront] > [!UICONTROL Watch Events] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]: &quot;[!UICONTROL cannot execute UPDATE]&quot;-fel](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: Meddelanden skickas inte via e-post](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)

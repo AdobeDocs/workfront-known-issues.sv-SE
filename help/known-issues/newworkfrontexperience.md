@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '611'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: korrektur kan inte genereras](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 augusti 2023 |
 | [Korrektur: Godkänt korrektur finns kvar på godkännarens [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 augusti 2023 |
 | [Korrektur: Korrekturskärmar med övre klippgräns](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 augusti 2023 |
 | [Korrektur: Det går inte att markera text i listor eller punktlistor](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 augusti 2023 |
@@ -41,6 +42,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Det går inte att justera korrekturmarkeringar](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 augusti 2023 |
 | [korrektur: Om du skapar en ny korrekturversion tas alla versioner av korrektur bort](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 augusti 2023 |
 | [Hem: Kan inte ta bort [!UICONTROL To-do] objekt i nytt [!UICONTROL Home] upplevelse](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2 augusti 2023 |
 | [Korrektur: Låsta korrekturgodkännanden visas fortfarande i arbetslistan](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 juli 2023 |

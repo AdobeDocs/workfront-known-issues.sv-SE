@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: korrektur kan inte genereras](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 augusti 2023 |
 | [Korrektur: Godkänt korrektur finns kvar på godkännarens [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 augusti 2023 |
 | [Korrektur: Korrekturskärmar med övre klippgräns](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 augusti 2023 |
 | [Korrektur: Det går inte att markera text i listor eller punktlistor](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 augusti 2023 |
@@ -40,6 +41,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Det går inte att justera korrekturmarkeringar](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 augusti 2023 |
 | [Korrektur: Låsta korrekturgodkännanden visas fortfarande i arbetslistan](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 juli 2023 |
 | [Korrektur: Godkännandealternativ visas inte i [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 juni 2023 |
 
