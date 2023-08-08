@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '4284'
+source-wordcount: '4412'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,32 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i augusti 2023
+
++++**(Planerat) Underhållsuppdatering 10 augusti 2023**
+
+**Kan inte ta bort [!UICONTROL To-do] objekt i nytt [!UICONTROL Home] upplevelse**
+
+_Startsida_
+
+När en användare befinner sig på den nya [!UICONTROL Home] försök att ta bort ett objekt från [!UICONTROL To-do] widgeten, objektet tas inte bort och användaren ser följande fel:
+
+&quot;[!UICONTROL There was a problem removing your to-do, please try again soon.]&quot;
+
+Detta kan inträffa när timmar loggas till [!UICONTROL To-do] objekt.
+
+**Fastnålade projekt visar inte information i vissa kolumner**
+
+_Projekt_
+
+När en användare navigerar till ett fäst projekt med stiftet kan objektlistorna (t.ex. uppgiftslistan) visa tomma kolumner. Till exempel en [!UICONTROL Assignments] -kolumnen kan inte visa några tilldelningar, även om tilldelningar har gjorts.
+
+**Vilolägesmodulen orsakar att scenarier låser sig**
+
+_[!DNL Workfront Fusion]_
+
+The [!UICONTROL Tools] > [!UICONTROL Sleep] i ett scenario kan göra att ett scenario körs. Dessa körningar visar statusen Köra i [!UICONTROL Scenario History]och inte avsluta.
+
++++
 
 +++**Underhållsuppdatering 3 augusti 2023**
 
