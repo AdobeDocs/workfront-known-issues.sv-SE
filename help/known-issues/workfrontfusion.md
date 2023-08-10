@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Vilolägesmodulen orsakar att scenarier låser sig](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md) | 3 augusti 2023 |
 | [[!DNL Workfront Fusion]: Scenario misslyckas med &quot;[!UICONTROL read ECONNRESET]&quot;-fel](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 3 augusti 2023 |
 
 {style="table-layout:auto"}
