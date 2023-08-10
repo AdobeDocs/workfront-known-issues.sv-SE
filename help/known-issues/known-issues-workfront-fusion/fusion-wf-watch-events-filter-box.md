@@ -3,15 +3,19 @@ title: "Workfront Fusion: Det går inte att ange ett värde i Workfront > filtre
 description: "När en användare konfigurerar en [!DNL Workfront] > [!DNL Watch Events] och operatorn är inställd på [!UICONTROL Equals]finns inte den textruta där du anger ett värde."
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
+source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 
 # [!DNL Workfront Fusion]: Det går inte att ange värde i [!DNL Workfront] > [!UICONTROL Watch Events] filter
+
+>[!NOTE]
+>
+>Detta problem korrigerades den 10 augusti 2023.
 
 När en användare konfigurerar en [!DNL Workfront] > [!DNL Watch Events] och operatorn är inställd på &quot;[!UICONTROL Equals]&quot; finns inte textrutan där du anger ett värde.
 

@@ -3,9 +3,9 @@ title: "Korrektur: Godkännandealternativ visas inte i korrekturläsaren"
 description: "När en användare försöker godkänna ett korrektur i Desktop Proofing Viewer visas inte godkännandealternativen omedelbart efter att godkännandet begärdes och användaren kan inte godkänna korrekturet. Godkännandealternativen visas flera timmar efter att godkännandet begärdes."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Problemet har stängts eftersom det inte gick att reproducera.
+>Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
 När en användare försöker godkänna ett korrektur i [!UICONTROL Desktop Proofing Viewer], kort efter att godkännandet begärdes, visas inte godkännandealternativen och användaren kan inte godkänna korrekturet. Godkännandealternativen visas flera timmar efter att godkännandet begärdes.
 

@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
+source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | -----------------------------------------------------------------| ----------------- |
 | [Korrektur: Korrekturfärger visas felaktigt](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10 augusti 2023 |
 | [Korrektur: korrektur kan inte genereras](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 augusti 2023 |
-| [Korrektur: Godkänt korrektur finns kvar på godkännarens [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 augusti 2023 |
-| [Korrektur: Korrekturskärmar med övre klippgräns](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 augusti 2023 |
-| [Korrektur: Det går inte att markera text i listor eller punktlistor](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 augusti 2023 |
 | [Dokument: Dokumentgodkännanden visas inte i [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 juli 2023 |
-| [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 juli 2023 |
 
 {style="table-layout:auto"}
 
@@ -41,6 +37,10 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Korrekturskärmar med övre klippgräns](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 augusti 2023 |
+| [Korrektur: Godkänt korrektur finns kvar på godkännarens [!UICONTROL Home Work List]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 10 augusti 2023 |
+| [Korrektur: korrektur kan inte genereras](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 augusti 2023 |
+| [Korrektur: Det går inte att markera text i listor eller punktlistor](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 augusti 2023 |
 | [korrektur: Överlappande text i ett korrektur](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 augusti 2023 |
 | [Korrektur: &quot;[!UICONTROL Disable proof email notifications]&quot; visas felaktigt](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 augusti 2023 |
 | [Korrektur: Meddelandet &quot;Ingen bild&quot; visas när du klickar på korrektur](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 augusti 2023 |
