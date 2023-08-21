@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6037b25a9882626499ff8abd5b4975e97c907dcb
+source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: '1037'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Korrektur: Det går inte att skapa korrektur från PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL Resource Planner]: Planering läses inte in när filter används](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [Korrektur: Korrekturfärger visas felaktigt](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot; widget i ny [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad](known-issues-workfront/wf-home-mentions-widget-new-home.md)
