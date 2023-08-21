@@ -3,9 +3,9 @@ title: "Korrektur: Det går inte att justera korrekturmarkeringar"
 description: "När en användare gör en kommentar i korrekturläsaren och sedan klickar bort kan användaren inte längre justera korrekturmarkeringen. "
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,11 @@ ht-degree: 0%
 
 <!--WF and WFP TOCs-->
 
-När en användare gör en kommentar i korrekturläsaren och gör en markering på korrekturet och sedan klickar bort, kan användaren inte längre justera markeringen.
+>[!NOTE]
+>
+>Detta problem korrigerades den 17 augusti 2023.
+
+När en användare gör en kommentar i korrekturläsaren och sedan klickar bort kan användaren inte längre justera koden.
 
 **Tillfällig lösning**
 

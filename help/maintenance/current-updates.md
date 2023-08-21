@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
-source-wordcount: '4412'
+source-wordcount: '4540'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,29 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i augusti 2023
 
-+++**(Planerat) Underhållsuppdatering 10 augusti 2023**
++++**Underhållsuppdatering 17 augusti 2023**
+
+**Det går inte att navigera till ett projekt med en URL som använder[!UICONTROL Reference ID]**
+
+_Projekt_
+
+När en användare försöker navigera till ett projekt med en URL som innehåller en [!UICONTROL Reference ID] -nummer omdirigeras de till en sida med ett felmeddelande. Navigera till en uppgift med en URL med en [!UICONTROL Reference ID] fungerar som förväntat.
+
+**&quot;[!UICONTROL Disable proof email notifications]&quot; visas felaktigt**
+
+_Korrektur_
+
+När en användare visar korrekturinställningar i [!DNL Workfront], &quot;[!UICONTROL Disable proof email notifications]&quot; visas inte korrekt med den aktuella inställningen. När kryssrutan är markerad, vilket anger att korrekturmeddelanden via e-post är inaktiverade, aktiveras meddelanden. Motsatsen är också sann.
+
+**Det går inte att justera korrekturmarkeringar**
+
+_Korrektur_
+
+När en användare gör en kommentar i korrekturläsaren och sedan klickar bort kan användaren inte längre justera koden.
+
++++
+
++++**Underhållsuppdatering 10 augusti 2023**
 
 **Kan inte ta bort [!UICONTROL To-do] objekt i nytt [!UICONTROL Home] upplevelse**
 

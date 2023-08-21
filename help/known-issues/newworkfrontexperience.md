@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '636'
 ht-degree: 0%
 
 ---
@@ -47,10 +47,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Korrektur: Det går inte att markera text i listor eller punktlistor](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 augusti 2023 |
 | [Dokument: Dokumentgodkännanden visas inte i [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10 augusti 2023 |
 | [korrektur: Överlappande text i ett korrektur](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 augusti 2023 |
-| [Korrektur: &quot;[!UICONTROL Disable proof email notifications]&quot; visas felaktigt](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 augusti 2023 |
-| [Projekt: Det går inte att navigera till projekt med en URL som använder [!UICONTROL Reference ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 8 augusti 2023 |
 | [Korrektur: Meddelandet &quot;Ingen bild&quot; visas när du klickar på korrektur](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 augusti 2023 |
-| [Korrektur: Det går inte att justera korrekturmarkeringar](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 augusti 2023 |
 | [korrektur: Om du skapar en ny korrekturversion tas alla versioner av korrektur bort](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 augusti 2023 |
 | [Projekt: [!UICONTROL Home Group] anpassade statusvärden som inte är tillgängliga när du skapar ett projekt från en mall](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 mars 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
