@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
+source-git-commit: 1c3330160603619726529e903e917653bda64f93
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1037'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Resource Planner]: Planering läses inte in när filter används](known-issues-workfront/wf-resource-planning-cannot-load.md)
+      + [Korrektur: Det går inte att skapa korrektur från PDF](known-issues-workfront/wf-proofs-cannot-generate-from-PDF.md)
       + [Korrektur: Korrekturfärger visas felaktigt](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot; widget i ny [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] matchar inte summan för [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
