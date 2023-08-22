@@ -4,7 +4,7 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Scenario misslyckas med &quot;[!UICONTROL read ECONNRESET]&quot;-fel](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 3 augusti 2023 |
+| Ingen |  |
 
 {style="table-layout:auto"}
 
@@ -36,7 +36,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| Ingen |  |
+| [[!DNL Workfront Fusion]: Scenario misslyckas med &quot;[!UICONTROL read ECONNRESET]&quot;-fel](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 3 augusti 2023 |
 
 {style="table-layout:auto"}
 

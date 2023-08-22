@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
-source-wordcount: '4540'
+source-wordcount: '4655'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,22 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i augusti 2023
+
++++**(Planerat) Underhållsuppdatering 24 augusti 2023**
+
+**Det går inte att markera text i listor eller punkter**
+
+_Korrektur_
+
+När en användare visar ett korrektur i korrekturläsaren och försöker markera text som finns i en lista eller en punkt, är textmarkeringsverktyget ineffektivt och texten kan inte markeras.
+
+**Om du skapar en ny korrekturversion tas alla versioner av korrektur bort**
+
+_Korrektur_
+
+När en användare skapar ett korrektur från ett dokument skapas korrekturet. Om en användare skapar en annan version av korrekturet tas dock både den gamla och den nya versionen bort. Det finns en [!UICONTROL Create Proof] på originaldokumentet och korrekturversionerna finns i [!UICONTROL Trash] området på [!UICONTROL Proofing] område i [!DNL Workfront].
+
++++
 
 +++**Underhållsuppdatering 17 augusti 2023**
 
