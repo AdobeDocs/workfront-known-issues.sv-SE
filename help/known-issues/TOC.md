@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
+source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Home]: Filter gäller inte för widgetar i nya [!UICONTROL Home] upplevelse](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [Layoutmallar: Layoutmallar orsakar inkonsekvenser i rapporter](known-issues-workfront/wf-layout-templates-classic.md)
       + [Korrektur: Det går inte att skapa korrektur från PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL Resource Planner]: Planering läses inte in när filter används](known-issues-workfront/wf-resource-planning-cannot-load.md)
