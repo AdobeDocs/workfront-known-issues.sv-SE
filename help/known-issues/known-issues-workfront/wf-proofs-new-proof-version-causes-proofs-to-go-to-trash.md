@@ -3,9 +3,9 @@ title: "Korrektur: Om du skapar en ny korrekturversion tas alla versioner av kor
 description: "När en användare skapar ett korrektur av ett dokument skapas korrekturet. Om en användare skapar en annan version av korrekturet tas dock både den gamla och den nya versionen bort. Det finns en [!UICONTROL Create Proof] på originaldokumentet och korrekturversionerna finns i [!UICONTROL Trash] området på [!UICONTROL Proofing] område i [!DNL Workfront]."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # korrektur: Om du skapar en ny korrekturversion tas alla versioner av korrektur bort
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Problemet korrigerades den 24 augusti 2023.
 
 När en användare skapar ett korrektur från ett dokument skapas korrekturet. Om en användare skapar en annan version av korrekturet tas dock både den gamla och den nya versionen bort. Det finns en [!UICONTROL Create Proof] på originaldokumentet och korrekturversionerna finns i [!UICONTROL Trash] området på [!UICONTROL Proofing] område i [!DNL Workfront].
 

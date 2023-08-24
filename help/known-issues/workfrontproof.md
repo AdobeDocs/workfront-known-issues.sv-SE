@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Korrektur: Det går inte att skapa korrektur från PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 augusti 2023 |
 | [Korrektur: Korrekturskärmar med övre klippgräns](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 augusti 2023 |
 | [Korrektur: korrektur kan inte genereras](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 augusti 2023 |
-| [Korrektur: Det går inte att markera text i listor eller punktlistor](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 augusti 2023 |
 | [korrektur: Överlappande text i ett korrektur](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 augusti 2023 |
 | [Korrektur: &quot;[!UICONTROL Disable proof email notifications]&quot; visas felaktigt](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 augusti 2023 |
 | [Korrektur: Det går inte att justera korrekturmarkeringar](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 augusti 2023 |
