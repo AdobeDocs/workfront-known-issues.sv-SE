@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
+source-git-commit: 94acc80b555e5e8e3660cde321291686410c002c
 workflow-type: tm+mt
-source-wordcount: '4654'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,62 @@ Följande underhållsuppdateringar gjordes 2023.
 
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
+## Uppdateringar i september 2023
+
++++**Underhållsuppdatering 11 september 2023**
+
+**Personliga uppgifter visas inte i tidrapporter**
+
+_Tidrapporter_
+
+Personliga uppgifter visas inte längre på tidrapporten som standard. Personliga uppgifter visas på tidrapporten när de är fästa eller har loggat timmar. Före den här ändringen visas personliga uppgifter på tidrapporter som standard.
+
++++
+
++++**Underhållsuppdatering 7 september 2023**
+
+**Projektet är tomt när det läses in från nytt [!UICONTROL Home] upplevelse**
+
+_Projekt_
+
+När en användare klickar på ett projekt från sin [!UICONTROL Home] sidan i den nya hemupplevelsen, kan projektsidan inte läsas in.
+
+Detta inträffar när användaren har loggat in som en annan användare, sedan loggat ut som den andra användaren och återgått till sin egen [!UICONTROL Home] sida.
+
++++
+
+**Filter gäller inte för widgetar i den nya [!UICONTROL Home] upplevelse**
+
 ## Uppdateringar i augusti 2023
+
++++**Underhållsuppdatering 31 augusti 2023**
+
+**Filter gäller inte för widgetar i den nya [!UICONTROL Home] upplevelse**
+
+_[!UICONTROL Home]_
+
+När en användare tillämpar ett filter på en widget i den nya [!UICONTROL Home] så visar widgeten objekt som ska exkluderas av filtret.
+
+Detta har rapporterats i den anpassade sandlådemiljön. Samma widgetar i miljöfiltret för förhandsgranskning och produktion som förväntat.
+
+**Problem vid inläsning av matrisrapporter**
+
+_Rapporter_
+
+När en användare försöker läsa in en matrisrapport som ett diagram kan något av följande inträffa:
+
+* Viss information i rapporten läses inte in
+* Rapporten ger felmeddelandet &quot;[!UICONTROL Unable to load content from the server]&quot;
+
+**Planeraren läses inte in när filter används**
+
+_[!UICONTROL Resource Planner]_
+
+När en användare försöker läsa in [!UICONTROL Resource Planner]läses inte in och användaren ser följande felmeddelande:
+
+&quot;[!UICONTROL The following error occurred: Something went wrong while connecting to WorkPerDay service]&quot;
+
++++
 
 +++**Underhållsuppdatering 24 augusti 2023**
 
