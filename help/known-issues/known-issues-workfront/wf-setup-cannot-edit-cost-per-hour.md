@@ -3,9 +3,9 @@ title: "Inställningar: Det går inte att redigera jobbrollens kostnad/timme ell
 description: "När en användare redigerar en jobbroll och försöker redigera fälten Kostnad/timme eller Fakturering/timme är fälten tomma och användaren kan inte redigera dem."
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
+source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
+>Problemet korrigerades den 24 augusti 2023
 
 När en användare redigerar en jobbroll och försöker redigera fälten Kostnad/timme eller Fakturering/timme är fälten tomma och användaren kan inte redigera dem.
 

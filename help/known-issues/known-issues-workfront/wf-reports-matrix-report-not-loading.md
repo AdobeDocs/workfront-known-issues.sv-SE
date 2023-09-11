@@ -3,15 +3,19 @@ title: "Rapporter: Problem vid inläsning av matrisrapporter"
 description: "När en användare försöker läsa in en matrisrapport som ett diagram kan problem uppstå."
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
+source-git-commit: 4f4099aaa7ba74d43f5d6a052bbc35d43ff0bb98
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 
 # Rapporter: Problem vid inläsning av matrisrapporter
+
+>[!NOTE]
+>
+>Problemet korrigerades den 31 augusti 2023.
 
 När en användare försöker läsa in en matrisrapport som ett diagram kan något av följande inträffa:
 

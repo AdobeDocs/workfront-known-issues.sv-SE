@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
 workflow-type: tm+mt
-source-wordcount: '1055'
+source-wordcount: '1105'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,12 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Home]: Ny [!UICONTROL Home] widgetens förhandsgranskning visar inte rätt objektnamn](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL Home]: [!UICONTROL Requests] widgeten visar inte alla tilldelade team](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [Anpassade formulär: Det går inte att ta bort anpassat fält](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
+      + [[!UICONTROL Home]: Sökfunktionen fungerar inte i äldre versioner [!UICONTROL Home Work List]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [Korrektur: Textformatering i statiskt korrektur matchar inte formatering på webbplatsen](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [Projekt: Projektet är tomt när det läses in från nytt [!UICONTROL Home] upplevelse](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL Home]: Filter gäller inte för widgetar i nya [!UICONTROL Home] upplevelse](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [Layoutmallar: Layoutmallar orsakar inkonsekvenser i rapporter](known-issues-workfront/wf-layout-templates-classic.md)
       + [Korrektur: Det går inte att skapa korrektur från PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)

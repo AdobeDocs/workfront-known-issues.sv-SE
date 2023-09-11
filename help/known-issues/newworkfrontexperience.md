@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
 workflow-type: tm+mt
-source-wordcount: '612'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,10 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: [!UICONTROL Requests] widgeten visar inte alla tilldelade team](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 september 2023 |
+| [Dokument: XML-fel vid hämtning](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 1 september 2023 |
+| [Korrektur: Textformatering i statiskt korrektur matchar inte formatering på webbplatsen](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 1 september 2023 |
+| [Projekt: Projektet är tomt när det läses in från nytt [!UICONTROL Home] upplevelse](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 september 2023 |
 | [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot; widget i ny [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 augusti 2023 |
 
 {style="table-layout:auto"}
@@ -35,18 +39,10 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Home]: Filter gäller inte för widgetar i nya [!UICONTROL Home] upplevelse](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 25 augusti 2023 |
-| [Rapporter: Problem vid inläsning av matrisrapporter](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 25 augusti 2023 |
+| [[!UICONTROL Resource Planner]: Planering läses inte in när filter används](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 september 2023 |
+| [Anpassade formulär: Det går inte att ta bort anpassat fält](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 september 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] matchar inte summan för [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 augusti 2023 |
-| [Korrektur: Korrekturfärger visas felaktigt](known-issues-workfront/wf-proof-inaccurate-colors.md) | 23 augusti 2023 |
-| [Hem: Kan inte ta bort [!UICONTROL To-do] objekt i nytt [!UICONTROL Home] upplevelse](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 augusti 2023 |
 | [Skärmar: Problem vid inläsning av en anslagstavla](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 augusti 2023 |
-| [Korrektur: Det går inte att skapa korrektur från PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 augusti 2023 |
-| [[!UICONTROL Resource Planner]: Planering läses inte in när filter används](known-issues-workfront/wf-resource-planning-cannot-load.md) | 21 augusti 2023 |
-| [Korrektur: Korrekturskärmar med övre klippgräns](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 augusti 2023 |
-| [Korrektur: korrektur kan inte genereras](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 augusti 2023 |
-| [Dokument: Dokumentgodkännanden visas inte i [!UICONTROL Approvals] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10 augusti 2023 |
-| [korrektur: Överlappande text i ett korrektur](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 augusti 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 
 {style="table-layout:auto"}
@@ -57,10 +53,10 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: Ny [!UICONTROL Home] widgetens förhandsgranskning visar inte rätt objektnamn](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 september 2023 |
 | [Layoutmallar: Layoutmallar orsakar inkonsekvenser i rapporter](known-issues-workfront/wf-layout-templates-classic.md) | 21 augusti 2023 |
 | [Korrektur: Godkännandealternativ visas inte i [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 augusti 2023 |
 | [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 augusti 2023 |
-| [Inställningar: Det går inte att redigera jobbrollens kostnad/timme eller fakturering/timme](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 21 juli 2023 |
 | [[!UICONTROL Setup]: Det går inte att exportera granskningsloggar](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20 juli 2023 |
 | [Dokumentintegreringar: Det går inte att se alla mappar i [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 juli 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |

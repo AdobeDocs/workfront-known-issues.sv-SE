@@ -3,9 +3,9 @@ title: "Dokument: XML-fel vid hämtning"
 description: "När en användare försöker hämta ett dokument hämtas inte dokumentet och användaren ser en sida med ett meddelande följt av XML-text."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
+source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,8 @@ ht-degree: 0%
 
 <!--WF, WFP TOCs-->
 
->[!NOTE]
->
->Problemet korrigerades den 21 juli 2023.
-
 När en användare försöker hämta ett dokument hämtas inte dokumentet, och användaren ser en sida med följande meddelande följt av XML-text.
 
 &quot;[!UICONTROL The XML file does not appear to have any style information associated with it. The document tree is below.]&quot;
 
-Detta har rapporterats för filer över 25 MB.
-
-_Först rapporterad den 20 juli 2023._
+_Först rapporterad den 16 augusti 2023._

@@ -3,15 +3,19 @@ title: "Korrektur: Överlappande text i ett korrektur"
 description: "När en användare visar ett korrektur i korrekturläsaren, ser de överlappande text även om texten inte överlappar originaldokumentet. "
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
+source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 
 # korrektur: Överlappande text i ett korrektur
+
+>[!NOTE]
+>
+>Problemet har stängts.
 
 När en användare visar ett korrektur i korrekturläsaren, ser de överlappande text, även om texten inte överlappar originaldokumentet.
 
