@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 94acc80b555e5e8e3660cde321291686410c002c
+source-git-commit: bbb231090314a54754d43a3956544a9063dfd88a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '4966'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,28 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i september 2023
+
++++**(Planerat) Underhållsuppdatering 14 september 2023**
+
+**&quot;[!UICONTROL No factory]&quot; fel när ett dokument läggs till**
+
+_Dokument_
+
+När en användare försöker lägga till ett dokument från en extern källa, [!DNL Workfront] kan inte komma åt källan och användaren ser följande fel:
+
+&quot;[!UICONTROL The following error occurred: No factory found for authentication type null]&quot;
+
+**&quot;Hoppfel&quot; i matrisrapporter**
+
+_Rapporter_
+
+När en användare försöker visa en matrisrapport läses rapporten inte in och användaren ser följande fel:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+
+Detta inträffar när en rapport grupperas efter datumintervall.
+
++++
 
 +++**Underhållsuppdatering 11 september 2023**
 
