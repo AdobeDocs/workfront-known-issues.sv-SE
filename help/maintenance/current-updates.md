@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bbb231090314a54754d43a3956544a9063dfd88a
+source-git-commit: 4adc896e53b46ea6dfcb99f3050c5bfe275de72c
 workflow-type: tm+mt
-source-wordcount: '4966'
+source-wordcount: '4965'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i september 2023
 
-+++**(Planerat) Underhållsuppdatering 14 september 2023**
++++**Underhållsuppdatering 14 september 2023**
 
 **&quot;[!UICONTROL No factory]&quot; fel när ett dokument läggs till**
 
