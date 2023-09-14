@@ -4,7 +4,7 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 0%
@@ -26,8 +26,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widgeten visar inte alla tilldelade team](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 september 2023 |
-| [Dokument: XML-fel vid hämtning](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 1 september 2023 |
-| [Korrektur: Textformatering i statiskt korrektur matchar inte formatering på webbplatsen](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 1 september 2023 |
 | [Projekt: Projektet är tomt när det läses in från nytt [!UICONTROL Home] upplevelse](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 september 2023 |
 | [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot; widget i ny [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 augusti 2023 |
 
@@ -39,6 +37,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokument: XML-fel vid hämtning](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 september 2023 |
+| [Korrektur: Textformatering i statiskt korrektur matchar inte formatering på webbplatsen](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 september 2023 |
 | [[!UICONTROL Resource Planner]: Planering läses inte in när filter används](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 september 2023 |
 | [Anpassade formulär: Det går inte att ta bort anpassat fält](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 september 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] matchar inte summan för [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 augusti 2023 |
