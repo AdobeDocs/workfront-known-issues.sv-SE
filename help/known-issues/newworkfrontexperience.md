@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '664'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tavlor: Namnlösa kort visas och visas i eftersläpning](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 15 september 2023 |
 | [Filter: Knappar märkta som[!UICONTROL DEPRECATED]&quot; när ett filter delas](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 15 september 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widgeten visar inte alla tilldelade team](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 september 2023 |
 | [Projekt: Projektet är tomt när det läses in från nytt [!UICONTROL Home] upplevelse](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 september 2023 |
@@ -38,6 +39,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Det tar lång tid att generera korrektur](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 september 2023 |
 | [Dokument: Det går inte att flytta dokumentet till en annan mapp](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 september 2023 |
 | [Korrektur: korrektur ser uttunnade eller beskurna ut](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 september 2023 |
 | [Uppdateringar: Kommentarer som gjorts i nya kommentarer visas inte i äldre versioner](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 september 2023 |

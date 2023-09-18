@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Det tar lång tid att generera korrektur](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 september 2023 |
 | [Dokument: Det går inte att flytta dokumentet till en annan mapp](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 september 2023 |
 | [Korrektur: korrektur ser uttunnade eller beskurna ut](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 september 2023 |
 | [Dokument: XML-fel vid hämtning](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 september 2023 |
