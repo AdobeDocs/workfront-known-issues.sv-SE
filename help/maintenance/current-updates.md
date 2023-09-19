@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4adc896e53b46ea6dfcb99f3050c5bfe275de72c
+source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
 workflow-type: tm+mt
-source-wordcount: '4965'
+source-wordcount: '5240'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,63 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i september 2023
+
++++**(Planerat) Underhållsuppdatering 21 september 2023**
+
+**Det går inte att tilldela användare på en anslagstavla i en arbetsström**
+
+_Varumärkena_
+
+När en användare försöker tilldela en annan användare till en uppgift från en arbetsyta som är en del av ett arbetsflöde och börjar skriva användarens namn, visas inte användaren i listrutan med tillgängliga användare. Detta inträffar även när användaren är aktiv och medlem av både styrelsen och arbetsflödet.
+
+Användaren kan också se att inaktiverade användare visas i listrutan.
+
+**Anpassade formulär läses in långsamt**
+
+_Egna formulär_
+
+När en användare försöker läsa in ett anpassat formulär läses det anpassade formuläret in långsamt.
+
+**Det går inte att flytta dokumentet till en annan mapp**
+
+_Dokument_
+
+När en användare flyttar ett dokument till en objektmapp kan han/hon inte flytta objektet till en annan mapp.
+
+**XML-fel vid hämtning**
+
+_Dokument_
+
+När en användare försöker hämta ett dokument hämtas inte dokumentet, och användaren ser en sida med följande meddelande följt av XML-text.
+
+&quot;[!UICONTROL The XML file does not appear to have any style information associated with it. The document tree is below.]&quot;
+
+**Det går inte att hämta dokument från förhandsgransknings-/sandlådemiljöer**
+
+_Dokument_
+
+När en användare försöker hämta ett dokument från en annan miljö än produktionsmiljön hämtas inte dokumentet och användaren ser följande fel:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+
+**Korrektur ser uttunnade eller beskurna ut**
+
+_Korrektur_
+
+Följande problem har rapporterats när du skapar ett korrektur från en URL.
+
+* Behållaren ser uttunnad eller urtvättad ut.
+* Beviset beskärs.
+
+Detta kan göra att korrekturläsningsbeslut blir svåra eftersom korrekturet inte återges korrekt.
+
+**Det tar lång tid att generera korrektur**
+
+_Korrektur_
+
+När en användare försöker generera ett korrektur tar det lång tid att generera korrekturet. Korrekturgenereringen kan ta flera dagar.
+
++++
 
 +++**Underhållsuppdatering 14 september 2023**
 
