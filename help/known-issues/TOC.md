@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
+source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
 workflow-type: tm+mt
-source-wordcount: '1188'
+source-wordcount: '1199'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Korrektur: Extra, tom kommentar när du gör en kommentar i ett korrektur](known-issues-workfront/wf-proofs-extra-blank-comment.md)
       + [Tavlor: Namnlösa kort visas och visas i eftersläpning](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
       + [Korrektur: Det tar lång tid att generera korrektur](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md)
       + [Dokument: Det går inte att flytta dokumentet till en annan mapp](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
