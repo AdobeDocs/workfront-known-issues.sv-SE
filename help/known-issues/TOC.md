@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
 workflow-type: tm+mt
-source-wordcount: '1174'
+source-wordcount: '1188'
 ht-degree: 0%
 
 ---
@@ -144,6 +144,8 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Kända fel i [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuella problem i [!DNL Workfront Proof] {#proof-current}
+      + [Workfront-korrektur: Instrumentpanelsdata är inte alltid korrekta](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
+      + [Workfront-korrektur: Sökdata är inte alltid korrekta](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: 500 fel vid åtkomst [!DNL Workfront Proof] via API eller [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: Sökningen returnerar inga resultat](known-issues-workfront-proof/proof-search-returns-no-results.md)

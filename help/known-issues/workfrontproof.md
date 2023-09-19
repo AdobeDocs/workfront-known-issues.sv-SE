@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,8 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront-korrektur: Instrumentpanelsdata är inte alltid korrekta](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 september 2023 |
+| [Workfront-korrektur: Sökdata är inte alltid korrekta](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 september 2023 |
 | [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 augusti 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 juni 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
