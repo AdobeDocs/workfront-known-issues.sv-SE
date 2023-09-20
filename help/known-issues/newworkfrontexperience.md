@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
+source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '682'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront]: Objektsidan saknar element](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 september 2023 |
 | [Korrektur: Det tar lång tid att generera korrektur](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 september 2023 |
 | [Dokument: Det går inte att flytta dokumentet till en annan mapp](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 september 2023 |
 | [Korrektur: korrektur ser uttunnade eller beskurna ut](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 september 2023 |

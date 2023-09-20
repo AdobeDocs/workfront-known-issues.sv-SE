@@ -3,9 +3,9 @@ title: "Vagnar: Problem vid inläsning av anslagstavla"
 description: "När en användare försöker läsa in en anslagstavla kan det uppstå problem."
 hidefromtoc: true
 feature: Agile
-source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
+source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 När en användare försöker läsa in en anslagstavla kan något av följande inträffa:
 
 * Märket laddas extremt långsamt
-* Kortet läses inte in och användaren ser ett felmeddelande
+* Kortet läses inte in och användaren ser felet &quot;[!UICONTROL Something went wrong while loading this board. Refresh the page to try again, or contact support with the error ID below if the problem persists.]&quot;
 
 Det här problemet verkar vara begränsat till anslagstavlor i Workstreams.
 
