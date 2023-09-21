@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrektur: Extra, tom kommentar när du gör en kommentar i ett korrektur](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 september 2023 |
-| [Tavlor: Namnlösa kort visas och visas i eftersläpning](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 15 september 2023 |
-| [Filter: Knappar märkta som[!UICONTROL DEPRECATED]&quot; när ett filter delas](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 15 september 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widgeten visar inte alla tilldelade team](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 september 2023 |
 | [Projekt: Projektet är tomt när det läses in från nytt [!UICONTROL Home] upplevelse](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 september 2023 |
 | [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot; widget i ny [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 augusti 2023 |
@@ -40,11 +37,11 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Extra, tom kommentar när du gör en kommentar i ett korrektur](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 september 2023 |
+| [Tavlor: Namnlösa kort visas och visas i eftersläpning](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 21 september 2023 |
 | [[!DNL Workfront]: Objektsidan saknar element](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 september 2023 |
 | [Uppdateringar: Kommentarer som gjorts i nya kommentarer visas inte i äldre versioner](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 september 2023 |
 | [Uppdateringar: Kommentaren visas som skickad från fel användare](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 15 september 2023 |
-| [Korrektur: Textformatering i statiskt korrektur matchar inte formatering på webbplatsen](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 september 2023 |
-| [[!UICONTROL Resource Planner]: Planering läses inte in när filter används](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 september 2023 |
 | [Anpassade formulär: Det går inte att ta bort anpassat fält](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 september 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] matchar inte summan för [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 augusti 2023 |
 | [Skärmar: Problem vid inläsning av en anslagstavla](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 augusti 2023 |

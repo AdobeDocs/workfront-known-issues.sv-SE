@@ -3,15 +3,19 @@ title: "Uppdateringar: Kommentaren visas som skickad från fel användare"
 description: "När en användare gör en kommentar, visas kommentaren som den är publicerad från en annan användare."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
 
 # Uppdateringar: Kommentaren visas som skickad från fel användare
+
+>[!NOTE]
+>
+>Problemet korrigerades den 14 september 2023.
 
 När en användare gör en kommentar visas kommentaren som den har publicerats från en annan användare.
 
