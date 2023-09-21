@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
@@ -41,13 +41,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront]: Objektsidan saknar element](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 september 2023 |
-| [Korrektur: Det tar lång tid att generera korrektur](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 september 2023 |
-| [Dokument: Det går inte att flytta dokumentet till en annan mapp](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 september 2023 |
-| [Korrektur: korrektur ser uttunnade eller beskurna ut](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 september 2023 |
 | [Uppdateringar: Kommentarer som gjorts i nya kommentarer visas inte i äldre versioner](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 september 2023 |
-| [Styrelser: Det går inte att tilldela användare på en anslagstavla i ett arbetsflöde](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 15 september 2023 |
 | [Uppdateringar: Kommentaren visas som skickad från fel användare](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 15 september 2023 |
-| [Dokument: XML-fel vid hämtning](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 september 2023 |
 | [Korrektur: Textformatering i statiskt korrektur matchar inte formatering på webbplatsen](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 september 2023 |
 | [[!UICONTROL Resource Planner]: Planering läses inte in när filter används](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 september 2023 |
 | [Anpassade formulär: Det går inte att ta bort anpassat fält](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 september 2023 |

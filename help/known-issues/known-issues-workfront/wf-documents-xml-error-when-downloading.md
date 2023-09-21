@@ -3,9 +3,9 @@ title: "Dokument: XML-fel vid hämtning"
 description: "När en användare försöker hämta ett dokument hämtas inte dokumentet och användaren ser en sida med ett meddelande följt av XML-text."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Dokument: XML-fel vid hämtning
 
 <!--WF, WFP TOCs-->
+
+>[!NOTE]
+>
+>Problemet korrigerades den 21 september 2023.
 
 När en användare försöker hämta ett dokument hämtas inte dokumentet, och användaren ser en sida med följande meddelande följt av XML-text.
 

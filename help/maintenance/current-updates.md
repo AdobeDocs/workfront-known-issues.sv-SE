@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '5240'
+source-wordcount: '5269'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i september 2023
 
-+++**(Planerat) Underhållsuppdatering 21 september 2023**
++++**Underhållsuppdatering 21 september 2023**
 
 **Det går inte att tilldela användare på en anslagstavla i en arbetsström**
 
@@ -31,6 +31,12 @@ _Varumärkena_
 När en användare försöker tilldela en annan användare till en uppgift från en arbetsyta som är en del av ett arbetsflöde och börjar skriva användarens namn, visas inte användaren i listrutan med tillgängliga användare. Detta inträffar även när användaren är aktiv och medlem av både styrelsen och arbetsflödet.
 
 Användaren kan också se att inaktiverade användare visas i listrutan.
+
+**Det går inte att ta bort checklistobjektet**
+
+_Varumärkena_
+
+När en användare försöker ta bort ett checklisteobjekt från ett kort på en anslagstavla, [!UICONTROL Delete] knappen svarar inte och objektet tas inte bort.
 
 **Anpassade formulär läses in långsamt**
 
