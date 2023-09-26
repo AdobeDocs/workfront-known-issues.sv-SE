@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
 workflow-type: tm+mt
-source-wordcount: '1204'
+source-wordcount: '1214'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Arbetsbelastningsutjämnare: Användaren visas som överallokerad på grund av felaktig kapacitet](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]: Objektsidan saknar element](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
       + [Korrektur: Extra, tom kommentar när du gör en kommentar i ett korrektur](known-issues-workfront/wf-proofs-extra-blank-comment.md)
       + [Tavlor: Namnlösa kort visas och visas i eftersläpning](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
