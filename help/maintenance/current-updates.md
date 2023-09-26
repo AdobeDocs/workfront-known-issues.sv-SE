@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
 workflow-type: tm+mt
-source-wordcount: '5269'
+source-wordcount: '5408'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,32 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i september 2023
+
++++**(Planerat) Underhållsuppdatering 28 september 2023**
+
+**Kan inte ta bort anpassat fält**
+
+_Egna formulär_
+
+När en användare försöker ta bort ett anpassat fält kan han/hon inte ta bort det och han/hon ser meddelandet &quot;[!UICONTROL Database error due to constraint violation].&quot;
+
+**Kommentarer som gjorts i den nya kommentarsupplevelsen visas inte i den äldre versionen**
+
+_Uppdateringar_
+
+När en användare gör en kommentar i den nya kommentarsfunktionen och den kommentaren visas i kommentarsområdet i den nya upplevelsen kanske samma kommentar inte visas i den gamla kommentarsfunktionen. Detta kan leda till att användare som använder äldre erfarenhet missar kommentarer.
+
+**Objektsidan saknar element**
+
+_Workfront_
+
+När en användare navigerar till ett anpassat avsnitt i ett objekt i [!DNL Workfront], sidan som läses in kanske saknar vissa element. Dessa element kan vara:
+
+* Den vänstra navigeringspanelen
+* Namnet på objektet som det anpassade avsnittet tillhör
+* Fält och information i rubriken
+
++++
 
 +++**Underhållsuppdatering 21 september 2023**
 
