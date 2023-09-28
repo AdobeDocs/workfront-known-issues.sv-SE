@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
+source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
 workflow-type: tm+mt
-source-wordcount: '1246'
+source-wordcount: '1254'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Meddelanden: Automatiska påminnelser skickas inte](known-issues-workfront/wf-notifications-overdue-error.md)
       + [Dokumentintegreringar: Fel när en resurs dras till en mapp i en Experience Manager Assets-integrering](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
       + [Användare: Felmeddelande visas felaktigt när användaren påminns om att registrera sig](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
       + [Delning: Fel vid delning av objekt](known-issues-workfront/wf-sharing-user-cannot-share-object.md)

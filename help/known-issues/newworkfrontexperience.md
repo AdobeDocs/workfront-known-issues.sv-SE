@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
+source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '611'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Meddelanden: Automatiska påminnelser skickas inte](known-issues-workfront/wf-notifications-overdue-error.md) | 28 september 2023 |
 | [Dokumentintegreringar: Fel när en resurs dras till en mapp i en Experience Manager Assets-integrering](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28 september 2023 |
 | [Delning: Fel vid delning av objekt](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 27 september 2023 |
 | [Tavlor: Vågrät rullningslist finns inte](known-issues-workfront/wf-board-no-scrollbar.md) | 26 september 2023 |
