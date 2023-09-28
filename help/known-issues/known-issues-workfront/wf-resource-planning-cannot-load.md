@@ -3,19 +3,15 @@ title: "Resursplanering: Planeraren läses inte in när filtret tillämpas"
 description: "När en användare försöker läsa in resursplaneraren läses inte planeraren in och användaren ser ett felmeddelande."
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 
 # [!UICONTROL Resource Planner]: Planering läses inte in när filter används
-
->[!NOTE]
->
->Problemet korrigerades den 21 september 2023.
 
 När en användare försöker läsa in [!UICONTROL Resource Planner]läses inte in och användaren ser följande felmeddelande:
 
