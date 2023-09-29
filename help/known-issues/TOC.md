@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
+source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
 workflow-type: tm+mt
-source-wordcount: '1254'
+source-wordcount: '1264'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Kort: Kort visar inte korrekt antal checklisteobjekt](known-issues-workfront/wf-boards-checklist-item-count.md)
       + [Meddelanden: Automatiska påminnelser skickas inte](known-issues-workfront/wf-notifications-overdue-error.md)
       + [Dokumentintegreringar: Fel när en resurs dras till en mapp i en Experience Manager Assets-integrering](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
       + [Användare: Felmeddelande visas felaktigt när användaren påminns om att registrera sig](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
