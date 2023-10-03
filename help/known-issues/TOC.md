@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
+source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
 workflow-type: tm+mt
-source-wordcount: '1264'
+source-wordcount: '1272'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Styrelser: Kortet laddas långsamt](known-issues-workfront/wf-boards-board-loads-slowly.md)
+      + [Kort: Kan inte flytta kort](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [Kort: Kort visar inte korrekt antal checklisteobjekt](known-issues-workfront/wf-boards-checklist-item-count.md)
       + [Meddelanden: Automatiska påminnelser skickas inte](known-issues-workfront/wf-notifications-overdue-error.md)
       + [Dokumentintegreringar: Fel när en resurs dras till en mapp i en Experience Manager Assets-integrering](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)

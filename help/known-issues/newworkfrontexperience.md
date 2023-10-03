@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
+source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
 workflow-type: tm+mt
-source-wordcount: '622'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Styrelser: Kortet laddas långsamt](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2 oktober 2023 |
+| [Kort: Kan inte flytta kort](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2 oktober 2023 |
 | [Användare: Felmeddelande visas felaktigt när användaren påminns om att registrera sig](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28 september 2023 |
 | [[!UICONTROL Resource Planner]: Planering läses inte in när filter används](known-issues-workfront/wf-resource-planning-cannot-load.md) | 28 september 2023 |
 | [Arbetsbelastningsutjämnare: Användaren visas som överallokerad på grund av felaktig kapacitet](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 september 2023 |
