@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '5408'
+source-wordcount: '5434'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,21 @@ Följande underhållsuppdateringar gjordes 2023.
 
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
+## Uppdateringar i oktober 2023
+
++++**(Planerat) Underhållsuppdatering 5 oktober 2023**
+
+**Automatiska påminnelsemeddelanden skickas inte**
+
+_Meddelanden_
+
+Automatiska e-postpåminnelser skickas inte. Detta började den 14 september 2023.
+
++++
+
 ## Uppdateringar i september 2023
 
-+++**(Planerat) Underhållsuppdatering 28 september 2023**
++++**Underhållsuppdatering 28 september 2023**
 
 **Kan inte ta bort anpassat fält**
 

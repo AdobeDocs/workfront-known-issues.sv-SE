@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 oktober 2023 |
+| [Inloggning: Ett fel visas när lösenordet återställs trots att åtgärden lyckades](known-issues-workfront/wf-login-whoops-resetting-password.md) | 3 oktober 2023 |
 | [Kort: Kort visar inte korrekt antal checklisteobjekt](known-issues-workfront/wf-boards-checklist-item-count.md) | 29 september 2023 |
 | [Meddelanden: Automatiska påminnelser skickas inte](known-issues-workfront/wf-notifications-overdue-error.md) | 28 september 2023 |
 | [Dokumentintegreringar: Fel när en resurs dras till en mapp i en Experience Manager Assets-integrering](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28 september 2023 |
@@ -40,6 +42,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Utjämning av arbetsbelastning: Manuella timändringar är inte korrekta efter uppdatering av sidan](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 oktober 2023 |
+| [Hem: Delegerade uppgifter delas inte och visas inte i Hem-arbetslistan](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 oktober 2023 |
 | [Styrelser: Kortet laddas långsamt](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2 oktober 2023 |
 | [Kort: Kan inte flytta kort](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2 oktober 2023 |
 | [Användare: Felmeddelande visas felaktigt när användaren påminns om att registrera sig](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28 september 2023 |
