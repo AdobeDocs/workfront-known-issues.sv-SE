@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
 workflow-type: tm+mt
-source-wordcount: '5434'
+source-wordcount: '5424'
 ht-degree: 0%
 
 ---
@@ -166,8 +166,6 @@ När en användare klickar på ett projekt från sin [!UICONTROL Home] sidan i d
 Detta inträffar när användaren har loggat in som en annan användare, sedan loggat ut som den andra användaren och återgått till sin egen [!UICONTROL Home] sida.
 
 +++
-
-**Filter gäller inte för widgetar i den nya [!UICONTROL Home] upplevelse**
 
 ## Uppdateringar i augusti 2023
 
