@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '5424'
+source-wordcount: '5562'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,37 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i oktober 2023
 
-+++**(Planerat) Underhållsuppdatering 5 oktober 2023**
++++**Underhållsuppdatering 5 oktober 2023**
+
+**Långsam styrelbelastning**
+
+_Varumärkena_
+
+När en användare läser in en bräda laddas brädet extremt långsamt. Detta kan inträffa även om styrelsen har ett litet antal kort.
+
+Arkiverade kort, även om de inte visades, påverkade kortens inläsningstid.
+
+**Kan inte flytta kort mellan kolumner**
+
+_Varumärkena_
+
+När en användare försöker flytta ett kort ombord flyttas inte kortet. Detta inträffar under följande omständigheter:
+
+* Dra och släpp
+* Alternativet Flytta på kortet
+* Redigera kortet
+
+**Det går inte att flytta kort från inmatningskolumnen**
+
+_Varumärkena_
+
+Användaren kan dra ut ett kort från inmatningskolumnen till en annan kolumn på kortet, men efterföljande kort kan inte flyttas ut från inmatningskolumnen.
+
+**Gruppera efter påverkar kortets prestanda**
+
+_Varumärkena_
+
+När användaren försöker gruppera korten efter tilldelningar eller taggar blir kortets prestanda väldigt långsamt.
 
 **Automatiska påminnelsemeddelanden skickas inte**
 
