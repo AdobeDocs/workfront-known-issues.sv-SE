@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60959758457f54f6120171639b0c6abcce581310
+source-git-commit: ff8e4ea2511374bac1d4f4724de933d76495d579
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] matchar inte summan för [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 6 oktober 2023 |
 | [Rapporter: Privata uppdateringar visas i värdeuttrycksfält](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 6 oktober 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] modul](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 oktober 2023 |
 | [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 oktober 2023 |
