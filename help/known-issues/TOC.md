@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
+source-git-commit: 60959758457f54f6120171639b0c6abcce581310
 workflow-type: tm+mt
-source-wordcount: '1320'
+source-wordcount: '1327'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporter: Privata uppdateringar visas i värdeuttrycksfält](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
       + [Utjämning av arbetsbelastning: Manuella timändringar är inte korrekta efter uppdatering av sidan](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
       + [Hem: Delegerade uppgifter delas inte och visas inte i Hem-arbetslistan](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
