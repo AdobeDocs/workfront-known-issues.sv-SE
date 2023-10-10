@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '5562'
+source-wordcount: '5652'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,26 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i oktober 2023
+
++++**(Planerat) Underhållsuppdatering 12 oktober 2023**
+
+**Beräknade fält behåller inget värde när utleverans konverteras till uppgift**
+
+_Egna formulär_
+
+Beräknade fält som refererar till sig själva behåller inte sina värden när en utgåva konverteras till en uppgift.
+
+När du konverterar problemet till en uppgift visas det önskade värdet korrekt i redigeringsfönstret. När konverteringen är klar visas dock ett N/a-värde i beräkningsfältet.
+
+**Fel vid ändring av filter i[!UICONTROL Home]**
+
+_Startsida_
+
+När en användare ändrar filtren för [!UICONTROL Home], [!UICONTROL Home] -området läses inte in och användaren ser följande fel:
+
+&quot;[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot;
+
++++
 
 +++**Underhållsuppdatering 5 oktober 2023**
 
