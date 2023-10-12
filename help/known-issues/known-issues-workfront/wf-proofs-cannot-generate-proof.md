@@ -1,17 +1,21 @@
 ---
-title: "Korrektur: Kan inte generera korrektur"
-description: "När en användare försöker generera ett korrektur skapas inte korrekturet och användaren ser ett fel."
+title: 'Korrektur: Kan inte generera korrektur'
+description: När en användare försöker generera ett korrektur skapas inte korrekturet och användaren ser ett fel.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-
 # Korrektur: Kan inte generera korrektur
+
+>[!NOTE]
+>
+>Problemet korrigerades den 12 oktober 2023.
 
 När en användare försöker generera ett korrektur skapas inte korrekturet och användaren ser följande fel:
 

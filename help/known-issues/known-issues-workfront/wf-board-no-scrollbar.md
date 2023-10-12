@@ -1,19 +1,21 @@
 ---
-title: "Tavlor: Vågrät rullningslist finns inte"
-description: "När en användare visar en bräda och försöker rulla vågrätt, finns inte rullningslisten och användaren kan inte rulla vågrätt."
+title: 'Tavlor: Vågrät rullningslist finns inte'
+description: När en användare visar en rityta och försöker rulla vågrätt, finns inte rullningslisten och användaren kan inte rulla vågrätt.
 feature: Agile
 hidefromtoc: true
-source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
+exl-id: ab136be3-38a1-4078-859b-099a31fd93a1
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-
 # Tavlor: Vågrät rullningslist finns inte
 
-<!--Reopened Sept 26, 2023-->
+>[!NOTE]
+>
+>Problemet korrigerades den 12 oktober 2023.
 
 När en användare visar en rityta och försöker rulla vågrätt, finns inte rullningslisten och användaren kan inte rulla vågrätt.
 
@@ -22,4 +24,3 @@ När en användare visar en rityta och försöker rulla vågrätt, finns inte ru
 Klicka på ritytan och använd höger- och vänsterpilarna för att rulla
 
 _Först rapporterad den 26 september 2023._
-

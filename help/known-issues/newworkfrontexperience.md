@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,10 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | -----------------------------------------------------------------| ----------------- |
 | [Korrektur: Slutförda korrektur är fortfarande aktiverade [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9 oktober 2023 |
 | [Korrektur: Det går inte att skapa en ny version av ett korrektur](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9 oktober 2023 |
-| [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] matchar inte summan för [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 6 oktober 2023 |
-| [Rapporter: Privata uppdateringar visas i värdeuttrycksfält](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 6 oktober 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] modul](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 oktober 2023 |
 | [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 oktober 2023 |
-| [Inloggning: Ett fel visas när lösenordet återställs trots att åtgärden lyckades](known-issues-workfront/wf-login-whoops-resetting-password.md) | 3 oktober 2023 |
 | [Kort: Kort visar inte korrekt antal checklisteobjekt](known-issues-workfront/wf-boards-checklist-item-count.md) | 29 september 2023 |
-| [Dokumentintegreringar: Fel när en resurs dras till en mapp i en Experience Manager Assets-integrering](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28 september 2023 |
 | [Delning: Fel vid delning av objekt](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 27 september 2023 |
-| [Tavlor: Vågrät rullningslist finns inte](known-issues-workfront/wf-board-no-scrollbar.md) | 26 september 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widgeten visar inte alla tilldelade team](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 september 2023 |
 
 {style="table-layout:auto"}
@@ -46,11 +41,13 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Uppgifter: [!UICONTROL Planned Hours] allokeras om när en ytterligare användare tilldelas till en uppgift](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 12 oktober 2023 |
+| [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] matchar inte summan för [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 oktober 2023 |
+| [Inloggning: Ett fel visas när lösenordet återställs trots att åtgärden lyckades](known-issues-workfront/wf-login-whoops-resetting-password.md) | 12 oktober 2023 |
+| [Rapporter: Privata uppdateringar visas i värdeuttrycksfält](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 12 oktober 2023 |
 | [Tidrapporter: Personlig uppgift visas på tidrapporten](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10 oktober 2023 |
-| [Korrektur: Kan inte generera korrektur](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 9 oktober 2023 |
 | [Utjämning av arbetsbelastning: Manuella timändringar är inte korrekta efter uppdatering av sidan](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 oktober 2023 |
 | [Hem: Delegerade uppgifter delas inte och visas inte i Hem-arbetslistan](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 oktober 2023 |
-| [Användare: Felmeddelande visas felaktigt när användaren påminns om att registrera sig](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28 september 2023 |
 | [Arbetsbelastningsutjämnare: Användaren visas som överallokerad på grund av felaktig kapacitet](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 september 2023 |
 | [Korrektur: Extra, tom kommentar när du gör en kommentar i ett korrektur](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 september 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
