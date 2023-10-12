@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
 workflow-type: tm+mt
-source-wordcount: '5652'
+source-wordcount: '5691'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,13 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i oktober 2023
 
-+++**(Planerat) Underhållsuppdatering 12 oktober 2023**
++++**Underhållsuppdatering 12 oktober 2023**
+
+**Arbetsflöden som tagits bort för konton som inte använder dem**
+
+_Varumärkena_
+
+För konton som aldrig har skapat ett arbetsflöde i Boards-programmet har Workstreams-området tagits bort från instrumentpanelen för paneler. Konton som använder arbetsflöden har fortfarande tillgång till dem.
 
 **Beräknade fält behåller inget värde när utleverans konverteras till uppgift**
 
