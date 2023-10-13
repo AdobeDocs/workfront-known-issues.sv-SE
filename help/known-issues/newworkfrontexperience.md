@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront]: Ingen profilering används](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13 oktober 2023 |
+| [Styrelseledamöter: styrelseledamöter i [!UICONTROL Tasks] projektområdet inte läses in](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 13 oktober 2023 |
 | [Korrektur: Slutförda korrektur är fortfarande aktiverade [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9 oktober 2023 |
 | [Korrektur: Det går inte att skapa en ny version av ett korrektur](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9 oktober 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] modul](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 oktober 2023 |
@@ -41,6 +43,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Meddelanden: Användarna meddelas inte om svar på en kommentarstråd](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 13 oktober 2023 |
+| [Korrektur: [!UICONTROL Proof activity] fliken öppnas inte](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 13 oktober 2023 |
 | [Uppgifter: [!UICONTROL Planned Hours] allokeras om när en ytterligare användare tilldelas till en uppgift](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 12 oktober 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] matchar inte summan för [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 oktober 2023 |
 | [Inloggning: Ett fel visas när lösenordet återställs trots att åtgärden lyckades](known-issues-workfront/wf-login-whoops-resetting-password.md) | 12 oktober 2023 |

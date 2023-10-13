@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
+source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
-source-wordcount: '1198'
+source-wordcount: '1228'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Meddelanden: Användarna meddelas inte om svar på en kommentarstråd](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
+      + [[!DNL Workfront]: Ingen profilering används](known-issues-workfront/wf-workfront-branding-not-applied.md)
+      + [Styrelseledamöter: styrelseledamöter i [!UICONTROL Tasks] projektområdet inte läses in](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
+      + [Korrektur: [!UICONTROL Proof activity] fliken öppnas inte](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [Uppgifter: [!UICONTROL Planned Hours] allokeras om när en ytterligare användare tilldelas till en uppgift](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Tidrapporter: Personlig uppgift visas på tidrapporten](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [Korrektur: Kan inte generera korrektur](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
