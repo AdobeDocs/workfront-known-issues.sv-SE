@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
+source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Kan inte generera korrektur](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 16 oktober 2023 |
 | [[!DNL Workfront]: Ingen profilering används](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13 oktober 2023 |
 | [Styrelseledamöter: styrelseledamöter i [!UICONTROL Tasks] projektområdet inte läses in](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 13 oktober 2023 |
 | [Korrektur: Slutförda korrektur är fortfarande aktiverade [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9 oktober 2023 |
