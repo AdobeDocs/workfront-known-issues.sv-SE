@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
+source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
 workflow-type: tm+mt
-source-wordcount: '5691'
+source-wordcount: '5813'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,30 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i oktober 2023
+
++++**(Planerat) Underhållsuppdatering 19 oktober 2023**
+
+Användarna meddelas inte om svar på en kommentarstråd
+
+_Meddelanden_
+
+När en användare svarar på en kommentar, kommer andra användare som bör få meddelanden om svaret inte att få dem. Vissa användare kan få meddelandet, medan andra inte får det.
+
+**Extra, tom kommentar när du gör en kommentar i ett korrektur**
+
+_Korrektur_
+
+När en användare gör en kommentar om ett korrektur skapas även en annan kommentar, som är tom.
+
+Detta har rapporterats på videokorrektur.
+
+**[!UICONTROL Planned Hours]allokeras om när en ytterligare användare tilldelas till en uppgift**
+
+_Uppgifter_
+
+När en användare tilldelas en uppgift som har [!UICONTROL Planned Hours] som tilldelats andra tilldelningar för uppgiften, aktivitetens [!UICONTROL Planned Hours] är jämnt fördelade till alla tilldelningar för uppgiften.
+
++++
 
 +++**Underhållsuppdatering 12 oktober 2023**
 
