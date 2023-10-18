@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
+source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Uppdateringar: &quot;[!UICONTROL Deleted]&quot; visas som namn på användare i systemuppdateringar när problem konverteras till uppgift](known-issues-workfront/wf-updates-deleted-requested-team.md) | 18 oktober 2023 |
+| [Inloggning: Inloggningssidan dirigeras om till utloggningsstartsidan](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 oktober 2023 |
 | [Meddelanden: Användarna meddelas inte om svar på en kommentarstråd](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 13 oktober 2023 |
 | [Korrektur: [!UICONTROL Proof activity] fliken öppnas inte](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 13 oktober 2023 |
 | [Uppgifter: [!UICONTROL Planned Hours] allokeras om när en ytterligare användare tilldelas till en uppgift](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 12 oktober 2023 |

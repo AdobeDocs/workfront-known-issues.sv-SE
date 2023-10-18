@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
+source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
 workflow-type: tm+mt
-source-wordcount: '1228'
+source-wordcount: '1251'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppdateringar: &quot;[!UICONTROL Deleted]&quot; visas som namn på användare i systemuppdateringar när problem konverteras till uppgift](known-issues-workfront/wf-updates-deleted-requested-team.md)
+      + [Inloggning: Inloggningssidan dirigeras om till utloggningsstartsidan](known-issues-workfront/wf-login-redirects-to-logout-page.md)
       + [Meddelanden: Användarna meddelas inte om svar på en kommentarstråd](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
       + [[!DNL Workfront]: Ingen profilering används](known-issues-workfront/wf-workfront-branding-not-applied.md)
       + [Styrelseledamöter: styrelseledamöter i [!UICONTROL Tasks] projektområdet inte läses in](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
