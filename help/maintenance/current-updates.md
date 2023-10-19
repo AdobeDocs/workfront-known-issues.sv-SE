@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '5813'
+source-wordcount: '5892'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,23 @@ När en användare gör en kommentar om ett korrektur skapas även en annan komm
 
 Detta har rapporterats på videokorrektur.
 
+**[!UICONTROL Proof activity]fliken öppnas inte**
+
+_Korrektur_
+
+När en användare visar ett korrektur och klickar på [!UICONTROL Proof activity] fliken återgår användaren till [!UICONTROL Proof details] -fliken.
+
 **[!UICONTROL Planned Hours]allokeras om när en ytterligare användare tilldelas till en uppgift**
 
 _Uppgifter_
 
 När en användare tilldelas en uppgift som har [!UICONTROL Planned Hours] som tilldelats andra tilldelningar för uppgiften, aktivitetens [!UICONTROL Planned Hours] är jämnt fördelade till alla tilldelningar för uppgiften.
+
+**&quot;[!UICONTROL Deleted]&quot; visas som namn på användare i systemuppdateringar när problem konverteras till uppgift**
+
+_Uppdateringar_
+
+När en användare som är inloggad som en annan användare konverterar ett problem till en uppgift och problemet tilldelas ett team, visas systemuppdateringarna[!UICONTROL Deleted]&quot; som den användare som begärde att teamet ska arbeta med uppgiften.
 
 +++
 
