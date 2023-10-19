@@ -1,17 +1,21 @@
 ---
-title: "Inloggning: Ett fel visas när lösenordet återställs trots att åtgärden lyckades"
-description: "När en användare återställer sitt lösenord skickas e-postmeddelandet Återställ lösenord, men användaren ser ett fel."
+title: 'Inloggning: Ett fel visas när lösenordet återställs trots att åtgärden lyckades.'
+description: När en användare återställer sitt lösenord skickas e-postmeddelandet Återställ lösenord, men användaren ser ett fel.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+exl-id: f5509725-e63a-4fb0-9366-5a7d568dc0b0
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-
 # Inloggning: Ett fel visas när lösenordet återställs trots att åtgärden lyckades
+
+>[!NOTE]
+>
+>Problemet korrigerades den 12 oktober 2023.
 
 När en användare återställer sitt lösenord skickas e-postmeddelandet Återställ lösenord, men användaren ser följande fel:
 
