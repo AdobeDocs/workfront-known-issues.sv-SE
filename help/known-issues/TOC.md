@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
 workflow-type: tm+mt
-source-wordcount: '1265'
+source-wordcount: '1285'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Poster: Sökningen fungerar inte](known-issues-workfront/wf-boards-search-not-working.md)
+      + [Kort: Förväntade kort visas inte ombord](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
+      + [Hem: Projekt och uppgifter läses inte in i Hem](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
       + [Dokument: knappen Dela fungerar inte](known-issues-workfront/wf-documents-share-button-not-working.md)
       + [Dokument: &quot;[!UICONTROL Send to]&quot; orsakar en tom sida och ett felmeddelande](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
       + [Uppdateringar: &quot;[!UICONTROL Deleted]&quot; visas som namn på användare i systemuppdateringar när problem konverteras till uppgift](known-issues-workfront/wf-updates-deleted-requested-team.md)
