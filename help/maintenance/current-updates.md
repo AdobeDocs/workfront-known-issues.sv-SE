@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
+source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
 workflow-type: tm+mt
-source-wordcount: '5892'
+source-wordcount: '6041'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,34 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i oktober 2023
 
-+++**(Planerat) Underhållsuppdatering 19 oktober 2023**
++++**(Planerat) Underhållsuppdatering 26 oktober 2023**
+
+**Sökningen fungerar inte**
+
+_Varumärkena_
+
+När en användare försöker söka på anslagstavlor returnerar sökningen inte alla kort som uppfyller sökvillkoren.
+
+**Det går inte att visa interaktivt korrektur i Web Viewer**
+
+_Korrektur_
+
+När en användare försöker visa ett korrektur i webbkorrekturläsaren visas inte korrekturet och användaren ser följande fel:
+
+&quot;[!UICONTROL Missing Key-Pair-Id query parameter or cookie value]&quot;
+
+
+**Användaren dupliceras när en begäran delas**
+
+_Begäranden_
+
+Om åtkomstnivån för en användare som begäran delas med ändras när en begäran delas, blir användaren precis ovanför den användaren i listan den användaren.
+
+Om begäran till exempel delas med användare A och användare B och åtkomst för användare B ändras, ändras användare A till användare B och det nu finns två användardatabaser i listan. Dessutom har endast den översta användar-B-åtkomsten ändrats.
+
++++
+
++++**Underhållsuppdatering 19 oktober 2023**
 
 Användarna meddelas inte om svar på en kommentarstråd
 
