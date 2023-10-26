@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '6041'
+source-wordcount: '6102'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,13 @@ När en användare försöker visa ett korrektur i webbkorrekturläsaren visas i
 
 &quot;[!UICONTROL Missing Key-Pair-Id query parameter or cookie value]&quot;
 
+**Kan inte skapa en ny version av ett korrektur**
+
+_Korrektur_
+
+När en användare försöker skapa en ny version av ett korrektur skapas inte den nya versionen och användaren ser följande felmeddelande:
+
+&quot;[!UICONTROL Error generating proof]&quot;
 
 **Användaren dupliceras när en begäran delas**
 
@@ -46,6 +53,14 @@ _Begäranden_
 Om åtkomstnivån för en användare som begäran delas med ändras när en begäran delas, blir användaren precis ovanför den användaren i listan den användaren.
 
 Om begäran till exempel delas med användare A och användare B och åtkomst för användare B ändras, ändras användare A till användare B och det nu finns två användardatabaser i listan. Dessutom har endast den översta användar-B-åtkomsten ändrats.
+
+**&quot;[!UICONTROL Whoops]&quot; fel i uppgiftshuvud**
+
+_Uppgifter_
+
+När en användare tittar på en uppgift innehåller uppgiftshuvudet ingen information. I stället ser användaren följande felmeddelande:
+
+&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
 
 +++
 
