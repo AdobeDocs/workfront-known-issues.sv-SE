@@ -3,15 +3,19 @@ title: "Inloggning: Felmeddelande vid inloggning"
 description: "När en användare försöker logga in på [!DNL Workfront], ser de ett felmeddelande."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 
 # Inloggning: Felmeddelande vid inloggning
+
+>[!NOTE]
+>
+>Problemet korrigerades den 26 oktober 2023.
 
 När en användare försöker logga in på [!DNL Workfront]visas följande felmeddelande:
 
