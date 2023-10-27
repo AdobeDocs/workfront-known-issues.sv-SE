@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
+source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '691'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: Inkorrekt tidsstämpel på [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 oktober 2023 |
 | [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 oktober 2023 |
 | [Dokument: knappen Dela fungerar inte](known-issues-workfront/wf-documents-share-button-not-working.md) | 26 oktober 2023 |
 | [Kort: Förväntade kort visas inte ombord](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 oktober 2023 |

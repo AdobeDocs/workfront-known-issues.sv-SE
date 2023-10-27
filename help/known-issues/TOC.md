@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
+source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
 workflow-type: tm+mt
-source-wordcount: '1311'
+source-wordcount: '1314'
 ht-degree: 0%
 
 ---
@@ -160,6 +160,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Kända fel i [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuella problem i [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Inkorrekt tidsstämpel på [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!UICONTROL Workfront Proof]: Försenade e-postmeddelanden och meddelanden](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]: Det går inte att utöka arbetsflödet](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront-korrektur: Instrumentpanelsdata är inte alltid korrekta](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
