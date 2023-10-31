@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
+source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
-source-wordcount: '1341'
+source-wordcount: '1343'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Workload Balancer]: [!UICONTROL Workload Balancer] läser in långsamt](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [Begäranden: Felaktig anpassad valuta visas på sidan Ny begäran](known-issues-workfront/wf-requests-custom-currency.md)
       + [Rapporter: Budgeterade timmar i användningsrapporten matchar inte budgeterade timmar som rapporterats via API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
       + [Kontrollpaneler: Användaren har inte åtkomst [!UICONTROL Canvas Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)

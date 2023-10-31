@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
+source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
-source-wordcount: '721'
+source-wordcount: '724'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL Workload Balancer]: [!UICONTROL Workload Balancer] läser in långsamt](known-issues-workfront/wf-workload-balancer-loads-slowly.md) | 31 oktober 2023 |
 | [Begäranden: Felaktig anpassad valuta visas på sidan Ny begäran](known-issues-workfront/wf-requests-custom-currency.md) | 30 oktober 2023 |
 | [Rapporter: Budgeterade timmar i användningsrapporten matchar inte budgeterade timmar som rapporterats via API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 oktober 2023 |
 | [Kontrollpaneler: Användaren har inte åtkomst [!UICONTROL Canvas Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 oktober 2023 |
