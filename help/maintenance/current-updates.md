@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
+source-git-commit: 130c3555bab741a58b06c81a5324b0103756caab
 workflow-type: tm+mt
-source-wordcount: '6102'
+source-wordcount: '6203'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,29 @@ Följande underhållsuppdateringar gjordes 2023.
 
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
+## Uppdateringar i november 2023
+
++++**(Planerat) Underhållsuppdatering 2 november 2023**
+
+**Privata uppdateringar visas i värdeuttrycksfält **
+_Rapporter_
+
+När ett rapportfält innehåller ett värdeuttryck som refererar till en privat uppdatering, kan användare som inte ingår i den privata uppdateringen se det i rapporten.
+
+
+**Användaren visas som överallokerad på grund av felaktig kapacitet**
+
+_Utjämning av arbetsbelastning_
+
+En användare kan visa i belastningsutjämnaren som överallokerad. Om en användare hovrar över övertilldelningen ser de att användarens kapacitet är inställd på 0.
+
+Om användaren ändrar datumintervallet är allokeringen korrekt. Om användaren uppdaterar sidan kan det dock hända att kapaciteten blir felaktig igen.
+
++++
+
 ## Uppdateringar i oktober 2023
 
-+++**(Planerat) Underhållsuppdatering 26 oktober 2023**
++++**Underhållsuppdatering 26 oktober 2023**
 
 **Sökningen fungerar inte**
 
