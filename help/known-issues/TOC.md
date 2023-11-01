@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
+source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1360'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppdateringar: Kommentarer kopplade till systemuppdateringar visas inte](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
+      + [Kort: Fel i kommentarsavsnittet på ett kort](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL Workload Balancer]: [!UICONTROL Workload Balancer] läser in långsamt](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [Begäranden: Felaktig anpassad valuta visas på sidan Ny begäran](known-issues-workfront/wf-requests-custom-currency.md)
       + [Rapporter: Budgeterade timmar i användningsrapporten matchar inte budgeterade timmar som rapporterats via API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
