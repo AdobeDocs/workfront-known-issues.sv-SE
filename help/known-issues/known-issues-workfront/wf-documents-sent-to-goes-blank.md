@@ -1,17 +1,21 @@
 ---
-title: "Dokument: Alternativet Skicka till orsakar en tom sida och ett felmeddelande"
-description: "När en användare försöker använda alternativet Skicka till från en dokumentinformationssida, blir sidan tom och användaren ser ett felmeddelande."
+title: 'Dokument: Alternativet Skicka till orsakar en tom sida och ett felmeddelande'
+description: När en användare försöker använda alternativet Skicka till från en dokumentinformationssida, blir sidan tom och användaren ser ett felmeddelande.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: a2387bcb72b50055edc28fec7e5586b291e6983c
+exl-id: b7da65be-8621-4010-bc74-7f3025584748
+source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-
 # Dokument: &quot;[!UICONTROL Send to]&quot; orsakar en tom sida och ett felmeddelande
+
+>[!NOTE]
+>
+>Problemet korrigerades den 2 november 2023.
 
 När en användare försöker använda[!UICONTROL Send to]&quot; från en [!UICONTROL Document Details] sidan blir sidan tom och användaren ser följande felmeddelande:
 

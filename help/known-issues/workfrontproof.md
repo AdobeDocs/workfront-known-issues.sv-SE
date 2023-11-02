@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Workfront Proof]: Försenade e-postmeddelanden och meddelanden](known-issues-workfront-proof/proof-delayed-notification.md) | 26 oktober 2023 |
 | [Dokument: knappen Dela fungerar inte](known-issues-workfront/wf-documents-share-button-not-working.md) | 19 oktober 2023 |
-| [Dokument: &quot;[!UICONTROL Send to]&quot; orsakar en tom sida och ett felmeddelande](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 19 oktober 2023 |
 
 {style="table-layout:auto"}
 
@@ -57,7 +56,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 augusti 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 juni 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
-| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] via API eller [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 maj 2023 |
+| [[!DNL Workfront Proof]: 500 fel vid åtkomst [!DNL Workfront Proof] via API eller [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 maj 2023 |
 | [Dokument: [!UICONTROL Proofing Activities] alternativ leder till inloggningssida](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 april 2023, 2023 |
 | [Korrektur: Mätverktyget accepterar inte decimalpunkter](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
 | [Dokument: 404-fel vid åtkomst av dokument som är länkade från [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |

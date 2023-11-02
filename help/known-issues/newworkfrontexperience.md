@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b1c93c06b2c3a787438aa2a598aada93a04e0c38
+source-git-commit: 744835ec6f1f9af2d536b8f4e3fbc4ef1660fa27
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '697'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | [[!UICONTROL Workfront Proof]: Försenade e-postmeddelanden och meddelanden](known-issues-workfront-proof/proof-delayed-notification.md) | 26 oktober 2023 |
 | [Workfront Fusion: Duplicera projekt som skapats från en enda modul](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 oktober 2023 |
 | [Poster: Sökningen fungerar inte](known-issues-workfront/wf-boards-search-not-working.md) | 20 oktober 2023 |
-| [Dokument: &quot;[!UICONTROL Send to]&quot; orsakar en tom sida och ett felmeddelande](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 19 oktober 2023 |
-| [Delning: Fel vid delning av objekt](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 27 september 2023 |
 
 {style="table-layout:auto"}
 
@@ -41,7 +39,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
-| [[!UICONTROL Workload Balancer]: [!UICONTROL Workload Balancer] läser in långsamt](known-issues-workfront/wf-workload-balancer-loads-slowly.md) | 31 oktober 2023 |
 | [Begäranden: Felaktig anpassad valuta visas på sidan Ny begäran](known-issues-workfront/wf-requests-custom-currency.md) | 30 oktober 2023 |
 | [Rapporter: Budgeterade timmar i användningsrapporten matchar inte budgeterade timmar som rapporterats via API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 oktober 2023 |
 | [Kontrollpaneler: Användaren har inte åtkomst [!UICONTROL Canvas Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 oktober 2023 |
@@ -56,7 +53,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Inloggning: Inloggningssidan dirigeras om till utloggningsstartsidan](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 oktober 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] matchar inte summan för [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 oktober 2023 |
 | [Tidrapporter: Personlig uppgift visas på tidrapporten](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10 oktober 2023 |
-| [Utjämning av arbetsbelastning: Manuella timändringar är inte korrekta efter uppdatering av sidan](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 oktober 2023 |
 | [Hem: Delegerade uppgifter delas inte och visas inte i Hem-arbetslistan](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 oktober 2023 |
 | [[!DNL Workfront]: Problem med att skicka en [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 

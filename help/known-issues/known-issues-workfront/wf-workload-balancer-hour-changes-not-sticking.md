@@ -1,17 +1,21 @@
 ---
-title: "Utjämning av arbetsbelastning: Manuella timändringar är inte korrekta efter uppdatering av sidan"
-description: "När en användare skriver in timmar manuellt i Utjämning av arbetsbelastning och sidan uppdateras, visas inte de timmar som visas korrekt."
+title: 'Utjämning av arbetsbelastning: Manuella timändringar är inte korrekta efter uppdatering av sidan'
+description: När en användare skriver in timmar manuellt i Utjämning av arbetsbelastning och sidan uppdateras, blir de timmar som visas felaktiga.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+exl-id: 36330128-a25f-4755-9e04-e1bcab5592be
+source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-
 # Utjämning av arbetsbelastning: Manuella timändringar är inte korrekta efter uppdatering av sidan
+
+>[!NOTE]
+>
+>Problemet korrigerades den 2 november 2023.
 
 När en användare skriver in timmar manuellt i Utjämning av arbetsbelastning och sidan uppdateras, blir de timmar som visas felaktiga.
 
