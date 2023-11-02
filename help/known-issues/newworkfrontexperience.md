@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: b1c93c06b2c3a787438aa2a598aada93a04e0c38
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '727'
 ht-degree: 0%
 
 ---
@@ -55,12 +55,10 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Korrektur: Det går inte att skapa en ny version av ett korrektur](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 oktober 2023 |
 | [Inloggning: Inloggningssidan dirigeras om till utloggningsstartsidan](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 oktober 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] matchar inte summan för [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 oktober 2023 |
-| [Rapporter: Privata uppdateringar visas i värdeuttrycksfält](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 12 oktober 2023 |
 | [Tidrapporter: Personlig uppgift visas på tidrapporten](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10 oktober 2023 |
 | [Utjämning av arbetsbelastning: Manuella timändringar är inte korrekta efter uppdatering av sidan](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 oktober 2023 |
 | [Hem: Delegerade uppgifter delas inte och visas inte i Hem-arbetslistan](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 oktober 2023 |
-| [Arbetsbelastningsutjämnare: Användaren visas som överallokerad på grund av felaktig kapacitet](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 september 2023 |
-| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
+| [[!DNL Workfront]: Problem med att skicka en [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 
 {style="table-layout:auto"}
 
