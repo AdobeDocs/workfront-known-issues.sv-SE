@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Begäranden: Fälten rensas när ett dokument läggs till i en begäran](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 3 november 2023 |
 | [Uppdateringar: Kommentarer kopplade till systemuppdateringar visas inte](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1 november 2023 |
 | [Kort: Fel i kommentarsavsnittet på ett kort](known-issues-workfront/wf-boards-comment-section-error.md) | 1 november 2023 |
 | [[!UICONTROL Workfront Proof]: Försenade e-postmeddelanden och meddelanden](known-issues-workfront-proof/proof-delayed-notification.md) | 26 oktober 2023 |
@@ -39,13 +40,15 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Hem: Godkännandet fastnat [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 november 2023 |
+| [Korrektur: Problem med scenaktivering](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 november 2023 |
+| [Korrektur: Fel saknas vid åtkomst av korrektur från e-postlänk](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 november 2023 |
 | [Uppdateringar: Extra rader i kommentarer som gjorts via API eller [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2 november 2023 |
 | [Begäranden: Felaktig anpassad valuta visas på sidan Ny begäran](known-issues-workfront/wf-requests-custom-currency.md) | 30 oktober 2023 |
 | [Rapporter: Budgeterade timmar i användningsrapporten matchar inte budgeterade timmar som rapporterats via API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 oktober 2023 |
 | [Kontrollpaneler: Användaren har inte åtkomst [!UICONTROL Canvas Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 oktober 2023 |
 | [[!DNL Workfront Proof]: Inkorrekt tidsstämpel på [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 oktober 2023 |
 | [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 oktober 2023 |
-| [Dokument: knappen Dela fungerar inte](known-issues-workfront/wf-documents-share-button-not-working.md) | 26 oktober 2023 |
 | [Kort: Förväntade kort visas inte ombord](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 oktober 2023 |
 | [Uppgifter: &quot;[!UICONTROL Whoops]&quot; fel i uppgiftshuvud](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 oktober 2023 |
 | [Korrektur: Slutförda korrektur är fortfarande aktiverade [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 oktober 2023 |

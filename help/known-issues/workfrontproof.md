@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
+source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Workfront Proof]: Försenade e-postmeddelanden och meddelanden](known-issues-workfront-proof/proof-delayed-notification.md) | 26 oktober 2023 |
-| [Dokument: knappen Dela fungerar inte](known-issues-workfront/wf-documents-share-button-not-working.md) | 19 oktober 2023 |
 
 {style="table-layout:auto"}
 
@@ -36,6 +35,9 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Hem: Godkännandet fastnat [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 november 2023 |
+| [Korrektur: Problem med scenaktivering](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 november 2023 |
+| [Korrektur: Fel saknas vid åtkomst av korrektur från e-postlänk](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 november 2023 |
 | [[!DNL Workfront Proof]: Inkorrekt tidsstämpel på [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 oktober 2023 |
 | [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 oktober 2023 |
 | [Korrektur: Slutförda korrektur är fortfarande aktiverade [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 oktober 2023 |
