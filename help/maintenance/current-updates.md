@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
 workflow-type: tm+mt
-source-wordcount: '6202'
+source-wordcount: '6387'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,38 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i november 2023
+
++++**(Planerat) Underhållsuppdatering 9 november 2023**
+
+**My Work widget missing objects when not top of page**
+
+_Startsida_
+
+Om widgeten Mitt arbete är högst upp på den nya hemsidan, hämtas alla förväntade objekt. Om den här widgeten däremot finns under andra widgetar på sidan, hämtas endast 10 objekt.
+
+**Kan inte generera korrektur**
+
+_Korrektur_
+
+När en användare försöker generera ett korrektur skapas inte korrekturet och användaren ser följande fel:
+
+&quot;[!UICONTROL Error generating proof]&quot;
+
+Detta inträffar när användarens åtkomstnivåinställning[!UICONTROL  View Contact Info] är inställt på Inaktiverad.
+
+**Radera fält när ett dokument läggs till i en begäran**
+
+_Begäranden_
+
+När en användare skapar en begäran fyller i fält i ett formulär och sedan lägger till eller tar bort ett dokument, tas vissa fält i formuläret bort från data och användaren måste fylla i dem igen innan begäran skickas.
+
+**Personlig uppgift visas på tidrapporten**
+
+_Tidrapporter_
+
+När en användare skapar en uppgift på [!UICONTROL Todo] den nya widgeten [!UICONTROL Home] så visas den uppgiften på användarens tidrapport. Detta inträffar även om aktiviteten inte har några timmar loggad och det personliga projektet inte är fäst.
+
++++
 
 +++**Underhållsuppdatering 2 november 2023**
 
