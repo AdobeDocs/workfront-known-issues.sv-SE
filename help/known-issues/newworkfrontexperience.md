@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
+source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
 workflow-type: tm+mt
-source-wordcount: '767'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -70,6 +70,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Kontrollpanel: stor tom marginal vid utskrift av instrumentpanel till PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 7 november 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Requests] widgeten visar inte alla tilldelade team](known-issues-workfront/wf-home-request-shows-one-team.md) | 26 oktober 2023 |
 | [[!DNL Workfront Proof]: Det går inte att utöka arbetsflödet](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
 | [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot; widget i ny [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 25 september 2023 |
