@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
+source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '771'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Stödlinjer: Problem vid visning av status för underaktivitet](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8 november 2023 |
 | [Begäranden: Fälten rensas när ett dokument läggs till i en begäran](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 3 november 2023 |
 | [Uppdateringar: Kommentarer kopplade till systemuppdateringar visas inte](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1 november 2023 |
 | [Kort: Fel i kommentarsavsnittet på ett kort](known-issues-workfront/wf-boards-comment-section-error.md) | 1 november 2023 |
