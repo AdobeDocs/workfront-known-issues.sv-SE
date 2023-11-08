@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
+source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
-source-wordcount: '6387'
+source-wordcount: '6461'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,16 @@ När en användare skapar en begäran fyller i fält i ett formulär och sedan l
 _Tidrapporter_
 
 När en användare skapar en uppgift på [!UICONTROL Todo] den nya widgeten [!UICONTROL Home] så visas den uppgiften på användarens tidrapport. Detta inträffar även om aktiviteten inte har några timmar loggad och det personliga projektet inte är fäst.
+
++++
+
++++**Underhållsuppdatering (snabbkorrigering) 3 november 2023**
+
+**Underordnade uppgifter visas i fel ordning när de flyttas under den överordnade uppgiften**
+
+_Mallar_
+
+När en användare skapar uppgifter i en mall och sedan flyttar dessa uppgifter under en överordnad uppgift, visas inte numren som tilldelats de underordnade uppgifterna i den förväntade ordningen. När sidan uppdateras sorteras de underordnade uppgifterna därför efter de oväntade aktivitetsnumren, och de underordnade aktiviteterna är därför i fel ordning.
 
 +++
 
