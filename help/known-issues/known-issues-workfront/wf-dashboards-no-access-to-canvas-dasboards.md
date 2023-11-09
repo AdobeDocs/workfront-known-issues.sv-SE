@@ -3,15 +3,19 @@ title: "Kontrollpaneler: Användaren kan inte komma åt [!UICONTROL Canvas Dashb
 description: "När en användare som ska ha åtkomst till en [!UICONTROL Canvas Dashboard] försök att komma åt [!UICONTROL Canvas Dashboard], instrumentpanelen läses inte in och användaren ser ett meddelande."
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 03aece7b11369e50995a9dbfa39c3fdefd84b93c
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
 
 # Kontrollpaneler: Användaren har inte åtkomst [!UICONTROL Canvas Dashboards]
+
+>[!NOTE]
+>
+>Problemet korrigerades den 7 november 2023.
 
 När en användare som ska ha åtkomst till en [!UICONTROL Canvas Dashboard] försök att komma åt [!UICONTROL Canvas Dashboard], instrumentpanelen läses inte in och användaren ser följande meddelande:
 

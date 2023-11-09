@@ -1,17 +1,21 @@
 ---
-title: "Tidrapporter: Personliga uppgifter visas på tidrapporten"
-description: "När en användare skapar en uppgift på Todo-widgeten för den nya hemupplevelsen visas den uppgiften på användarens tidrapport. Detta inträffar även om aktiviteten inte har några timmar loggad och det personliga projektet inte är fäst."
+title: 'Tidrapporter: Personlig uppgift visas på tidrapporten'
+description: När en användare skapar en uppgift på Todo-widgeten för den nya hemupplevelsen visas den uppgiften på användarens tidrapport. Detta inträffar även om aktiviteten inte har några timmar loggad och det personliga projektet inte är fäst.
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+exl-id: fd75ae65-726c-4301-bded-297cc82566b8
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-
 # Tidrapporter: Personlig uppgift visas på tidrapporten
+
+>[!NOTE]
+>
+>Problemet korrigerades den 9 november 2023.
 
 När en användare skapar en uppgift på [!UICONTROL Todo] den nya widgeten [!UICONTROL Home] så visas den uppgiften på användarens tidrapport. Detta inträffar även om aktiviteten inte har några timmar loggad och det personliga projektet inte är fäst.
 
