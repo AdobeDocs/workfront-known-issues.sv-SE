@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
 workflow-type: tm+mt
-source-wordcount: '6460'
+source-wordcount: '6644'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,32 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i november 2023
+
++++**(Planerat) Underhållsuppdatering 16 november 2023**
+
+**Budgeterade timmar i användningsrapporten matchar inte budgeterade timmar som rapporterats via API**
+
+_Rapporter_
+
+När en användare gör ett API-anrop till RPBGHR-objektet för ett givet projekt och jämför resultatet av anropet med användningsrapporten för det projektet, matchar inte resultaten.
+
+**Felaktig anpassad valuta visas på sidan Ny begäran**
+
+_Begäranden_
+
+När en användare skickar en begäran och gör ett val som ändrar visningslogiken i begärandeformuläret, återställs den visade valutan till standardvalutan i stället för den anpassade valuta som är inställd på det projekt som begärandekön representerar.
+
+När användaren skickar sin begäran visas valutan som den korrekta anpassade valutan för projektet som begärandekön representerar
+
+**Extra rader i kommentarer som gjorts via API eller[!DNL Workfront Fusion]**
+
+_Uppdateringar_
+
+När en användare skickar en kommentar via API:t eller via [!DNL Workfront Fusion]visar kommentaren som visas i uppdateringsområdet extra rader. Ibland finns det så många rader att användaren måste rulla nedåt för att kunna se kommentarinnehållet.
+
+Detta har rapporterats i den nya kommentarsfunktionen.
+
++++
 
 +++**Underhållsuppdatering 9 november 2023**
 
