@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Fel med lågt minne](known-issues-workfront-fusion/fusion-low-memory-error.md) | 9 november 2023 |
+| Ingen |  |
 
 {style="table-layout:auto"}
 
@@ -46,6 +46,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Fel med lågt minne](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16 november 2023 |
 | [Workfront Fusion: Duplicera projekt som skapats från en enda modul](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 oktober 2023 |
 | [[!DNL Workfront Proof]: 500 fel vid åtkomst [!DNL Workfront Proof] via API eller [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 maj 2023 |
 | [[!DNL Workfront Fusion]: Felet &quot;Det gick inte att verifiera anslutningen&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29 september 2022 |
