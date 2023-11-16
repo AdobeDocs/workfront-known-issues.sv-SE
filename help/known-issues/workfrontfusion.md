@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion: Fel med lågt minne](known-issues-workfront-fusion/fusion-low-memory-error.md) | 9 november 2023 |
-| [Uppdateringar: Extra rader i kommentarer som gjorts via API eller [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2 november 2023 |
 
 {style="table-layout:auto"}
 

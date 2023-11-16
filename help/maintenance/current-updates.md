@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '6644'
+source-wordcount: '6643'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i november 2023
 
-+++**(Planerat) Underhållsuppdatering 16 november 2023**
++++**Underhållsuppdatering 16 november 2023**
 
 **Budgeterade timmar i användningsrapporten matchar inte budgeterade timmar som rapporterats via API**
 
@@ -48,7 +48,7 @@ Detta har rapporterats i den nya kommentarsfunktionen.
 
 +++
 
-+++**Underhållsuppdatering 9 november 2023**
+    ++**Underhållsuppdatering 9 november 2023**
 
 **My Work widget missing objects when not top of page**
 

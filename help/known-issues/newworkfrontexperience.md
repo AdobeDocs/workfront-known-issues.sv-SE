@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Hem: Godkännandet fastnat [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 november 2023 |
 | [Korrektur: Problem med scenaktivering](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 november 2023 |
 | [Korrektur: Fel saknas vid åtkomst av korrektur från e-postlänk](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 november 2023 |
-| [Uppdateringar: Extra rader i kommentarer som gjorts via API eller [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2 november 2023 |
-| [Begäranden: Felaktig anpassad valuta visas på sidan Ny begäran](known-issues-workfront/wf-requests-custom-currency.md) | 30 oktober 2023 |
-| [Rapporter: Budgeterade timmar i användningsrapporten matchar inte budgeterade timmar som rapporterats via API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 oktober 2023 |
 | [[!DNL Workfront Proof]: Inkorrekt tidsstämpel på [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 oktober 2023 |
 | [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 oktober 2023 |
 | [Kort: Förväntade kort visas inte ombord](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 oktober 2023 |

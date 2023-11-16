@@ -3,15 +3,19 @@ title: "Begäranden: Felaktig anpassad valuta visas på sidan Ny begäran"
 description: "När en användare skickar en begäran och gör ett val som ändrar visningslogiken i begärandeformuläret, återställs den visade valutan till standardvalutan i stället för den anpassade valuta som är inställd på det projekt som begärandekön representerar."
 hidefromtoc: true
 feature: Requests
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 
 # Begäranden: Felaktig anpassad valuta visas på sidan Ny begäran
+
+>[!NOTE]
+>
+>Problemet korrigerades den 16 november 2023.
 
 När en användare skickar en begäran och gör ett val som ändrar visningslogiken i begärandeformuläret, återställs den visade valutan till standardvalutan i stället för den anpassade valuta som är inställd på det projekt som begärandekön representerar.
 
