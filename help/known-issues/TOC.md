@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
+source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
 workflow-type: tm+mt
-source-wordcount: '1490'
+source-wordcount: '1496'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporter: 500 fel vid export av en rapport](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [Mallar: Det går inte att välja mall från [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL Home]: Uppgifter visas inte i [!UICONTROL My Work] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Uppgifter: Aktivitetsdatum är nedtonade för längre tid när tidslinjen beräknas om](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)

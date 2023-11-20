@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
+source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '725'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Rapporter: 500 fel vid export av en rapport](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 20 november 2023 |
 | [Uppgifter: Aktivitetsdatum är nedtonade för längre tid när tidslinjen beräknas om](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 november 2023 |
 | [Meddelanden: E-postmeddelanden tas inte emot när användaren är taggad i en kommentar](known-issues-workfront/wf-notif-email-not-received.md) | 8 november 2023 |
 | [Hem: Uppgifter i projekt med statusen Godkänd eller Planering ingår inte i Mina uppgifter eller Hemarbetslista](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 november 2023 |
