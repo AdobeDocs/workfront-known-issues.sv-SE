@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
+source-git-commit: 8f575eb5ae601f5adc6f4c454ca0a8807c2ab6ef
 workflow-type: tm+mt
-source-wordcount: '1496'
+source-wordcount: '1515'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Anpassade formulär: Det går inte att lägga till eller ta bort anpassade formulär gruppvis i malluppgifter](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
+      + [Kort: Kortet visas på flera sprutor](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [Rapporter: 500 fel vid export av en rapport](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [Mallar: Det går inte att välja mall från [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL Home]: Uppgifter visas inte i [!UICONTROL My Work] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)

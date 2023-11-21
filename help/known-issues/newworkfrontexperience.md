@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
+source-git-commit: 41df80641db82b225753338d8564e12b90566c40
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Kort: Kortet visas på flera sprutor](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 november 2023 |
 | [Mallar: Det går inte att välja mall från [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16 november 2023 |
 | [[!UICONTROL Home]: Uppgifter visas inte i [!UICONTROL My Work] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 13 november 2023 |
 | [Tavlor: Det går inte att redigera taggfärg](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 10 november 2023 |
@@ -40,6 +41,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Anpassade formulär: Det går inte att lägga till eller ta bort anpassade formulär gruppvis i malluppgifter](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 november 2023 |
 | [Rapporter: 500 fel vid export av en rapport](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 20 november 2023 |
 | [Uppgifter: Aktivitetsdatum är nedtonade för längre tid när tidslinjen beräknas om](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 november 2023 |
 | [Meddelanden: E-postmeddelanden tas inte emot när användaren är taggad i en kommentar](known-issues-workfront/wf-notif-email-not-received.md) | 8 november 2023 |
