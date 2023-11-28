@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
 workflow-type: tm+mt
-source-wordcount: '6643'
+source-wordcount: '6776'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,34 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i november 2023
+
++++**(Planerat) Underhållsuppdatering 30 november 2023**
+
+**Uppgifter visas inte i [!UICONTROL My Work] widget**
+
+_[!UICONTROL Home]_
+
+När en användare visar sina [!UICONTROL My Work] widget i [!UICONTROL Home]visas inte vissa av de uppgifter som de är tilldelade till i widgeten. En användare kan till exempel gå till ett projekt och se att de är tilldelade uppgifter i projektet, men dessa uppgifter visas inte på användarens [!UICONTROL My Work] widget.
+
+**Inloggningssidan omdirigeras till utloggningssidan**
+
+_Inloggning_
+
+När en användare försöker logga in på [!DNL Workfront], i stället för inloggningssidan, dirigeras de till sidan som de skulle logga in på om de skulle logga ut.
+
+**500-fel vid export av en rapport**
+
+_Rapporter_
+
+När en användare försöker exportera en rapport misslyckas exporten med följande fel:
+
+```
+500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
+```
+
+Detta har rapporterats i rapporter där en `valueexpression` referera till `lastNote` anteckningstext.
+
++++
 
 +++**Underhållsuppdatering 16 november 2023**
 
@@ -48,7 +76,7 @@ Detta har rapporterats i den nya kommentarsfunktionen.
 
 +++
 
-    ++**Underhållsuppdatering 9 november 2023**
++++**Underhållsuppdatering 9 november 2023**
 
 **My Work widget missing objects when not top of page**
 
