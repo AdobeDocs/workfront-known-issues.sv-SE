@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
+source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Kort: Kort som flyttats till en kolumn återgår till den ursprungliga kolumnen efter uppdatering](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 november 2023 |
 | [Uppgifter: När uppgifter dupliceras visas de i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 28 november 2023 |
 | [Dokument: Kan inte komma åt [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 november 2023 |
 | [Kort: Kortet visas på flera sprutor](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 november 2023 |
