@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel i [!DNL Adobe Workfront]
 role: User
-source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
 workflow-type: tm+mt
-source-wordcount: '1551'
+source-wordcount: '1558'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Inställningar: Kan inte använda [!UICONTROL Kick-Starts] för att konfigurera grupperingar](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [Kort: Kort som flyttats till en kolumn återgår till den ursprungliga kolumnen efter uppdatering](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Korrektur: korrektur som väntar på godkännande visas inte i rapporter](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Uppgifter: När uppgifter dupliceras visas de i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
