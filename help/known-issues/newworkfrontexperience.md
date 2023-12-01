@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '803'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Kort: Fel i [!UICONTROL Comments] kortavsnitt](known-issues-workfront/wf-boards-comments-section-error.md) | 1 december 2023 |
 | [Kort: Kort som flyttats till en kolumn återgår till den ursprungliga kolumnen efter uppdatering](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 november 2023 |
 | [Dokument: Kan inte komma åt [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 november 2023 |
 | [Kort: Kortet visas på flera sprutor](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 november 2023 |
@@ -40,6 +41,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Uppgifter/frågor: problem när arbetsposter läggs till i styrelsens vy över uppgifter eller frågor](known-issues-workfront/wf-tasks-issues-board-view.md) | 1 december 2023 |
 | [Tidrapporter: Personlig uppgift visas på tidrapporten](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 30 november 2023 |
 | [Rapporter: Budgeterade timmar i användningsrapporten matchar inte budgeterade timmar som rapporterats via API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 november 2023 |
 | [Uppgifter: När uppgifter dupliceras visas de i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 30 november 2023 |
