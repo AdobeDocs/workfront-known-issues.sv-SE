@@ -1,11 +1,11 @@
 ---
 title: "Uppgifter: När du duplicerar uppgifter visas de i fel ordning"
-description: "När en användare markerar flera uppgifter i en uppgiftslista och duplicerar dem, visar uppgiftslistan sedan uppgifterna i fel ordning beroende på uppgiftsordningsnumret. Uppgifterna numreras korrekt, men visas i fel ordning. Det finns en lösning."
+description: "När en användare väljer en eller flera uppgifter i en uppgiftslista och duplicerar dem, visar uppgiftslistan sedan uppgifterna i fel ordning beroende på aktivitetens ordningsnummer. Uppgifterna numreras korrekt, men visas i fel ordning. Det finns en lösning."
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+source-git-commit: c1551f44eebd810017b035334a21819afe1e8638
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Uppgifter: När uppgifter dupliceras visas de i fel ordning
 
-När en användare markerar flera uppgifter i en uppgiftslista och duplicerar dem, visas uppgifterna i uppgiftslistan i fel ordning beroende på uppgiftens ordningsnummer. Uppgifterna numreras korrekt, men visas i fel ordning.
+När en användare väljer en eller flera uppgifter i en uppgiftslista och duplicerar dem, visas uppgifterna i uppgiftslistan i fel ordning beroende på uppgiftens ordningsnummer. Uppgifterna numreras korrekt, men visas i fel ordning.
 
 **Tillfällig lösning**
 
