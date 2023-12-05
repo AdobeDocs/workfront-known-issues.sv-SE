@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
+source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
 workflow-type: tm+mt
-source-wordcount: '6775'
+source-wordcount: '6944'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,29 @@ Följande underhållsuppdateringar gjordes 2023.
 >Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
 
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
+
+## Uppdateringar i december 2023
+
++++**Underhållsuppdatering 7 december 2023**
+
+**Godkännandet fastnat [!UICONTROL Awaiting my approval] widget**
+
+_Startsida_
+
+När en ny version av ett dokument överförs och den föregående versionen har ett godkännande som inte är fullständigt, fastnar den gamla versionen av dokumentet på godkännarens [!UICONTROL Awaiting my approval] widget. Godkännandet kan inte godkännas eftersom det finns en ny version och det kan inte tas bort från widgeten.
+
+**Problem vid tillägg av arbetsuppgifter i styrelsens vy över uppgifter eller frågor**
+
+_Uppgifter/ärenden_
+
+När en användare tittar på styrelsens vy över uppgifter eller problem i ett projekt och försöker lägga till en uppgift eller ett problem kan följande inträffa:
+
+* Popup-fönstret växlar fram och tillbaka mellan två olika fönsterformat
+* Användaren kan inte stänga popup-fönstret
+
+Detta har rapporterats inträffa när en användare väljer ett område från den vänstra navigeringen i popup-fönstret innan han eller hon anger någon information.
+
++++
 
 ## Uppdateringar i november 2023
 
