@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
+source-git-commit: 3696ef02bf7a80584e0d927b348e11d0b98d9991
 workflow-type: tm+mt
-source-wordcount: '1597'
+source-wordcount: '1602'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Status: [!UICONTROL Whoops] fel när status döljs](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Uppdateringar: Vissa uppdateringar saknas i den nya kommentarsfunktionen](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Uppgifter/frågor: problem när arbetsposter läggs till i styrelsens vy över uppgifter eller frågor](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [Kort: Fel i [!UICONTROL Comments] kortavsnitt](known-issues-workfront/wf-boards-comments-section-error.md)
