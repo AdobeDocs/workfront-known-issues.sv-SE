@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
+source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '838'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Inställningar: Statusvärden för standardutgåvor saknas för vissa utgåvor i installationsprogrammet](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 7 december 2023 |
+| [Tavlor: Kort som inte flyttas till rätt kolumn när status ändras](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 7 december 2023 |
 | [Kort: Fel i [!UICONTROL Comments] kortavsnitt](known-issues-workfront/wf-boards-comments-section-error.md) | 1 december 2023 |
 | [Kort: Kort som flyttats till en kolumn återgår till den ursprungliga kolumnen efter uppdatering](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 november 2023 |
 | [Dokument: Kan inte komma åt [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 november 2023 |
@@ -41,6 +43,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Hem: Widgetarna Mina projekt och Mina uppgifter visar endast 25 objekt](known-issues-workfront/wf-home-widgets-show-25-items.md) | 7 december 2023 |
 | [Status: [!UICONTROL Whoops] fel när status döljs](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 6 december 2023 |
 | [Uppdateringar: Vissa uppdateringar saknas i den nya kommentarsfunktionen](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 6 december 2023 |
 | [Tidrapporter: Personlig uppgift visas på tidrapporten](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 30 november 2023 |
