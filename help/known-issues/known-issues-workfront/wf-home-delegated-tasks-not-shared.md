@@ -1,17 +1,21 @@
 ---
-title: "Hem: Delegerade uppgifter delas inte och visas inte i Hem-arbetslistan"
-description: ""
+title: 'Hem: Delegerade uppgifter delas inte och visas inte i Hem-arbetslistan.'
+description: ''''
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+exl-id: 96ce3212-47de-459a-a0ad-55985bfeff96
+source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-
 # Hem: Delegerade uppgifter delas inte och visas inte i Hem-arbetslistan
+
+>[!NOTE]
+>
+>Problemet har åtgärdats.
 
 När en användare delegerar en uppgift till en annan användare från hemarbetslista, delas den uppgiften inte med den delegerade användaren och uppgiften visas inte i den delegerade användarens hemarbetslista. Detta inträffar när den delegerade användaren inte redan har åtkomst till den delegerade uppgiften.
 
