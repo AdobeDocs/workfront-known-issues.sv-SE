@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
+source-git-commit: 26c2a3cb7fad72442064ded1bc368967e89176b0
 workflow-type: tm+mt
-source-wordcount: '6944'
+source-wordcount: '6978'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,15 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i december 2023
+
++++**Underhållsuppdatering 14 december 2023**
+
+**Korrektur som väntar på godkännande visas inte i rapporter**
+
+_Korrektur_
+
+När en användare visar en rapport för väntande korrekturgodkännanden visas inte vissa väntande godkännanden i rapporten.
++++
 
 +++**Underhållsuppdatering 7 december 2023**
 
