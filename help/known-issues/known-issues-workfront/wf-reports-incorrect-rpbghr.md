@@ -3,19 +3,15 @@ title: '"Rapporter: Budgeterade timmar i utnyttjanderapporten matchar inte budge
 description: "När en användare gör ett API-anrop till RPBGHR-objektet för ett givet projekt och jämför resultatet av anropet med användningsrapporten för det projektet, matchar inte resultatet. "
 hidefromtoc: true
 feature: Reports and Dashboards, Workfront API
-source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
+source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 
 # Rapporter: Budgeterade timmar i användningsrapporten matchar inte budgeterade timmar som rapporterats via API
-
->[!NOTE]
->
->Problemet korrigerades den 30 november 2023.
 
 När en användare gör ett API-anrop till RPBGHR-objektet för ett givet projekt och jämför resultatet av anropet med användningsrapporten för det projektet, matchar inte resultaten.
 
