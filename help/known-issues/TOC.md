@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
+source-git-commit: 6897dca57ec645ee9de00188d52cd9f9bc42d2af
 workflow-type: tm+mt
-source-wordcount: '1635'
+source-wordcount: '1644'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporter: Budgeterad timrapport uppdaterar inte timma som förväntat](known-issues-workfront/wf-reports-report-not-updating.md)
       + [Inställningar: Statusvärden för standardutgåvor saknas för vissa utgåvor i installationsprogrammet](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [Tavlor: Kort som inte flyttas till rätt kolumn när status ändras](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
       + [Hem: Widgetarna Mina projekt och Mina uppgifter visar endast 25 objekt](known-issues-workfront/wf-home-widgets-show-25-items.md)

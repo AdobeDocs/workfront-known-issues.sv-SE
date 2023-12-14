@@ -1,17 +1,21 @@
 ---
 title: "Korrektur: korrektur som väntar på godkännande visas inte i rapporter"
-description: ""
+description: ''''
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: ac43b9e35e7f5e67dcbc5139be06b8d06378fbda
+exl-id: e324848f-0278-4bbd-ba9b-870fde37a23d
+source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-
 # Korrektur: korrektur som väntar på godkännande visas inte i rapporter
+
+>[!NOTE]
+>
+>Problemet korrigerades den 14 december 2023.
 
 <!--WF and WFP-->
 
