@@ -1,9 +1,9 @@
 ---
 title: "Korrektur: Problem med att bearbeta statiska filer"
-description: "Workfront har nyligen bytt ut sitt korrekturverktyg från en tredjepartsleverantör till en intern lösning och har upptäckt vissa brister i funktionerna i båda systemen. Dessa skillnader kan orsaka problem vid bearbetning av statiska filer, särskilt PDF-, Word- och PPT-filer. Det finns en lösning"
+description: "Workfront har nyligen bytt ut sitt korrekturverktyg från en tredjepartsleverantör till en intern lösning och har upptäckt vissa brister i funktionerna i båda systemen. Dessa skillnader kan orsaka problem vid bearbetning av statiska filer, särskilt PDF-, Word- och PPT-filer. Det finns en lösning."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 494e8c83c0bc1f6f9cb8abdf7b147a78add6f699
+source-git-commit: d07005982af8484714e574ee54034f438def6cc7
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
