@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6897dca57ec645ee9de00188d52cd9f9bc42d2af
+source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
 workflow-type: tm+mt
-source-wordcount: '1644'
+source-wordcount: '1651'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Mallar: Fel vid koppling av mall till projekt](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
       + [Rapporter: Budgeterad timrapport uppdaterar inte timma som förväntat](known-issues-workfront/wf-reports-report-not-updating.md)
       + [Inställningar: Statusvärden för standardutgåvor saknas för vissa utgåvor i installationsprogrammet](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [Tavlor: Kort som inte flyttas till rätt kolumn när status ändras](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
