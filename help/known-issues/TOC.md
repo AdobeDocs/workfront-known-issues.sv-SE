@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
+source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
 workflow-type: tm+mt
-source-wordcount: '1656'
+source-wordcount: '1673'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppgifter: Användaren har inte tilldelats från en eller flera uppgifter](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
+      + [Tavlor: Kan inte bifoga ett dokument till ett kort](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [Korrektur: Problem med att bearbeta statiska filer](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
       + [Mallar: Fel vid koppling av mall till projekt](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
       + [Rapporter: Budgeterad timrapport uppdaterar inte timma som förväntat](known-issues-workfront/wf-reports-report-not-updating.md)

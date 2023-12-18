@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
+source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tavlor: Kan inte bifoga ett dokument till ett kort](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | 18 december 2023 |
 | [Korrektur: Problem med att bearbeta statiska filer](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 15 december 2023 |
 | [Korrektur: Fel saknas vid åtkomst av korrektur från e-postlänk](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 november 2023 |
 | [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 oktober 2023 |

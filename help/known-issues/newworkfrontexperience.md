@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
+source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '808'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Uppgifter: Användaren har inte tilldelats från en eller flera uppgifter](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 18 december 2023 |
+| [Tavlor: Kan inte bifoga ett dokument till ett kort](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | 18 december 2023 |
 | [Korrektur: Problem med att bearbeta statiska filer](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 15 december 2023 |
 | [Kort: Fel i [!UICONTROL Comments] kortavsnitt](known-issues-workfront/wf-boards-comments-section-error.md) | 14 december 2023 |
 | [Rapporter: Budgeterade timmar i användningsrapporten matchar inte budgeterade timmar som rapporterats via API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 14 december 2023 |
