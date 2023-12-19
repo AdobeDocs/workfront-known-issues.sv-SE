@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '829'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: korrektur som skapats från Word-dokument innehåller inte kommentarer eller markeringar](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 19 december 2023 |
+| [Uppgifter: Fönstret stängs när en ny uppgift skapas](known-issues-workfront/wf-tasks-new-window-closes.md) | 19 december 2023 |
 | [Mallar: Fel vid koppling av mall till projekt](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 15 december 2023 |
 | [Rapporter: Budgeterad timrapport uppdaterar inte timma som förväntat](known-issues-workfront/wf-reports-report-not-updating.md) | 14 december 2023 |
 | [Dokument: Kan inte komma åt [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 november 2023 |
