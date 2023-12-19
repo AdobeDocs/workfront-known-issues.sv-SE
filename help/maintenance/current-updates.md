@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 26c2a3cb7fad72442064ded1bc368967e89176b0
+source-git-commit: 39b1716195e2081597970b9d1e7091013e959416
 workflow-type: tm+mt
-source-wordcount: '6978'
+source-wordcount: '7240'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,51 @@ Följande underhållsuppdateringar gjordes 2023.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i december 2023
+
++++**(Planerat) Underhållsuppdatering 21 december 2023**
+
+**Problem vid visning av delaktivitetsstatus**
+
+_Varumärkena_
+
+Följande problem har rapporterats när det gäller att visa status för underaktiviteter på ett kort i Boards:
+
+* Statusen visas som &quot;Välj status&quot; även när aktiviteten redan har en status. Den här statusen visas när du visar uppgiften direkt.
+* Om användaren försöker välja en status, blir skärmen tom och måste uppdateras.
+
+**Kan inte bifoga ett dokument till ett kort**
+
+_Varumärkena_
+
+När en användare försöker bifoga ett dokument till ett anslutet kort kan han eller hon välja det dokument som ska bifogas, men dokumentet visas inte i kortets dokumentområde och dokumentet är inte bifogat till objektet som kortet är anslutet till.
+
+Detta har rapporterats i kort som är kopplade till problem.
+
+**Kan inte välja mall från [!UICONTROL Favorites] list**
+
+_Mallar_
+
+När en användare försöker välja en mall från [!UICONTROL Favorites] listan försvinner när användaren flyttar musen till listan och användaren inte kan välja någon mall.
+
+**Vissa uppdateringar saknas i den nya kommentarsfunktionen**
+
+_Uppdateringar_
+
+När en användare visar uppdateringar i den nya kommentarsfunktionen visas inte vissa kommentarer som ska visas. Om användaren växlar till den tidigare kommentarfunktionen visas alla kommentarer.
+
++++
+
++++**(Planerat) [!DNL Adobe Workfront Fusion] Underhållsuppdatering 21 december 2023**
+
+Modulfältet tar för lång tid att öppna
+
+_[!DNL Workfront Fusion]_
+
+<!--no article-->
+
+När en användare konfigurerar en modul och modulen kräver data från det anslutna kontot (t.ex. för att välja en post), kan modulen inte hämta data och begäran om data tar för lång tid.
+
++++
 
 +++**Underhållsuppdatering 14 december 2023**
 
