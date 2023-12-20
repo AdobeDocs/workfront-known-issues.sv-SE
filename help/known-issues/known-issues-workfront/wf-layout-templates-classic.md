@@ -1,19 +1,19 @@
 ---
-title: "Layoutmallar: Layoutmallar ger upphov till inkonsekvenser i rapporter"
-description: "Layoutmallar från den klassiska Workfront-upplevelsen är inte längre tillgängliga i Workfront-gränssnittet, men kan ändå påverka Workfront-data. Detta kan orsaka inkonsekvenser i fält som påverkas av layoutmallar (som Delas med) i rapporter eller kontrollpaneler."
+title: 'Layoutmallar: Layoutmallar orsakar inkonsekvenser i rapporter'
+description: Layoutmallar från den klassiska Workfront-upplevelsen är inte längre tillgängliga i Workfront-gränssnittet, men kan ändå påverka Workfront-data. Detta kan orsaka inkonsekvenser i fält som påverkas av layoutmallar (som Delas med) i rapporter eller instrumentpaneler.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
+exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
+source-git-commit: 10507904c2e6d6a8adc182551f6425b78aab4fce
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-
 # Layoutmallar: Layoutmallar orsakar inkonsekvenser i rapporter
 
-Layoutmallar från Classic [!DNL Workfront] finns inte längre i [!DNL Workfront] gränssnitt, men kan fortfarande påverka [!DNL Workfront] data. Detta kan orsaka inkonsekvenser i fält som påverkas av layoutmallar (som [!UICONTROL Shared with]) på rapporter eller kontrollpaneler.
+Layoutmallar från Classic [!DNL Workfront] upplevelsen är inte längre tillgänglig i [!DNL Workfront] gränssnitt, men kan fortfarande påverka [!DNL Workfront] data. Detta kan orsaka inkonsekvenser i fält som påverkas av layoutmallar (som [!UICONTROL Shared with]) på rapporter eller kontrollpaneler.
 
 **Tillfällig lösning**
 
@@ -38,4 +38,3 @@ Ta bort klassiska layoutmallar med ett API-anrop. Du måste vara inloggad på Wo
 1. Klistra in API-anropet från steg 4 i URL-fältet i webbläsaren och tryck på Retur.
 
    Då tas layoutmallen bort.
-
