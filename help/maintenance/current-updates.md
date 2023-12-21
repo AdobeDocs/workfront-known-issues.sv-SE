@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 39b1716195e2081597970b9d1e7091013e959416
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '7240'
+source-wordcount: '7238'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i december 2023
 
-+++**(Planerat) Underhållsuppdatering 21 december 2023**
++++**Underhållsuppdatering 21 december 2023**
 
 **Problem vid visning av delaktivitetsstatus**
 
@@ -55,7 +55,7 @@ När en användare visar uppdateringar i den nya kommentarsfunktionen visas inte
 
 +++
 
-+++**(Planerat) [!DNL Adobe Workfront Fusion] Underhållsuppdatering 21 december 2023**
++++**[!DNL Adobe Workfront Fusion]Underhållsuppdatering 21 december 2023**
 
 Modulfältet tar för lång tid att öppna
 

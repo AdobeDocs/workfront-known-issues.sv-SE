@@ -1,17 +1,21 @@
 ---
-title: "Poster: Problem vid visning av status för underaktivitet"
-description: "Problem med att visa status för underaktiviteter på ett kort i Boards har rapporterats."
+title: 'Vagn: Problem vid visning av status för underaktivitet'
+description: Problem med att visa underuppgiftsstatus på ett kort i Guids har rapporterats.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 2fa805dcacc58ce19ddacd32dc51c3139a9432e4
+exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
-
 # Stödlinjer: Problem vid visning av status för underaktivitet
+
+>[!NOTE]
+>
+>Problemet korrigerades den 21 december 2023.
 
 Följande problem har rapporterats när det gäller att visa status för underaktiviteter på ett kort i Boards:
 
