@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
+source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
 workflow-type: tm+mt
-source-wordcount: '1692'
+source-wordcount: '1707'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Varor: &quot;[!UICONTROL You have no access]&quot; när du visar kommentarer på ett kort](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
+      + [Team: Problem med att ställa in teamstatus för [!UICONTROL Done] knapp](known-issues-workfront/wf-teams-statuses-missing.md)
       + [Korrektur: korrektur som skapats från Word-dokument innehåller inte kommentarer eller markeringar](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [Uppgifter: Fönstret stängs när en ny uppgift skapas](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [Uppgifter: Användaren har inte tilldelats från en eller flera uppgifter](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)

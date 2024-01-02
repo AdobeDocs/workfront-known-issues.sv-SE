@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Varor: &quot;[!UICONTROL You have no access]&quot; när du visar kommentarer på ett kort](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | 2 januari 2024 |
+| [Team: Problem med att ställa in teamstatus för [!UICONTROL Done] knapp](known-issues-workfront/wf-teams-statuses-missing.md) | 2 januari 2024 |
 | [Uppgifter: Användaren har inte tilldelats från en eller flera uppgifter](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 18 december 2023 |
 | [Korrektur: Problem med att bearbeta statiska filer](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 15 december 2023 |
 | [Kort: Fel i [!UICONTROL Comments] kortavsnitt](known-issues-workfront/wf-boards-comments-section-error.md) | 14 december 2023 |
