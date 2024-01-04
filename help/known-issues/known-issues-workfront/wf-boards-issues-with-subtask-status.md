@@ -4,18 +4,15 @@ description: Problem med att visa underuppgiftsstatus på ett kort i Guids har r
 hidefromtoc: true
 feature: Agile
 exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
-source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
 # Stödlinjer: Problem vid visning av status för underaktivitet
 
->[!NOTE]
->
->Problemet korrigerades den 21 december 2023.
 
 Följande problem har rapporterats när det gäller att visa status för underaktiviteter på ett kort i Boards:
 

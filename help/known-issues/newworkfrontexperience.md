@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
+source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
 workflow-type: tm+mt
-source-wordcount: '831'
+source-wordcount: '804'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrektur: korrektur som skapats från Word-dokument innehåller inte kommentarer eller markeringar](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 19 december 2023 |
-| [Uppgifter: Fönstret stängs när en ny uppgift skapas](known-issues-workfront/wf-tasks-new-window-closes.md) | 19 december 2023 |
-| [Mallar: Fel vid koppling av mall till projekt](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 15 december 2023 |
-| [Rapporter: Budgeterad timrapport uppdaterar inte timma som förväntat](known-issues-workfront/wf-reports-report-not-updating.md) | 14 december 2023 |
-| [Dokument: Kan inte komma åt [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 november 2023 |
 | [Kort: Kortet visas på flera sprutor](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 november 2023 |
 | [Poster: Sökningen fungerar inte](known-issues-workfront/wf-boards-search-not-working.md) | 20 oktober 2023 |
 
@@ -41,6 +36,13 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Korrektur: korrektur som skapats från Word-dokument innehåller inte kommentarer eller markeringar](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 4 januari 2024 |
+| [Mallar: Fel vid koppling av mall till projekt](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 4 januari 2024 |
+| [Uppgifter: Fönstret stängs när en ny uppgift skapas](known-issues-workfront/wf-tasks-new-window-closes.md) | 4 januari 2024 |
+| [Mallar: Det går inte att välja mall från [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 4 januari 2024 |
+| [Tavlor: Kan inte bifoga ett dokument till ett kort](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | 4 januari 2024 |
+| [Stödlinjer: Problem vid visning av status för underaktivitet](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 4 januari 2024 |
+| [Hem: Godkännandet fastnat [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 4 januari 2024 |
 | [Nytt [!UICONTROL Home]: Widget-filter och grupperingsstandardvärden följer inte layoutmallen](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
 | [Kort: Korten behålls vid ändring av upprepning](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 4 januari 2024 |
 | [Varor: &quot;[!UICONTROL You have no access]&quot; när du visar kommentarer på ett kort](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | 2 januari 2024 |
@@ -48,11 +50,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Uppgifter: Användaren har inte tilldelats från en eller flera uppgifter](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 18 december 2023 |
 | [Korrektur: Problem med att bearbeta statiska filer](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 15 december 2023 |
 | [Kort: Fel i [!UICONTROL Comments] kortavsnitt](known-issues-workfront/wf-boards-comments-section-error.md) | 14 december 2023 |
-| [Rapporter: Budgeterade timmar i användningsrapporten matchar inte budgeterade timmar som rapporterats via API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 14 december 2023 |
 | [Tavlor: Kort som inte flyttas till rätt kolumn när status ändras](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 14 december 2023 |
-| [Uppdateringar: Kommentarer som gjorts i nya kommentarer visas inte i äldre versioner](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 14 december 2023 |
 | [Inställningar: Statusvärden för standardutgåvor saknas för vissa utgåvor i installationsprogrammet](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 7 december 2023 |
-| [Status: [!UICONTROL Whoops] fel när status döljs](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 6 december 2023 |
 | [Uppgifter: När uppgifter dupliceras visas de i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 30 november 2023 |
 | [Anpassade formulär: Det går inte att lägga till eller ta bort anpassade formulär gruppvis i malluppgifter](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 november 2023 |
 | [Uppgifter: Aktivitetsdatum är nedtonade för längre tid när tidslinjen beräknas om](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 november 2023 |
@@ -60,7 +59,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Uppgifter: &quot;[!UICONTROL Whoops]&quot; fel i uppgiftshuvud](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 oktober 2023 |
 | [Korrektur: Kan inte generera korrektur](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 oktober 2023 |
 | [Korrektur: Det går inte att skapa en ny version av ett korrektur](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 oktober 2023 |
-| [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] matchar inte summan för [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 oktober 2023 |
 | [[!DNL Workfront]: Problem med att skicka en [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 
 {style="table-layout:auto"}
