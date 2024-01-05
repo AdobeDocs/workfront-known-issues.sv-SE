@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Problem: Tidsfält sparar felaktig tid när gruppredigeringsproblem uppstår](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 5 januari 2024 |
 | [Korrektur: korrektur som skapats från Word-dokument innehåller inte kommentarer eller markeringar](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 4 januari 2024 |
 | [Mallar: Fel vid koppling av mall till projekt](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 4 januari 2024 |
 | [Uppgifter: Fönstret stängs när en ny uppgift skapas](known-issues-workfront/wf-tasks-new-window-closes.md) | 4 januari 2024 |
