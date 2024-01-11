@@ -1,11 +1,11 @@
 ---
 user-guide-title: Underhållsversioner
-user-guide-description: Underhållsversioner för [!DNL Adobe Workfront]
+user-guide-description: Underhållsreleaser för [!DNL Adobe Workfront]
 role: User
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 5888405d48bb6a271fcfe748d3cce99e2ccfadaf
 workflow-type: tm+mt
-source-wordcount: '11'
-ht-degree: 45%
+source-wordcount: '15'
+ht-degree: 13%
 
 ---
 
@@ -13,6 +13,7 @@ ht-degree: 45%
 # Underhållsrelease {#releases}
 
 + [Aktuella uppdateringar](current-updates.md)
++ [2023-uppdateringar](2023-updates.md)
 + [2022-uppdateringar](2022-updates.md)
 + [2021-uppdateringar](2021-updates.md)
 

@@ -3,14 +3,14 @@ title: Workfront Maintenance Updates in 2022
 description: Underhållsuppdateringar för 2022 för [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
+source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
 workflow-type: tm+mt
-source-wordcount: '15283'
+source-wordcount: '15336'
 ht-degree: 0%
 
 ---
 
-# [!DNL Workfront] Underhållsuppdateringar
+# [!DNL Workfront] Underhållsuppdateringar 2022
 
 Följande underhållsuppdateringar gjordes 2022.
 
@@ -128,8 +128,8 @@ När en användare infogar redigering av ett objekt och gör ett fel som ska ska
 
 Detta har rapporterats i följande situationer:
 
-* Föregående: En föregående slinga skapas, till exempel tilldelas en uppgift till sig själv
-* Datum: Ett omöjligt datum har angetts, till exempel ett slutförandedatum som är tidigare än startdatumet eller som ligger efter projektets slutförandedatum
+* Föregående: En föregående slinga skapas, till exempel att en uppgift tilldelas sig själv
+* Datum: Ett omöjligt datum har angetts, t.ex. ett slutförandedatum som är före startdatumet eller som ligger efter projektets slutförandedatum
 
 **Alternativet &quot;Flytta till&quot; är inte tillgängligt i problemrapporter**
 
@@ -155,11 +155,11 @@ När en användare visar uppdateringar och håller pekaren över ett namn visas 
 
 När en användare visar ett kanban-teams eftersläpning visas en eftersläpningsordning på 0 för en eller flera av uppgifterna.
 
-**&quot;[!UICONTROL Invalid custom expression]&quot; när det refereras till &quot;[!UICONTROL owner]&quot; i ett beräkningsfält**
+**&quot;[!UICONTROL Invalid custom expression]&quot; när &quot;[!UICONTROL owner]&quot; i ett beräkningsfält**
 
 *Egna formulär*
 
-När en användare lägger till ett beräknat fält i ett anpassat formulär på problemnivå och försöker lägga till en referens till ett[!UICONTROL owner]&quot; (t.ex. `ownerID`) sparas inte fältet och användaren ser följande meddelande:
+När en användare lägger till ett beräknat fält i ett anpassat formulär på problemnivå och försöker lägga till en referens till ett[!UICONTROL owner]&quot; (som `ownerID`) sparas inte fältet och användaren ser följande meddelande:
 
 &quot;[!UICONTROL This is an invalid customer expression, please try again.]&quot;
 
@@ -181,7 +181,7 @@ Följande element kan för närvarande inte användas i [!DNL Workfront for Jira
 När en användare delar ett korrektur och försöker lägga till ett eget meddelande händer följande:
 
 * Visningsprogrammet för korrektur zoomas in i korrekturet.
-* Områdena i den vänstra navigeringen är inte längre responsiva.
+* Områdena i den vänstra navigeringen svarar inte längre.
 
 **Inaktiverade användare är tillgängliga vid val av tidrapportgodkännare**
 
@@ -209,7 +209,7 @@ Tidrapporter genereras inte trots inställningarna för tidrapportprofilen. Efte
 
 *Dokument*
 
-När du avmarkerar [!UICONTROL Documents] när en uppgift eller ett problem flyttas, de dokument som är bifogade uppgiften eller problemet placeras i [!UICONTROL Recycle Bin] i 30 dagar. Administratören kan vid behov återställa dem. Den användare som avmarkerar Dokument i den rörliga processen får en varning om detta i [!UICONTROL Move Task] eller [!UICONTROL Move Issue] box. Före den här förbättringen togs dokumenten bort permanent.
+När du nu avmarkerar [!UICONTROL Documents] när en uppgift eller ett problem flyttas, de dokument som är bifogade uppgiften eller problemet placeras i [!UICONTROL Recycle Bin] i 30 dagar. En administratör kan återställa dem vid behov. Den användare som avmarkerar Dokument i den rörliga processen får en varning om detta i [!UICONTROL Move Task] eller [!UICONTROL Move Issue] box. Före den här förbättringen togs dokumenten bort permanent.
 
 **Om du döljer ett objekt döljs det felaktiga objektet**
 
@@ -257,7 +257,7 @@ Följande problem har rapporterats om problem som har lagts till i en iteration:
 
 När en användare tilldelar uppgifter till ett Scrum-team genom att använda gruppredigering visas inte dessa uppgifter i gruppens eftersläpning.
 
-Kanban-teamen påverkas inte av detta problem.
+Kanban-teamen påverkas inte av det här problemet.
 
 **&quot;[!UICONTROL New proof recipients]&quot; textrutan är för liten**
 
@@ -280,7 +280,7 @@ Detta beteende har rapporterats när användaren öppnar rapporten på följande
 
 När du öppnar rapporter via en kontrollpanel uppdateras den senast visade informationen.
 
-**[!DNL Workfront]: 500-fel vid ändringar i en [!DNL Workfront] object**+
+**[!DNL Workfront]: 500 fel vid ändringar i en [!DNL Workfront] object**+
 
 *[!DNL Workfront]*
 
@@ -348,7 +348,7 @@ Detta har rapporterats i följande områden:
 Vi har lagt till flera informationsikoner i följande inställningar:
 
 * Kryssrutan&quot;Kan redigera tid&quot; när du skapar eller redigerar en tidrapportprofil eller en tidrapportprofil för att ange att godkännare när den är aktiverad även kan skicka, öppna eller redigera tidrapporten, såvida inte administratören begränsar dessa åtgärder under Inställningar för tidrapport i dialogrutan Inställningar.
-* &quot;Begränsa redigering av tidrapporter till ägare och administratörer&quot; i inställningsområdet för tidrapport och timinställningar för att ange att följande användare även kan redigera tidrapporterna när de är inaktiverade: användare med administrativ åtkomst till tidrapporter och timmar, tidrapportgodkännare som kan redigera tid och tidrapportägarnas chefer.
+* &quot;Begränsa redigering av tidrapporter till ägare och administratörer&quot; i delen Inställningar för tidrapport och timmar i installationsprogrammet för att ange att följande användare även kan redigera tidrapporterna när de är inaktiverade: användare med administrativ åtkomst till tidrapporter och timmars-, tidrapportgodkännare som kan redigera tid och tidrapportägarnas chefer.
 
 Observera att funktionaliteten för de här inställningarna inte har ändrats och att bara informationsikonerna har lagts till för att göra inställningarna tydligare.
 
@@ -378,7 +378,7 @@ När en användare försöker använda [!UICONTROL Quick filter] i en lista för
 >
 >Problemet löstes i Preview den 13 oktober 2022. Den fastställdes i produktion den 27 oktober 2022.
 
-När en användare väljer[!UICONTROL Remove pin]&quot; på ett stift, får ett meddelande om borttagningen och försöker ersätta stiftet genom att klicka på &quot;[!UICONTROL Undo]&quot; i meddelandet ersätts inte stiftet i den övre navigeringen och inte heller läggs det till i listan över punkter under [!UICONTROL More pins] list (the three-dot menu in the [!UICONTROL Pins] område).
+När en användare väljer[!UICONTROL Remove pin]&quot; på ett stift, får ett meddelande om borttagningen och försöker ersätta stiftet genom att klicka på &quot;[!UICONTROL Undo]&quot; i meddelandet ersätts inte stiftet i den övre navigeringen och inte heller läggs det till i listan med punkter under [!UICONTROL More pins] lista (menyn med tre punkter i [!UICONTROL Pins] område).
 
 Om en användare försöker fästa sidan igen genom att gå till sidan och fästa den, skapas inte stiftet och användaren kan inte fästa sidan.
 
@@ -433,7 +433,7 @@ När en användare visar en uppgift saknas ikonen för föregående aktivitet i 
 >
 >Problemet kommer att åtgärdas i förhandsversionen den 13 oktober 2022. Den kommer att fastställas i produktion den 27 oktober 2022.
 
-När en användare väljer[!UICONTROL Remove pin]&quot; på ett stift, får ett meddelande om borttagningen och försöker ersätta stiftet genom att klicka på &quot;[!UICONTROL Undo]&quot; i meddelandet ersätts inte stiftet i den övre navigeringen och inte heller läggs det till i listan över punkter under [!UICONTROL More pins] list (the three-dot menu in the [!UICONTROL Pins] område).
+När en användare väljer[!UICONTROL Remove pin]&quot; på ett stift, får ett meddelande om borttagningen och försöker ersätta stiftet genom att klicka på &quot;[!UICONTROL Undo]&quot; i meddelandet ersätts inte stiftet i den övre navigeringen och inte heller läggs det till i listan med punkter under [!UICONTROL More pins] lista (menyn med tre punkter i [!UICONTROL Pins] område).
 
 Om en användare försöker fästa sidan igen genom att gå till sidan och fästa den, skapas inte stiftet och användaren kan inte fästa sidan.
 
@@ -453,7 +453,7 @@ Användare med [!UICONTROL Contribute] åtkomst till en aktivitet eller ett prob
 
 *[!DNL Workfront Proof]*
 
-När en användare läggs till i ett korrektur som en granskare eller en begärande får han eller hon ett &quot;[!UICONTROL Visitor]&quot; permissions profile, which should not use a [!DNL Workfront Proof] licens. När användaren läggs till används dock antalet [!DNL Workfront Proof] antalet licenser ökar.
+När en användare läggs till i ett korrektur som en granskare eller en begärande får de ett &quot;[!UICONTROL Visitor]&quot; permissions profile, which should not use a [!DNL Workfront Proof] licens. När användaren läggs till används dock antalet [!DNL Workfront Proof] antalet licenser ökar.
 
 +++
 
@@ -467,7 +467,7 @@ När en användare läggs till i ett korrektur som en granskare eller en begära
 >
 >Problemet löstes i Preview den 13 oktober 2022. Den kommer att fastställas i produktion den 27 oktober 2022.
 
-När en användare väljer[!UICONTROL Remove pin]&quot; på ett stift, får ett meddelande om borttagningen och försöker ersätta stiftet genom att klicka på &quot;[!UICONTROL Undo]&quot; i meddelandet ersätts inte stiftet i den övre navigeringen och inte heller läggs det till i listan över punkter under [!UICONTROL More pins] list (the three-dot menu in the [!UICONTROL Pins] område).
+När en användare väljer[!UICONTROL Remove pin]&quot; på ett stift, får ett meddelande om borttagningen och försöker ersätta stiftet genom att klicka på &quot;[!UICONTROL Undo]&quot; i meddelandet ersätts inte stiftet i den övre navigeringen och inte heller läggs det till i listan med punkter under [!UICONTROL More pins] lista (menyn med tre punkter i [!UICONTROL Pins] område).
 
 Om en användare försöker fästa sidan igen genom att gå till sidan och fästa den, skapas inte stiftet och användaren kan inte fästa sidan.
 
@@ -477,7 +477,7 @@ Om en användare försöker fästa sidan igen genom att gå till sidan och fäst
 
 **Ny ritningstyp**
 
-*Utkast*
+*Blueprints*
 
 Ritningstypen Dashboard har lagts till i katalogen med ritningar. Tidigare var endast projektmallar och organisationsstrukturplaner tillgängliga.
 
@@ -487,11 +487,11 @@ Ritningstypen Dashboard har lagts till i katalogen med ritningar. Tidigare var e
 
 När en användare arbetar i formulärbyggaren och formuläret har fler än 100 fält överlappar meddelandet som meddelar användaren om fältgränsen elementen i den vänstra panelen.
 
-**Datumväljaren öppnas inte längre automatiskt vid indatafokus eller klickar**
+**Datumväljaren öppnas inte längre automatiskt vid indatafokus eller klickar på**
 
 *Navigering*
 
-När en användare navigerar med tangentbordet öppnas datumväljare inte längre automatiskt vid det datum som tangentbordsfokus skickas till. Tangentbordsanvändare ska i stället gå till datumväljarikonen med tabbtangenten och trycka på Retur för att öppna datumväljaren. När en användare navigerar med musen öppnas datumväljarna inte längre automatiskt vid det datum användaren klickade på. I stället ska musanvändarna klicka på datumväljarikonen för att öppna datumväljaren.
+När en användare navigerar med tangentbordet öppnas datumväljare inte längre automatiskt vid det datum som tangentbordsfokus skickas till. Tangentbordsanvändare ska i stället gå till datumväljarikonen med tabbtangenten och trycka på Retur för att öppna datumväljaren. När en användare navigerar med musen öppnas datumväljarna inte längre automatiskt vid det datum användaren klickar på. I stället ska musanvändarna klicka på datumväljarikonen för att öppna datumväljaren.
 
 Den här ändringen gjordes för att bättre överensstämma med gränssnittsmönster för datumväljare och för att skapa en mer tillgänglig upplevelse för användare som använder tangentbord och skärmläsare.
 
@@ -697,7 +697,7 @@ Nu delegeras endast ofullständiga objekt vars datum matchar datumet för en del
 
 Metadata pushas automatiskt när du lägger till en resurs i en länkad mapp.
 
-Tidigare skulle metadata bara skickas när du lade till en resurs med [!UICONTROL Add new] nedrullningsbar meny.
+Tidigare skulle metadata bara skickas när du lade till en resurs med [!UICONTROL Add new] listruta.
 
 **Det går inte att godkänna eller avvisa timmar i ett ärende**
 
@@ -709,7 +709,7 @@ När en användare försöker godkänna eller avvisa timmar på [!UICONTROL Hour
 
 *Problem*
 
-När användaren konverterar ett problem till ett projekt med hjälp av en mall och ett fel uppstår visas en sida med meddelandet[!UICONTROL The Project no longer exists]&quot; i stället för rätt felmeddelande som förklarar orsaken till den misslyckade konverteringen.
+När användaren konverterar ett problem till ett projekt med hjälp av en mall och ett fel påträffas visas en sida med meddelandet[!UICONTROL The Project no longer exists]&quot; i stället för rätt felmeddelande som förklarar orsaken till den misslyckade konverteringen.
 
 **Kan inte skapa korrektur för filer över 1,5 GB**
 
@@ -757,18 +757,18 @@ När en användare försöker ändra ett datum i ett projekt som har [!UICONTROL
 
 *Utjämning av arbetsbelastning*
 
-Nu visas användarens tilldelade objekt utökat när de visas i [!UICONTROL Day], [!UICONTROL Week], eller [!UICONTROL Month] vyer. Före den här uppdateringen visades de tilldelade objekten som expanderade för [!UICONTROL Day] och [!UICONTROL Week] och komprimerade för [!UICONTROL Month] vy.
+Nu visas användarens tilldelade objekt utökat när de visas i [!UICONTROL Day], [!UICONTROL Week], eller [!UICONTROL Month] vyer. Före den här uppdateringen visades de tilldelade objekten som expanderade för [!UICONTROL Day] och [!UICONTROL Week] vyer och komprimerade för [!UICONTROL Month] vy.
 
 
 +++
 
 +++**Underhållsuppdatering 18 augusti 2022**
 
-**&quot;[!UICONTROL Add to Iteration]&quot; och &quot;[!UICONTROL Add to Kanban Board]&quot; som inte är tillgängliga när infogade redigeringsåtgärder i en rapport**
+**&quot;[!UICONTROL Add to Iteration]och &quot;[!UICONTROL Add to Kanban Board]&quot; som inte är tillgängliga när infogade redigeringsåtgärder i en rapport**
 
 *Rapporter*
 
-När en användare visar en lista över uppgifter i en rapport och öppnar [!UICONTROL More] -menyn, &quot;[!UICONTROL Add to Iteration]&quot; och &quot;[!UICONTROL Add to Kanban Board]&quot; är inte tillgängliga i listrutan. Om rapporten visas på en kontrollpanel visas[!UICONTROL Add to Iteration]&quot; och &quot;[!UICONTROL Add to Kanban Board]&quot; finns i listrutan.
+När en användare visar en lista över uppgifter i en rapport och öppnar [!UICONTROL More] -menyn, &quot;[!UICONTROL Add to Iteration]och &quot;[!UICONTROL Add to Kanban Board]&quot; är inte tillgängliga i listrutan. Om rapporten visas på en kontrollpanel visas[!UICONTROL Add to Iteration]och &quot;[!UICONTROL Add to Kanban Board]&quot; finns i listrutan.
 
 **Matrisrapporter visas felaktigt vid bläddring**
 
@@ -898,7 +898,7 @@ När användare tittar på sina [!UICONTROL Home Work List]visas inte uppgifter 
 
 *Rapporter*
 
-När en schemalagd rapport skickas skickas den inte till alla användare i[!UICONTROL Send to]&quot;. De utelämnade användarna är slumpmässiga och kan variera varje gång rapporten skickas.
+När en schemalagd rapport skickas skickas den inte till alla användare i &quot;[!UICONTROL Send to]&quot;. De utelämnade användarna är slumpmässiga och kan variera varje gång rapporten skickas.
 
 **[!UICONTROL Cannot deselect tasks when attaching template]**
 
@@ -927,7 +927,7 @@ Följande problem har rapporterats när tidrapporter skapades:
 * När en användare försöker skapa en tidrapport för ett team [!UICONTROL typeahead] fältet fylls inte i med team och [!UICONTROL Create timesheet] knappen är inaktiverad.
 
 
-**Områden i [!DNL Workfront Proof] uppdateras inte när ett korrektur skapas, flyttas eller arkiveras**
+**Områden i [!DNL Workfront Proof] uppdateras inte när ett bevis skapas, flyttas eller arkiveras**
 
 *[!DNL Workfront]Korrektur*
 
@@ -980,14 +980,14 @@ Före den här uppdateringen åsidosatte objektet godkännandeprocessen för avv
 
 *[!UICONTROL Main Menu]*
 
-Om din organisation har en anpassad intern hjälpwebbplats kan du konfigurera [!UICONTROL Main Menu] [!UICONTROL Help] -ikon för att gå till den sajten. Detta är användbart om hjälpwebbplatsen innehåller information om hur din organisation använder [!DNL Workfront].
+Om din organisation har en anpassad intern hjälpwebbplats kan du konfigurera [!UICONTROL Main Menu] [!UICONTROL Help] -ikonen för att gå till den webbplatsen. Detta är användbart om hjälpwebbplatsen innehåller information om hur din organisation använder [!DNL Workfront].
 Den här anpassade URL:en påverkar inte huvudhjälplänken i det övre området i [!DNL Workfront]eller de sammanhangsberoende länkarna i [!DNL Workfront]som för användarna till [!DNL Workfront] Hjälpwebbplats.
 
 **Det går inte att välja Förfluten tid vid infogad redigering[!UICONTROL Task Duration]**
 
 *Uppgifter*
 
-När en användare visar en uppgiftslista och försöker redigera [!UICONTROL Task Duration]är följande tidsenheter inte tillgängliga:
+När en användare visar en uppgiftslista och försöker redigera [!UICONTROL Task Duration], är följande tidsenheter inte tillgängliga:
 
 * [!UICONTROL Elapsed Minutes]
 * [!UICONTROL Elapsed Hours]
@@ -999,7 +999,7 @@ När en användare visar en uppgiftslista och försöker redigera [!UICONTROL Ta
 
 *Uppdateringar*
 
-När en användare försöker visa sina [!UICONTROL My Updates] sidan läses inte sidan in. Användaren kan bara se [!DNL Workfront] navigeringsrubrik.
+När en användare försöker visa sina [!UICONTROL My Updates] sidan, sidan läses inte in. Användaren kan bara se [!DNL Workfront] navigeringsrubrik.
 
 **&quot;[!UICONTROL Only Allow SAML 2.0 Authentication]&quot;-inställningen saknas när en användare kopieras**
 
@@ -1061,7 +1061,7 @@ När en användare försöker ångra en kommentar ångras inte kommentaren och a
 
 Att förbättra prestandan för [!UICONTROL Updates] har vi infört en ny gräns för hur många tecken du kan ange i en uppdatering eller i ett svar på en befintlig uppdatering. Den nya gränsen är 15 000 tecken. Uppdateringen ändrade inte antalet tecken som tillåts när API:t används. API-teckengränsen för uppdateringar är 4 000.
 
-**Fel vid överföring av bifogad fil från [!DNL Workfront] för Outlook-integrering**
+**Fel vid överföring av bilaga från [!DNL Workfront] för Outlook-integrering**
 
 *Workfront Integrations*
 
@@ -1077,7 +1077,7 @@ Tidigare den här månaden, som en del av en patch till [!DNL Workfront] I produ
 
 Som ett resultat av felkorrigeringarna har den e-postadress som används för att skicka korrekturmeddelanden ändrats.
 
-Tidigare innehöll korrekturmejladresser organisationens underdomän. Till exempel meddelanden@[företagsdomän].my.workfront.com
+Tidigare innehöll korrekturmejladresserna organisationens underdomän. Till exempel meddelanden@[företagsdomän].my.workfront.com
 
 Nu innehåller profiler för e-postadresser inte längre någon underdomän för organisationen. Alla korrekturmeddelanden via e-post kommer från följande adress: notification@my.workfront.com
 
@@ -1092,8 +1092,8 @@ Därför rekommenderar vi att du utför följande åtgärder om du inte redan gj
 
 När en användare lägger till en användare i en arbetsflödesmall kan de konfigurera alternativ. När den inledande konfigurationen är klar kan användaren dock inte längre ändra följande:
 
-* &quot;[!UICONTROL Resolve comments and apply actions]&quot;
-* [!UICONTROL "Share proof by tagging]&quot;
+* &quot;[!UICONTROL Resolve comments and apply actions]&quot;-funktion
+* [!UICONTROL "Share proof by tagging]&quot;-funktion
 * Korrekturroll ([!UICONTROL Reviewer], [!UICONTROL Approver], osv.)
 
 **&quot;[!UICONTROL This project's work items]&quot; har återställts i projektet[!UICONTROL Workload Balancer]**
@@ -1120,11 +1120,11 @@ Baserat på den feedback vi fått från många kunder har vi nu lagt till ett al
 
 *[!UICONTROL Workload Balancer]*
 
-OBS! Uppdateringen finns bara i förhandsvisningsmiljön. Funktionerna som är kopplade till den här uppdateringen kommer att vara tillgängliga i Production med version 2.3.
+Obs! Den här uppdateringen finns bara i förhandsvisningsmiljön. Funktionerna som är kopplade till den här uppdateringen kommer att vara tillgängliga i Production med version 2.3.
 
 Du kan nu visa delegaterna för en uppgift eller ett problem från Utjämning av arbetsbelastning. När du tilldelar en uppgift eller ett problem från Utjämning av arbetsbelastning kan du visa en lista över tilldelningar samt en lista över delegater för uppgiften eller utgåvan, om de är delegerade.
 
-**Det går inte att öppna slutpunktsinformation i API-utforskaren**
+**Det går inte att öppna slutpunktsinformation i API Explorer**
 
 *API*
 
@@ -1254,7 +1254,7 @@ Om användaren lägger till ett nytt kvartal klickar du [!UICONTROL Save], får 
 
 *Team*
 
-OBS! Problemet finns bara i förhandsvisningsmiljön.
+OBS! Säkerhetsluckan finns bara i förhandsvisningsmiljön.
 
 När en användare försöker öppna [!UICONTROL Work Requests] på en gruppsida är sidan tom. Användaren kan se det övre navigeringsfältet, men inget sidinnehåll.
 
@@ -1284,7 +1284,7 @@ När en användare som har planeraråtkomst som innehåller användaradmin (grup
 
 +++**[!DNL Workfront Scenario Planner]Underhållsuppdatering 9 juni 2022**
 
-**Ändra storlek på den vänstra panelen i[!DNL Scenario Planner]**
+**Skalbar vänsterpanel i[!DNL Scenario Planner]**
 
 *[!DNL Workfront Scenario Planner]*
 
@@ -1361,7 +1361,7 @@ Alla [!DNL Workfront Classic] kommer att tas bort i juli 2022. Byt till den nya 
 
 *[!DNL Workfront]*
 
-OBS! Uppdateringen släpptes 24 maj 2022.
+OBS! Den här uppdateringen släpptes 24 maj 2022.
 
 Vi har uppdaterat vägbeskrivningarna i alla områden där vägbeskrivningar finns tillgängliga. Objekten i vägbeskrivningarna avgränsas nu med rörledningar (|). Före den här uppdateringen separerades de med snedstreck (/).
 
@@ -1390,13 +1390,13 @@ När en användare använder [!DNL Workfront] på ett annat språk än engelska 
 
 *Mallar*
 
-När en användare försöker redigera de anpassade formulären i en mall genom att klicka på [!UICONTROL Edit] i mallens sidhuvud [!UICONTROL Edit Template] visas bara ett av de anpassade formulär som är kopplade till mallen.
+När en användare försöker redigera anpassade formulär i en mall genom att klicka på [!UICONTROL Edit] i mallens sidhuvud [!UICONTROL Edit Template] visas bara ett av de anpassade formulär som är kopplade till mallen.
 
 **Delad länk till Utjämning av arbetsbelastning visar felaktigt tilldelat arbete**
 
 *[!UICONTROL Workload Balancer]*
 
-När en användare tittar på [!UICONTROL Workload Balancer] med hjälp av en delad länk [!DNL Workload Balancer] inkluderar [!UICONTROL Assigned Work] i [!UICONTROL Unassigned Work] -avsnitt. [!UICONTROL Assigned Work] har inget separat avsnitt. När användaren tittar på [!UICONTROL Workload Balancer] utan att använda den delade länken, [!UICONTROL Assigned Work] visas som förväntat.
+När en användare tittar på [!UICONTROL Workload Balancer] med en delad länk [!DNL Workload Balancer] inkluderar [!UICONTROL Assigned Work] i [!UICONTROL Unassigned Work] -avsnitt. [!UICONTROL Assigned Work] har inget separat avsnitt. När användaren tittar på [!UICONTROL Workload Balancer] utan att använda den delade länken [!UICONTROL Assigned Work] visas som förväntat.
 
 +++
 
@@ -1412,7 +1412,7 @@ När en användare försöker skapa ett korrektur från en [!DNL PowerPoint] som
 
 *[!DNL Workfront Proof]*
 
-När en användare försöker skapa ett korrektur från en [!DNL Word] dokument som innehåller ett diagram kan inte korrekturläsaren skapas.
+När en användare försöker skapa ett korrektur från en [!DNL Word] dokument som innehåller ett diagram, kan inte korrekturläsaren skapas.
 
 **Det går inte att lägga till ett anpassat meddelande när ett korrektur delas**
 
@@ -1488,7 +1488,7 @@ När en användare försöker redigera ett fält i en rapport och fältet hämta
 
 *[!DNL Workfront Proof]*
 
-OBS! Problemet finns bara i förhandsvisningsmiljön.
+OBS! Säkerhetsluckan finns bara i förhandsvisningsmiljön.
 
 När en användare försöker skapa ett korrektur visas inte texten för alternativ eller knappar. Därför vet användaren inte vad varje alternativ eller knapp representerar och kan inte konfigurera korrekturet.
 
@@ -1496,11 +1496,11 @@ När en användare försöker skapa ett korrektur visas inte texten för alterna
 
 +++**Underhållsuppdatering 5 maj 2022**
 
-**Det går inte att lägga till en ny faktureringspost**
+**Kan inte lägga till en ny faktureringspost**
 
 *Projekt*
 
-När en användare finns i [!UICONTROL Billing Records] området i ett projekt och använder [!UICONTROL New Billing Record] Om användaren försöker lägga till en ny faktureringspost visas inte fälten för en ny faktureringspost och faktureringsposten kan inte skapas.
+När en användare finns i [!UICONTROL Billing Records] området i ett projekt och använder [!UICONTROL New Billing Record] Om användaren försöker lägga till en ny faktureringspost visas inte fälten för en ny faktureringspost och det går inte att skapa faktureringsposten.
 
 **Fel vid grupptilldelning i[!UICONTROL Workload Balancer]**
 
@@ -1516,7 +1516,7 @@ Användaren kan inte navigera bort från den här sidan förrän sidan har uppda
 
 *[!UICONTROL Workload Balancer]*
 
-Nu behöver du bara klicka på en aktivitet eller ett problem i [!UICONTROL Workload Balancer] öppnar panelen Sammanfattning. Innan den här uppdateringen var du tvungen att klicka på [!UICONTROL Open Summary] i verktygsfältet och klicka sedan på uppgiften eller problemet. Detta hade visat sig vara en förvirrande upplevelse som nu har korrigerats. Du kan även klicka på [!UICONTROL More] -menyn bredvid uppgifts- eller problemnamnet och klicka sedan på [!UICONTROL Open Summary].
+Nu behöver du bara klicka på en aktivitet eller ett problem i [!UICONTROL Workload Balancer] öppnar panelen Sammanfattning. Före uppdateringen var du tvungen att klicka på [!UICONTROL Open Summary] i verktygsfältet och klicka sedan på uppgiften eller problemet. Detta hade visat sig vara en förvirrande upplevelse som nu har korrigerats. Du kan även klicka på [!UICONTROL More] -menyn bredvid uppgifts- eller problemnamnet och klicka sedan på [!UICONTROL Open Summary].
 
 **Gruppadministratören kan inte visa information om användare i gruppen**
 
@@ -1552,7 +1552,7 @@ När en användare gör en kommentar på ett korrektur och försöker öppna [!U
 
 Vi justerar hur e-postmeddelanden om korrektur skickas. Nu kommer meddelanden att skickas till användarens primära e-postadress i stället för till det alias som genereras av systemet.
 
-Mer information om varför systemet genererar aliasmeddelanden finns i Användarsynkronisering mellan Adobe [!DNL Workfront] och [!DNL Workfront Proof].
+Mer information om varför systemet genererar alias-e-post finns i Användarsynkronisering mellan Adobe [!DNL Workfront] och [!DNL Workfront Proof].
 
 +++
 
@@ -1570,7 +1570,7 @@ När en användare redigerar en tidrapport kan han/hon inte rulla redigeringsfö
 
 *Korrektur*
 
-När du signerar ett korrektur elektroniskt kontrollerar systemet nu Federations-ID om du har konfigurerat enkel inloggning i [!DNL Workfront Proof], förutom din e-post i [!DNL Workfront].
+När du signerar ett korrektur elektroniskt kontrollerar systemet nu Federations-ID om du har konfigurerat enkel inloggning i [!DNL Workfront Proof], förutom din e-postadress i [!DNL Workfront].
 
 Tidigare kontrollerade systemet endast din e-post i Workfront.
 
@@ -1614,7 +1614,7 @@ När en användare försöker skicka ett e-postmeddelande för återställning a
 
 *Begäranden*
 
-När en användare tittar på en begäran som tilldelats deras team visas en[!UICONTROL Start Issue]&quot; i huvudet i stället för i[!UICONTROL Start Request]&quot;.
+När en användare tittar på en begäran som tilldelats deras team visas en[!UICONTROL Start Issue]&quot; i sidhuvudet i stället för i[!UICONTROL Start Request]&quot;.
 
 **&quot;[!UICONTROL Undo comment]&quot; tar bort taggade användare**
 
@@ -1692,7 +1692,7 @@ När en användare i [!UICONTROL Workload Balancer] försöker tilldela uppgifte
 
 *Korrektur*
 
-När en användare lägger till en annan användare i ett korrektur anges den användarens roll i korrekturet som &quot;[!UICONTROL Read-only]&quot; trots användarens korrekturroll.
+När en användare lägger till en annan användare i ett korrektur anges den användarens roll i korrekturet som &quot;[!UICONTROL Read-only]&quot; trots användarens faktiska korrekturroll.
 
 **Det går inte att skicka e-post för återställning av lösenord till användaren**
 
@@ -1704,7 +1704,7 @@ När en användare försöker skicka en lösenordsåterställning till en annan 
 
 *Uppdateringar*
 
-När en användare visar [!UICONTROL People] området i ett projekt och markerar [!UICONTROL Update All] och sedan anger en uppdatering, bokförs uppdateringen inte i själva projektet. Istället läggs de in i de enskilda användarprofilerna för varje användare i projektet.
+När en användare visar [!UICONTROL People] -området i ett projekt och markerar [!UICONTROL Update All] och sedan anger en uppdatering, bokförs uppdateringen inte i själva projektet. Istället läggs de in i de enskilda användarprofilerna för varje användare i projektet.
 
 **För många sidor vid utskrift av uppdateringar**
 
@@ -1716,7 +1716,7 @@ När en användare visar en uppdateringsström som skulle vara mer än en utskri
 
 *Rapporter*
 
-När rapporter delas med flera enheter visas i [!UICONTROL Report Access] kan användarna inte rulla till slutet av listan för att se hela listan när &quot;[!UICONTROL Visible System-Wide]&quot; aktiverad.
+När rapporter delas med flera enheter visas i [!UICONTROL Report Access] kan användarna inte rulla till slutet av listan för att se hela listan när &quot;[!UICONTROL Visible System-Wide]inställningen är aktiverad.
 
 **Felaktig valuta används i rapporter**
 
@@ -1728,7 +1728,7 @@ Om en användare anger att valutan för ett projekt ska vara en annan än standa
 
 *Rapporter*
 
-När en användare visar en rapport som visar information om den senaste gången rapporten visades, kan den informationen vara tom eller vara gammal. Felet påverkar fält som följande:
+När en användare visar en rapport som visar information om den senaste gången rapporten visades, kan den informationen vara tom eller vara gammal. Detta berör fält som:
 
 * [!UICONTROL Last Viewed By]
 * [!UICONTROL Last Viewed Data]
@@ -1765,7 +1765,7 @@ När en användare arbetar med beräkningsfält i det anpassade formulärbyggare
 
 När en användare försöker avvisa ett godkännande [!UICONTROL Reject] knappen svarar inte och godkännandet avvisas inte.
 
-**[!UICONTROL Projects]som standard används avsnittet Alla projekt trots föregående val**
+**[!UICONTROL Projects]som standard används avsnittet Alla projekt trots föregående markering**
 
 *Projekt*
 
@@ -1846,7 +1846,7 @@ Om en användare skriver in en beräkning manuellt i ett beräkningsfält i verk
 
 Om en användare anger en beräkning i ett beräkningsfält i verktyget för anpassade formulär genom att använda listrutorna och sparar formuläret, sparas det värdet. Om användaren öppnar det anpassade formuläret på nytt kan användaren inte redigera det här fältet eller ta bort värdet, antingen manuellt eller med listrutan.
 
-OBS! Den här felkorrigeringen innehåller ytterligare funktioner. När du börjar skriva i ett beräkningsfält visas nu möjliga uttryck eller beräkningar i en listruta nedan, på samma sätt som i beräkningsredigeraren. Klicka på ett objekt i listrutan för att lägga till det i beräkningsfältet.
+OBS! Den här felkorrigeringen innehåller ytterligare funktioner. När du börjar skriva i ett beräkningsfält visas möjliga uttryck eller beräkningar i en listruta nedan på samma sätt som i beräkningsredigeraren. Klicka på ett objekt i listrutan för att lägga till det i beräkningsfältet.
 
 +++
 
@@ -1870,7 +1870,7 @@ När en mall med obligatoriska anpassade fält bifogas till ett projekt där fä
 
 Timmarna för den användare som listas först i [!UICONTROL Workload Balancer] visas inte när du uppdaterar tidslinjen. Användaren och timmarna visas med alla grå rutor som bara blinkar. Det här händer om du går framåt och bakåt på tidslinjen.
 
-Det verkar som att visningen återställs om filtret uppdateras. Om du flyttar bakåt och framåt på tidslinjen visas emellertid inte blixten igen och användaren måste ange att timmarna inte ska visas.
+Det verkar som om visningen återställs när du uppdaterar filtret. Om du flyttar bakåt och framåt på tidslinjen visas emellertid inte blixten igen och användaren måste ange att timmarna inte ska visas.
 
 **Anpassad terminologi är inkonsekvent**
 
@@ -1892,7 +1892,7 @@ Detta skapar förvirring för slutanvändarna.
 
 När en användare försöker visa en fil med flera sidor i [!DNL Safari] webbläsaren är miniatyrbilderna tomma. Ibland kan huvudbilden också vara tom.
 
-**Felaktig användarlista vid grupptilldelningar i[!UICONTROL Workload Balancer]**
+**Felaktig användarlista när grupptilldelningar görs i[!UICONTROL Workload Balancer]**
 
 *[!UICONTROL Workload Balancer]*
 
@@ -1912,9 +1912,9 @@ När en rapport har en inbyggd gruppering och användaren försöker välja &quo
 
 **Borttagen &quot;[!UICONTROL Blueprints access]&quot; -flik från inställningar för utkast**
 
-*Utkast*
+*Blueprints*
 
-OBS! Problemet finns bara i förhandsvisningsmiljön.
+OBS! Säkerhetsluckan finns bara i förhandsvisningsmiljön.
 
 The [!UICONTROL Blueprints access] har tagits bort från inställningarna för utkast. Inga funktioner har tagits bort från inställningarna för utkast.
 
@@ -1968,7 +1968,7 @@ Användarna kan inte återställa sina lösenord i någon miljö. När de anger 
 
 *Inloggning*
 
-Följande problem med inloggning i förhandsvisningsmiljön har rapporterats.
+Följande problem med att logga in i förhandsvisningsmiljön har rapporterats.
 
 När en användare försöker logga in i förhandsvisningsmiljön visas ett meddelande om att han/hon har angett fel ID eller lösenord.
 
@@ -2024,13 +2024,13 @@ När en användare som inte är administratör försöker lägga till en uppgift
 
 Projekt, uppgifter och problem
 
-Om du ändrar status för ett projekt, en uppgift eller ett problem och sedan omedelbart börjar skriva en uppdatering utan att uppdatera sidan, visas föregående status i uppdateringsrutan. Om uppdateringen registreras återställs objektet till föregående status.
+Om du ändrar status för ett projekt, en uppgift eller ett problem och sedan omedelbart börjar skriva en uppdatering utan att uppdatera sidan, visas föregående status i uppdateringsrutan. Om uppdateringen har bokförts återställs objektet till föregående status.
 
 **Användare som läggs till i korrektur har felaktiga roller**
 
 *Korrektur*
 
-När en användare lägger till en annan användare i ett korrektur anges den användarens roll i korrekturet som &quot;[!UICONTROL Read-only]&quot; trots användarens korrekturroll.
+När en användare lägger till en annan användare i ett korrektur anges den användarens roll i korrekturet som &quot;[!UICONTROL Read-only]&quot; trots användarens faktiska korrekturroll.
 
 Tillfällig lösning: Ställ in användarens korrekturroll i profilen till något annat och återställ sedan till rätt roll.
 
@@ -2042,7 +2042,7 @@ När en användare försöker konvertera ett ärende till ett projekt med hjälp
 
 &quot;[!UICONTROL Something went wrong, could not load form].&quot;
 
-**Användaren kunde inte lägga till ett internt problem med visning av anpassade nedrullningsbara fält i vyn**
+**Användaren kunde inte lägga till ett internt problem med visning av anpassade listrutor i vyn**
 
 *Listor*
 
@@ -2056,7 +2056,7 @@ När en användare lägger till ett problem från en textbunden lista och det fi
 
 Nu kan du flytta eller kopiera en uppgift till en annan uppgift i ett projekt utan att ha behörighet att lägga till uppgifter i målprojektet. Du måste ha behörighet att lägga till uppgifter i minst en av målprojektets uppgifter. Före den här uppdateringen behövde du behörighet att lägga till uppgifter i projektet för att flytta eller kopiera en uppgift till projektet eller någon av dess uppgifter.  Den här uppdateringen är nu tillgänglig i produktionsmiljön. Den har varit tillgänglig i förhandsvisningsmiljön från och med underhållsuppdateringen 24 mars 2022.
 
-OBS! Den här uppdateringen kommer att vara tillgänglig i produktionsmiljön när du kopierar eller flyttar utgåvor efter 22.2-produktionsutgåvan. Mer information om den aktuella versionen finns på workfront.com/release.
+Obs! Den här uppdateringen är tillgänglig i produktionsmiljön när du kopierar eller flyttar utgåvor efter 22.2-produktionsutgåvan. Mer information om den aktuella versionen finns på workfront.com/release.
 
 **Listrutan Fråga är inaktiverad**
 
@@ -2106,7 +2106,7 @@ Om användaren visar en kontrollpanel kan felet visas i huvudet för alla rappor
 
 *Projekt*
 
-När en icke-admin-användare försöker konvertera ett problem till ett projekt med hjälp av en mall och felet innehåller data i fält som bara kan redigeras av en administratör, överförs inte dessa data till det nya projektet.
+När en icke-admin-användare försöker konvertera ett problem till ett projekt med hjälp av en mall och felet innehåller data i fält som bara kan redigeras av en administratör, överförs inte data i dessa fält till det nya projektet.
 
 När en administratör konverterar problemet överförs data till det nya projektet som förväntat.
 
@@ -2116,7 +2116,7 @@ När en administratör konverterar problemet överförs data till det nya projek
 
 För att åtgärda ett säkerhetsproblem har vi tillfälligt begränsat den maximala filstorleken för [!DNL XLS] och [!DNL XLSX] till 100 MB när du skapar ett korrektur.
 
-OBS! Uppdateringen gjordes i förhandsvisningsmiljön den 24 februari och kommer att finnas i produktionsmiljön den 3 mars.
+Obs! Den här uppdateringen gjordes i förhandsvisningsmiljön den 24 februari och kommer att finnas i produktionsmiljön den 3 mars.
 
 **Uppdatera till Workfront Search**
 
@@ -2130,7 +2130,7 @@ Den stegvisa utrullningen fortsätter i 2 veckor.
 
 Rapporter
 
-Rapporter på kontrollpaneler visar nu ett nytt verktygsfält. Det här verktygsfältet är en del av de uppdateringar av listor och rapporter som sker genom [!DNL Workfront].
+Rapporter på kontrollpaneler visar nu ett nytt verktygsfält. Det här verktygsfältet är en del av de uppdateringar av listor och rapporter som sker genom hela [!DNL Workfront].
 
 +++
 
@@ -2191,7 +2191,7 @@ När en användare försöker konvertera ett problem till ett projekt med hjälp
 
 [!UICONTROL Whoops! Something went wrong. Please contact [!DNL Workfront] so we can figure out what went wrong and fix it.]
 
-**Kan inte öppna korrektur; sida uppdateras**
+**Kan inte öppna korrektur; siduppdatering**
 
 *Korrektur*
 
@@ -2203,7 +2203,7 @@ När en användare försöker öppna ett korrektur går det inte att öppna det.
 
 För att åtgärda ett säkerhetsproblem har vi tillfälligt begränsat den maximala filstorleken för [!DNL XLS] och [!DNL XLSX] till 100 MB när du skapar ett korrektur.
 
-OBS! Uppdateringen kommer att göras i förhandsvisningsmiljön den 24 februari och i produktionsmiljön den 3 mars.
+Obs! Den här uppdateringen kommer att finnas i förhandsvisningsmiljön den 24 februari och i produktionsmiljön den 3 mars.
 
 **Behörighet att lägga till uppgifter eller problem i ett projekt krävs inte för att flytta eller kopiera en uppgift eller ett problem till projektet**
 
@@ -2211,7 +2211,7 @@ OBS! Uppdateringen kommer att göras i förhandsvisningsmiljön den 24 februari 
 
 Nu kan du flytta eller kopiera en uppgift eller ett problem till en annan uppgift i ett projekt utan att ha behörighet att lägga till uppgifter eller problem i målprojektet. Du måste ha behörighet att lägga till uppgifter eller problem i minst en av målprojektets uppgifter. Före den här uppdateringen behövde du behörighet att lägga till aktiviteter eller problem i projektet för att flytta eller kopiera en aktivitet eller ett problem till projektet eller någon av dess uppgifter. Den här uppdateringen är bara tillgänglig i förhandsvisningsmiljön.
 
-OBS! Den här uppdateringen kommer att vara tillgänglig i produktionsmiljön när du kopierar eller flyttar uppgifter den 10 mars. Den här uppdateringen är tillgänglig i produktionsmiljön när du kopierar eller flyttar problem med 22.2-produktionsversionen. Mer information om den aktuella versionen finns i workfront.com/release.
+Obs! Den här uppdateringen är tillgänglig i produktionsmiljön när du kopierar eller flyttar uppgifter den 10 mars. Den här uppdateringen är tillgänglig i produktionsmiljön när du kopierar eller flyttar problem med 22.2-produktionsversionen. Mer information om den aktuella versionen finns i workfront.com/release.
 
 **Uppdatera till Workfront Search**
 
@@ -2261,7 +2261,7 @@ När en användare visar en rapport på en kontrollpanel ser de att grupperingsi
 
 *Dokument*
 
-När en användare väljer ett dokument eller ett korrektur på en [!DNL Workfront Classic] dokumentlista och klicka sedan på &quot;[!UICONTROL More],&quot; kan de se något av följande: Knappen svarar inte Alla alternativ under knappen har etiketten &quot;[!UICONTROL object Object]&quot; och kan inte användas.
+När en användare väljer ett dokument eller ett korrektur på en [!DNL Workfront Classic] dokumentlista och klicka sedan på &quot;[!UICONTROL More],&quot; kan de se något av följande problem: Knappen svarar inte Alla alternativ under knappen har etiketten &quot;[!UICONTROL object Object]&quot; och kan inte användas.
 
 **Felet&quot;Du måste vara systemadministratör&quot; när du skapar ett projekt**
 
@@ -2397,7 +2397,7 @@ När en användare tittar på användarlistan på en anslagstavla visas använda
 
 *Problem*
 
-I förhandsvisningsmiljön har länkarna för kopiering och flyttning uppdaterats till[!UICONTROL Copy to]&quot; och &quot;[!UICONTROL Move to]&quot; både på utgivningssidan och i en utgivningslista.
+I förhandsgranskningsmiljön har länkarna för kopiering och flyttning uppdaterats till[!UICONTROL Copy to]och &quot;[!UICONTROL Move to]&quot; både på utgivningssidan och i en utgivningslista.
 
 **Lägg till upp till 45 IP-adresser till dina [!DNL Workfront] tillåtelselista**
 
@@ -2475,7 +2475,7 @@ När en användare väljer&quot;[!UICONTROL Show more work items]&quot; på Agil
 
 +++**Underhållsuppdatering 6 januari 2022**
 
-**&quot;[!UICONTROL Invalid Parameter]&quot; fel vid koppling av mallar eller anpassade formulär till projekt**
+**&quot;[!UICONTROL Invalid Parameter]&quot; när mallar eller anpassade formulär bifogas till projekt**
 
 *Projekt*
 
