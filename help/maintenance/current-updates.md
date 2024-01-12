@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -22,54 +22,58 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i januari 2024
 
-+++**Underhållsuppdatering 12 januari 2024**
+<!--
 
-### Underhållsuppdatering 12 januari 2024
++++**Maintenance Update on January 12, 2024**
 
-#### Varumärkena
+### Maintenance Update on January 12, 2024
 
-**Kan inte bifoga ett dokument till ett kort**
+#### Boards
 
-När en användare försöker bifoga ett dokument till ett anslutet kort kan han eller hon välja det dokument som ska bifogas, men dokumentet visas inte i kortets dokumentområde och dokumentet är inte bifogat till objektet som kortet är anslutet till.
+**Cannot attach a document to a card**
 
-Detta har rapporterats i kort som är kopplade till problem.
+When a user attempts to attach a document to a connected card, the user can select the document to attach, but the document does not appear in the document area of the card, and the document is not attached to the object that the card is connected to.
 
-**Kortet visas på flera sprutor**
+This has been reported in cards connected to issues.
 
-När en användare visar en utskrift på korten visas kort som är i olika utskrifter på ritbordet. Det här problemet är tillfälligt.
+**Card appears on multiple sprints**
 
-**Kortet stängs inte när du använder vyn för anslagstavlor i ett projekt**
+When a user is viewing a sprint on Boards, cards that are in different sprints appear on the board. This issue is intermittent.
 
-När en användare visar vyn för anslagstavlor i en uppgiftslista i ett projekt och skapar ett kort, stängs eller sparas inte kortet. Detta förhindrar användaren från att gå tillbaka till projektet.
+**Card doesn't close when using Boards view in a Project**
 
-För att stänga kortet måste användaren redigera URL:en för att ta bort&quot;board&quot; och allt till höger om&quot;board&quot;.
+When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
 
-**Korten behålls vid ändring av upprepning**
+To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
 
-När en användare visar en upprepning på en anslagstavla och sedan ändrar upprepningen, är korten som visas för den nya upprepningen korten från en iteration som användaren visade tidigare.
+**Cards persist when changing iteration**
 
-**Fel i [!UICONTROL Comments] kortavsnitt**
+When a user is viewing an iteration on a board and then changes the iteration, the cards displaying for the new iteration are the cards from an iteration the user was viewing previously. 
 
-När en användare visar ett kort och rullar till [!UICONTROL Comments], avsnitt, kommentarer visas inte och användaren ser följande fel:
+**Error in [!UICONTROL Comments] section of cards**
 
-&quot;[!UICONTROL Something went wrong. Please try again later.]&quot;
+When a user is viewing a card and scrolls to the [!UICONTROL Comments], section, comments are not displayed, and the user sees the following error:
 
-**Problem vid visning av delaktivitetsstatus**
+"[!UICONTROL Something went wrong. Please try again later.]"
 
-Följande problem har rapporterats när det gäller att visa status för underaktiviteter på ett kort i Boards:
+**Issues when viewing subtask status**
 
-* Statusen visas som &quot;Välj status&quot; även när aktiviteten redan har en status. Den här statusen visas när du visar uppgiften direkt.
-* Om användaren försöker välja en status, blir skärmen tom och måste uppdateras.
+The following issues have been reported regarding viewing subtask status on a card in Boards:
 
-**&quot;[!UICONTROL You have no access]&quot; när du visar kommentarer på ett kort**
+* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
+* If the user attempts to select a status, the screen goes blank and must be refreshed.
 
-När en användare försöker visa kommentarer på ett kort som inte är anslutet till en [!DNL Workfront] visas följande meddelande:
+**"[!UICONTROL You have no access]" when viewing comments on a card**
 
-&quot;[!UICONTROL You have no access to view comments on this object]&quot;
+When a user attempts to view comments on a card that is not connected to a [!DNL Workfront] object, they see the following message: 
 
-Detta kan inträffa även när användaren tidigare kan se kommentarer på kortet.
+"[!UICONTROL You have no access to view comments on this object]"
+
+This may occur even when the user could previously see comments on the card.
 
 +++
+
+-->
 
 +++**Underhållsuppdatering 11 januari 2023**
 

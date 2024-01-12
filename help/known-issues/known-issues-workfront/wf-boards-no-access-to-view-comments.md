@@ -3,7 +3,7 @@ title: "Brevkort: Du har ingen åtkomst när du visar kommentarer på ett kort."
 description: "När en användare försöker visa kommentarer på ett kort som inte är anslutet till ett Workfront-objekt visas ett felmeddelande."
 hidefromtoc: true
 feature: Agile
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Problemet korrigerades den 12 januari 2024.
+>Problemet korrigerades den 12 januari 2024.—>
 
 När en användare försöker visa kommentarer på ett kort som inte är anslutet till en [!DNL Workfront] visas följande meddelande:
 

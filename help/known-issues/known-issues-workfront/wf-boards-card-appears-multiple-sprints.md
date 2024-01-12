@@ -4,18 +4,19 @@ description: När en användare visar en utskrift på korten visas kort som är 
 hidefromtoc: true
 feature: Agile
 exl-id: 660cb70d-a513-4176-a205-ca54e02aac71
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Kort: Kortet visas på flera sprutor
 
+<!--
 >[!NOTE]
 >
->Problemet korrigerades den 12 januari 2024.
+>This issue was fixed on January 12, 2024.-->
 
 När en användare visar en utskrift på korten visas kort som är i olika utskrifter på ritbordet. Det här problemet är tillfälligt.
 
