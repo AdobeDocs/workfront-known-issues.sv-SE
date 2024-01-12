@@ -1,17 +1,21 @@
 ---
-title: "Kort: Kort visas på flera sprutor"
-description: "När en användare tittar på en utskrift på en anslagstavla visas kort som är placerade i olika knappar på ritbordet. Det här problemet är intermittent."
+title: 'Bards: Card appears on multiple sprints'
+description: När en användare visar en utskrift på korten visas kort som är i olika utskrifter på ritbordet. Det här problemet är tillfälligt.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 41df80641db82b225753338d8564e12b90566c40
+exl-id: 660cb70d-a513-4176-a205-ca54e02aac71
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-
 # Kort: Kortet visas på flera sprutor
+
+>[!NOTE]
+>
+>Problemet korrigerades den 12 januari 2024.
 
 När en användare visar en utskrift på korten visas kort som är i olika utskrifter på ritbordet. Det här problemet är tillfälligt.
 

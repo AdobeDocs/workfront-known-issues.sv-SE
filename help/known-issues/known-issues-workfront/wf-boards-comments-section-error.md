@@ -1,17 +1,21 @@
 ---
-title: "Kort: Fel i kortets kommentarsektion"
-description: "När en användare visar ett kort och rullar till [!UICONTROL Comments], avsnitt, kommentarer visas inte och användaren ser ett fel."
+title: 'Vagnar: Fel i kortets kommentarsavsnitt'
+description: När en användare visar ett kort och rullar till [!UICONTROL Comments], avsnitt, kommentarer visas inte och användaren ser ett fel.
 hidefromtoc: true
 feature: Agile
-source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
+exl-id: deca4ad7-429e-4f63-827d-b6a1bef4df7f
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-
 # Kort: Fel i [!UICONTROL Comments] kortavsnitt
+
+>[!NOTE]
+>
+>Problemet korrigerades den 12 januari 2024.
 
 När en användare visar ett kort och rullar till [!UICONTROL Comments], avsnitt, kommentarer visas inte och användaren ser följande fel:
 

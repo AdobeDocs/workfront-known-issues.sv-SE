@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '765'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2023 |
-| [Kort: Kortet visas på flera sprutor](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 november 2023 |
 | [Poster: Sökningen fungerar inte](known-issues-workfront/wf-boards-search-not-working.md) | 20 oktober 2023 |
 
 {style="table-layout:auto"}
@@ -37,27 +36,20 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
-| [Kort: Kortet stängs inte när du använder vyn för anslagstavlor i ett projekt](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md) | 8 januari 2024 |
 | [Problem: Tidsfält sparar felaktig tid när gruppredigeringsproblem uppstår](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 5 januari 2024 |
 | [Korrektur: korrektur som skapats från Word-dokument innehåller inte kommentarer eller markeringar](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 4 januari 2024 |
 | [Mallar: Fel vid koppling av mall till projekt](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 4 januari 2024 |
 | [Uppgifter: Fönstret stängs när en ny uppgift skapas](known-issues-workfront/wf-tasks-new-window-closes.md) | 4 januari 2024 |
 | [Mallar: Det går inte att välja mall från [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 4 januari 2024 |
-| [Tavlor: Kan inte bifoga ett dokument till ett kort](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | 4 januari 2024 |
-| [Stödlinjer: Problem vid visning av status för underaktivitet](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 4 januari 2024 |
 | [Hem: Godkännandet fastnat [!UICONTROL Awaiting my approval] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 4 januari 2024 |
 | [Nytt [!UICONTROL Home]: Widget-filter och grupperingsstandardvärden följer inte layoutmallen](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
-| [Kort: Korten behålls vid ändring av upprepning](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 4 januari 2024 |
-| [Varor: &quot;[!UICONTROL You have no access]&quot; när du visar kommentarer på ett kort](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | 2 januari 2024 |
 | [Team: Problem med att ställa in teamstatus för [!UICONTROL Done] knapp](known-issues-workfront/wf-teams-statuses-missing.md) | 2 januari 2024 |
 | [Uppgifter: Användaren har inte tilldelats från en eller flera uppgifter](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 18 december 2023 |
 | [Korrektur: Problem med att bearbeta statiska filer](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 15 december 2023 |
-| [Kort: Fel i [!UICONTROL Comments] kortavsnitt](known-issues-workfront/wf-boards-comments-section-error.md) | 14 december 2023 |
 | [Tavlor: Kort som inte flyttas till rätt kolumn när status ändras](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 14 december 2023 |
 | [Inställningar: Statusvärden för standardutgåvor saknas för vissa utgåvor i installationsprogrammet](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 7 december 2023 |
 | [Uppgifter: När uppgifter dupliceras visas de i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 30 november 2023 |
 | [Anpassade formulär: Det går inte att lägga till eller ta bort anpassade formulär gruppvis i malluppgifter](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 november 2023 |
-| [Uppgifter: Aktivitetsdatum är nedtonade för längre tid när tidslinjen beräknas om](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 november 2023 |
 | [Hem: Uppgifter i projekt med statusen Godkänd eller Planering ingår inte i Mina uppgifter eller Hemarbetslista](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 november 2023 |
 | [Uppgifter: &quot;[!UICONTROL Whoops]&quot; fel i uppgiftshuvud](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 oktober 2023 |
 | [Korrektur: Kan inte generera korrektur](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 oktober 2023 |
