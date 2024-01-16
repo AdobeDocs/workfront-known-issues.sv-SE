@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokument: Problem när dokument visas](known-issues-workfront/wf-documents-list-not-loading.md) | 16 januari 2024 |
 | [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2023 |
 | [Poster: Sökningen fungerar inte](known-issues-workfront/wf-boards-search-not-working.md) | 20 oktober 2023 |
 
@@ -36,6 +37,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL Setup]: Det går inte att dölja valfria statusvärden](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md) | 10 januari 2024 |
 | [Problem: Tidsfält sparar felaktig tid när gruppredigeringsproblem uppstår](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 5 januari 2024 |
 | [Korrektur: korrektur som skapats från Word-dokument innehåller inte kommentarer eller markeringar](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 4 januari 2024 |
 | [Mallar: Fel vid koppling av mall till projekt](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 4 januari 2024 |

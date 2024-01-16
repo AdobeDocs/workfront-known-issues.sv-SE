@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
+source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
 workflow-type: tm+mt
-source-wordcount: '1751'
+source-wordcount: '1761'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Setup]: Det går inte att dölja valfria statusvärden](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
+      + [Dokument: Problem när dokument visas](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Kort: Kortet stängs inte när du använder vyn för anslagstavlor i ett projekt](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [Problem: Tidsfält sparar felaktig tid när gruppredigeringsproblem uppstår](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
