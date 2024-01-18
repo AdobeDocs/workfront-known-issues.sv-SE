@@ -4,14 +4,18 @@ description: När en ny version av ett dokument överförs och den föregående 
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 313476de-2fe0-4c4d-b704-9280dcbc901c
-source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # Hem: Godkännandet fastnat [!UICONTROL Awaiting my approval] widget
+
+>[!NOTE]
+>
+>Problemet korrigerades den 18 januari 2024.
 
 <!--on WF and WFP TOCs-->
 
