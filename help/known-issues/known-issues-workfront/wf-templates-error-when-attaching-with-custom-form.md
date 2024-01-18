@@ -3,15 +3,19 @@ title: "Mallar: Fel vid koppling av mall till projekt"
 description: "När en användare försöker bifoga en mall till ett projekt visas ett felmeddelande. Det finns en lösning."
 hidefromtoc: true
 feature: Projects
-source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 
 # Mallar: Fel vid koppling av mall till projekt
+
+>[!NOTE]
+>
+>Problemet korrigerades den 18 januari 2024.
 
 När en användare försöker koppla en mall till ett projekt visas följande fel:
 

@@ -1,17 +1,21 @@
 ---
-title: "Anpassade formulär: Det går inte att lägga till eller ta bort anpassade formulär gruppvis i malluppgifter"
-description: "Om en användare försöker att lägga till eller ta bort ett anpassat formulär gruppvis i en mallåtgärd läggs inte formuläret till eller tas bort, och användaren ser ett fel."
+title: 'Anpassade formulär: Det går inte att lägga till eller ta bort anpassade formulär gruppvis i malluppgifter'
+description: Om en användare försöker att lägga till eller ta bort ett anpassat formulär gruppvis i en mallåtgärd läggs inte formuläret till eller tas bort, och användaren ser ett fel.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 41df80641db82b225753338d8564e12b90566c40
+exl-id: e9014f67-2098-46e4-a301-6a742a0c2ddb
+source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
-
 # Anpassade formulär: Det går inte att lägga till eller ta bort anpassade formulär gruppvis i malluppgifter
+
+>[!NOTE]
+>
+>Problemet korrigerades den 18 januari 2024.
 
 Om en användare försöker att lägga till eller ta bort ett anpassat formulär gruppvis i en mallåtgärd läggs inte formuläret till eller tas bort, och användaren ser följande fel:
 

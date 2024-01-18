@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -22,58 +22,107 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i januari 2024
 
-<!--
++++**Underhållsuppdatering 18 januari 2024**
 
-+++**Maintenance Update on January 12, 2024**
+### Underhållsuppdatering 18 januari 2024
 
-### Maintenance Update on January 12, 2024
+#### Varumärkena
 
-#### Boards
+**Kan inte bifoga ett dokument till ett kort**
 
-**Cannot attach a document to a card**
+När en användare försöker bifoga ett dokument till ett anslutet kort kan han eller hon välja det dokument som ska bifogas, men dokumentet visas inte i kortets dokumentområde och dokumentet är inte bifogat till objektet som kortet är anslutet till.
 
-When a user attempts to attach a document to a connected card, the user can select the document to attach, but the document does not appear in the document area of the card, and the document is not attached to the object that the card is connected to.
+Detta har rapporterats i kort som är kopplade till problem.
 
-This has been reported in cards connected to issues.
+**Kortet visas på flera sprutor**
 
-**Card appears on multiple sprints**
+När en användare visar en utskrift på korten visas kort som är i olika utskrifter på ritbordet. Det här problemet är tillfälligt.
 
-When a user is viewing a sprint on Boards, cards that are in different sprints appear on the board. This issue is intermittent.
+**Kortet stängs inte när du använder vyn för anslagstavlor i ett projekt**
 
-**Card doesn't close when using Boards view in a Project**
+När en användare visar vyn för anslagstavlor i en uppgiftslista i ett projekt och skapar ett kort, stängs eller sparas inte kortet. Detta förhindrar användaren från att gå tillbaka till projektet.
 
-When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
+För att stänga kortet måste användaren redigera URL:en för att ta bort&quot;board&quot; och allt till höger om&quot;board&quot;.
 
-To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
+**Korten behålls vid ändring av upprepning**
 
-**Cards persist when changing iteration**
+När en användare visar en upprepning på en anslagstavla och sedan ändrar upprepningen, är korten som visas för den nya upprepningen korten från en iteration som användaren visade tidigare.
 
-When a user is viewing an iteration on a board and then changes the iteration, the cards displaying for the new iteration are the cards from an iteration the user was viewing previously. 
+**Fel i [!UICONTROL Comments] kortavsnitt**
 
-**Error in [!UICONTROL Comments] section of cards**
+När en användare visar ett kort och rullar till [!UICONTROL Comments], avsnitt, kommentarer visas inte och användaren ser följande fel:
 
-When a user is viewing a card and scrolls to the [!UICONTROL Comments], section, comments are not displayed, and the user sees the following error:
+&quot;[!UICONTROL Something went wrong. Please try again later.]&quot;
 
-"[!UICONTROL Something went wrong. Please try again later.]"
+**Problem vid visning av delaktivitetsstatus**
 
-**Issues when viewing subtask status**
+Följande problem har rapporterats när det gäller att visa status för underaktiviteter på ett kort i Boards:
 
-The following issues have been reported regarding viewing subtask status on a card in Boards:
+* Statusen visas som &quot;Välj status&quot; även när aktiviteten redan har en status. Den här statusen visas när du visar uppgiften direkt.
+* Om användaren försöker välja en status, blir skärmen tom och måste uppdateras.
 
-* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
-* If the user attempts to select a status, the screen goes blank and must be refreshed.
+**&quot;[!UICONTROL You have no access]&quot; när du visar kommentarer på ett kort**
 
-**"[!UICONTROL You have no access]" when viewing comments on a card**
+När en användare försöker visa kommentarer på ett kort som inte är anslutet till en [!DNL Workfront] visas följande meddelande:
 
-When a user attempts to view comments on a card that is not connected to a [!DNL Workfront] object, they see the following message: 
+&quot;[!UICONTROL You have no access to view comments on this object]&quot;
 
-"[!UICONTROL You have no access to view comments on this object]"
+Detta kan inträffa även när användaren tidigare kan se kommentarer på kortet.
 
-This may occur even when the user could previously see comments on the card.
+#### Egna formulär
+
+**Det går inte att lägga till eller ta bort anpassade formulär gruppvis i malluppgifter**
+
+Om en användare försöker att lägga till eller ta bort ett anpassat formulär gruppvis i en mallåtgärd läggs inte formuläret till eller tas bort, och användaren ser följande fel:
+
+[!UICONTROL Let's try that again. Invalid Parameter: templateID value "XXXXXXXXXXXXXXXX"]
+
+Om användaren hittar mallen med angivet GUID och sedan försöker lägga till eller ta bort anpassade formulär i resten av malluppgifterna, kommer felet att inträffa igen med ett annat templateID.
+
+Anpassade formulär kan läggas till eller tas bort i en enda mallåtgärd. Det här felet gäller endast för masstillägg och borttagning.
+
+#### Portfolio
+
+**Anpassad terminologi gäller inte för gruppsidan**
+
+När en användare anger anpassad terminologi på Portfolio-nivå, gäller inte termen gruppnivåsidan.
+
+#### Inställningar
+
+**Det går inte att dölja valfria statusvärden**
+
+När en användare försöker dölja valfria statusar på system- och gruppnivå döljs inte statusen. Om användaren visar statusen är alternativet att dölja statusen inte aktiverat, även om användaren aktiverade det och sparade ändringarna.
+
+**Status för standardutleverans saknas för vissa typer av utleveranser i installationsprogrammet**
+
+När en användare visar problem i installationsprogrammet ser de att standardstatusvärdena för problem (Nytt, Pågår och Fullständigt) saknas i vissa typer av problem. Standardstatusvärden har inte möjlighet att ändra utgåvans typ, så användaren kan inte konfigurera om statusvärdena så att de visas för de berörda utgåvorna.
+
+#### Team
+
+**Problem med att ställa in teamstatus för [!UICONTROL Done] knapp**
+
+Följande problem har rapporterats angående status för [!UICONTROL Done] när du redigerar eller skapar ett team:
+
+* Vissa statusar kan saknas i knappområdet Klar i [!UICONTROL New team] eller [!UICONTROL Team Settings] del av ett befintligt team.
+* Om användaren försöker spara teamet kan felet&quot;Du måste välja minst en status i varje kategori&quot; visas.
+
+#### Mallar
+
+**Fel vid koppling av mall till projekt**
+
+När en användare försöker koppla en mall till ett projekt visas följande fel:
+
+&quot;Hoppsan! Något gick fel. Kontakta Workfront för att ta reda på vad som gick fel och åtgärda det.&quot;
+
+Detta inträffar när användaren inte har behörigheten Visa för ett anpassat formulär som är kopplat till mallen.
+
+#### Uppdateringar
+
+**Kommentarerna överförs inte mellan gamla och nya upplevelser**
+
+En kommentar som gjorts i det gamla kommentargränssnittet kanske inte syns i det nya kommentarsgränssnittet. Det motsatta kan också inträffa.
 
 +++
-
--->
 
 +++**Underhållsuppdatering 11 januari 2023**
 

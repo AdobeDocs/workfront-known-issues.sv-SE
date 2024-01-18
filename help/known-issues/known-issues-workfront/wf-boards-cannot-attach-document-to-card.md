@@ -3,9 +3,9 @@ title: "Tavlor: Kan inte bifoga ett dokument till ett kort"
 description: "När en användare försöker bifoga ett dokument till ett anslutet kort kan användaren välja vilket dokument som ska bifogas, men dokumentet visas inte i kortets dokumentområde och dokumentet är inte bifogat till objektet som kortet är anslutet till."
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
+source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,9 @@ ht-degree: 0%
 
 # Tavlor: Kan inte bifoga ett dokument till ett kort
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on January 12, 2024.-->
+>Problemet korrigerades den 18 januari 2024.
 
 <!--WF and WFP TOCs-->
 
