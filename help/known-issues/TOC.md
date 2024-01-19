@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
+source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
-source-wordcount: '1768'
+source-wordcount: '1793'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Integrering: Det går inte att logga tid från Workfront för Jira-integrering](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+      + [Uppdateringar: Det går inte att visa eller hämta bilder i kommentarer](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
+      + [Meddelanden: Markeringsmeddelanden som de visas kvarstår inte](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
       + [[!UICONTROL Setup]: Det går inte att dölja valfria statusvärden](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
       + [Dokument: Problem när dokument visas](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)

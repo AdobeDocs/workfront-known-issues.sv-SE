@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
+source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Meddelanden: Markeringsmeddelanden som de visas kvarstår inte](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | 19 januari 2023 |
 | [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2023 |
 | [Poster: Sökningen fungerar inte](known-issues-workfront/wf-boards-search-not-working.md) | 20 oktober 2023 |
 
@@ -36,6 +37,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Integrering: Det går inte att logga tid från Workfront för Jira-integrering](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | 19 januari 2024 |
+| [Uppdateringar: Det går inte att visa eller hämta bilder i kommentarer](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 19 januari 2024 |
 | [Dokument: Problem när dokument visas](known-issues-workfront/wf-documents-list-not-loading.md) | 18 januari 2024 |
 | [Problem: Tidsfält sparar felaktig tid när gruppredigeringsproblem uppstår](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 5 januari 2024 |
 | [Uppgifter: Fönstret stängs när en ny uppgift skapas](known-issues-workfront/wf-tasks-new-window-closes.md) | 4 januari 2024 |
