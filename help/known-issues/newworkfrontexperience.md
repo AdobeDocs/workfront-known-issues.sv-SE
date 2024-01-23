@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '765'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,12 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Meddelanden: Markeringsmeddelanden som de visas kvarstår inte](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | 19 januari 2023 |
-| [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2023 |
-| [Poster: Sökningen fungerar inte](known-issues-workfront/wf-boards-search-not-working.md) | 20 oktober 2023 |
+| [Dokument: Det går inte att flytta dokument från mapp till rot](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 23 januari 2024 |
+| [korrektur: GIF återges som statiskt korrektur](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
+| [Resurshantering: Felaktiga ekonomiska beräkningar på grund av problem med jobbroller](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 23 januari 2024 |
+| [Meddelanden: Markeringsmeddelanden som de visas kvarstår inte](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | 19 januari 2024 |
+| [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
+| [Poster: Sökningen fungerar inte](known-issues-workfront/wf-boards-search-not-working.md) | 20 oktober 2024 |
 
 {style="table-layout:auto"}
 
