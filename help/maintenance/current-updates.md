@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,24 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i januari 2024
+
++++**Underhållsuppdatering 25 januari 2024**
+
+### Underhållsuppdatering 25 januari 2024
+
+#### Varumärkena
+
+**Kort som inte flyttas till rätt kolumn när status ändras**
+
+När statusen för det länkade objektet för ett anslutet kort ändras direkt på objektet flyttas kortet inte till rätt kolumn. Om objektets status ändras på kortet, eller om kortet dras till den nya kolumnen, fungerar kortet som förväntat.
+
+#### Meddelanden
+
+**Markeringsmeddelanden som de visas kvarstår inte**
+
+När en användare markerar sina meddelanden som de ser och sedan navigerar till en annan sida på [!DNL Workfront]visas fortfarande antalet olästa meddelanden som fanns innan användaren markerade dem som synliga och meddelanden fortfarande när användaren klickar på ikonen. Detta fortsätter om användaren markerar dem som synliga och navigerar till en annan sida eller tillbaka till den ursprungliga sidan.
+
++++
 
 +++**Underhållsuppdatering 18 januari 2024**
 
