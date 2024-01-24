@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
 workflow-type: tm+mt
-source-wordcount: '1817'
+source-wordcount: '1838'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppdateringar: Kommentarer som gjorts i äldre kommentarer visas inte i den nya versionen](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
+      + [Uppdateringar: Problem med taggning i äldre kommentarupplevelser](known-issues-workfront/wf-updates-showing-first-name.md)
       + [Dokument: Det går inte att flytta dokument från mapp till rot](known-issues-workfront/wf-documents-cannot-move-to-root.md)
       + [korrektur: GIF återges som statiskt korrektur](known-issues-workfront/wf-proofs-gif-static-image.md)
       + [Resurshantering: Felaktiga ekonomiska beräkningar på grund av problem med jobbroller](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)

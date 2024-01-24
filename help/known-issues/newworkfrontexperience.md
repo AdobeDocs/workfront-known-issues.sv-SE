@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Uppdateringar: Kommentarer som gjorts i äldre kommentarer visas inte i den nya versionen](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 24 januari 2024 |
+| [Uppdateringar: Problem med taggning i äldre kommentarupplevelser](known-issues-workfront/wf-updates-showing-first-name.md) | 24 januari 2024 |
 | [Integrering: Det går inte att logga tid från Workfront för Jira-integrering](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | 19 januari 2024 |
 | [Uppdateringar: Det går inte att visa eller hämta bilder i kommentarer](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 19 januari 2024 |
 | [Dokument: Problem när dokument visas](known-issues-workfront/wf-documents-list-not-loading.md) | 18 januari 2024 |
