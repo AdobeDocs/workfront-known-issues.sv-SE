@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | -----------------------------------------------------------------| ----------------- |
 | [Dokument: Det går inte att flytta dokument från mapp till rot](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 23 januari 2024 |
 | [korrektur: GIF återges som statiskt korrektur](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
-| [Resurshantering: Felaktiga ekonomiska beräkningar på grund av problem med jobbroller](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 23 januari 2024 |
 | [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
 | [Poster: Sökningen fungerar inte](known-issues-workfront/wf-boards-search-not-working.md) | 20 oktober 2024 |
 
@@ -39,12 +38,13 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Team: Problem med att ställa in teamstatus för [!UICONTROL Done] knapp](known-issues-workfront/wf-teams-statuses-missing.md) | 25 januari 2024 |
+| [Resurshantering: Felaktiga ekonomiska beräkningar på grund av problem med jobbroller](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 25 januari 2024 |
+| [Kort: Korten behålls vid ändring av upprepning](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 25 januari 2024 |
 | [Uppdateringar: Kommentarer som gjorts i äldre kommentarer visas inte i den nya versionen](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 24 januari 2024 |
-| [Integrering: Det går inte att logga tid från Workfront för Jira-integrering](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | 19 januari 2024 |
 | [Uppdateringar: Det går inte att visa eller hämta bilder i kommentarer](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 19 januari 2024 |
 | [Dokument: Problem när dokument visas](known-issues-workfront/wf-documents-list-not-loading.md) | 18 januari 2024 |
 | [Problem: Tidsfält sparar felaktig tid när gruppredigeringsproblem uppstår](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 5 januari 2024 |
-| [Uppgifter: Fönstret stängs när en ny uppgift skapas](known-issues-workfront/wf-tasks-new-window-closes.md) | 4 januari 2024 |
 | [Mallar: Det går inte att välja mall från [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 4 januari 2024 |
 | [Nytt [!UICONTROL Home]: Widget-filter och grupperingsstandardvärden följer inte layoutmallen](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
 | [Uppgifter: Användaren har inte tilldelats från en eller flera uppgifter](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 18 december 2023 |

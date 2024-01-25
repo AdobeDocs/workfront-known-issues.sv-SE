@@ -3,15 +3,19 @@ title: "Integreringar: Det går inte att logga tid från Workfront för Jira-int
 description: "När en användare försöker logga in i Workfront For Jira-integreringen loggas inte tiden och användaren ser ett fel."
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 
 # Integrering: Det går inte att logga tid från Workfront för Jira-integrering
+
+>[!NOTE]
+>
+>Problemet löstes den 19 januari. 2024.
 
 När en användare försöker logga in tid i Workfront For Jira-integreringen loggas inte tiden och följande fel visas för användaren:
 
