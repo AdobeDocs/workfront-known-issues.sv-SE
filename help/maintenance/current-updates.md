@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1120'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,19 @@ När statusen för det länkade objektet för ett anslutet kort ändras direkt p
 **Markeringsmeddelanden som de visas kvarstår inte**
 
 När en användare markerar sina meddelanden som de ser och sedan navigerar till en annan sida på [!DNL Workfront]visas fortfarande antalet olästa meddelanden som fanns innan användaren markerade dem som synliga och meddelanden fortfarande när användaren klickar på ikonen. Detta fortsätter om användaren markerar dem som synliga och navigerar till en annan sida eller tillbaka till den ursprungliga sidan.
+
+#### Uppdateringar
+
+**Problem med taggning i äldre kommentarer**
+
+När en användare är taggad i en kommentar i den tidigare kommentarsfunktionen uppstår följande problem:
+
+* Endast användarens förnamn finns i kommentaren
+* Användarens namn är inte markerat med en @-symbol
+* Användarens namn är inte blått
+* Användarens namn är inte en länk till den användarens profil
+
+Användaren får som förväntat ett e-postmeddelande om taggen.
 
 +++
 
@@ -142,9 +155,9 @@ En kommentar som gjorts i det gamla kommentargränssnittet kanske inte syns i de
 
 +++
 
-+++**Underhållsuppdatering 11 januari 2023**
++++**Underhållsuppdatering 11 januari 2024**
 
-### Underhållsuppdatering 11 januari 2023
+### Underhållsuppdatering 11 januari 2024
 
 #### Varumärkena
 
