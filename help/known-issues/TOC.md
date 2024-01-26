@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
+source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
 workflow-type: tm+mt
-source-wordcount: '1843'
+source-wordcount: '1848'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Mallar: Fel vid kopiering av mallar](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL Resource Management]: Det går inte att ändra datum i [!UICONTROL Utilization] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Uppdateringar: Kommentarer som gjorts i äldre kommentarer visas inte i den nya versionen](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
       + [Uppdateringar: Problem med taggning i äldre kommentarupplevelser](known-issues-workfront/wf-updates-showing-first-name.md)
