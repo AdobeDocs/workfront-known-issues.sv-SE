@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
+source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -46,6 +46,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Utdataformatering](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 31 januari 2024 |
 | [Workfront Fusion: Fel med lågt minne](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16 november 2023 |
 | [Workfront Fusion: Duplicera projekt som skapats från en enda modul](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 oktober 2023 |
 | [[!DNL Workfront Proof]: 500 fel vid åtkomst [!DNL Workfront Proof] via API eller [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 maj 2023 |
