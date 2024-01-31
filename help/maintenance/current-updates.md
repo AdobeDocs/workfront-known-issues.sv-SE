@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: b5a918850060b8fc02b8a9c978c4e2a4bc7a8dc4
 workflow-type: tm+mt
-source-wordcount: '1120'
+source-wordcount: '1290'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,43 @@ Följande underhållsuppdateringar gjordes 2024.
 
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
+## Uppdateringar i februari 2024
+
++++**(Planerat) Underhållsuppdatering den 1 februari 2024**
+
+### (Planerat) Underhållsuppdatering den 1 februari 2024
+
+#### Inloggning
+
+**Användare som använder enkel inloggning omdirigeras inte till den ursprungliga platsen när de loggar in**
+
+När en användare är på en sida i [!DNL Workfront] och loggar in med enkel inloggning när inloggningen är klar dirigeras de till [!UICONTROL Home] i stället för sidan som de var på innan de loggade in.
+
+#### Mallar
+
+**Fel vid kopiering av mallar**
+
+När en användare försöker kopiera en ny eller befintlig mall kopieras inte mallen och användaren ser följande fel:
+
+&quot;[!UICONTROL ID Cannot be Null]&quot;
+
++++
+
 ## Uppdateringar i januari 2024
+
++++**Underhållsuppdatering (snabbkorrigering) 30 januari 2024**
+
+### Underhållsuppdatering (snabbkorrigering) 30 januari 2024
+
+#### Rapporter
+
+**Externt API-fält visar inte alla tillgängliga värden i listor och rapporter**
+
+Tidigare kunde användarna se det valda värdet (och redigera värdet) för ett externt uppslagsfält i listor och rapporter, men kunde inte se listrutan med alternativen från API:t.
+
+När ett anpassat fält för extern sökning används i en lista eller rapport är nu listrutan med alla alternativ från det externa API:t tillgänglig.
+
++++
 
 +++**Underhållsuppdatering 25 januari 2024**
 
