@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '1361'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Problem: Ärendestatus finns inte i listrutan](known-issues-workfront/wf-issues-status-not-available.md)
+      + [Uppdateringar: Alternativet Inaktiverad bild är tillgängligt när du redigerar en kommentar](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [Kort: Det går inte att flytta ett kort i en kolumn med hjälp av [!UICONTROL Move] alternativ](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [Mallar: Fel vid kopiering av mallar](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL Resource Management]: Det går inte att ändra datum i [!UICONTROL Utilization] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Uppdateringar: Kommentarer som gjorts i äldre kommentarer visas inte i den nya versionen](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)

@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 04719e36f29982d13e2f032e4d987238df2d2a1f
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '778'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Kort: Det går inte att flytta ett kort i en kolumn med hjälp av [!UICONTROL Move] alternativ](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 26 januari 2024 |
 | [Dokument: Det går inte att flytta dokument från mapp till rot](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 23 januari 2024 |
 | [korrektur: GIF återges som statiskt korrektur](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
@@ -37,6 +38,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Problem: Ärendestatus finns inte i listrutan](known-issues-workfront/wf-issues-status-not-available.md) | 31 januari 2024 |
+| [Uppdateringar: Alternativet Inaktiverad bild är tillgängligt när du redigerar en kommentar](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 31 januari 2024 |
 | [Mallar: Fel vid kopiering av mallar](known-issues-workfront/wf-templates-cannot-copy-template.md) | 26 januari 2024 |
 | [[!UICONTROL Resource Management]: Det går inte att ändra datum i [!UICONTROL Utilization] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 25 januari 2024 |
 | [Team: Problem med att ställa in teamstatus för [!UICONTROL Done] knapp](known-issues-workfront/wf-teams-statuses-missing.md) | 25 januari 2024 |
