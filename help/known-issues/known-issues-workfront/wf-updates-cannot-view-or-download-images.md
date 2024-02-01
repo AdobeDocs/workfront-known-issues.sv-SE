@@ -3,15 +3,19 @@ title: "Uppdateringar: Det går inte att visa eller hämta bilder i kommentarer"
 description: "När en användare försöker visa eller hämta en bild från en kommentar i Workfront visas ett felmeddelande."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
 
 # Uppdateringar: Det går inte att visa eller hämta bilder i kommentarer
+
+>[!NOTE]
+>
+>Problemet korrigerades den 25 januari 2024.
 
 När en användare försöker visa eller hämta en bild från en kommentar i Workfront visas följande fel:
 

@@ -3,15 +3,19 @@ title: "Mallar: Det går inte att välja mall från [!UICONTROL Favorites] list"
 description: "När en användare försöker välja en mall från [!UICONTROL Favorites] listan försvinner när användaren flyttar musen till listan och användaren inte kan välja någon mall."
 hidefromtoc: true
 feature: Projects
-source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+source-git-commit: b9cc44f0daffeec11b8b8b7e6239cf050faa047a
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
 
 # Mallar: Det går inte att välja mall från [!UICONTROL Favorites] list
+
+>[!NOTE]
+>
+>Problemet korrigerades den 25 januari 2024.
 
 När en användare försöker välja en mall från [!UICONTROL Favorites] listan försvinner när användaren flyttar musen till listan och användaren inte kan välja någon mall.
 

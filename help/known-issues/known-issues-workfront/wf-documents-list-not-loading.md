@@ -3,15 +3,19 @@ title: "Dokument: Problem vid visning av dokumentlistor"
 description: "Problem med att visa dokumentlistor har rapporterats. Mer information finns i den här artikeln."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 
 # Dokument: Problem när dokument visas
+
+>[!NOTE]
+>
+>Problemet har åtgärdats.
 
 Följande problem har rapporterats när det gäller att visa dokumentlistor:
 
