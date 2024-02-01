@@ -3,15 +3,19 @@ title: "Mallar: Fel vid kopiering av mallar"
 description: "När en användare försöker kopiera en ny eller befintlig mall kopieras inte mallen och användaren ser ett fel."
 hidefromtoc: true
 feature: Projects
-source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
+source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 
 # Mallar: Fel vid kopiering av mallar
+
+>[!NOTE]
+>
+>Problemet korrigerades den 1 februari 2024.
 
 När en användare försöker kopiera en ny eller befintlig mall kopieras inte mallen och användaren ser följande fel:
 
