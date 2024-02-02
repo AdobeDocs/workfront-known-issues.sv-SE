@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
+source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Korrektur: Problem med att bearbeta statiska filer](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 15 december 2023 |
 | [Uppgifter: När uppgifter dupliceras visas de i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 30 november 2023 |
 | [Hem: Uppgifter i projekt med statusen Godkänd eller Planering ingår inte i Mina uppgifter eller Hemarbetslista](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 november 2023 |
-| [Korrektur: Kan inte generera korrektur](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 oktober 2023 |
 | [[!DNL Workfront]: Problem med att skicka en [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 
 {style="table-layout:auto"}
@@ -74,7 +73,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Korrektur: Godkännandealternativ visas inte i [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 augusti 2023 |
 | [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 augusti 2023 |
 | [[!UICONTROL Setup]: Det går inte att exportera granskningsloggar](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20 juli 2023 |
-| [Dokumentintegreringar: Det går inte att se alla mappar i [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 juli 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
 | [Egna formulär: &quot;[!UICONTROL Whoops]&quot; fel vid inställning av beräkningsfält](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5 maj 2023 |
 | [Dokument: [!UICONTROL Proofing Activities] alternativ leder till inloggningssida](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 april 2023 |
