@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 17e60b281dc05073247083257121d8809a271722
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
-source-wordcount: '1289'
+source-wordcount: '1397'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,31 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i februari 2024
 
++++**(Planerat) Underhållsuppdatering den 8 februari 2024**
+
+### (Planerat) Underhållsuppdatering den 8 februari 2024
+
+#### Varumärkena
+
+**Det går inte att flytta ett kort i en kolumn med hjälp av [!UICONTROL Move] alternativ**
+
+När en användare försöker flytta ett kort i en kolumn med hjälp av[!UICONTROL Top of column]&quot; eller &quot;[!UICONTROL Bottom of column]&quot;i menyn med tre punkter flyttas kortet inte.
+
+**Korten behålls vid ändring av upprepning**
+
+När en användare visar en upprepning på en anslagstavla och sedan ändrar upprepningen, är korten som visas för den nya upprepningen korten från en iteration som användaren visade tidigare.
+
+#### Rapporter
+
+**Kolumnen Inget värde visar inga resultat**
+
+När en diagramrapport har[!DNL No value]kolumnen visar inga data, även om det ska finnas data.
+
++++
+
 +++**Underhållsuppdatering 1 februari 2024**
 
-### (Planerat) Underhållsuppdatering den 1 februari 2024
+### Underhållsuppdatering 1 februari 2024
 
 #### Inloggning
 
