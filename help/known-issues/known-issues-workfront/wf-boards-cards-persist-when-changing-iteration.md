@@ -3,9 +3,9 @@ title: "Tavlor: Korten behålls när upprepningen ändras"
 description: "När en användare visar en upprepning på en anslagstavla och sedan ändrar upprepningen, är korten som visas för den nya upprepningen korten från en iteration som användaren visade tidigare."
 hidefromtoc: true
 feature: Agile
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 0%
 
 # Kort: Korten behålls vid ändring av upprepning
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on January 18, 2024.
-
--->
+>Problemet korrigerades den 8 februari 2024.
 
 När en användare visar en upprepning på en anslagstavla och sedan ändrar upprepningen, är korten som visas för den nya upprepningen korten från en iteration som användaren visade tidigare.
 

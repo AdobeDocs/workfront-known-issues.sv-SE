@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -36,15 +36,12 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
-| [Kort: Det går inte att flytta ett kort i en kolumn med hjälp av [!UICONTROL Move] alternativ](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 6 februari 2024 |
 | [Dokument: Det går inte att flytta dokument från mapp till rot](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 1 februari 2024 |
 | [Tavlor: Kort som inte flyttas till rätt kolumn när status ändras](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 1 februari 2024 |
 | [Problem: Ärendestatus finns inte i listrutan](known-issues-workfront/wf-issues-status-not-available.md) | 31 januari 2024 |
 | [Uppdateringar: Alternativet Inaktiverad bild är tillgängligt när du redigerar en kommentar](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 31 januari 2024 |
 | [[!UICONTROL Resource Management]: Det går inte att ändra datum i [!UICONTROL Utilization] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 25 januari 2024 |
 | [Team: Problem med att ställa in teamstatus för [!UICONTROL Done] knapp](known-issues-workfront/wf-teams-statuses-missing.md) | 25 januari 2024 |
-| [Resurshantering: Felaktiga ekonomiska beräkningar på grund av problem med jobbroller](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 25 januari 2024 |
-| [Kort: Korten behålls vid ändring av upprepning](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 25 januari 2024 |
 | [Problem: Tidsfält sparar felaktig tid när gruppredigeringsproblem uppstår](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 5 januari 2024 |
 | [Nytt [!UICONTROL Home]: Widget-filter och grupperingsstandardvärden följer inte layoutmallen](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
 | [Uppgifter: Användaren har inte tilldelats från en eller flera uppgifter](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 18 december 2023 |

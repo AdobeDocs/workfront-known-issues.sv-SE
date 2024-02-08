@@ -3,15 +3,19 @@ title: "Resurshantering: Felaktiga ekonomiska beräkningar på grund av problem 
 description: "Timmar och ekonomiska beräkningar kan vara felaktiga, vilket ger en kostnad på 0 trots att timmar är inloggade i en jobbroll som har en kostnadstariff."
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
 
 # Resurshantering: Felaktiga ekonomiska beräkningar på grund av problem med jobbroller
+
+>[!NOTE]
+>
+>Problemet korrigerades den 8 februari 2024.
 
 Timmar- och finansberäkningar kan vara felaktiga, vilket ger en kostnad på 0 även om timmar är inloggade i en jobbroll som har en kostnadstariff.
 

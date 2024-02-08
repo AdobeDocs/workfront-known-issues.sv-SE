@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '1397'
+source-wordcount: '1468'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i februari 2024
 
-+++**(Planerat) Underhållsuppdatering den 8 februari 2024**
++++**Underhållsuppdatering 8 februari 2024**
 
-### (Planerat) Underhållsuppdatering den 8 februari 2024
+### Underhållsuppdatering 8 februari 2024
 
 #### Varumärkena
 
@@ -41,6 +41,14 @@ När en användare visar en upprepning på en anslagstavla och sedan ändrar upp
 **Kolumnen Inget värde visar inga resultat**
 
 När en diagramrapport har[!DNL No value]kolumnen visar inga data, även om det ska finnas data.
+
+#### Resurshantering
+
+**Felaktiga ekonomiska beräkningar på grund av problem med jobbroller**
+
+Timmar- och finansberäkningar kan vara felaktiga, vilket ger en kostnad på 0 även om timmar är inloggade i en jobbroll som har en kostnadstariff.
+
+Detta beror på att jobbroller automatiskt skapar dubblettfrekvenser utan start- eller slutdatum. Eftersom de inte har några start- eller slutdatum behandlas de som värdet 0 när finansiella beräkningar körs.
 
 +++
 
