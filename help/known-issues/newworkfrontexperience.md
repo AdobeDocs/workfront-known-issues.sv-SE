@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 65b488e1ae954b77808505b6f6ab4405f4e13674
+source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Tavlor: Kort som inte flyttas till rätt kolumn när status ändras](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 1 februari 2024 |
 | [Problem: Ärendestatus finns inte i listrutan](known-issues-workfront/wf-issues-status-not-available.md) | 31 januari 2024 |
 | [Uppdateringar: Alternativet Inaktiverad bild är tillgängligt när du redigerar en kommentar](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 31 januari 2024 |
-| [[!UICONTROL Resource Management]: Det går inte att ändra datum i [!UICONTROL Utilization] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 25 januari 2024 |
 | [Team: Problem med att ställa in teamstatus för [!UICONTROL Done] knapp](known-issues-workfront/wf-teams-statuses-missing.md) | 25 januari 2024 |
 | [Problem: Tidsfält sparar felaktig tid när gruppredigeringsproblem uppstår](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 5 januari 2024 |
 | [Nytt [!UICONTROL Home]: Widget-filter och grupperingsstandardvärden följer inte layoutmallen](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
