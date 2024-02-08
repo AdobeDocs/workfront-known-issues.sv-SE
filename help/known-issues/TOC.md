@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4f66611a781f5793d397e28911e308d46bd1de02
+source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
 workflow-type: tm+mt
-source-wordcount: '1410'
+source-wordcount: '1420'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Användare: Lägre åtkomstnivåer är inte tillgängliga när en användare skapas](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [Problem: Ärendestatus finns inte i listrutan](known-issues-workfront/wf-issues-status-not-available.md)
       + [Uppdateringar: Alternativet Inaktiverad bild är tillgängligt när du redigerar en kommentar](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [Kort: Det går inte att flytta ett kort i en kolumn med hjälp av [!UICONTROL Move] alternativ](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
