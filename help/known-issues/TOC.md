@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
+source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
 workflow-type: tm+mt
-source-wordcount: '1420'
+source-wordcount: '1442'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppdateringar: Skärmen blir tom när en användare från ett annat företag svarar](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+      + [Tavlor: Filtrering för flera användare returnerar inte alla resultat](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [Användare: Lägre åtkomstnivåer är inte tillgängliga när en användare skapas](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [Problem: Ärendestatus finns inte i listrutan](known-issues-workfront/wf-issues-status-not-available.md)
       + [Uppdateringar: Alternativet Inaktiverad bild är tillgängligt när du redigerar en kommentar](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
