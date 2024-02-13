@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
-source-wordcount: '1468'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,30 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i februari 2024
+
++++**(Planerat) Underhållsuppdatering den 15 februari 2024**
+
+### (Planerat) Underhållsuppdatering den 15 februari 2024
+
+#### Problem
+
+**Tidsfält sparar felaktig tid vid gruppredigering**
+
+När en användare gör stora redigeringsproblem och väljer ett datum och en tid för ett datumfält och sparar, är tiden som sparas i det här fältet i utgåvan inte den tid som användaren valde. I stället ser tiden ut att konverteras till UTC när användaren sparar.
+
+#### Uppgifter
+
+**Användaren är inte tilldelad från en eller flera uppgifter**
+
+En användare kan automatiskt tas bort från en uppgift som de har tilldelats. Detta kan inträffa för en eller flera uppgifter. Uppdelningen visas inte i aktiviteternas systemuppdateringar, men den visas inte i avsnittet Uppdatera feeds på inställningsmenyn.
+
+#### Uppdateringar
+
+**Alternativet Inaktiverad bild är tillgängligt när du redigerar en kommentar**
+
+Efter [!DNL Workfront] administratören har inaktiverat alternativet att lägga till bilder i kommentarer. Det alternativet är inte tillgängligt när du skapar en kommentar. Om en användare redigerar en befintlig kommentar är dock bildalternativet tillgängligt.
+
++++
 
 +++**Underhållsuppdatering 8 februari 2024**
 
