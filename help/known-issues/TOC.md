@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
+source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
 workflow-type: tm+mt
-source-wordcount: '1475'
+source-wordcount: '1482'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Hem: Arbetsyta och punkter läses inte in](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [Tavlor: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Integrering: Dokument som inte bifogas när en begäran skapas från [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [Korrektur: Kan inte skapa ett korrektur med [!UICONTROL Advanced Workflow] från en [!DNL SharePoint] dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)

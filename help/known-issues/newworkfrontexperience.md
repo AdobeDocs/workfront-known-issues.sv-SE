@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
+source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -46,11 +46,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Dokument: Det går inte att flytta dokument från mapp till rot](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 1 februari 2024 |
 | [Tavlor: Kort som inte flyttas till rätt kolumn när status ändras](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 1 februari 2024 |
 | [Problem: Ärendestatus finns inte i listrutan](known-issues-workfront/wf-issues-status-not-available.md) | 31 januari 2024 |
-| [Uppdateringar: Alternativet Inaktiverad bild är tillgängligt när du redigerar en kommentar](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 31 januari 2024 |
 | [Team: Problem med att ställa in teamstatus för [!UICONTROL Done] knapp](known-issues-workfront/wf-teams-statuses-missing.md) | 25 januari 2024 |
-| [Problem: Tidsfält sparar felaktig tid när gruppredigeringsproblem uppstår](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 5 januari 2024 |
 | [Nytt [!UICONTROL Home]: Widget-filter och grupperingsstandardvärden följer inte layoutmallen](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
-| [Uppgifter: Användaren har inte tilldelats från en eller flera uppgifter](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 18 december 2023 |
 | [Korrektur: Problem med att bearbeta statiska filer](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 15 december 2023 |
 | [Uppgifter: När uppgifter dupliceras visas de i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 30 november 2023 |
 | [Hem: Uppgifter i projekt med statusen Godkänd eller Planering ingår inte i Mina uppgifter eller Hemarbetslista](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 november 2023 |

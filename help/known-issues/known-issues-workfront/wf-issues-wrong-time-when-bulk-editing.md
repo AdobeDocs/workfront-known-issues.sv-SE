@@ -3,15 +3,19 @@ title: "Problem: Tidsfält sparar felaktig tid när gruppredigeringsproblem upps
 description: "När en användare gör stora redigeringsproblem och väljer datum och tid för ett datumfält och sparar, är tiden som sparas i det här fältet i utgåvan inte den tid som användaren valde. I stället ser tiden ut att konverteras till UTC när användaren sparar."
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
+source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
 
 # Problem: Tidsfält sparar felaktig tid när gruppredigeringsproblem uppstår
+
+>[!NOTE]
+>
+>Problemet korrigerades den 15 februari 2024.
 
 När en användare gör stora redigeringsproblem och väljer ett datum och en tid för ett datumfält och sparar, är tiden som sparas i det här fältet i utgåvan inte den tid som användaren valde. I stället ser tiden ut att konverteras till UTC när användaren sparar.
 
