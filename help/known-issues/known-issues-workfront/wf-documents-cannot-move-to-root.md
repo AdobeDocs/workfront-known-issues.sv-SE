@@ -3,15 +3,19 @@ title: "Dokument: Det går inte att flytta dokument från mapp till rot"
 description: "När en användare försöker flytta en mapp från en mapp som skapats av användaren till projektets dokumentrotmapp, flyttas inte dokumentet och användaren ser ett fel."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
 
 # Dokument: Det går inte att flytta dokument från mapp till rot
+
+>[!NOTE]
+>
+>Problemet korrigerades den 24 januari 2024.
 
 När en användare försöker flytta en mapp från en mapp som skapats av användaren till projektets dokumentrotmapp, flyttas inte dokumentet och användaren ser följande fel:
 

@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '737'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Hem: Arbetsyta och punkter läses inte in](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md) | 15 februari 2024 |
 | [Tavlor: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 14 februari 2024 |
 | [Integrering: Dokument som inte bifogas när en begäran skapas från [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 13 februari 2024 |
-| [Korrektur: Kan inte skapa ett korrektur med [!UICONTROL Advanced Workflow] från en [!DNL SharePoint] dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 13 februari 2024 |
 | [Poster: 400 fel när en uppgift läggs till på en anslagstavla](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 13 februari 2024 |
 | [Tavlor: Filtrering för flera användare returnerar inte alla resultat](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 12 februari 2024 |
 | [Användare: Lägre åtkomstnivåer är inte tillgängliga när en användare skapas](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 8 februari 2024 |
@@ -42,8 +42,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Korrektur: Kan inte skapa ett korrektur med [!UICONTROL Advanced Workflow] från en [!DNL SharePoint] dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 15 februari 2024 |
 | [Uppdateringar: Skärmen blir tom när en användare från ett annat företag svarar](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 12 februari 2024 |
-| [Dokument: Det går inte att flytta dokument från mapp till rot](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 1 februari 2024 |
 | [Tavlor: Kort som inte flyttas till rätt kolumn när status ändras](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 1 februari 2024 |
 | [Problem: Ärendestatus finns inte i listrutan](known-issues-workfront/wf-issues-status-not-available.md) | 31 januari 2024 |
 | [Team: Problem med att ställa in teamstatus för [!UICONTROL Done] knapp](known-issues-workfront/wf-teams-statuses-missing.md) | 25 januari 2024 |
