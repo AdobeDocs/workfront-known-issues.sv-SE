@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
-source-wordcount: '1482'
+source-wordcount: '1500'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Kort: Kortet innehåller inte underuppgifter](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
+      + [Kort som inte sorteras](known-issues-workfront/wf-boards-not-sorting.md)
+      + [Skärmar: Skärmen blir tom när du visar kortinformation](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
       + [Hem: Arbetsyta och punkter läses inte in](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [Tavlor: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Integrering: Dokument som inte bifogas när en begäran skapas från [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)

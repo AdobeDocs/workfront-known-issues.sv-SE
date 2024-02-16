@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
+source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
-source-wordcount: '737'
+source-wordcount: '758'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,9 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Kort: Kortet innehåller inte underuppgifter](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 16 februari 2024 |
+| [Kort som inte sorteras](known-issues-workfront/wf-boards-not-sorting.md) | 16 februari 2024 |
+| [Skärmar: Skärmen blir tom när du visar kortinformation](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | 16 februari 2024 |
 | [Korrektur: Kan inte skapa ett korrektur med [!UICONTROL Advanced Workflow] från en [!DNL SharePoint] dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 15 februari 2024 |
 | [Uppdateringar: Skärmen blir tom när en användare från ett annat företag svarar](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 12 februari 2024 |
 | [Tavlor: Kort som inte flyttas till rätt kolumn när status ändras](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 1 februari 2024 |
