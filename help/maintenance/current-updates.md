@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
 workflow-type: tm+mt
-source-wordcount: '1640'
+source-wordcount: '1732'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,35 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i februari 2024
 
-+++**(Planerat) Underhållsuppdatering den 15 februari 2024**
++++**(Planerat) Underhållsuppdatering 22 februari 2024**
 
-### (Planerat) Underhållsuppdatering den 15 februari 2024
+### (Planerat) Underhållsuppdatering 22 februari 2024
+
+#### Startsida
+
+**[!UICONTROL Home]: [!UICONTROL Workspace] och punkter inte läses in**
+
+När en användare loggar in kan följande inträffa:
+
+* Användarens nya [!UICONTROL Home Workspace] läser inte in och felmeddelandet visas &quot;[!UICONTROL We are unable to load your Workspace information. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+* Användarens stift läses inte in och felet visas[!UICONTROL Your pins are unavailable because of a system error. Try refreshing your browser to fix the problem.]&quot;
+
+#### Användare
+
+**Gruppadministratören kan inte ange eller ändra en användares åtkomstnivå**
+
+<!--no article-->
+
+När en gruppadministratör försöker ändra åtkomstnivån för en användare kan något av följande inträffa:
+
+* Fältet för åtkomstnivå är inaktiverat.
+* Gruppadministratören kan inte välja en lägre åtkomstnivå.
+
++++
+
++++**Underhållsuppdatering 15 februari 2024**
+
+### Underhållsuppdatering 15 februari 2024
 
 #### Problem
 
