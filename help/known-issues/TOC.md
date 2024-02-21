@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1500'
+source-wordcount: '1523'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Anpassade formulär: Fel vid inklistring av text i ett RTF-fält](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
+      + [Projekt: Tidslinjen beräknas mycket långsamt när ett datum för en uppgift ändras](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Kort: Kortet innehåller inte underuppgifter](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Kort som inte sorteras](known-issues-workfront/wf-boards-not-sorting.md)
       + [Skärmar: Skärmen blir tom när du visar kortinformation](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)

@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Anpassade formulär: Fel vid inklistring av text i ett RTF-fält](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md) | 21 februari 2024 |
+| [Projekt: Tidslinjen beräknas mycket långsamt när ett datum för en uppgift ändras](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 21 februari 2024 |
 | [Kort: Kortet innehåller inte underuppgifter](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 16 februari 2024 |
 | [Kort som inte sorteras](known-issues-workfront/wf-boards-not-sorting.md) | 16 februari 2024 |
 | [Skärmar: Skärmen blir tom när du visar kortinformation](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | 16 februari 2024 |

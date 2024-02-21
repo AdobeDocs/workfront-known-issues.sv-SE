@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1732'
+source-wordcount: '1763'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,12 @@ När en gruppadministratör försöker ändra åtkomstnivån för en användare 
 
 * Fältet för åtkomstnivå är inaktiverat.
 * Gruppadministratören kan inte välja en lägre åtkomstnivå.
+
+#### Utjämning av arbetsbelastning
+
+**Etikett för ej arbetstid**
+
+Utjämning av arbetsbelastning och personlig tid i kalendern visas nu[!UICONTROL Non-working Hours]&quot; för den tid som en användare ger sig av. Tidigare visades &quot;[!UICONTROL Working Hours]&quot; för arbetstid.
 
 +++
 
