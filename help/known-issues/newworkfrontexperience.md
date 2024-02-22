@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -25,12 +25,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Hem: Arbetsyta och punkter läses inte in](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md) | 15 februari 2024 |
-| [Tavlor: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 14 februari 2024 |
-| [Integrering: Dokument som inte bifogas när en begäran skapas från [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 13 februari 2024 |
 | [Poster: 400 fel när en uppgift läggs till på en anslagstavla](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 13 februari 2024 |
 | [Tavlor: Filtrering för flera användare returnerar inte alla resultat](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 12 februari 2024 |
-| [Användare: Lägre åtkomstnivåer är inte tillgängliga när en användare skapas](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 8 februari 2024 |
 | [korrektur: GIF återges som statiskt korrektur](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
 
@@ -42,19 +38,18 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
-| [Anpassade formulär: Fel vid inklistring av text i ett RTF-fält](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md) | 21 februari 2024 |
+| [Integrering: Dokument som inte bifogas när en begäran skapas från [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 22 februari 2024 |
+| [Tavlor: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 22 februari 2024 |
+| [Användare: Lägre åtkomstnivåer är inte tillgängliga när en användare skapas](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 22 februari 2024 |
 | [Projekt: Tidslinjen beräknas mycket långsamt när ett datum för en uppgift ändras](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 21 februari 2024 |
 | [Kort: Kortet innehåller inte underuppgifter](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 16 februari 2024 |
 | [Kort som inte sorteras](known-issues-workfront/wf-boards-not-sorting.md) | 16 februari 2024 |
-| [Skärmar: Skärmen blir tom när du visar kortinformation](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | 16 februari 2024 |
-| [Korrektur: Kan inte skapa ett korrektur med [!UICONTROL Advanced Workflow] från en [!DNL SharePoint] dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 15 februari 2024 |
 | [Uppdateringar: Skärmen blir tom när en användare från ett annat företag svarar](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 12 februari 2024 |
 | [Tavlor: Kort som inte flyttas till rätt kolumn när status ändras](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 1 februari 2024 |
 | [Problem: Ärendestatus finns inte i listrutan](known-issues-workfront/wf-issues-status-not-available.md) | 31 januari 2024 |
 | [Team: Problem med att ställa in teamstatus för [!UICONTROL Done] knapp](known-issues-workfront/wf-teams-statuses-missing.md) | 25 januari 2024 |
 | [Nytt [!UICONTROL Home]: Widget-filter och grupperingsstandardvärden följer inte layoutmallen](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
 | [Korrektur: Problem med att bearbeta statiska filer](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 15 december 2023 |
-| [Uppgifter: När uppgifter dupliceras visas de i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 30 november 2023 |
 | [Hem: Uppgifter i projekt med statusen Godkänd eller Planering ingår inte i Mina uppgifter eller Hemarbetslista](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 november 2023 |
 | [[!DNL Workfront]: Problem med att skicka en [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 

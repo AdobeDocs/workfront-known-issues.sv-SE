@@ -3,15 +3,19 @@ title: "Hem: Arbetsyta och punkter läses inte in"
 description: "När en användare loggar in läses inte deras arbetsyta och nålar in, och felmeddelanden visas."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
 
 # [!UICONTROL Home]: [!UICONTROL Workspace] och punkter inte läses in
+
+>[!NOTE]
+>
+>Problemet korrigerades den 22 februari 2024.
 
 När en användare loggar in kan följande inträffa:
 
