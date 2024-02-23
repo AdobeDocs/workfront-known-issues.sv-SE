@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '1523'
+source-wordcount: '1562'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,11 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Utjämning av arbetsbelastning: Planerade timmar uppdateras inte i Utjämning av arbetsbelastning](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+      + [Tavlor: Dokument som överförs till kort visar felaktig tidsstämpel](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+      + [Tidrapporter: Fel vid visning av sammanfattningspanelen](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
+      + [Koder: Summor för checklistor är inte korrekta](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+      + [Projekt: Fel vid användning av filter i en produktlista](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [Anpassade formulär: Fel vid inklistring av text i ett RTF-fält](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [Projekt: Tidslinjen beräknas mycket långsamt när ett datum för en uppgift ändras](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Kort: Kortet innehåller inte underuppgifter](known-issues-workfront/wf-boards-subtasks-do-not-display.md)

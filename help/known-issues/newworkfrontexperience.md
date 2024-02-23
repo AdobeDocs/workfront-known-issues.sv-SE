@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projekt: Fel vid användning av filter i en produktlista](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | 22 februari 2024 |
 | [Poster: 400 fel när en uppgift läggs till på en anslagstavla](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 13 februari 2024 |
-| [Tavlor: Filtrering för flera användare returnerar inte alla resultat](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 12 februari 2024 |
 | [korrektur: GIF återges som statiskt korrektur](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
 
@@ -38,6 +38,11 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Utjämning av arbetsbelastning: Planerade timmar uppdateras inte i Utjämning av arbetsbelastning](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 23 februari 2024 |
+| [Tavlor: Dokument som överförs till kort visar felaktig tidsstämpel](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | 23 februari 2024 |
+| [Tidrapporter: Fel vid visning av sammanfattningspanelen](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | 23 februari 2024 |
+| [Koder: Summor för checklistor är inte korrekta](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 23 februari 2024 |
+| [Tavlor: Filtrering för flera användare returnerar inte alla resultat](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 22 februari 2024 |
 | [Integrering: Dokument som inte bifogas när en begäran skapas från [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 22 februari 2024 |
 | [Tavlor: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 22 februari 2024 |
 | [Användare: Lägre åtkomstnivåer är inte tillgängliga när en användare skapas](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 22 februari 2024 |
