@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
-source-wordcount: '1761'
+source-wordcount: '1816'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,20 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i februari 2024
+
++++**Underhållsuppdatering 29 februari 2024**
+
+### Underhållsuppdatering 29 februari 2024
+
+#### Uppdateringar
+
+**Uppdateringar: Skärmen blir tom när en användare från ett annat företag svarar**
+
+När en användare försöker svara på en kommentar av en användare i ett annat företag, blir skärmen tom.
+
+Detta beror på att användaren inte har behörighet att se användare från andra företag.
+
++++
 
 +++**Underhållsuppdatering 22 februari 2024**
 
