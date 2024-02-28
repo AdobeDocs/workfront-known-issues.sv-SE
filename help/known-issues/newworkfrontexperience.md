@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
+source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '805'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Tavlor: Dokument som överförs till kort visar felaktig tidsstämpel](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | 28 februari 2024 |
 | [Utjämning av arbetsbelastning: Planerade timmar uppdateras inte i Utjämning av arbetsbelastning](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 23 februari 2024 |
 | [Tidrapporter: Fel vid visning av sammanfattningspanelen](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | 23 februari 2024 |
 | [Koder: Summor för checklistor är inte korrekta](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 23 februari 2024 |
