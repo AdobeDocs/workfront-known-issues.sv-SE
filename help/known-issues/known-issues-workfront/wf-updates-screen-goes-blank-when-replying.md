@@ -3,15 +3,19 @@ title: "Uppdateringar: Skärmen blir tom när användaren från ett annat föret
 description: "När en användare försöker svara på en kommentar av en användare i ett annat företag, blir skärmen tom."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
+source-git-commit: f596539d9dd297f63463a50d9dde2ffd73f81470
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 
 # Uppdateringar: Skärmen blir tom när en användare från ett annat företag svarar
+
+>[!NOTE]
+>
+>Problemet korrigerades den 29 februari 2024.
 
 När en användare försöker svara på en kommentar av en användare i ett annat företag, blir skärmen tom.
 

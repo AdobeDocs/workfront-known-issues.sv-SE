@@ -3,15 +3,19 @@ title: "Projekt: Fel vid användning av filter i en produktlista"
 description: "Om en användare visar en projektlista och tillämpar ett filter försvinner listan och användaren ser ett felmeddelande."
 hidefromtoc: true
 feature: Projects
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 
 # Projekt: Fel vid användning av filter i en produktlista
+
+>[!NOTE]
+>
+>Problemet korrigerades den 23 februari 2024.
 
 Om en användare visar en projektlista och tillämpar ett filter försvinner listan och användaren ser följande meddelande:
 
