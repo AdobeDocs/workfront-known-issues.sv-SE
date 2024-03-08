@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
 workflow-type: tm+mt
-source-wordcount: '1816'
+source-wordcount: '1996'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,45 @@ Följande underhållsuppdateringar gjordes 2024.
 >Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
 
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
+
+## Uppdateringar i mars 2024
+
++++**Underhållsuppdatering 7 mars 2024**
+
+### Underhållsuppdatering 7 mars 2024
+
+#### Varumärkena
+
+**400 fel när en uppgift läggs till på en anslagstavla**
+
+När en användare visar ett projekt och försöker lägga till en uppgift på en anslagstavla läggs uppgiften inte till och användaren ser följande fel:
+
+Fel: &quot;400: undefined /boards-service/graphql&quot;
+
+#### Startsida
+
+**Fel vid infogad redigering av en uppgift i widgeten Min uppgift**
+
+När en användare försöker att infoga en redigering i widgeten Mina uppgifter ser han/hon följande fel:
+
+&quot;Ett fel har inträffat och vi arbetar för att lösa problemet. Om du vill fortsätta med ditt arbete kan du försöka med att uppdatera den här webbläsarsidan.&quot;
+
+
+#### Utjämning av arbetsbelastning
+
+**Planerade timmar uppdateras inte i Utjämning av arbetsbelastning**
+
+När de planerade timmarna i ett projekt uppdateras uppdateras de inte i Utjämning av arbetsbelastning. Detta kan inträffa även om ändringen återspeglas korrekt i projektet.
+
++++
+
+++**Workfront Fusion Maintenance Update den 7 mars 2024
+
+**Workfront Proof > Watch Proof Module - timeout**
+
+Scenarier där Workfront Proof > Watch Proof-modulen används kan inaktiveras på grund av timeout för Watch-korrekturmodulen.
+
++++
 
 ## Uppdateringar i februari 2024
 

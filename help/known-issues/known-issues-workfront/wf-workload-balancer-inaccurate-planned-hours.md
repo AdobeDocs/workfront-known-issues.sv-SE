@@ -3,15 +3,19 @@ title: "Utjämning av arbetsbelastning: Planerade timmar uppdateras inte i Utjä
 description: "När de planerade timmarna i ett projekt uppdateras uppdateras de inte i Utjämning av arbetsbelastning. Detta kan inträffa även om ändringen återspeglas korrekt i projektet."
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 
 # Utjämning av arbetsbelastning: Planerade timmar uppdateras inte i Utjämning av arbetsbelastning
+
+>[!NOTE]
+>
+>Problemet korrigerades den 7 mars 2024.
 
 När de planerade timmarna i ett projekt uppdateras uppdateras de inte i Utjämning av arbetsbelastning. Detta kan inträffa även om ändringen återspeglas korrekt i projektet.
 
