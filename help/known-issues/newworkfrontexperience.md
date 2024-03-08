@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 09091815a09c59f4d15e152d40927072995418be
+source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Uppdateringar: Begärande användare kan inte lägga till bilder i uppdateringar](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 mars 2024 |
 | [Rapporter: Ändringar som görs i textläge tillämpas inte på rapporter eller vyer](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 26 februari 2024 |
 | [Uppgifter: Om du skapar eller duplicerar uppgifter visas uppgiftslistan i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 8 mars 2024 |
 | [Uppdateringar: stora mellanrum mellan rader](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 8 mars 2024 |
