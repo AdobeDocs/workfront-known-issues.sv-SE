@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: caf54488e247a820fbbb623937a9ec9c4560300b
 workflow-type: tm+mt
-source-wordcount: '1996'
+source-wordcount: '2138'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,32 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i mars 2024
+
++++**(Planerat) Underhållsuppdatering den 14 mars 2024**
+
+### (Planerat) Underhållsuppdatering den 14 mars 2024
+
+#### Integreringar
+
+**Dokument som inte bifogas när en begäran skapas från[!DNL Outlook]**
+
+När en användare skapar en begäran från [!DNL Outlook], bifogas inte dokumenten i e-postmeddelandet till begäran.
+
+#### Korrektur
+
+**Korrektur som skapats från länkade dokument saknar korrekturmall**
+
+När en användare skapar ett korrektur från ett länkat dokument, tillämpas inte korrekturmallen korrekt och korrekturet kanske saknar information, till exempel arbetsflödet.
+
+Detta gäller även korrektur som skapats via API och Workfront Fusion.
+
+#### Användare
+
+**Lägre åtkomstnivåer är inte tillgängliga när användaren skapas**
+
+När en användare skapar en annan användare är endast den första användarens åtkomstnivå tillgänglig för den nya användaren. Alla åtkomstnivåer med lägre behörigheter än de som användaren skapar bör vara tillgängliga att tilldela till den nya användaren.
+
++++
 
 +++**Underhållsuppdatering 7 mars 2024**
 
