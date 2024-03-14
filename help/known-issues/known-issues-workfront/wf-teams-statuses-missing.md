@@ -3,9 +3,9 @@ title: "Team: Problem med att ange gruppstatus för Klar-knappen "
 description: "Problem med status för [!UICONTROL Done] när du redigerar eller skapar ett team. Det finns en lösning för att lösa problemet."
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 0%
 
 # Team: Problem med att ställa in teamstatus för [!UICONTROL Done] knapp
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on January 18, 2024.
-
--->
+>Problemet har stängts eftersom det inte är något problem.
 
 Följande problem har rapporterats angående status för [!UICONTROL Done] när du redigerar eller skapar ett team:
 

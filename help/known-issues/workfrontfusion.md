@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrektur: korrektur som skapats från länkade dokument saknar korrekturmall](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 1 mars 2024 |
 | [Workfront Fusion: RuntimeError med 200 svar från Workfront-modulen](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | 29 januari 2024 |
 
 {style="table-layout:auto"}

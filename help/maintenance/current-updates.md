@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: caf54488e247a820fbbb623937a9ec9c4560300b
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '2138'
+source-wordcount: '2108'
 ht-degree: 0%
 
 ---
@@ -22,15 +22,9 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i mars 2024
 
-+++**(Planerat) Underhållsuppdatering den 14 mars 2024**
++++**Underhållsuppdatering 14 mars 2024**
 
-### (Planerat) Underhållsuppdatering den 14 mars 2024
-
-#### Integreringar
-
-**Dokument som inte bifogas när en begäran skapas från[!DNL Outlook]**
-
-När en användare skapar en begäran från [!DNL Outlook], bifogas inte dokumenten i e-postmeddelandet till begäran.
+### Underhållsuppdatering 14 mars 2024
 
 #### Korrektur
 

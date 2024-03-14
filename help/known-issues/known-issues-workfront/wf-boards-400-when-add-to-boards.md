@@ -3,19 +3,15 @@ title: "Brevkort: 400 fel när en uppgift läggs till i en anslagstavla"
 description: "När en användare visar ett projekt och försöker lägga till en uppgift i en styrelse läggs uppgiften inte till och användaren ser ett fel. Det finns en lösning."
 hidefromtoc: true
 feature: Agile
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 
 # Poster: 400 fel när en uppgift läggs till på en anslagstavla
-
->[!NOTE]
->
->Problemet korrigerades den 7 mars 2024.
 
 När en användare visar ett projekt och försöker lägga till en uppgift på en anslagstavla läggs uppgiften inte till och användaren ser följande fel:
 

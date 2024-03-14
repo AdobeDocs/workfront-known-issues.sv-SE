@@ -3,15 +3,19 @@ title: "Projekt: Tidslinjen omberäknas mycket långsamt när ett datum för en 
 description: "När en användare visar ett projekt och ändrar ett datum för någon av projektets uppgifter beräknas alla datum i projektet om. Denna process kan ta flera minuter, under vilken datumen i projektets uppgifter är nedtonade och inte svarar."
 hidefromtoc: true
 feature: Projects
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
 
 # Projekt: Tidslinjen beräknas mycket långsamt när ett datum för en uppgift ändras
+
+>[!NOTE]
+>
+>Problemet korrigerades den 8 mars 2024.
 
 När en användare visar ett projekt och ändrar ett datum för någon av projektets uppgifter beräknas alla datum i projektet om. Denna process kan ta flera minuter, under vilken datumen i projektets uppgifter är nedtonade och inte svarar.
 
