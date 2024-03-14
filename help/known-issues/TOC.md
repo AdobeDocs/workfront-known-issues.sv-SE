@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
+source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
-source-wordcount: '1601'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,11 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Korrektur: Det går inte att generera ett korrektur från en webbplats](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
+      + [Sök: Det går inte att redigera från sökning](known-issues-workfront/wf-search-cannot-edit-from-search.md)
+      + [Uppdateringar: Det går inte att tagga en användare](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
+      + [Loggningstid: Användaren kan inte logga tid för den aktuella dagen](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
+      + [Uppdateringar: Dokumentkommentarer visas inte i uppdateringar av det överordnade objektet](known-issues-workfront/wf-updates-document-comments-not-visible.md)
       + [Uppdateringar: Begärande användare kan inte lägga till bilder i uppdateringar](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [Uppdateringar: stora mellanrum mellan rader](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [Korrektur: korrektur som skapats från länkade dokument saknar korrekturmall](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
