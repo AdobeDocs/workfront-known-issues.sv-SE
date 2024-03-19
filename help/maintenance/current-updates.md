@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 62e129903ba48689aa8acf5d22a52bed2d88ab2a
 workflow-type: tm+mt
-source-wordcount: '2108'
+source-wordcount: '2221'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,26 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i mars 2024
+
++++**(Planerat) Underhållsuppdatering 21 mars 2024**
+
+### (Planerat) Underhållsuppdatering 21 mars 2024
+
+#### Uppdateringar
+
+**Stora mellanrum mellan rader**
+
+När en användare skriver en uppdatering med flera rader med tangenten Retur eller Retur, eller klistrar in flera rader i en uppdatering, visas uppdateringen som förväntat. Om en användare sedan visar uppdateringen i en rapport finns det stora mellanrum mellan raderna.
+
+Detta har rapporterats i den nya kommentarsfunktionen.
+
+**Det går inte att tagga en användare med @**
+
+När en användare taggar en annan användare med @ i en kommentar, läggs användaren inte till i området med taggade användare och får inget meddelande om kommentaren.
+
+Den här korrigeringen gäller bara för den nya kommentarsfunktionen.
+
++++
 
 +++**Underhållsuppdatering 14 mars 2024**
 
