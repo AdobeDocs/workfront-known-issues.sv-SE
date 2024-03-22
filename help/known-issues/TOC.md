@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
+source-git-commit: ffd973ea682c5a7a89aa0976f46b9004c8d7be7c
 workflow-type: tm+mt
-source-wordcount: '1640'
+source-wordcount: '1706'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,13 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Agile: Kanban-kort visar inte anpassade fält](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [Korrektur: korrektur finns kvar på widgeten Mina godkännanden](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [Resurshantering: Skillnad i budgeterade timmar](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [Korrektur: Enkelt korrektur av en ny dokumentversion som innehåller arbetsflöde från en tidigare version](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [Uppgifter: Föregående verktygstips visar inte aktivitetsnamnet](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [Styrelser: 400 fel vid tillägg av en uppgift till en styrelse från en Kanban-styrelse](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [Korrektur: Det går inte att generera ett korrektur från en webbplats](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [Sök: Det går inte att redigera från sökning](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [Uppdateringar: Det går inte att tagga en användare](known-issues-workfront/wf-updates-not-notified-when-tagged.md)

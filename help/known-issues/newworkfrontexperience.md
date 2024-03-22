@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
+source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,9 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile: Kanban-kort visar inte anpassade fält](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 22 mars 2024 |
+| [Uppgifter: Föregående verktygstips visar inte aktivitetsnamnet](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md) | 22 mars 2024 |
+| [Styrelser: 400 fel vid tillägg av en uppgift till en styrelse från en Kanban-styrelse](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | 22 mars 2024 |
 | [Uppgifter: Om du skapar eller duplicerar uppgifter visas uppgiftslistan i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 26 februari 2024 |
 | [korrektur: GIF återges som statiskt korrektur](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
@@ -37,6 +40,10 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Korrektur: korrektur finns kvar på widgeten Mina godkännanden](known-issues-workfront/wf-proofs-stuck-on-widget.md) | 22 mars 2024 |
+| [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 mars 2024 |
+| [Resurshantering: Skillnad i budgeterade timmar](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md) | 22 mars 2024 |
+| [Korrektur: Enkelt korrektur av en ny dokumentversion som innehåller arbetsflöde från en tidigare version](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | 22 mars 2024 |
 | [Uppdateringar: Dokumentkommentarer visas inte i uppdateringar av det överordnade objektet](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 21 mars 2024 |
 | [Korrektur: Det går inte att generera ett korrektur från en webbplats](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 14 mars 2024 |
 | [Sök: Det går inte att redigera från sökning](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 14 mars 2024 |
