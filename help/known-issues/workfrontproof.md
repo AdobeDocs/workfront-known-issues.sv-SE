@@ -4,7 +4,7 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
+source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
@@ -60,18 +60,18 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 juni 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
 | [[!DNL Workfront Proof]: 500 fel vid åtkomst [!DNL Workfront Proof] via API eller [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 maj 2023 |
-| [Dokument: [!UICONTROL Proofing Activities] alternativ leder till inloggningssida](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 april 2023, 2023 |
+| [Dokument: [!UICONTROL Proofing Activities] alternativ leder till inloggningssida](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 21 april 2023, 2023 |
 | [Korrektur: Mätverktyget accepterar inte decimalpunkter](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
-| [Dokument: 404-fel vid åtkomst av dokument som är länkade från [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |
-| [Dokument: Problem med dokumentlistan](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 mars 2023 |
+| [Dokument: 404-fel vid åtkomst av dokument som är länkade från [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |
+| [Dokument: Problem med dokumentlistan](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 23 mars 2023 |
 | [[!DNL Workfront Proof]: Listor är inte korrekt sorterade](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 23 mars 2023 |
-| [Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett nytt projekt](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
+| [Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett nytt projekt](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md) | 7 mars 2023 |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports] område stöds inte längre](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 mars 2023 |
 | [Korrektur: Ny fas har skapats eftersom deadline inte kan matcha deadline för befintlig fas](known-issues-workfront-proof/proof-new-stage-created.md) | 2 februari 2023 |
 | [[!UICONTROL Home]: Slutförda korrektur som sitter fast i [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 januari 2023 |
-| [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
+| [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
 | [Korrektur: Korrektur delas inte med användare i korrekturarbetsflödet](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 september 2022 |
-| [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
+| [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
 | [[!DNL Workfront Proof]: Det går inte att lägga till användare i korrektur genom att tagga användaren i en kommentar](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 mars 2022 |
 | [[!UICONTROL Home]: [!UICONTROL Reply in Proof] knappbeteendet är inkonsekvent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 juni 2021 |
 | [[!DNL Workfront Proof]: Automatisk åtkomst till korrektur fördröjs](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 14 juni 2021 |
