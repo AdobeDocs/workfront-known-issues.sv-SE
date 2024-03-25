@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1f22f63be60fe561d6a14eaa6d87af70a22f6579
+source-git-commit: ed2e5c9068d18b185218fbde53b738097203c98c
 workflow-type: tm+mt
-source-wordcount: '1640'
+source-wordcount: '1609'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,6 @@ ht-degree: 0%
       + [Rapporter: Budgeterad timrapport uppdaterar inte timma som förväntat](known-issues-workfront/wf-reports-report-not-updating.md)
       + [Inställningar: Statusvärden för standardutgåvor saknas för vissa utgåvor i installationsprogrammet](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [Tavlor: Kort som inte flyttas till rätt kolumn när status ändras](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
-      + [Hem: Widgetarna Mina projekt och Mina uppgifter visar endast 25 objekt](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [Status: [!UICONTROL Whoops] fel när status döljs](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Uppdateringar: Vissa uppdateringar saknas i den nya kommentarsfunktionen](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Uppgifter/frågor: problem när arbetsposter läggs till i styrelsens vy över uppgifter eller frågor](known-issues-workfront/wf-tasks-issues-board-view.md)
@@ -95,7 +94,6 @@ ht-degree: 0%
       + [Kort: Kortet visas på flera sprutor](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [Rapporter: 500 fel vid export av en rapport](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [Mallar: Det går inte att välja mall från [!UICONTROL Favorites] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [[!UICONTROL Home]: Uppgifter visas inte i [!UICONTROL My Work] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Uppgifter: Aktivitetsdatum är nedtonade för längre tid när tidslinjen beräknas om](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [Meddelanden: E-postmeddelanden tas inte emot när användaren är taggad i en kommentar](known-issues-workfront/wf-notif-email-not-received.md)
       + [Stödlinjer: Problem vid visning av status för underaktivitet](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
@@ -119,15 +117,14 @@ ht-degree: 0%
       + [Korrektur: Slutförda korrektur är fortfarande aktiverade [!UICONTROL Awaiting My Approval] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [Rapporter: Privata uppdateringar visas i värdeuttrycksfält](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
       + [Utjämning av arbetsbelastning: Manuella timändringar är inte korrekta efter uppdatering av sidan](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
-      + [Hem: Delegerade uppgifter delas inte och visas inte i Hem-arbetslistan](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
       + [Delning: Fel vid delning av objekt](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [Arbetsbelastningsutjämnare: Användaren visas som överallokerad på grund av felaktig kapacitet](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [Uppdateringar: Kommentarer som gjorts i nya kommentarer visas inte i äldre versioner](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
       + [[!UICONTROL Home]: Ny [!UICONTROL Home] widgetens förhandsgranskning visar inte rätt objektnamn](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL Home]: [!UICONTROL Requests] widgeten visar inte alla tilldelade team](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [[!UICONTROL Home]: [!UICONTROL Requests] widgeten visar inte alla tilldelade team](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [Layoutmallar: Layoutmallar orsakar inkonsekvenser i rapporter](known-issues-workfront/wf-layout-templates-classic.md)
-      + [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot; widget i ny [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad](known-issues-workfront/wf-home-mentions-widget-new-home.md)
+      + [[!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot; widget i ny [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Workload Balancer]: [!UICONTROL Total Hours] matchar inte summan för [!UICONTROL Planned Hours]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [[!UICONTROL Setup]: Det går inte att exportera granskningsloggar](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
@@ -137,7 +134,7 @@ ht-degree: 0%
       + [Rapporter: Rapportera inte korrekt när du sorterar efter fält](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Egna formulär: &quot;[!UICONTROL Whoops]&quot; fel vid inställning av beräkningsfält](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [Korrektur: [!UICONTROL Proof Activity] tabböppna [!UICONTROL Proof Details]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [Filter: Det går inte att dela ett filter från en rapport på en instrumentpanel](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
+      + [Filter: Det går inte att dela ett filter från en rapport på en instrumentpanel](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [Korrektur: Mätverktyget accepterar inte decimalpunkter](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Dokument: Problem med dokumentlistan](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [Dokument: 404-fel vid åtkomst av dokument som är länkade från [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
@@ -157,28 +154,28 @@ ht-degree: 0%
       + [API: kan inte sortera efter dynamiska fält](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md)
       + [Problem: Vänster navigering visar problem av typen &quot;(0)&quot; när det finns problem](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL Setup]: Listor läses in långsamt in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md)
-      + [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Korrektur: [!UICONTROL Active Proof Stages] fältet är tomt](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + [[!DNL Workfront]: Problem med att skicka en [!DNL Workfront] supportärende på Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [Kontrollpaneler: Rapportdiagram som visas på en kontrollpanel har andra färger än de som visas i rapporten](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
       + [Agile: Problem vid förflyttning av kort på Agile-tavlan](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
-      + [Hem: Anpassad terminologi används inte i Hem-området](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
+      + [Hem: Anpassad terminologi används inte i Hem-området](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md)
       + [Agile: Det går inte att redigera fält från anpassade formulär på kort](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + [Godkännanden: Delegering av godkännande har angetts för felaktigt antal dagar](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
-      + [[!UICONTROL Home]: [!UICONTROL Home] sammanfattande problem när andra webbläsare än [!DNL Chrome]](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
-      + [[!UICONTROL Home]: Alternativet Ny uppgift visar inaktiverade användare i [!UICONTROL Assign To] fält](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
+      + [[!UICONTROL Home]: [!UICONTROL Home] sammanfattande problem när andra webbläsare än [!DNL Chrome]](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
+      + [[!UICONTROL Home]: Alternativet Ny uppgift visar inaktiverade användare i [!UICONTROL Assign To] fält](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + [Uppdateringar: Teamnamnet visas inte i @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
       + [Agile: Distillcy in [!UICONTROL Completed Points] för en iteration](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
       + [E-postmeddelanden: &quot;[!UICONTROL I'm assigned to an issue]&quot;-inställningen visas](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [E-postmeddelanden: Användaren är inte dirigerad till kommentarstråden](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md)
       + [Kalendrar: [!DNL OR] filterprogramsats exklusive filterregel](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
       + [Rapporter: Det går inte att rulla rapporten vågrätt när du visar på instrumentpanelen](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)
-      + [[!UICONTROL Home]: Projektnamnet visas som ett GUID i [!UICONTROL Work List]](known-issues-workfront/wf-home-project-name-shows-as-guid.md)
+      + [[!UICONTROL Home]: Projektnamnet visas som ett GUID i [!UICONTROL Work List]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)
       + [Rapporter: Kalendern har som standard gamla datum](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)
       + [E-postmeddelanden: E-postmeddelanden formateras inte korrekt i [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
-      + [[!UICONTROL Home]: Det går inte att visa dokumentbilden i [!UICONTROL Work List]](known-issues-workfront/wf-home-unable-to-view-document-image.md)
+      + [[!UICONTROL Home]: Det går inte att visa dokumentbilden i [!UICONTROL Work List]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md)
       + [Listor: Visningsnamnet används inte för anpassad fältgruppering](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
-      + [[!UICONTROL Home]: Delegeringsdatum för godkännande ändras efter uppdateringen och 2 e-postmeddelanden skickas ut](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
+      + [[!UICONTROL Home]: Delegeringsdatum för godkännande ändras efter uppdateringen och 2 e-postmeddelanden skickas ut](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md)
       + [Kalender: Aktiviteter visas inte](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md)
 
 
