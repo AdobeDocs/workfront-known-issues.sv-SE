@@ -1,17 +1,21 @@
 ---
 title: "Workfront Fusion: RuntimeError med 200 svar från Workfront-modulen"
-description: '"En Workfront-modul kan returnera svaret "RuntimeError [200]". 2000 innebär ett lyckat svar, men felet visar att begäran misslyckades."'
+description: En Workfront-modul kan returnera svaret "RuntimeError [200]". 2000 innebär ett lyckat svar, men felet visar att begäran misslyckades.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+exl-id: 99967e3b-08bd-4035-b0b2-b90eff8cf1a1
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-
 # Workfront Fusion: RuntimeError med 200 svar från Workfront-modulen
+
+>[!NOTE]
+>
+>Problemet korrigerades den 28 mars 2024.
 
 En Workfront-modul kan returnera en `RuntimeError [200]` svar. 2000 innebär ett lyckat svar, men felet visar att begäran misslyckades.
 

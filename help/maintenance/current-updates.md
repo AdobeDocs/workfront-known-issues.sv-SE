@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
 workflow-type: tm+mt
-source-wordcount: '2219'
+source-wordcount: '2547'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,70 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i mars 2024
+
++++**Underhållsuppdatering 28 mars 2024**
+
+### Underhållsuppdatering 28 mars 2024
+
+#### Integreringar
+
+**Dokument som inte bifogas när en begäran skapas från[!DNL Outlook]**
+
+När en användare skapar en begäran från [!DNL Outlook], bifogas inte dokumenten i e-postmeddelandet till begäran.
+
+Detta har rapporterats för följande typer av bifogade filer:
+
+XLS PDF
+
+#### Korrektur
+
+**Korrektur finns kvar på widgeten Mina godkännanden**
+
+Ett korrektur som ska försvinna från widgeten Mina godkännanden finns kvar på widgeten. Detta kan inträffa när flera användare fattar beslut om ett korrektur samtidigt, eller när en användare fattar ett beslut och snabbt ändrar det.
+
+#### Resurshantering
+
+**Skillnad i budgeterade timmar**
+
+Budgeterade timmar som visas i något av följande områden kanske inte matchar dem som visas i något av dessa områden:
+
+* Affärsärende
+* Rapporter
+* Resursbudgeteringsverktyg
+
+#### Uppgifter
+
+**Föregående verktygstips visar inte aktivitetsnamnet**
+
+När en användare visar en uppgiftslista och för pekaren över en föregående ikon för att få mer information, visas inte namnet på föregående aktivitet i det verktygstips som visas.
+
+#### Uppdateringar
+
+**Dokumentkommentarer visas inte i uppdateringar av det överordnade objektet**
+
+När en användare gör en kommentar i ett dokument, visas inte kommentaren omedelbart i uppdateringsområdet för dokumentets överordnade objekt.
+
+Det här problemet har rapporterats i den nya kommentarsfunktionen. Kommentarerna visas som förväntat i den äldre kommentarsfunktionen.
+
+**Det går inte att tagga en användare**
+
+När en användare är taggad i en kommentar är kommentaren inte synlig för den taggade användaren. Dessutom meddelas inte den taggade användaren om kommentaren, varken via e-post eller via ett meddelande i appen.
+
+Detta har rapporterats i de tidigare kommentarerna.
+
++++
+
++++**Workfront Fusion Maintenance Update 28 mars 2024**
+
+### Workfront Fusion Maintenance Update 28 mars 2024
+
+**RuntimeError med 200 svar från Workfront-modulen**
+
+En Workfront-modul kan returnera en `RuntimeError [200]` svar. 2000 innebär ett lyckat svar, men felet visar att begäran misslyckades.
+
+Detta kan inträffa om svaret är mycket långt. Data returneras till Fusion, men kan inte behandlas av Fusion.
+
++++
 
 +++**Underhållsuppdatering 21 mars 2024**
 
