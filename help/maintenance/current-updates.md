@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+source-git-commit: 735095abc95d64e8737c2ffa5aabdd4922be1e1b
 workflow-type: tm+mt
-source-wordcount: '2547'
+source-wordcount: '2639'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,32 @@ Följande underhållsuppdateringar gjordes 2024.
 >Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
 
 Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
+
+## Uppdateringar i april 2024
+
++++**(Planerat) Underhållsuppdatering 4 april 2024**
+
+### (Planerat) Underhållsuppdatering 4 april 2024
+
+#### Loggningstid
+
+**Användaren kan inte logga tid för den aktuella dagen**
+
+När en användare försöker logga tid i uppdateringsområdet är den aktuella dagen nedtonad och användaren kan inte logga tid för den aktuella dagen.
+
+#### Uppdateringar
+
+<!--no article-->
+
+**Fel vid visning av kommentarer**
+
+När en användare försöker visa kommentarer i den nya kommentarsfunktionen kan han/hon inte se kommentarerna och i stället se följande fel:
+
+&quot;Något gick fel. Försök igen senare.&quot;
+
+De gamla kommentarfunktionerna fungerar som förväntat.
+
++++
 
 ## Uppdateringar i mars 2024
 
