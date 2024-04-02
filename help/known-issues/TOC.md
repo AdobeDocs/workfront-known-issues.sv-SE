@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
+source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
 workflow-type: tm+mt
-source-wordcount: '1394'
+source-wordcount: '1402'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppdateringar: Förhandsvisning av bilder i uppdateringar är oskarp](known-issues-workfront/wf-updates-images-blurred.md)
       + [Rapporter: Rapportfiltret returnerar inte förväntade resultat](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Styrelser: Användaren kan inte se anslagstavlan när användarens team läggs till i styrelsen](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [Agile: Kanban-kort visar inte anpassade fält](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)

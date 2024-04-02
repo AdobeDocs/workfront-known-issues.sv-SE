@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
+source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '751'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Uppdateringar: Förhandsvisning av bilder i uppdateringar är oskarp](known-issues-workfront/wf-updates-images-blurred.md) | 2 april 2024 |
 | [Agile: Kanban-kort visar inte anpassade fält](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 28 mars 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 mars 2024 |
 | [Korrektur: Det går inte att generera ett korrektur från en webbplats](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 14 mars 2024 |
