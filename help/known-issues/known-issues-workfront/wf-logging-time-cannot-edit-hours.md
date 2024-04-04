@@ -3,7 +3,7 @@ title: "Loggningstid: Det går inte att redigera timmar för uppgifter eller pro
 description: "När en användare försöker redigera timmar för en uppgift eller ett problem sparas inte ändringarna."
 hidefromtoc: true
 feature: Work Management, Tasks, Timesheets
-source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
+source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -16,3 +16,4 @@ ht-degree: 0%
 När en användare försöker redigera timmar för en uppgift eller ett problem sparas inte ändringarna.
 
 _Först rapporterad den 1 april 2024._
+
