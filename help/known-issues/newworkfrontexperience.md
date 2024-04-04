@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '691'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrektur: korrektur som skapats från länkade dokument saknar korrekturmall](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 27 mars 2024 |
-| [Styrelser: Användaren kan inte se anslagstavlan när användarens team läggs till i styrelsen](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md) | 27 mars 2024 |
-| [Styrelser: 400 fel vid tillägg av en uppgift till en styrelse från en Kanban-styrelse](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | 22 mars 2024 |
 | [Uppgifter: Om du skapar eller duplicerar uppgifter visas uppgiftslistan i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 26 februari 2024 |
 | [korrektur: GIF återges som statiskt korrektur](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
@@ -43,7 +40,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Uppdateringar: Förhandsvisning av bilder i uppdateringar är oskarp](known-issues-workfront/wf-updates-images-blurred.md) | 2 april 2024 |
 | [Agile: Kanban-kort visar inte anpassade fält](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 28 mars 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 mars 2024 |
-| [Korrektur: Det går inte att generera ett korrektur från en webbplats](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 14 mars 2024 |
 | [Sök: Det går inte att redigera från sökning](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 14 mars 2024 |
 | [Uppdateringar: Begärande användare kan inte lägga till bilder i uppdateringar](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 mars 2024 |
 | [Koder: Summor för checklistor är inte korrekta](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 23 februari 2024 |

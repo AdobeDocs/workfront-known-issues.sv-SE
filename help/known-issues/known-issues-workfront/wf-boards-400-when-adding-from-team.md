@@ -1,17 +1,21 @@
 ---
-title: "Böcker: 400 fel när en uppgift läggs till på en anslagstavla från en gruppsida"
-description: "När en användare visar ett projekt och försöker lägga till en uppgift i en styrelse läggs uppgiften inte till och användaren ser ett fel. Det finns en lösning."
+title: 'Böcker: 400 fel när en uppgift läggs till på en anslagstavla från en gruppsida'
+description: När en användare visar ett projekt och försöker lägga till en uppgift på en anslagstavla, läggs uppgiften inte till och användaren ser ett fel. Det finns en lösning.
 hidefromtoc: true
 feature: Agile
-source-git-commit: f6b027f26edafe69474d0d1d551f6b9909b3342c
+exl-id: 6630fc4a-241b-4699-a076-f04768099372
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-
 # Styrelser: 400 fel vid tillägg av en uppgift till en styrelse från en Kanban-styrelse
+
+>[!NOTE]
+>
+>Problemet korrigerades den 28 mars 2024.
 
 När en användare visar ett teams Kanban-panelsida och försöker lägga till en uppgift i en styrelse på en anslagstavla, läggs uppgiften inte till och användaren ser följande fel:
 

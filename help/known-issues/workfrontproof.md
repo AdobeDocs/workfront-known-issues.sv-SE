@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrektur: korrektur som skapats från länkade dokument saknar korrekturmall](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 27 mars 2024 |
 | [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
 
 {style="table-layout:auto"}
