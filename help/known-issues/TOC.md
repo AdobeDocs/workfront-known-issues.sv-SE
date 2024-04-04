@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 023b8ed4fe38b3c43c3d78c2ba5c11e965a5c5d0
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1474'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,16 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppdateringar: &quot;[!UICONTROL We're unable to post your comment]&quot; när du svarar](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [Uppdateringar: Kommentarerna visas inte[!UICONTROL on behalf of]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [Kalendrar: Fel vid uppdatering av kalender](known-issues-workfront/wf-calendar-error-when-refresh.md)
+      + [Uppdateringar: Texten bevaras inte när du navigerar bort och tillbaka till kommentaren](known-issues-workfront/wf-updates-text-missing-after-mention.md)
+      + [Uppgifter: Bizcontext-fel när en uppgift läggs till eller tas bort](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [Uppgifter: Föregående information innehåller ingen länk](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
+      + [Workfront-korrektur: E-signaturer fungerar inte](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [Layoutmall: Startsidan är felaktig](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
+      + [Loggningstid: Det går inte att redigera timmar för uppgifter eller problem](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
+      + [Anpassade formulär: Externa sökfält returnerar inga resultat](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
       + [Uppdateringar: Förhandsvisning av bilder i uppdateringar är oskarp](known-issues-workfront/wf-updates-images-blurred.md)
       + [Rapporter: Rapportfiltret returnerar inte förväntade resultat](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Styrelser: Användaren kan inte se anslagstavlan när användarens team läggs till i styrelsen](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
