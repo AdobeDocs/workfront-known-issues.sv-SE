@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '741'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 mars 2024 |
 | [Korrektur: Det går inte att generera ett korrektur från en webbplats](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 14 mars 2024 |
 | [Sök: Det går inte att redigera från sökning](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 14 mars 2024 |
-| [Loggningstid: Användaren kan inte logga tid för den aktuella dagen](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 14 mars 2024 |
 | [Uppdateringar: Begärande användare kan inte lägga till bilder i uppdateringar](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 mars 2024 |
 | [Koder: Summor för checklistor är inte korrekta](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 23 februari 2024 |
 | [Tavlor: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 22 februari 2024 |

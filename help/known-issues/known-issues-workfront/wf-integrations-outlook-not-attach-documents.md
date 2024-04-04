@@ -4,7 +4,7 @@ description: När en användare skapar en begäran från Outlook bifogas inte do
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 2b09df99-7ba0-4e08-a3c7-a472e12c5970
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Problemet korrigerades den 28 mars 2024.
+>Problemet korrigerades den 4 april 2024.
 
 När en användare skapar en begäran från [!DNL Outlook], bifogas inte dokumenten i e-postmeddelandet till begäran.
 
