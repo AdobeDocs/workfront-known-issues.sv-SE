@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 023b8ed4fe38b3c43c3d78c2ba5c11e965a5c5d0
+source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1481'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporter: 500 fel vid export av en rapport](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [Uppdateringar: &quot;[!UICONTROL We're unable to post your comment]&quot; när du svarar](known-issues-workfront/wf-updates-were-unable-to-post.md)
       + [Uppdateringar: Kommentarerna visas inte[!UICONTROL on behalf of]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
       + [Kalendrar: Fel vid uppdatering av kalender](known-issues-workfront/wf-calendar-error-when-refresh.md)

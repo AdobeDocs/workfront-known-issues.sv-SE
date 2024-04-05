@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
+source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '781'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Rapporter: 500 fel vid export av en rapport](known-issues-workfront/wf-reports-500-error-exporting.md) | 5 april 2024 |
 | [Uppdateringar: Kommentarerna visas inte[!UICONTROL on behalf of]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 4 april 2024 |
 | [Kalendrar: Fel vid uppdatering av kalender](known-issues-workfront/wf-calendar-error-when-refresh.md) | 4 april 2024 |
 | [Uppdateringar: Texten bevaras inte när du navigerar bort och tillbaka till kommentaren](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 4 april 2024 |
