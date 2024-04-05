@@ -3,7 +3,7 @@ title: "Korrektur: Korrektur förhindrar konvertering av uppgifter eller utgåva
 description: "När en användare försöker konvertera en uppgift eller ett problem som innehåller ett webbgenererat korrektur till ett projekt skapas inte projektet och användaren ser ett meddelande. Det finns en lösning."
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: d45d86590821d5a6b7b6856afe2e65b2ff2c3da5
+source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -26,3 +26,4 @@ Utför följande procedur:
 3. Använd funktionen Flytta dokument för att flytta korrekturet till det nya projektet.
 
 _Först rapporterad den 28 mars 2024._
+
