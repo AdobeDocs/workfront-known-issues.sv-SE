@@ -3,7 +3,7 @@ title: "Rapporter: 500 fel vid export av en rapport"
 description: "När en användare försöker exportera en rapport exporteras inte rapporten och användaren ser ett fel. Det finns en lösning."
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
+source-git-commit: 0dbb29f11088b5c963f7972f3ec9e64ee55d6263
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -24,3 +24,4 @@ Detta inträffar när rapporten refererar till ett anpassat valutafält på proj
 Ta bort kolumnen som refererar till det anpassade valutafältet och exportera rapporten igen.
 
 _Först rapporterad den 4 april 2024._
+
