@@ -1,15 +1,15 @@
 ---
-title: "Korrektur: Korrektur förhindrar konvertering av uppgifter eller utgåva till projekt"
-description: "När en användare försöker konvertera en uppgift eller ett problem som innehåller ett webbgenererat korrektur till ett projekt skapas inte projektet och användaren ser ett meddelande. Det finns en lösning."
+title: "Korrektur: Korrektur förhindrar konvertering av uppgift eller utleverans till projekt"
+description: När en användare försöker konvertera en uppgift eller ett problem som innehåller ett webbgenererat korrektur till ett projekt, skapas inte projektet och användaren ser ett meddelande. Det finns en lösning.
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
+exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
+source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # Korrektur: Korrektur förhindrar konvertering av uppgift eller utleverans till projekt
 
@@ -17,7 +17,7 @@ När en användare försöker konvertera en uppgift eller ett problem som inneh�
 
 &quot;[!UICONTROL There was a problem copying the file] \xxxxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Please remove the file or contact support and try again.]&quot;
 
-**Tillfällig lösning**
+**Tillfällig lösning** s
 
 Utför följande procedur:
 
