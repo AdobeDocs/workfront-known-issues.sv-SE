@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
+source-git-commit: 5640fd3a3f03a81104886baeeb37b01abb66fd9a
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Begäranden: Det beräknade fältet uppdateras inte när begäran fylls i](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 9 april 2024 |
 | [Korrektur: Korrektur förhindrar konvertering av uppgift eller utleverans till projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 5 april 2024 |
 | [Uppdateringar: Kommentarerna visas inte[!UICONTROL on behalf of]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 4 april 2024 |
 | [Kalendrar: Fel vid uppdatering av kalender](known-issues-workfront/wf-calendar-error-when-refresh.md) | 4 april 2024 |

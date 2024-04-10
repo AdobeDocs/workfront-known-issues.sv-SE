@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
+source-git-commit: 5640fd3a3f03a81104886baeeb37b01abb66fd9a
 workflow-type: tm+mt
-source-wordcount: '1491'
+source-wordcount: '1501'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Begäranden: Det beräknade fältet uppdateras inte när begäran fylls i](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [Korrektur: Korrektur förhindrar konvertering av uppgift eller utleverans till projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Rapporter: 500 fel vid export av en rapport](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [Uppdateringar: &quot;[!UICONTROL We're unable to post your comment]&quot; när du svarar](known-issues-workfront/wf-updates-were-unable-to-post.md)
