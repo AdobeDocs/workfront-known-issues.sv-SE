@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f39204000f2b83aee0bb7b6347f65b5b508ad9df
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
@@ -44,13 +44,10 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Uppdateringar: Texten bevaras inte när du navigerar bort och tillbaka till kommentaren](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 4 april 2024 |
 | [Uppgifter: Bizcontext-fel när en uppgift läggs till eller tas bort](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
 | [Uppgifter: Föregående information innehåller ingen länk](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 4 april 2024 |
-| [Uppdateringar: &quot;[!UICONTROL We're unable to post your comment]&quot; när du svarar](known-issues-workfront/wf-updates-were-unable-to-post.md) | 4 april 2024 |
 | [Loggningstid: Det går inte att redigera timmar för uppgifter eller problem](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 4 april 2024 |
 | [Anpassade formulär: Externa sökfält returnerar inga resultat](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 4 april 2024 |
-| [Uppdateringar: Förhandsvisning av bilder i uppdateringar är oskarp](known-issues-workfront/wf-updates-images-blurred.md) | 2 april 2024 |
 | [Agile: Kanban-kort visar inte anpassade fält](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 28 mars 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 mars 2024 |
-| [Sök: Det går inte att redigera från sökning](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 14 mars 2024 |
 | [Uppdateringar: Begärande användare kan inte lägga till bilder i uppdateringar](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 mars 2024 |
 | [Koder: Summor för checklistor är inte korrekta](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 23 februari 2024 |
 | [Tavlor: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 22 februari 2024 |

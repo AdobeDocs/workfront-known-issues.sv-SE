@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cc9c9acc9d4ce6543f827e1c8d08a64775e32ecc
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
-source-wordcount: '2787'
+source-wordcount: '2898'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,32 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i april 2024
+
++++**Underhållsuppdatering 11 april 2024**
+
+### Underhållsuppdatering 11 april 2024
+
+#### Sök
+
+**Kan inte redigera från sökning**
+
+När en användare använder Avancerad sökning och försöker redigera eller massredigera sökresultaten, svarar inte redigeringsikonen.
+
+#### Uppdateringar
+
+**Förhandsvisning av bilden i uppdateringar är oskarp**
+
+När en användare tittar på uppdateras och klickar på förstoringsglaset på en bild för att förhandsvisa bilden, blir den förhandsvisning som öppnas extremt pixelerad oskarp.
+
+Om användaren hämtar bilden visas den med den förväntade upplösningen.
+
+**&quot;[!UICONTROL We're unable to post your comment]&quot; när du svarar**
+
+När en användare försöker svara på ett meddelande i den nya kommentarsfunktionen sparas inte svaret och användaren ser följande meddelande:
+
+&quot;[!UICONTROL We're unable to post your comment right now. Please wait a moment then try again.]&quot;
+
++++
 
 +++**Underhållsuppdatering 4 april 2024**
 

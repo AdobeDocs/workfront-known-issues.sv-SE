@@ -3,15 +3,19 @@ title: "Uppdateringar: Förhandsvisning av bilder i uppdateringar är oskarp"
 description: "När en användare tittar på uppdaterar och klickar på förstoringsglaset på en bild för att förhandsvisa bilden blir den förhandsvisning som öppnas extremt pixelerad suddig."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 7edd83bf3f905690b25b4d66ea40455324660b55
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
 
 # Uppdateringar: Förhandsvisning av bilder i uppdateringar är oskarp
+
+>[!NOTE]
+>
+>Problemet korrigerades den 11 april 2024.
 
 När en användare tittar på uppdateras och klickar på förstoringsglaset på en bild för att förhandsvisa bilden, blir den förhandsvisning som öppnas extremt pixelerad oskarp.
 
