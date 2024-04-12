@@ -3,7 +3,7 @@ title: "Begäranden: Fel vid öppning av utkast"
 description: "När en användare skapar en ny begäran och det finns utkast som är kopplade till den begärandekön som visas, öppnas inte utkastet när användaren klickar på ett utkast. Ett fel visas. Det finns en lösning."
 hidefromtoc: true
 feature: Requests
-source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
+source-git-commit: b4044295683aea1d550ad7de2606086e1d89d929
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -22,3 +22,4 @@ När en användare skapar en ny begäran och det finns utkast som är relaterade
 Öppna utkastet från området Utkast i den vänstra navigeringen.
 
 _Först rapporterad den 2 april 2024._
+
