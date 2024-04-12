@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
+| Ingen | |
 
 {style="table-layout:auto"}
 
@@ -35,6 +35,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 12 april 2024 |
+| [Workfront-korrektur: E-signaturer fungerar inte](known-issues-workfront-proof/proof-esignatures-not-working.md) | 12 april 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 mars 2024 |
 | [Korrektur: Fel saknas vid åtkomst av korrektur från e-postlänk](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 november 2023 |
 
