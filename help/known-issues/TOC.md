@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
+source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
 workflow-type: tm+mt
-source-wordcount: '1521'
+source-wordcount: '1542'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppdateringar: Numrerade listor numreras inte korrekt](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+      + [Korrektur: Korrektur som skapats från integreringsresurser har inte mallar och arbetsflöden som används korrekt](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
       + [Begäranden: Fel vid öppning av utkast](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Listor: Listan visar inte alla objekt](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Team: Det går inte att visa teamets ägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
