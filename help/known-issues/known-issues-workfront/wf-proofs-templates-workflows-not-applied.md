@@ -3,7 +3,7 @@ title: "Korrektur: korrektur som skapats från integreringsresurser har inte mal
 description: ""
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 770c89523348785ad9cbdef87ddf6ac75a7d001a
+source-git-commit: 5c23bf3eef69f2ecb3f43bae98b872bdac06a347
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -22,4 +22,3 @@ Följande element har rapporterats som felaktiga i skapade korrektur:
 * E-postmeddelanden (skickas inte)
 
 _Först rapporterad den 28 februari 2024._
-
