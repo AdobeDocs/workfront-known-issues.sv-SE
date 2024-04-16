@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
 workflow-type: tm+mt
-source-wordcount: '2898'
+source-wordcount: '3119'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,40 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i april 2024
+
++++**Underhållsuppdatering 18 april 2024**
+
+### Underhållsuppdatering 18 april 2024
+
+#### Agile
+
+**Kanban-kort visar inte anpassade fält**
+
+När en användare visar en Kanban-tavla som har konfigurerats för att inkludera anpassade fält, kanske dessa anpassade fält inte visas.
+
+#### Kalendrar
+
+**Fel vid uppdatering av kalender**
+
+När en användare visar en kalender och uppdaterar sidan visas ett &quot;Hoppfel&quot;. Data i kalendern visas som förväntat, men kan skymmas av felmeddelandet.
+
+#### Egna formulär
+
+**Externa sökfält returnerar inte resultat**
+
+När ett externt uppslagsfält refererar till ett flervalsfält som bara har ett värde markerat, returnerar fältet inte värdet.
+
+Om ett externt uppslagsfält till exempel refererar till ett flervalsfält som har både röda och blå värden markerade, fungerar fältet som förväntat. Om fältet bara har &quot;röd&quot; markerat returnerar det externa sökfältet inget värde.
+
+#### Projekt
+
+**Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat**
+
+När en utgåva har ett webbkorrektur bifogat (ett URL-korrektur med en länk från en extern dokumentleverantör som SharePoint) och en användare försöker konvertera utgåvan till ett projekt, misslyckas konverteringen och projektet skapas inte. Användaren ser följande fel:
+
+&quot;Det gick inte att kopiera filen (fil-GUID). Ta bort filen eller kontakta supporten och försök igen.&quot;
+
++++
 
 +++**Underhållsuppdatering 11 april 2024**
 
