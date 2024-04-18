@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+source-git-commit: 0acad49eb98af2fc69de97c743e06f648c42637a
 workflow-type: tm+mt
-source-wordcount: '1563'
+source-wordcount: '1571'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppdateringar: Länk i kommentar går till tom skärm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Begäranden: Det går inte att dela sökvägen till begärandekön](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [Användare: Kan inte ta bort användare](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [Uppdateringar: Kommentarer som gjorts via API visas inte i sandlådemiljö](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
