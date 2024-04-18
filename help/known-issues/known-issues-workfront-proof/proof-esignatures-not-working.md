@@ -4,22 +4,18 @@ description: När en användare visar ett korrektur i Workfront Proof och förs�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: ff93f7b2-7d40-44ba-b8f6-f02cda5acde9
-source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # Workfront-korrektur: E-signaturer fungerar inte
 
-
-<!-- 
 >[!NOTE]
 >
->This issue was fixed on April 5, 2024.
-
--->
+>Problemet korrigerades den 18 april 2024.
 
 <!--wf. wfp-->
 

@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '1553'
+source-wordcount: '1563'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Begäranden: Det går inte att dela sökvägen till begärandekön](known-issues-workfront/wf-requests-cannot-share-path.md)
+      + [Användare: Kan inte ta bort användare](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [Uppdateringar: Kommentarer som gjorts via API visas inte i sandlådemiljö](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Uppdateringar: Numrerade listor numreras inte korrekt](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Korrektur: Korrektur som skapats från integreringsresurser har inte mallar och arbetsflöden som används korrekt](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)

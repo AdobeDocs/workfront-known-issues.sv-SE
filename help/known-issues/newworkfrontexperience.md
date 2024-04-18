@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
@@ -38,23 +38,22 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Begäranden: Det går inte att dela sökvägen till begärandekön](known-issues-workfront/wf-requests-cannot-share-path.md) | 18 april 2024 |
+| [Användare: Kan inte ta bort användare](known-issues-workfront/wf-users-unable-to-delete-users.md) | 18 april 2024 |
+| [Uppdateringar: &quot;[!UICONTROL We're unable to post your comment]&quot; när du svarar](known-issues-workfront/wf-updates-were-unable-to-post.md) | 18 april 2024 |
+| [Uppdateringar: Förhandsvisning av bilder i uppdateringar är oskarp](known-issues-workfront/wf-updates-images-blurred.md) | 18 april 2024 |
+| [Koder: Summor för checklistor är inte korrekta](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 18 april 2024 |
 | [Uppdateringar: Numrerade listor numreras inte korrekt](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 15 april 2024 |
-| [Korrektur: Korrektur som skapats från integreringsresurser har inte mallar och arbetsflöden som används korrekt](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | 15 april 2024 |
 | [Begäranden: Fel vid öppning av utkast](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 12 april 2024 |
 | [Listor: Listan visar inte alla objekt](known-issues-workfront/wf-lists-does-not-display-all.md) | 12 april 2024 |
-| [Workfront-korrektur: E-signaturer fungerar inte](known-issues-workfront-proof/proof-esignatures-not-working.md) | 12 april 2024 |
 | [Team: Det går inte att visa teamets ägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [Begäranden: Det beräknade fältet uppdateras inte när begäran fylls i](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 9 april 2024 |
 | [Korrektur: Korrektur förhindrar konvertering av uppgift eller utleverans till projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 5 april 2024 |
 | [Uppdateringar: Kommentarerna visas inte[!UICONTROL on behalf of]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 4 april 2024 |
-| [Kalendrar: Fel vid uppdatering av kalender](known-issues-workfront/wf-calendar-error-when-refresh.md) | 4 april 2024 |
 | [Uppdateringar: Texten bevaras inte när du navigerar bort och tillbaka till kommentaren](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 4 april 2024 |
 | [Uppgifter: Bizcontext-fel när en uppgift läggs till eller tas bort](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
 | [Uppgifter: Föregående information innehåller ingen länk](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 4 april 2024 |
 | [Loggningstid: Det går inte att redigera timmar för uppgifter eller problem](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 4 april 2024 |
-| [Anpassade formulär: Externa sökfält returnerar inga resultat](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 4 april 2024 |
-| [Agile: Kanban-kort visar inte anpassade fält](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 28 mars 2024 |
-| [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 mars 2024 |
 | [Uppdateringar: Begärande användare kan inte lägga till bilder i uppdateringar](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 mars 2024 |
 | [Tavlor: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 22 februari 2024 |
 | [Nytt [!UICONTROL Home]: Widget-filter och grupperingsstandardvärden följer inte layoutmallen](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |

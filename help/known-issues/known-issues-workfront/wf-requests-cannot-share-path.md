@@ -1,0 +1,18 @@
+---
+title: "Begäranden: Det går inte att dela sökvägen till kön för begäran"
+description: "När en användare försöker dela en sökväg till en begärandekö öppnas inte rätt begärandekö av länken. Länken går istället till sidan med förfrågningar."
+hidefromtoc: true
+feature: Requests
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+workflow-type: tm+mt
+source-wordcount: '70'
+ht-degree: 0%
+
+---
+
+
+# Begäranden: Det går inte att dela sökvägen till begärandekön
+
+När en användare försöker dela en sökväg till en begärandekö öppnas inte rätt begärandekö av länken. Länken går i stället till sidan med förfrågningar.
+
+_Först rapporterad den 18 april 2024._
