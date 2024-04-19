@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0acad49eb98af2fc69de97c743e06f648c42637a
+source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
 workflow-type: tm+mt
-source-wordcount: '1571'
+source-wordcount: '1580'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Projekt, uppgifter och problem: Ärvda behörigheter visas inte](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
       + [Uppdateringar: Länk i kommentar går till tom skärm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Begäranden: Det går inte att dela sökvägen till begärandekön](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [Användare: Kan inte ta bort användare](known-issues-workfront/wf-users-unable-to-delete-users.md)

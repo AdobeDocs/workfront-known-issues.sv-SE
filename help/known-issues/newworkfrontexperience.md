@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0acad49eb98af2fc69de97c743e06f648c42637a
+source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '804'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Projekt, uppgifter och problem: Ärvda behörigheter visas inte](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | 19 april 2024 |
 | [Begäranden: Det går inte att dela sökvägen till begärandekön](known-issues-workfront/wf-requests-cannot-share-path.md) | 18 april 2024 |
 | [Användare: Kan inte ta bort användare](known-issues-workfront/wf-users-unable-to-delete-users.md) | 18 april 2024 |
 | [Uppdateringar: &quot;[!UICONTROL We're unable to post your comment]&quot; när du svarar](known-issues-workfront/wf-updates-were-unable-to-post.md) | 18 april 2024 |
