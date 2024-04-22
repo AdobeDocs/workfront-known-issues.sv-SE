@@ -4,7 +4,7 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
 source-wordcount: '798'
 ht-degree: 0%
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Meddelanden: Meddelanden från betaversionen av dokumentgodkännanden är inte korrekt formaterade](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22 april 2024 |
 | [Uppdateringar: Länk i kommentar går till tom skärm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 18 april 2024 |
 | [Uppdateringar: Kommentarer som gjorts via API visas inte i sandlådemiljö](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 15 april 2024 |
 | [Uppgifter: Om du skapar eller duplicerar uppgifter visas uppgiftslistan i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 26 februari 2024 |
@@ -41,7 +42,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 |----------------------------------| ----------------- |
 | [Kort: Kortet återgår kortfattat till ursprungskolumnen](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 22 april 2024 |
 | [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 22 april 2024 |
-| [Projekt, uppgifter och problem: Ärvda behörigheter visas inte](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | 19 april 2024 |
 | [Användare: Kan inte ta bort användare](known-issues-workfront/wf-users-unable-to-delete-users.md) | 18 april 2024 |
 | [Koder: Summor för checklistor är inte korrekta](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 18 april 2024 |
 | [Uppdateringar: Numrerade listor numreras inte korrekt](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 15 april 2024 |
