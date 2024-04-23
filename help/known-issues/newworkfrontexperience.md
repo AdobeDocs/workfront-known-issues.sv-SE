@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
+source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Varukort: Workfront inbyggda fält visas inte på kortet](known-issues-workfront/wf-boards-native-fields-not-display.md) | 23 april 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 23 april 2024 |
 | [Kort: Kortet återgår kortfattat till ursprungskolumnen](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 22 april 2024 |
 | [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 22 april 2024 |
@@ -54,7 +55,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Uppdateringar: Kommentarerna visas inte[!UICONTROL on behalf of]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 4 april 2024 |
 | [Uppdateringar: Texten bevaras inte när du navigerar bort och tillbaka till kommentaren](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 4 april 2024 |
 | [Uppgifter: Bizcontext-fel när en uppgift läggs till eller tas bort](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
-| [Uppgifter: Föregående information innehåller ingen länk](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 4 april 2024 |
 | [Loggningstid: Det går inte att redigera timmar för uppgifter eller problem](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 4 april 2024 |
 | [Uppdateringar: Begärande användare kan inte lägga till bilder i uppdateringar](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 mars 2024 |
 | [Tavlor: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 22 februari 2024 |

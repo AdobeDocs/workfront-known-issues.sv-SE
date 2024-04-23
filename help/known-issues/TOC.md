@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
+source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
 workflow-type: tm+mt
-source-wordcount: '1602'
+source-wordcount: '1611'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Varukort: Workfront inbyggda fält visas inte på kortet](known-issues-workfront/wf-boards-native-fields-not-display.md)
       + [Meddelanden: Meddelanden från betaversionen av dokumentgodkännanden är inte korrekt formaterade](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [Kort: Kortet återgår kortfattat till ursprungskolumnen](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
