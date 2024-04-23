@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
+source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
 workflow-type: tm+mt
-source-wordcount: '798'
+source-wordcount: '810'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 23 april 2024 |
 | [Kort: Kortet återgår kortfattat till ursprungskolumnen](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 22 april 2024 |
 | [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 22 april 2024 |
 | [Användare: Kan inte ta bort användare](known-issues-workfront/wf-users-unable-to-delete-users.md) | 18 april 2024 |

@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
+source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
 workflow-type: tm+mt
-source-wordcount: '3119'
+source-wordcount: '3221'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,26 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i april 2024
+
++++**(Planerat) Underhållsuppdatering 25 april 2024**
+
+### (Planerat) Underhållsuppdatering 25 april 2024
+
+#### Uppdateringar
+
+**Numrerade listor numreras inte korrekt**
+
+När en användare skickar en kommentar som innehåller en numrerad lista visas felaktig numrering i uppdateringen.
+
+Detta har rapporterats i den nya kommentarsfunktionen.
+
+**Texten bevaras inte när du navigerar bort och tillbaka till kommentaren**
+
+När en användare skriver en kommentar som innehåller ett @mention, navigerar sedan bort från och tillbaka till kommentaren innan den skickas, saknas all text som har angetts efter @mention i kommentarutkastet.
+
+Detta har rapporterats i den nya kommentarsfunktionen.
+
++++
 
 +++**Underhållsuppdatering 18 april 2024**
 
