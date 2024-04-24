@@ -1,15 +1,15 @@
 ---
-title: "Integreringar: Filnamnet är null när det skickas till AEM via integrering"
-description: "När en stor fil (över 100 MB) skickas till Adobe Experience Manager via Workfront-integreringen är filnamnet i AEM null. "
+title: 'Integreringar: Filnamnet är null när det skickas till AEM via integration'
+description: '"När en stor fil (över 100 MB) skickas till Adobe Experience Manager via Workfront-integreringen är filnamnet i AEM null. '''
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
+exl-id: c2d15424-ae04-414f-9384-a7b083212313
+source-git-commit: 2110bda5b8f0bec53c0503ce6b3f8da6fce693ca
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
-
 
 # Integreringar: Filnamnet är &quot;null&quot; när det skickas till AEM via integrering
 
@@ -25,3 +25,4 @@ Gör något av följande:
 * Ange filnamnet direkt i AEM.
 
 _Först rapporterad den 23 april 2024._
+
