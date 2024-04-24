@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
+source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '830'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integreringar: Filnamnet är &quot;null&quot; när det skickas till AEM via integrering](known-issues-workfront/wf-integrations-aem-filename-null.md) | 24 april 2024 |
+| [Användare: Det går inte att ändra användarens åtkomstnivå](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 24 april 2024 |
 | [Meddelanden: Meddelanden från betaversionen av dokumentgodkännanden är inte korrekt formaterade](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22 april 2024 |
 | [Uppdateringar: Länk i kommentar går till tom skärm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 18 april 2024 |
 | [Uppdateringar: Kommentarer som gjorts via API visas inte i sandlådemiljö](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 15 april 2024 |
