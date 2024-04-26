@@ -1,17 +1,17 @@
 ---
-title: "Projekt: Det går inte att konvertera utgåva till projekt om det finns ett webbkorrektur bifogat"
-description: När en utgåva har ett webbkorrektur bifogat (ett URL-korrektur med en länk från en extern dokumentleverantör som SharePoint) och en användare försöker konvertera utgåvan till ett projekt, misslyckas konverteringen och projektet skapas inte. Användaren ser ett fel.
+title: 'Projekt: Det går inte att konvertera utgåva till projekt om dokumentet är bifogat'
+description: När en utgåva har ett dokument och en användare försöker konvertera utgåvan till ett projekt misslyckas konverteringen och projektet skapas inte. Användaren ser ett fel.
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
+source-git-commit: 09424954f13298fdfd1ae330c74ea3ff7084c956
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-# Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat
+# Projekt: Det går inte att konvertera utgåva till projekt om dokumentet är bifogat
 
 <!--
 
@@ -21,8 +21,10 @@ ht-degree: 0%
 
 -->
 
-När en utgåva har ett webbkorrektur bifogat (ett URL-korrektur med en länk från en extern dokumentleverantör som SharePoint) och en användare försöker konvertera utgåvan till ett projekt, misslyckas konverteringen och projektet skapas inte. Användaren ser följande fel:
+När en utgåva har ett dokument och en användare försöker konvertera utgåvan till ett projekt misslyckas konverteringen och projektet skapas inte. Användaren ser följande fel:
 
 &quot;Det gick inte att kopiera filen (fil-GUID). Ta bort filen eller kontakta supporten och försök igen.&quot;
+
+Detta har rapporterats både med filer från externa leverantörer och lokala filer.
 
 _Först rapporterad den 4 mars 2024._
