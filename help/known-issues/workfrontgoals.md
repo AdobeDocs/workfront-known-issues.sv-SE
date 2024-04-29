@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Goals]
 keywords: ny fil, lägga till fil
 exl-id: 00d781d5-7394-46dc-b6e7-446323b10118
 feature: Workfront Goals
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,15 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 
 >[!IMPORTANT]
 >
->Mer information om serverns drifttid och avbrott finns i [status.adobe.com](https://status.adobe.com). Information om problem som nyligen har åtgärdats finns i [[!DNL Workfront] Underhållsuppdateringar](../maintenance/current-updates.md).
+>Mer information om serverns drifttid och avbrott finns i [status.adobe.com](https://status.adobe.com). Mer information om problem som nyligen har åtgärdats finns i [[!DNL Workfront] Underhållsuppdateringar](../maintenance/current-updates.md).
 
-**Det finns för närvarande inga kända problem för[!DNL Workfront Goals]**
+## Pågår
+
+Korrigeringar av dessa problem pågår för närvarande eller planeras för den närmaste framtiden.
+
+| **Problem** | **Senast ändrad** |
+|----------------------------------| ----------------- |
+| [[!DNL Workfront Goals]: Det går inte att ta bort målet](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
 
 <!--
 

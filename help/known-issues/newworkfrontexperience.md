@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
+source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
-| [Uppdateringar: Kommentarer som gjorts via API visas inte i sandlådemiljö](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 25 april 2024 |
+| [[!DNL Workfront Goals]: Det går inte att ta bort målet](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
 | [Varukort: Workfront inbyggda fält visas inte på kortet](known-issues-workfront/wf-boards-native-fields-not-display.md) | 23 april 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 23 april 2024 |
 | [Kort: Kortet återgår kortfattat till ursprungskolumnen](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 22 april 2024 |
