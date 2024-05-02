@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3898ec1db137cd7794132a3e27253b0edc73726e
+source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
 workflow-type: tm+mt
-source-wordcount: '754'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projekt: Projekt som skapats med mall matchar inte mallens prioritet](known-issues-workfront/wf-projects-priority-does-not-match-template.md) | 2 maj 2024 |
 | [Meddelanden: Meddelanden från betaversionen av dokumentgodkännanden är inte korrekt formaterade](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2 maj 2024 |
 | [Kontrollkort: Checklistobjektet förblir inte markerat](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2 maj 2024 |
 | [Korrektur: Det går inte att fatta beslut på den privata arbetsflödesfasen](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 1 maj 2024 |
@@ -41,6 +42,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Uppdateringar: Det går inte att tagga en användare med @ på sammanfattningspanelen](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2 maj 2024 |
 | [Användare: Det går inte att ändra användarens åtkomstnivå](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2 maj 2024 |
 | [[!DNL Workfront Goals]: Det går inte att ta bort målet](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 23 april 2024 |

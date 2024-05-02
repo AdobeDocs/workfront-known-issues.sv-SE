@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
+source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
 workflow-type: tm+mt
-source-wordcount: '1651'
+source-wordcount: '1671'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppdateringar: Det går inte att tagga en användare med @ på sammanfattningspanelen](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [Projekt: Projekt som skapats med mall matchar inte mallens prioritet](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [Kontrollkort: Checklistobjektet förblir inte markerat](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Projekt: Fel vid delning av projekt](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [Korrektur: Det går inte att fatta beslut på den privata arbetsflödesfasen](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
