@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
+source-git-commit: f171e93a7f10360d0e504e028e512d5023591693
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '769'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Användare: Det går inte att ändra användarens åtkomstnivå](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2 maj 2024 |
 | [[!DNL Workfront Goals]: Det går inte att ta bort målet](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 23 april 2024 |
-| [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 22 april 2024 |
 | [Användare: Kan inte ta bort användare](known-issues-workfront/wf-users-unable-to-delete-users.md) | 18 april 2024 |
 | [Begäranden: Fel vid öppning av utkast](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 12 april 2024 |
 | [Team: Det går inte att visa teamets ägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
