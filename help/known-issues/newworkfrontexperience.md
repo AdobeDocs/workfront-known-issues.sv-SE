@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f171e93a7f10360d0e504e028e512d5023591693
+source-git-commit: e667606b926c199dfa5d2dd84feee9210426ca3c
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,12 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Projekt: Projekt som skapats med mall matchar inte mallens prioritet](known-issues-workfront/wf-projects-priority-does-not-match-template.md) | 2 maj 2024 |
+| [Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 maj 2024 |
+| [Kort: Avancerat filter returnerar inte förväntade kort](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 7 maj 2024 |
 | [Meddelanden: Meddelanden från betaversionen av dokumentgodkännanden är inte korrekt formaterade](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2 maj 2024 |
 | [Kontrollkort: Checklistobjektet förblir inte markerat](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2 maj 2024 |
 | [Korrektur: Det går inte att fatta beslut på den privata arbetsflödesfasen](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 1 maj 2024 |
-| [Integreringar: Filnamnet är &quot;null&quot; när det skickas till AEM via integrering](known-issues-workfront/wf-integrations-aem-filename-null.md) | 24 april 2024 |
+| [Integrering: Filnamnet är &quot;null&quot; när det skickas till dokumentleverantören via integrering](known-issues-workfront/wf-integrations-aem-filename-null.md) | 24 april 2024 |
 | [Uppgifter: Om du skapar eller duplicerar uppgifter visas uppgiftslistan i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 26 februari 2024 |
 | [korrektur: GIF återges som statiskt korrektur](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
@@ -42,12 +43,13 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Kontrollmoderatorer kan inte redigera behörigheter](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 7 maj 2024 |
+| [Styrelser: Användaren kan inte se den anslagna anslagstavlan](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 7 maj 2024 |
 | [Uppdateringar: Det går inte att tagga en användare med @ på sammanfattningspanelen](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2 maj 2024 |
 | [Användare: Det går inte att ändra användarens åtkomstnivå](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2 maj 2024 |
 | [[!DNL Workfront Goals]: Det går inte att ta bort målet](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 23 april 2024 |
 | [Användare: Kan inte ta bort användare](known-issues-workfront/wf-users-unable-to-delete-users.md) | 18 april 2024 |
-| [Begäranden: Fel vid öppning av utkast](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 12 april 2024 |
 | [Team: Det går inte att visa teamets ägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [Begäranden: Det beräknade fältet uppdateras inte när begäran fylls i](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 9 april 2024 |
 | [Korrektur: Korrektur förhindrar konvertering av uppgift eller utleverans till projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 5 april 2024 |

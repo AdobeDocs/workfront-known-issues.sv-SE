@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
+source-git-commit: 2917cd873a518ae2ecee2e49341e79dacec2c8da
 workflow-type: tm+mt
-source-wordcount: '1671'
+source-wordcount: '1695'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,11 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Kort: Avancerat filter returnerar inte förväntade kort](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
+      + [Kontrollmoderatorer kan inte redigera behörigheter](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
+      + [Styrelser: Användaren kan inte se den anslagna anslagstavlan](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
       + [Uppdateringar: Det går inte att tagga en användare med @ på sammanfattningspanelen](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
-      + [Projekt: Projekt som skapats med mall matchar inte mallens prioritet](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [Kontrollkort: Checklistobjektet förblir inte markerat](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Projekt: Fel vid delning av projekt](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [Korrektur: Det går inte att fatta beslut på den privata arbetsflödesfasen](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
@@ -36,7 +39,6 @@ ht-degree: 0%
       + [Uppdateringar: Kommentarer som gjorts via API visas inte i sandlådemiljö](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Uppdateringar: Numrerade listor numreras inte korrekt](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Korrektur: Korrektur som skapats från integreringsresurser har inte mallar och arbetsflöden som används korrekt](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
-      + [Begäranden: Fel vid öppning av utkast](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Listor: Listan visar inte alla objekt](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Team: Det går inte att visa teamets ägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Begäranden: Det beräknade fältet uppdateras inte när begäran fylls i](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
