@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e667606b926c199dfa5d2dd84feee9210426ca3c
+source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '805'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Tidrapporter: Fäst tidrapport går till tom sida](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 7 maj 2024, 2024 |
 | [Rapporter: Rapportfiltret returnerar inte förväntade resultat](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 1 april 2024 |
 | [Inställningar: Kan inte använda [!UICONTROL Kick-Starts] för att konfigurera grupperingar](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 30 november 2023 |
 | [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 november 2023 |
