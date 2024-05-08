@@ -3,7 +3,7 @@ title: "Tidrapporter: Fäst tidrapport går till tom sida"
 description: "När en användare klickar på ett häftstift i Workfront som är avsett att gå till sin tidrapport, hamnar stiftet i stället på en tom sida. Det finns en lösning."
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 229d3accabec51a7c559279b680336ca096c0e70
+source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 När en användare klickar på ett häftstift i Workfront som är avsett att gå till sin tidrapport, hamnar stiftet i stället på en tom sida.
 
-Detta beror på att URL:en för tidrapporten har ändrats. den `/own` i slutet av URL:en inte längre är rätt URL. Om användaren har fäst en URL som innehåller `/own`, leder nålen till en tom sida.
+Detta beror på att URL:en för tidrapporten har ändrats. The `/own` i slutet av URL:en inte längre är rätt URL. Om användaren har fäst en URL som innehåller `/own`, leder nålen till en tom sida.
 
 **Tillfällig lösning**
 
