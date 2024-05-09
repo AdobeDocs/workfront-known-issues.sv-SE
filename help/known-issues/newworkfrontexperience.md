@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '817'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,10 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 maj 2024 |
-| [Projekt: Projekt som skapats från ett ärende med en mall återspeglar inte prioritetsuppsättningen i mallen](known-issues-workfront/wf-projects-priority-not-transfer.md) | 8 maj 2024 |
 | [Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 maj 2024 |
 | [Kort: Avancerat filter returnerar inte förväntade kort](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 7 maj 2024 |
 | [Meddelanden: Meddelanden från betaversionen av dokumentgodkännanden är inte korrekt formaterade](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2 maj 2024 |
 | [Kontrollkort: Checklistobjektet förblir inte markerat](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2 maj 2024 |
-| [Korrektur: Det går inte att fatta beslut på den privata arbetsflödesfasen](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 1 maj 2024 |
-| [Integrering: Filnamnet är &quot;null&quot; när det skickas till dokumentleverantören via integrering](known-issues-workfront/wf-integrations-aem-filename-null.md) | 24 april 2024 |
 | [Uppgifter: Om du skapar eller duplicerar uppgifter visas uppgiftslistan i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 26 februari 2024 |
 | [korrektur: GIF återges som statiskt korrektur](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
 | [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
@@ -45,6 +42,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Uppdateringar: Länk i kommentar går till tom skärm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 9 maj 2024 |
+| [Projekt: Projekt som skapats från ett ärende med en mall återspeglar inte prioritetsuppsättningen i mallen](known-issues-workfront/wf-projects-priority-not-transfer.md) | 9 maj 2024 |
 | [Kontrollmoderatorer kan inte redigera behörigheter](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 7 maj 2024 |
 | [Styrelser: Användaren kan inte se den anslagna anslagstavlan](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 7 maj 2024 |
 | [Uppdateringar: Det går inte att tagga en användare med @ på sammanfattningspanelen](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2 maj 2024 |

@@ -3,9 +3,9 @@ title: "Uppdateringar: Länk i kommentar går till tom skärm"
 description: "När en användare klickar på en länk som finns i en kommentar dirigeras användaren till en tom skärm med länken. Det finns en lösning."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 0%
 
 # Uppdateringar: Länk i kommentar går till tom skärm
 
+<!--
+
 >[!NOTE]
 >
->Problemet korrigerades den 25 april 2024.
+>This issue was fixed on April 25, 2024.
+
+-->
 
 När en användare klickar på en länk som finns i en kommentar dirigeras användaren till en tom skärm med länken.
 
