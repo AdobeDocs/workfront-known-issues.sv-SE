@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '1733'
+source-wordcount: '1745'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppdateringar: När du kopierar och klistrar in ett omnämnande visas inget meddelande till den angivna användaren](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projekt: Projekt som skapats från ett ärende med en mall återspeglar inte prioritetsuppsättningen i mallen](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Kort: Avancerat filter returnerar inte förväntade kort](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [Tidrapporter: Fäst tidrapport går till tom sida](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)

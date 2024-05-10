@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '806'
 ht-degree: 0%
 
 ---
@@ -42,8 +42,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Uppdateringar: När du kopierar och klistrar in ett omnämnande visas inget meddelande till den angivna användaren](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 10 maj 2024 |
 | [Uppdateringar: Länk i kommentar går till tom skärm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 9 maj 2024 |
-| [Projekt: Projekt som skapats från ett ärende med en mall återspeglar inte prioritetsuppsättningen i mallen](known-issues-workfront/wf-projects-priority-not-transfer.md) | 9 maj 2024 |
 | [Kontrollmoderatorer kan inte redigera behörigheter](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 7 maj 2024 |
 | [Styrelser: Användaren kan inte se den anslagna anslagstavlan](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 7 maj 2024 |
 | [Uppdateringar: Det går inte att tagga en användare med @ på sammanfattningspanelen](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2 maj 2024 |
