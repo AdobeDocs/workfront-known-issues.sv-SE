@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: d023663855896059777698e470ed3e786fab0ce7
+source-git-commit: d1d7562fc57da5ea06c7bf9f47d4a5d4d0169a5e
 workflow-type: tm+mt
-source-wordcount: '1745'
+source-wordcount: '1754'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Integrering: Användarna får fel begärandefel när SSO används](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Uppdateringar: När du kopierar och klistrar in ett omnämnande visas inget meddelande till den angivna användaren](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projekt: Projekt som skapats från ett ärende med en mall återspeglar inte prioritetsuppsättningen i mallen](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Kort: Avancerat filter returnerar inte förväntade kort](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
