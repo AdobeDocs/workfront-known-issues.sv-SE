@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: d1d7562fc57da5ea06c7bf9f47d4a5d4d0169a5e
+source-git-commit: a24eb4021300c88b90eb4aa6a77faa1e94fac321
 workflow-type: tm+mt
-source-wordcount: '1754'
+source-wordcount: '1763'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Begäranden: Det går inte att komma åt instrumentpaneler på begärandesidan (&quot;../skickad&quot; URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [Integrering: Användarna får fel begärandefel när SSO används](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Uppdateringar: När du kopierar och klistrar in ett omnämnande visas inget meddelande till den angivna användaren](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projekt: Projekt som skapats från ett ärende med en mall återspeglar inte prioritetsuppsättningen i mallen](known-issues-workfront/wf-projects-priority-not-transfer.md)

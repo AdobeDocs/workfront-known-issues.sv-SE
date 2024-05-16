@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: dbc353adbacd58cb8b88e340d6c2337cf48b46cd
+source-git-commit: 850294cf3e6fecfa0018e3dafc2e9fd1f8ee95ef
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '821'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Begäranden: Det går inte att komma åt instrumentpaneler på begärandesidan (&quot;../skickad&quot; URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md) | 16 maj 2024 |
 | [Integrering: Användarna får fel begärandefel när SSO används](known-issues-workfront/wf-outlook-wrong-request.md) | 14 maj 2024 |
 | [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 maj 2024 |
 | [Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 maj 2024 |
