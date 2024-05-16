@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5abc91229bcfbeef1a08ffd3db103de4978c3111
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
 workflow-type: tm+mt
-source-wordcount: '3286'
+source-wordcount: '3390'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,24 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i maj 2024
+
++++**Underhållsuppdatering 16 maj 2024**
+
+### Underhållsuppdatering 16 maj 2024
+
+#### Inställningar
+
+**Status för standardutleverans saknas för vissa typer av utleveranser i installationsprogrammet**
+
+När en användare visar problem i installationsprogrammet ser de att standardstatusvärdena för problem (Nytt, Pågår och Fullständigt) saknas i vissa typer av problem. Standardstatusvärden har inte möjlighet att ändra utgåvans typ, så användaren kan inte konfigurera om statusvärdena så att de visas för de berörda utgåvorna.
+
+#### Användare
+
+**Kan inte ta bort användare**
+
+När en användare försöker ta bort användare tas de inte bort. Detta har rapporterats i organisationer som har migrerat till Adobe Admin Console.
+
++++
 
 +++**Underhållsuppdatering 9 maj 2024**
 

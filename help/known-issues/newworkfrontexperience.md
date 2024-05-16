@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d22bba261f1a53625ed46e91609411931420791
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
 workflow-type: tm+mt
-source-wordcount: '816'
+source-wordcount: '811'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Uppdateringar: Det går inte att tagga en användare med @ på sammanfattningspanelen](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2 maj 2024 |
 | [[!DNL Workfront Goals]: Det går inte att ta bort målet](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 23 april 2024 |
-| [Användare: Kan inte ta bort användare](known-issues-workfront/wf-users-unable-to-delete-users.md) | 18 april 2024 |
 | [Team: Det går inte att visa teamets ägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [Begäranden: Det beräknade fältet uppdateras inte när begäran fylls i](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 9 april 2024 |
 | [Korrektur: Korrektur förhindrar konvertering av uppgift eller utleverans till projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 5 april 2024 |
