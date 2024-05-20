@@ -1,17 +1,21 @@
 ---
-title: "Styrelsemöten: Användaren kan inte se den anslagna anslagstavlan"
-description: "När en användare försöker visa en styrelse som teamet är tilldelat kan de inte visa styrelsen. Detta inträffar om användaren läggs till i teamet efter att teamet har tilldelats styrelsen."
+title: 'Böcker: Användaren kan inte se den anslagna tavlan'
+description: När en användare försöker visa en styrelse som teamet är tilldelat kan de inte visa styrelsen. Det här inträffar om användaren läggs till i teamet efter att teamet har tilldelats styrelsen.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
+exl-id: 01c93110-407a-4559-bdc1-3fe04d94a8a1
+source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-
 # Styrelser: Användaren kan inte se den anslagna anslagstavlan
+
+>[!NOTE]
+>
+>Problemet korrigerades den 15 maj 2024.
 
 När en användare försöker visa en styrelse som teamet är tilldelat kan de inte visa styrelsen. Det här inträffar om användaren läggs till i teamet efter att teamet har tilldelats styrelsen.
 
