@@ -1,17 +1,21 @@
 ---
-title: "Korrekturmoderatorer kan inte redigera behörigheter"
-description: "Om en användare som är en korrekturläsare försöker redigera användarbehörigheter i ett arbetsflöde inaktiveras möjligheten att markera eller avmarkera behörigheter."
+title: Kontrollmoderatorer kan inte redigera behörigheter
+description: Om en användare som är en korrekturläsare försöker redigera användarbehörigheter i ett arbetsflöde inaktiveras möjligheten att markera eller avmarkera behörigheter.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
+exl-id: d34b4880-c7b7-48b8-89da-77b7293288ed
+source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-
 # Kontrollmoderatorer kan inte redigera behörigheter
+
+>[!NOTE]
+>
+>Problemet har stängts eftersom det inte gick att reproducera.
 
 Om en användare som är en korrekturläsare försöker redigera användarbehörigheter i ett arbetsflöde inaktiveras möjligheten att markera eller avmarkera behörigheter.
 
