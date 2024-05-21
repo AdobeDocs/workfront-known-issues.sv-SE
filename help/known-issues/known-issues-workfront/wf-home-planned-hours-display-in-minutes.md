@@ -3,9 +3,9 @@ title: "Hem: Planerade timmar visas på några minuter"
 description: "När en användare lägger till en kolumn för planerad timme i en widget i den nya hemupplevelsen, visas de planerade timmarna i minuter."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 405d0861af7f68a5c93b5be76d6b2f6f7e731615
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,3 +16,4 @@ ht-degree: 0%
 När en användare lägger till en kolumn för planerade timmar i en widget i den nya hemupplevelsen, visas de planerade timmarna i minuter.
 
 _Först rapporterad den 1 maj 2024._
+
