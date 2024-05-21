@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
+source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
 workflow-type: tm+mt
-source-wordcount: '3390'
+source-wordcount: '3489'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,22 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i maj 2024
+
++++ **(Planerat) Underhållsuppdatering 23 maj 2024**
+
+### (Planerat) Underhållsuppdatering 23 maj 2024
+
+#### Uppdateringar
+
+**Taggad användare kan inte se vem som taggat dem**
+
+När en användare är taggad i en uppdatering kan de inte se vem som taggat dem. Detta inträffar när inställningen &quot;Personer i andra företag bör endast visa användare från..&quot; är inställd på &quot;Deras företag&quot;.
+
+**Det går inte att tagga en användare med @ i sammanfattningspanelen**
+
+När en användare försöker tagga en annan användare genom att använda @ i uppdateringsområdet på en sammanfattningspanel, är det ineffektivt att klicka på användarens namn i listrutan. Försök att tagga användaren en andra gång fungerar som väntat.
+
++++
 
 +++**Underhållsuppdatering 16 maj 2024**
 
