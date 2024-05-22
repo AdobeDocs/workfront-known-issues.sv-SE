@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
+source-git-commit: 838970835779e238e1739d50ed7d78bdd01069c7
 workflow-type: tm+mt
-source-wordcount: '3489'
+source-wordcount: '3541'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,16 @@ Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar
 +++ **(Planerat) Underhållsuppdatering 23 maj 2024**
 
 ### (Planerat) Underhållsuppdatering 23 maj 2024
+
+#### Rapporter
+
+När en användare visar en rapport och klickar på webbläsarens Bakåt-knapp kan något av följande inträffa:
+
+* Användaren finns kvar på rapportsidan.
+* Användaren dirigeras till webbläsarens landningssida.
+* Användaren dirigeras till inloggningssidan.
+
+Detta har rapporterats i Chrome-webbläsaren.
 
 #### Uppdateringar
 
