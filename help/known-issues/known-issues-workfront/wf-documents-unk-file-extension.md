@@ -1,19 +1,23 @@
 ---
-title: "Dokument: UNK-filtillägg när dokument länkas från integration"
-description: "När en användare länkar ett dokument från en dokumentintegration visas dokumentet i Workfront med filnamnstillägget UNK."
+title: 'Dokument: UNK-filtillägg när dokument länkas från integration'
+description: När en användare länkar ett dokument från en dokumentintegration visas dokumentet i Workfront med filtillägget UNK.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+exl-id: ec37dbaa-4776-423d-abeb-a88691d92d16
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-
 # Dokument: UNK-filtillägg när dokument länkas från integration
 
 <!--WF and WFP-->
+
+>[!NOTE]
+>
+>Problemet har stängts eftersom det inte är ett Workfront-problem.
 
 När en användare länkar ett dokument från en dokumentintegration visas dokumentet i Workfront med filtillägget UNK.
 

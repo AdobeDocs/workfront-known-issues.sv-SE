@@ -4,22 +4,18 @@ description: När en utgåva har ett dokument och en användare försöker konve
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: 09424954f13298fdfd1ae330c74ea3ff7084c956
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
 # Projekt: Det går inte att konvertera utgåva till projekt om dokumentet är bifogat
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on April 18, 2024.
-
--->
+>Problemet korrigerades den 23 maj 2024.
 
 När en utgåva har ett dokument och en användare försöker konvertera utgåvan till ett projekt misslyckas konverteringen och projektet skapas inte. Användaren ser följande fel:
 

@@ -3,15 +3,19 @@ title: "Uppdateringar: Användare med taggar kan inte se vem som taggat dem"
 description: "När en användare är taggad i en uppdatering kan de inte se vem som taggat dem. Detta inträffar när inställningen Personer i andra företag endast ska visa användare från ... är inställd på sitt företag."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 405d0861af7f68a5c93b5be76d6b2f6f7e731615
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 
 # Uppdateringar: Användare med taggar kan inte se vem som taggat dem
+
+>[!NOTE]
+>
+>Problemet korrigerades den 23 maj 2024.
 
 När en användare är taggad i en uppdatering kan de inte se vem som taggat dem. Detta inträffar när inställningen &quot;Personer i andra företag bör endast visa användare från..&quot; är inställd på &quot;Deras företag&quot;.
 
