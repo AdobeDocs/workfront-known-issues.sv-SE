@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8e019afd934a4a5339a9623c4fa2f4a880326bd9
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '791'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [Program: All åtkomst till programmet förloras när användaren uppdaterar åtkomst till programmet](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 20 maj 2024 |
-| [Integrering: Användarna får fel begärandefel när SSO används](known-issues-workfront/wf-outlook-wrong-request.md) | 14 maj 2024 |
 | [Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 maj 2024 |
 | [Uppgifter: Om du skapar eller duplicerar uppgifter visas uppgiftslistan i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 26 februari 2024 |
 | [korrektur: GIF återges som statiskt korrektur](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
@@ -40,6 +39,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Användare: Användare saknas vid grupptilldelning](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 maj 2024 |
 | [Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 24 maj 2024 |
 | [Anpassade formulär: Fel vid redigering av beskrivande textfält](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | 24 maj 2024 |
 | [Grupper: Det går inte att lägga till undergrupp](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 23 maj 2024 |

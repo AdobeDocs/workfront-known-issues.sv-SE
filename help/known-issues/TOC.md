@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '1828'
+source-wordcount: '1835'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Användare: Användare saknas vid grupptilldelning](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Anpassade formulär: Fel vid redigering av beskrivande textfält](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [Grupper: Det går inte att lägga till undergrupp](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [Uppdateringar: Användare med taggar kan inte se vem som taggat dem](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)

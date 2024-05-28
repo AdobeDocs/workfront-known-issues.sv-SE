@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '3539'
+source-wordcount: '3642'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,28 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i maj 2024
+
++++ **(Planerat) Underhållsuppdatering 30 maj 2024**
+
+### (Planerat) Underhållsuppdatering 30 maj 2024
+
+#### Egna formulär
+
+Fel vid redigering av beskrivande textfält
+
+När en användare försöker redigera den beskrivande texten i ett anpassat formulär sparas inte texten och användaren ser följande fel:
+
+&quot;Dubblettnyckelvärdet bryter mot den unika begränsningen&quot;
+
+Detta har rapporterats i den äldre formulärbyggaren.
+
+#### Uppdateringar
+
+**Om du kopierar och klistrar in ett omnämnande visas inget meddelande om detta för den angivna användaren**
+
+När en användare kopierar en kommentar som innehåller ett omnämnande i @-format och sedan klistrar in kommentaren i uppdateringsområdet för ett annat objekt, meddelas inte den aktuella användaren om den inklistrade kommentaren.
+
++++
 
 +++ **Underhållsuppdatering 23 maj 2024**
 
