@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
+source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Uppgifter: Jobbrollen försvinner inte från listan när användaren tilldelas till uppgiften](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 29 maj 2024 |
 | [Program: All åtkomst till programmet förloras när användaren uppdaterar åtkomst till programmet](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 20 maj 2024 |
 | [Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 maj 2024 |
 | [Uppgifter: Om du skapar eller duplicerar uppgifter visas uppgiftslistan i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 26 februari 2024 |
@@ -39,6 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Projekt: Det går inte att konvertera utgåva till projekt om dokumentet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 maj 2024 |
 | [Användare: Användare saknas vid grupptilldelning](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 maj 2024 |
 | [Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 24 maj 2024 |
 | [Anpassade formulär: Fel vid redigering av beskrivande textfält](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | 24 maj 2024 |

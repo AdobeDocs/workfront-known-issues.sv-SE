@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
+source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1849'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppgifter: Jobbrollen försvinner inte från listan när användaren tilldelas till uppgiften](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Användare: Användare saknas vid grupptilldelning](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Anpassade formulär: Fel vid redigering av beskrivande textfält](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [Grupper: Det går inte att lägga till undergrupp](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
