@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
+source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,9 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Projekt: Det går inte att konvertera utgåva till projekt om dokumentet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 maj 2024 |
 | [Användare: Användare saknas vid grupptilldelning](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 maj 2024 |
 | [Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 24 maj 2024 |
-| [Anpassade formulär: Fel vid redigering av beskrivande textfält](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | 24 maj 2024 |
 | [Grupper: Det går inte att lägga till undergrupp](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 23 maj 2024 |
 | [Dokument: Felskärm vid hämtning eller förhandsgranskning av resurser](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 20 maj 2024 |
 | [Användare: Det går inte att ändra användarens åtkomstnivå](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 20 maj 2024 |
-| [Uppdateringar: När du kopierar och klistrar in ett omnämnande visas inget meddelande till den angivna användaren](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 10 maj 2024 |
 | [Uppdateringar: Länk i kommentar går till tom skärm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 9 maj 2024 |
 | [[!DNL Workfront Goals]: Det går inte att ta bort målet](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
 | [Team: Det går inte att visa teamets ägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
