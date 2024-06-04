@@ -1,17 +1,21 @@
 ---
-title: "Inställningar: Inloggad som banderoll visas inte när du är inloggad som en annan användare."
-description: "När en administratör är inloggad som en annan användare visas inte inloggad som banderoll. Användaren påminns inte om att han/hon är inloggad som en annan användare och kan inte logga ut från användarens konto."
+title: 'Konfiguration: Inloggad som banderoll visas inte när du är inloggad som en annan användare.'
+description: När en administratör är inloggad som en annan användare visas inte inloggad som banderoll. Användaren påminns inte om att han/hon är inloggad som en annan användare och kan inte logga ut från användarens konto.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
+exl-id: fc90bd88-933d-480b-a8c0-b653e6070625
+source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
+# Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare
 
-# Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare.
+>[!NOTE]
+>
+>Problemet korrigerades den 30 maj 2024.
 
 När en administratör är inloggad som en annan användare visas inte banderollen Inloggad som. Användaren påminns inte om att han/hon är inloggad som en annan användare och kan inte logga ut från användarens konto.
 
