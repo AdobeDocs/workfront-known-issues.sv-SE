@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '1868'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Dokument: Fel vid användning av en offentlig länk till ett dokument](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [Korrektur: Det går inte att stänga korrekturläsaren](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+      + [Projekt: Delningsmenyn läses inte in](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [Rapporter: Offentliga länkar till en rapport fungerar inte](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL Resource Planner]: Kan inte dela filter](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [Faktiskt slutförandedatum visas som Ej tillämpligt](known-issues-workfront/wf-projects-completion-date-is-na.md)

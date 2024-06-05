@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '809'
+source-wordcount: '824'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,11 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Dokument: Fel vid användning av en offentlig länk till ett dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |
+| [Korrektur: Det går inte att stänga korrekturläsaren](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5 juni 2024 |
+| [Projekt: Delningsmenyn läses inte in](known-issues-workfront/wf-projects-cannot-share-task-issue.md) | 5 juni 2024 |
 | [[!UICONTROL Resource Planner]: Kan inte dela filter](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | 4 juni 2024 |
 | [Faktiskt slutförandedatum visas som Ej tillämpligt](known-issues-workfront/wf-projects-completion-date-is-na.md) | 4 juni 2024 |
-| [Uppdateringar: Användare med taggar kan inte se vem som taggat dem](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | 4 juni 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om dokumentet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 maj 2024 |
 | [Användare: Användare saknas vid grupptilldelning](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 maj 2024 |
 | [Grupper: Det går inte att lägga till undergrupp](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 23 maj 2024 |
