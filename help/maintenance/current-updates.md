@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '3669'
+source-wordcount: '3685'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,13 @@ Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar
 
 +++ **Underhållsuppdatering 6 juni 2024**
 
-Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
+### Underhållsuppdatering 6 juni 2024
+
+#### Egna formulär
+
+**Begränsning för inbyggda fält i formulärdesignern**
+
+Flera inbyggda fält stöds nu i anpassade formulär som skapats i formulärdesignern. Tidigare var gränsen ett internt fält per formulär.
 
 +++
 

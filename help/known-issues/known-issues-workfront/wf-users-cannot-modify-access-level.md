@@ -3,9 +3,9 @@ title: "Användare: Det går inte att ändra användarens åtkomstnivå"
 description: "När en gruppadministratör försöker ändra åtkomstnivån för en användare i gruppen inaktiveras fältet för åtkomstnivå och gruppadministratören kan inte ändra användarens åtkomstnivå."
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 0%
 
 # Användare: Det går inte att ändra användarens åtkomstnivå
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 9, 2024.
-
--->
+>Detta problem korrigerades den 6 juni 2024.
 
 När en gruppadministratör försöker ändra åtkomstnivån för en användare i gruppen inaktiveras fältet för åtkomstnivå och gruppadministratören kan inte ändra användarens åtkomstnivå.
 
