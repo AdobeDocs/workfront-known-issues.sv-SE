@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '758'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Rapporter: Offentliga länkar till en rapport fungerar inte](known-issues-workfront/wf-reports-public-link-not-working.md) | 4 juni 2024 |
-| [Uppgifter: Jobbrollen försvinner inte från listan när användaren tilldelas till uppgiften](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 29 maj 2024 |
-| [Program: All åtkomst till programmet förloras när användaren uppdaterar åtkomst till programmet](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 20 maj 2024 |
 | [Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 maj 2024 |
-| [Uppgifter: Om du skapar eller duplicerar uppgifter visas uppgiftslistan i fel ordning](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 26 februari 2024 |
-| [korrektur: GIF återges som statiskt korrektur](known-issues-workfront/wf-proofs-gif-static-image.md) | 23 januari 2024 |
-| [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 9 januari 2024 |
 
 {style="table-layout:auto"}
 
@@ -41,6 +35,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Program: All åtkomst till programmet förloras när användaren uppdaterar åtkomst till programmet](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 7 juni 2024 |
+| [Uppgifter: Jobbrollen försvinner inte från listan när användaren tilldelas till uppgiften](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 juni 2024 |
 | [Dokument: Fel vid användning av en offentlig länk till ett dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |
 | [Korrektur: Det går inte att stänga korrekturläsaren](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5 juni 2024 |
 | [[!UICONTROL Resource Planner]: Kan inte dela filter](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | 4 juni 2024 |
@@ -49,14 +45,9 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Användare: Användare saknas vid grupptilldelning](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 maj 2024 |
 | [Grupper: Det går inte att lägga till undergrupp](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 23 maj 2024 |
 | [Dokument: Felskärm vid hämtning eller förhandsgranskning av resurser](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 20 maj 2024 |
-| [Uppdateringar: Länk i kommentar går till tom skärm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 9 maj 2024 |
 | [[!DNL Workfront Goals]: Det går inte att ta bort målet](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 29 april 2024 |
 | [Team: Det går inte att visa teamets ägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
-| [Korrektur: Korrektur förhindrar konvertering av uppgift eller utleverans till projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 5 april 2024 |
 | [Uppgifter: Bizcontext-fel när en uppgift läggs till eller tas bort](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
-| [Uppdateringar: Begärande användare kan inte lägga till bilder i uppdateringar](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 8 mars 2024 |
-| [Nytt [!UICONTROL Home]: Widget-filter och grupperingsstandardvärden följer inte layoutmallen](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 4 januari 2024 |
-| [Hem: Uppgifter i projekt med statusen Godkänd eller Planering ingår inte i Mina uppgifter eller Hemarbetslista](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 november 2023 |
 | [[!DNL Workfront]: Problem med att skicka en [!DNL Workfront] supportärende på Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 
 {style="table-layout:auto"}
@@ -67,6 +58,10 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Korrektur förhindrar konvertering av uppgift eller utleverans till projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 juni 2024 |
+| [Uppdateringar: Begärande användare kan inte lägga till bilder i uppdateringar](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 7 juni 2024 |
+| [Hem: Uppgifter i projekt med statusen Godkänd eller Planering ingår inte i Mina uppgifter eller Hemarbetslista](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 7 juni 2024 |
+| [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7 juni 2024 |
 | [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 20 maj 2024 |
 | [Tidrapporter: Fäst tidrapport går till tom sida](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 7 maj 2024, 2024 |
 | [Rapporter: Rapportfiltret returnerar inte förväntade resultat](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 1 april 2024 |

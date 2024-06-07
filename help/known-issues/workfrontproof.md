@@ -4,7 +4,7 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 0%
@@ -39,7 +39,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Korrektur: Det går inte att stänga korrekturläsaren](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5 juni 2024 |
 | [Dokument: Felskärm vid hämtning eller förhandsgranskning av resurser](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 20 maj 2024 |
 | [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 maj 2024 |
-| [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 12 april 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 mars 2024 |
 | [Korrektur: Fel saknas vid åtkomst av korrektur från e-postlänk](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 november 2023 |
 
@@ -51,6 +50,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7 juni 2024 |
 | [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 november 2023 |
 | [[!DNL Workfront Proof]: Det går inte att utöka arbetsflödet](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
 | [Workfront-korrektur: Instrumentpanelsdata är inte alltid korrekta](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 september 2023 |
