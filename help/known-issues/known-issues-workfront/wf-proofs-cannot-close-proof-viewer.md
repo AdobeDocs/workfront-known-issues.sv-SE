@@ -1,27 +1,26 @@
 ---
-title: "Korrektur: Det går inte att stänga korrekturläsaren"
-description: "När en användare visar ett korrektur i korrekturläsaren och försöker stänga korrekturet genom att klicka på krysset i det övre högra hörnet stängs inte korrekturet. Det finns en lösning."
+title: 'Korrektur: Det går inte att stänga korrekturläsaren'
+description: När en användare visar ett korrektur i korrekturläsaren och försöker stänga korrekturet genom att klicka på krysset i det övre högra hörnet, stängs inte korrekturet. Det finns en lösning.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
+source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
-
 
 # Korrektur: Det går inte att stänga korrekturläsaren
 
 När en användare visar ett korrektur i korrekturläsaren och försöker stänga korrekturet genom att klicka på krysset i det övre högra hörnet, stängs inte korrekturet.
 
-Detta har rapporterats vid åtkomst av ett korrektur via en länk i ett e-postmeddelande.
-
 **Tillfällig lösning**
 
 Försök med något av följande:
 
-* Klicka på dokumentnamnet i e-postmeddelandet för att gå till dokumentet och öppna sedan korrekturet därifrån. Detta gör att X:et kan fungera som förväntat.
+* Klicka på dokumentnamnet i e-postmeddelandet för att gå till dokumentet och öppna sedan korrekturet därifrån. Detta kan göra att X:et kan fungera som förväntat.
+* Försök stänga korrekturet igen.
 * Stäng korrekturet genom att stänga webbläsarfliken.
 
 _Först rapporterad den 31 maj 2024._
