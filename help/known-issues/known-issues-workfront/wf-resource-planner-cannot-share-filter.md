@@ -1,17 +1,21 @@
 ---
-title: "Resursplanering: Det går inte att dela filter"
-description: "När en användare försöker dela ett filter i [!UICONTROL Resource Planner], kan de inte dela filtret och se ett felmeddelande."
+title: 'Resursplanering: Det går inte att dela filter'
+description: När en användare försöker dela ett filter i [!UICONTROL Resource Planner]kan de inte dela filtret och se ett felmeddelande.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+exl-id: 0f35655e-96b7-4279-b536-63106276efc3
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-
 # [!UICONTROL Resource Planner]: Kan inte dela filter
+
+>[!NOTE]
+>
+>Detta problem korrigerades den 10 juni 2024.
 
 När en användare försöker dela ett filter i [!UICONTROL Resource Planner], kan de inte dela filtret och se följande meddelande:
 
