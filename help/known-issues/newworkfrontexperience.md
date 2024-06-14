@@ -4,7 +4,7 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 64b4631aa965e303c559fc189cd1fb812a4c027e
+source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
 workflow-type: tm+mt
 source-wordcount: '742'
 ht-degree: 0%
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Resursplanering: [!UICONTROL More] knappen inte visas](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 14 juni 2024 |
 | [Navigering: Bakåtknappen går inte tillbaka till föregående sida](known-issues-workfront/wf-navigation-back-button-not-work.md) | 11 juni 2024 |
 | [Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 maj 2024 |
 
@@ -36,7 +37,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
-| [Status: Det går inte att återanvända tidigare borttagen status](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md) | 13 juni 2024 |
 | [Program: All åtkomst till programmet förloras när användaren uppdaterar åtkomst till programmet](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 7 juni 2024 |
 | [Uppgifter: Jobbrollen försvinner inte från listan när användaren tilldelas till uppgiften](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 juni 2024 |
 | [Dokument: Fel vid användning av en offentlig länk till ett dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |

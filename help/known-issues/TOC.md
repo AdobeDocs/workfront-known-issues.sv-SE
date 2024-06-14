@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
 workflow-type: tm+mt
-source-wordcount: '1910'
+source-wordcount: '1916'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Resursplanering: [!UICONTROL More] knappen inte visas](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [Status: Det går inte att återanvända tidigare borttagen status](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Hem: Det går inte att ta bort widgeten Menyer](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navigering: Bakåtknappen går inte tillbaka till föregående sida](known-issues-workfront/wf-navigation-back-button-not-work.md)
