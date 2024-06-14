@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
+source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '761'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrering: Problem med integrering med Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
+| [Rapporter: Fel vid visning av rapportinformation som är grupperad efter anpassat datum](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 14 juni 2024 |
 | [Resursplanering: [!UICONTROL More] knappen inte visas](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 14 juni 2024 |
 | [Navigering: Bakåtknappen går inte tillbaka till föregående sida](known-issues-workfront/wf-navigation-back-button-not-work.md) | 11 juni 2024 |
 | [Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 maj 2024 |

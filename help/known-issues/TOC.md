@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4d5f810258b537324feb23e53f370a2c55877a0b
+source-git-commit: 82b4e84ed06aab1c4f6da30196f000413f910706
 workflow-type: tm+mt
-source-wordcount: '1512'
+source-wordcount: '1529'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Integrering: Problem med integrering med Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
+      + [Rapporter: Fel vid visning av rapportinformation som är grupperad efter anpassat datum](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Resursplanering: [!UICONTROL More] knappen inte visas](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [Status: Det går inte att återanvända tidigare borttagen status](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
