@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: 54183096bca61f6bf6e58062555b9e07282137f1
 workflow-type: tm+mt
-source-wordcount: '3720'
+source-wordcount: '3824'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,27 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i juni 2024
+
++++**(Planerat) Underhållsuppdatering 20 juni 2024**
+
+### (Planerat) Underhållsuppdatering 20 juni 2024
+
+#### Navigering
+
+**Bakåtknappen går inte tillbaka till föregående sida**
+
+När en användare i Workfront klickar på knappen Bakåt i webbläsaren kan något av följande inträffa.
+
+* Namnet på webbläsarfliken ändras, men sidan ändras inte. Problemet kan eventuellt lösas genom att du klickar på knappen Bakåt igen.
+* Användaren dirigeras till sin webbläsarstartsida.
+
+#### Korrektur
+
+**Det går inte att stänga korrekturläsaren**
+
+När en användare visar ett korrektur i korrekturläsaren och försöker stänga korrekturet genom att klicka på krysset i det övre högra hörnet, stängs inte korrekturet.
+
++++
 
 +++**Underhållsuppdatering 13 juni 2024**
 
