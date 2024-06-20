@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 54183096bca61f6bf6e58062555b9e07282137f1
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
 workflow-type: tm+mt
-source-wordcount: '3824'
+source-wordcount: '3822'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i juni 2024
 
-+++**(Planerat) Underhållsuppdatering 20 juni 2024**
++++**Underhållsuppdatering 20 juni 2024**
 
-### (Planerat) Underhållsuppdatering 20 juni 2024
+### Underhållsuppdatering 20 juni 2024
 
 #### Navigering
 

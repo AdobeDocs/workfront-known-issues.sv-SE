@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
 workflow-type: tm+mt
-source-wordcount: '1550'
+source-wordcount: '1554'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Godkännanden: För många omdirigeringar](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Uppdateringar: Den kopierade länken klistras inte in korrekt](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [Rapporter:&quot;Inga data att visa&quot; när gruppnamnet har ett snedstreck eller ett bakåtstreck](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [Integrering: Problem med integrering med Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)

@@ -1,17 +1,21 @@
 ---
-title: "Navigering: knappen Bakåt går inte tillbaka till föregående sida"
-description: "När en användare i Workfront klickar på knappen Bakåt i webbläsaren fungerar den inte som förväntat."
+title: 'Navigering: Tillbaka-knappen går inte tillbaka till föregående sida'
+description: När en användare i Workfront klickar på knappen Bakåt i webbläsaren fungerar den inte som förväntat.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
+exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-
 # Navigering: Bakåtknappen går inte tillbaka till föregående sida
+
+>[!NOTE]
+>
+>Detta problem korrigerades den 20 juni 2024.
 
 När en användare i Workfront klickar på knappen Bakåt i webbläsaren kan något av följande inträffa.
 
