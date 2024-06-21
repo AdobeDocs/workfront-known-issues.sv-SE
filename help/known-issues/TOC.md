@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0c35343702267443ecc8cc3c506f941ed479b81e
+source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
 workflow-type: tm+mt
-source-wordcount: '1565'
+source-wordcount: '1584'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporter: Rapporten läses inte in när standardvalutan är USD](known-issues-workfront/wf-reports-default-currency-error.md)
+      + [Styrelser: anslagstavlan visas inte som användare när man använder [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md)
       + [Hem: Widgeten Mina problem visar inte stängda eller slutförda problem](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [Godkännanden: För många omdirigeringar](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Uppdateringar: Den kopierade länken klistras inte in korrekt](known-issues-workfront/wf-updates-pasted-link-not-complete.md)

@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Godkännanden: För många omdirigeringar](known-issues-workfront/wf-approvals-redirect-too-many-times.md) | 20 juni 2024 |
+| [Styrelser: anslagstavlan visas inte som användare när man använder [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | 21 juni 2024 |
 | [Rapporter:&quot;Inga data att visa&quot; när gruppnamnet har ett snedstreck eller ett bakåtstreck](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 18 juni 2024 |
 | [Integrering: Problem med integrering med Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
 | [Rapporter: Fel vid visning av rapportinformation som är grupperad efter anpassat datum](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 14 juni 2024 |
@@ -40,6 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Rapporter: Rapporten läses inte in när standardvalutan är USD](known-issues-workfront/wf-reports-default-currency-error.md) | 21 juni 2024 |
 | [Uppdateringar: Den kopierade länken klistras inte in korrekt](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 19 juni 2024 |
 | [Dokument: Felskärm vid hämtning eller förhandsgranskning av resurser](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 17 juni 2024 |
 | [Uppgifter: Jobbrollen försvinner inte från listan när användaren tilldelas till uppgiften](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 juni 2024 |
@@ -58,6 +59,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Hem: Widgeten Mina problem visar inte stängda eller slutförda problem](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 20 juni 2024 |
 | [Hem: Det går inte att ta bort widgeten Menyer](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 12 juni 2024 |
 | [Korrektur: Korrektur förhindrar konvertering av uppgift eller utleverans till projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 juni 2024 |
 | [Uppdateringar: Begärande användare kan inte lägga till bilder i uppdateringar](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 7 juni 2024 |
