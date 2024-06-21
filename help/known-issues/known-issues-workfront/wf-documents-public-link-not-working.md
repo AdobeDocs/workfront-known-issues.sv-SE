@@ -1,17 +1,21 @@
 ---
-title: "Dokument: Fel vid användning av en offentlig länk till ett dokument"
-description: "När en användare klickar på en offentlig länk för att gå till ett dokument i Workfront kan ett fel uppstå."
+title: 'Dokument: Fel vid användning av en offentlig länk till ett dokument'
+description: När en användare klickar på en offentlig länk för att gå till ett dokument i Workfront kan ett fel uppstå.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
+source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-
 # Dokument: Fel vid användning av en offentlig länk till ett dokument
+
+>[!NOTE]
+>
+>Problemet har åtgärdats.
 
 När en användare klickar på en offentlig länk för att gå till ett dokument i Workfront kan ett av följande fel uppstå:
 

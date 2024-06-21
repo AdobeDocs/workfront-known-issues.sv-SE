@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
+source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '792'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Om du klickar på korrekturnamnet visas inget](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 21 juni 2024 |
 | [Styrelser: anslagstavlan visas inte som användare när man använder [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | 21 juni 2024 |
 | [Rapporter:&quot;Inga data att visa&quot; när gruppnamnet har ett snedstreck eller ett bakåtstreck](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 18 juni 2024 |
 | [Integrering: Problem med integrering med Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
@@ -44,7 +45,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Uppdateringar: Den kopierade länken klistras inte in korrekt](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 19 juni 2024 |
 | [Dokument: Felskärm vid hämtning eller förhandsgranskning av resurser](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 17 juni 2024 |
 | [Uppgifter: Jobbrollen försvinner inte från listan när användaren tilldelas till uppgiften](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 juni 2024 |
-| [Dokument: Fel vid användning av en offentlig länk till ett dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om dokumentet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 maj 2024 |
 | [Användare: Användare saknas vid grupptilldelning](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 maj 2024 |
 | [Team: Det går inte att visa teamets ägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
