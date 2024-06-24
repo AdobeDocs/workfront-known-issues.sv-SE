@@ -4,16 +4,20 @@ description: Layoutmallar från den klassiska Workfront-upplevelsen är inte lä
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
 # Layoutmallar: Layoutmallar orsakar inkonsekvenser i rapporter
 
-<!--Live for workaround-->
+<!--Can delete after 9/24/2024-->
+
+>[!NOTE]
+>
+>Problemet har åtgärdats.
 
 Layoutmallar från Classic [!DNL Workfront] upplevelsen är inte längre tillgänglig i [!DNL Workfront] gränssnitt, men kan fortfarande påverka [!DNL Workfront] data. Detta kan orsaka inkonsekvenser i fält som påverkas av layoutmallar (som [!UICONTROL Shared with]) på rapporter eller kontrollpaneler.
 

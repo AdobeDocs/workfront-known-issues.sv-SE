@@ -4,7 +4,7 @@ description: När en användare försöker få åtkomst till ett dokument som ä
 hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -23,6 +23,6 @@ Detta är en känd [!DNL SharePoint] problem som inträffar när platsen har en 
 
 **Tillfällig lösning**
 
-[!DNL SharePoint] rekommenderar att du genererar en kort URL och använder den för länken.
+[!DNL SharePoint] rekommenderar att du genererar en kort URL-adress och använder den för länken.
 
 _Först rapporterad den 14 mars 2023._
