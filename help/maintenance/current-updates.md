@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
 workflow-type: tm+mt
-source-wordcount: '3822'
+source-wordcount: '3927'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,26 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i juni 2024
+
++++**(Planerat) Underhållsuppdatering 27 juni 2024**
+
+### (Planerat) Underhållsuppdatering 27 juni 2024
+
+#### Rapporter
+
+**Rapporten läses inte in när standardvalutan är USD**
+
+När en användare försöker visa en rapport som har standardvalutan som USD läses rapporten inte in.
+
+#### Uppdateringar
+
+**Den kopierade länken klistras inte in korrekt**
+
+Om en användare kopierar en länk från en uppdatering genom att högerklicka och välja &quot;[!UICONTROL Copy link address]&quot;, klistrar sedan in länken i en uppdatering och länken klistras inte in korrekt. Endast den första delen av länken är en länk, och resten av URL:en ignoreras.
+
+Kopiera länken med en annan metod[!UICONTROL Copy link address]&quot; tillåter att länken klistras in som förväntat.
+
++++
 
 +++**Underhållsuppdatering 20 juni 2024**
 
