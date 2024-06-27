@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
 workflow-type: tm+mt
-source-wordcount: '1620'
+source-wordcount: '1638'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Projekt: Fel vid gruppredigering av projekt](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
+      + [Uppgifter: Att söka efter förnamn i aktivitetstilldelning returnerar inte användare](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [Integrering: länka mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [Korrektur: Om du stänger ett korrektur kommer du till sidan Produktdokument](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [Integrering: Det går inte att lägga till en ny version av ett dokument från [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
@@ -89,7 +91,7 @@ ht-degree: 0%
       + [Uppdateringar: Texten bevaras inte när du navigerar bort och tillbaka till kommentaren](known-issues-workfront/wf-updates-text-missing-after-mention.md)
       + [Uppgifter: Bizcontext-fel när en uppgift läggs till eller tas bort](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [Uppgifter: Föregående information innehåller ingen länk](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
-      + [Workfront-korrektur: E-signaturer fungerar inte](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [Workfront Proof: E-signaturer fungerar inte](known-issues-workfront-proof/proof-esignatures-not-working.md)
       + [Layoutmall: Startsidan är felaktig](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [Loggningstid: Det går inte att redigera timmar för uppgifter eller problem](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
       + [Anpassade formulär: Externa sökfält returnerar inga resultat](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
@@ -193,8 +195,8 @@ ht-degree: 0%
       + [[!UICONTROL Workfront Proof]: Det går inte att ändra ordning på resurser när ett korrektur skapas](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: Inkorrekt tidsstämpel på [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: Det går inte att utöka arbetsflödet](known-issues-workfront-proof/proof-cannot-view-workflow.md)
-      + [Workfront-korrektur: Instrumentpanelsdata är inte alltid korrekta](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
-      + [Workfront-korrektur: Sökdata är inte alltid korrekta](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
+      + [Workfront Proof: Instrumentpanelsdata är inte alltid korrekta](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
+      + [Workfront Proof: Sökdata är inte alltid korrekta](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: 500 fel vid åtkomst [!DNL Workfront Proof] via API eller [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: Listor är inte korrekt sorterade](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
