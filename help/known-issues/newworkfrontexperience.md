@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '795'
 ht-degree: 0%
 
 ---
@@ -44,8 +44,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
-| [Rapporter: Rapporten läses inte in när standardvalutan är USD](known-issues-workfront/wf-reports-default-currency-error.md) | 21 juni 2024 |
-| [Uppdateringar: Den kopierade länken klistras inte in korrekt](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 19 juni 2024 |
 | [Dokument: Felskärm vid hämtning eller förhandsgranskning av resurser](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 17 juni 2024 |
 | [Uppgifter: Jobbrollen försvinner inte från listan när användaren tilldelas till uppgiften](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 juni 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om dokumentet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 maj 2024 |

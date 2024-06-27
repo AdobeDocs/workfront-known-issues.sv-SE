@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7e617a611bf88f2133ba83746596f6336efa1593
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '3979'
+source-wordcount: '3925'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar
 
 ## Uppdateringar i juni 2024
 
-+++**(Planerat) Underhållsuppdatering 27 juni 2024**
++++**Underhållsuppdatering 27 juni 2024**
 
-### (Planerat) Underhållsuppdatering 27 juni 2024
+### Underhållsuppdatering 27 juni 2024
 
 #### Rapporter
 
@@ -39,14 +39,6 @@ När en användare försöker visa en rapport som har standardvalutan som USD l�
 Om en användare kopierar en länk från en uppdatering genom att högerklicka och välja &quot;[!UICONTROL Copy link address]&quot;, klistrar sedan in länken i en uppdatering och länken klistras inte in korrekt. Endast den första delen av länken är en länk, och resten av URL:en ignoreras.
 
 Kopiera länken med en annan metod[!UICONTROL Copy link address]&quot; tillåter att länken klistras in som förväntat.
-
-#### Användare
-
-**Användare saknas vid grupptilldelning**
-
-När en användare försöker göra grupptilldelningar och en jobbroll tilldelas till uppgiften, visas inte användare med den jobbrollen i listan och den tilldelande användaren kan inte markera dem.
-
-Det här beteendet har också rapporterats i arbetsbelastningsutjämnaren.
 
 +++
 
@@ -131,7 +123,7 @@ När en användare visar en rapport och klickar på webbläsarens Bakåt-knapp k
 * Användaren dirigeras till webbläsarens landningssida.
 * Användaren dirigeras till inloggningssidan.
 
-Detta har rapporterats i Chrome-webbläsaren.
+Detta har rapporterats i Chrome webbläsare.
 
 #### Uppdateringar
 
@@ -462,9 +454,9 @@ När de planerade timmarna i ett projekt uppdateras uppdateras de inte i Utjämn
 
 ++**Workfront Fusion Maintenance Update den 7 mars 2024
 
-**Workfront Proof > Watch Proof Module - timeout**
+**Workfront Proof > Titta på korrekturmodulens timeout**
 
-Scenarier där Workfront Proof > Watch Proof-modulen används kan inaktiveras på grund av timeout för Watch-korrekturmodulen.
+Scenarier som använder Workfront Proof > Bevakningskorrektur kan inaktiveras på grund av timeout för modulen Bevakningsbevis.
 
 +++
 
