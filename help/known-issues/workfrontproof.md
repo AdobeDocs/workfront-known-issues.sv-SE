@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | -----------------------------------------------------------------| ----------------- |
 | [Dokument: Fel vid användning av en offentlig länk till ett dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |
 | [Korrektur: Det går inte att stänga korrekturläsaren](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5 juni 2024 |
-| [Dokument: Felskärm vid hämtning eller förhandsgranskning av resurser](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 20 maj 2024 |
 | [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 maj 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 mars 2024 |
 | [Korrektur: Fel saknas vid åtkomst av korrektur från e-postlänk](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 november 2023 |
@@ -57,8 +56,8 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7 juni 2024 |
 | [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 november 2023 |
 | [[!DNL Workfront Proof]: Det går inte att utöka arbetsflödet](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
-| [Workfront-korrektur: Instrumentpanelsdata är inte alltid korrekta](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 september 2023 |
-| [Workfront-korrektur: Sökdata är inte alltid korrekta](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 september 2023 |
+| [Workfront Proof: Instrumentpanelsdata är inte alltid korrekta](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 september 2023 |
+| [Workfront Proof: Sökdata är inte alltid korrekta](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 september 2023 |
 | [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 augusti 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 juni 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |

@@ -1,17 +1,21 @@
 ---
-title: "Resursplanering: Knappen Mer visas inte"
-description: "När en användare visar resursplaneraren och försöker klicka på [!UICONTROL More] knappen visas inte. Det finns en lösning."
+title: 'Resursplanering: Knappen Mer visas inte'
+description: När en användare visar resursplaneraren och försöker klicka på [!UICONTROL More] knappen visas inte. Det finns en lösning.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
+exl-id: 7aa5a227-cdbe-4131-921a-78a87235879a
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
-
 # Resursplanering: [!UICONTROL More] knappen inte visas
+
+>[!NOTE]
+>
+>Problemet stängdes den 27 juni 2024.
 
 När en användare visar resursplaneraren och försöker klicka på [!UICONTROL More] knappen visas inte.
 
