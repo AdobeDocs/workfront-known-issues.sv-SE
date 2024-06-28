@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
+source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '807'
 ht-degree: 0%
 
 ---
@@ -25,12 +25,13 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokument: Felaktigt antal dokument](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
+| [Navigering: Bakåtknappen går inte tillbaka till föregående sida](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
 | [Projekt: Fel vid gruppredigering av projekt](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 27 juni 2024 |
 | [Uppgifter: Att söka efter förnamn i aktivitetstilldelning returnerar inte användare](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 27 juni 2024 |
 | [Integrering: länka mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 | [Korrektur: Om du stänger ett korrektur kommer du till sidan Produktdokument](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 24 juni 2024 |
 | [Integrering: Det går inte att lägga till en ny version av ett dokument från [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 24 juni 2024 |
-| [Korrektur: Om du klickar på korrekturnamnet visas inget](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 21 juni 2024 |
 | [Styrelser: anslagstavlan visas inte som användare när man använder [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | 21 juni 2024 |
 | [Rapporter:&quot;Inga data att visa&quot; när gruppnamnet har ett snedstreck eller ett bakåtstreck](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 18 juni 2024 |
 | [Integrering: Problem med integrering med Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |

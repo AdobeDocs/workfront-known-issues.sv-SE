@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
+source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokument: Felaktigt antal dokument](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [Integrering: länka mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 | [Korrektur: Om du stänger ett korrektur kommer du till sidan Produktdokument](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 24 juni 2024 |
 | [Integrering: Det går inte att lägga till en ny version av ett dokument från [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 24 juni 2024 |
