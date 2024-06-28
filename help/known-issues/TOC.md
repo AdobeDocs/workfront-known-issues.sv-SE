@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
-source-wordcount: '1643'
+source-wordcount: '1652'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Faktureringsposter: Knappen Lägg till fler faktureringsposter saknas](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [Dokument: Felaktigt antal dokument](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [Projekt: Fel vid gruppredigering av projekt](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
       + [Uppgifter: Att söka efter förnamn i aktivitetstilldelning returnerar inte användare](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
