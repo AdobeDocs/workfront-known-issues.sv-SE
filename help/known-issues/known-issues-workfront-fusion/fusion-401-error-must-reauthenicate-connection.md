@@ -1,21 +1,25 @@
 ---
 title: '''[!DNL Workfront Fusion]: Det gick inte att verifiera anslutningsfelet'
-description: '"Workfront Fusion-anslutningar till ett Workfront-konto kan misslyckas med autentiseringen, vilket orsakar följande fel i scenarierna: Det gick inte att verifiera anslutningen.'
+description: "Workfront Fusion-anslutningar till ett Workfront-konto kan misslyckas med autentiseringen, vilket kan orsaka följande fel: Det gick inte att verifiera anslutningen."
 hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 feature: Workfront Fusion
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: e64b507317a384626b33f81802737c17b210af24
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 # [!DNL Workfront Fusion]: Felet &quot;Det gick inte att verifiera anslutningen&quot;
 
+>[!NOTE]
+>
+>Problemet har åtgärdats.
+
 <!--This article is live by request for the workaround-->
 
-[!UICONTROL Workfront Fusion] anslutningar till [!DNL Workfront] Kontot kan misslyckas med autentiseringen, vilket orsakar följande fel:
+[!UICONTROL Workfront Fusion] anslutningar till [!DNL Workfront] Kontot kan misslyckas med autentiseringen, vilket orsakar följande fel i scenarierna:
 
 Det gick inte att verifiera anslutningen.
 

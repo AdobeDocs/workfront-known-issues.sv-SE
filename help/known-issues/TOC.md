@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
+source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
 workflow-type: tm+mt
-source-wordcount: '1652'
+source-wordcount: '1706'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,13 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Hem: Det går inte att öppna objekt från [!UICONTROL Home Calendar] eller [!UICONTROL Work List]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
+      + [Anpassade formulär: Anpassat formulär tas inte bort från dokumentet](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
+      + [Problem: Fel vid avancerad tilldelning till ett problem](known-issues-workfront/wf-issues-error-when-making-assignment.md)
+      + [Portfolio: Användaren kan inte ange portfölj](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Workfront: Anpassad terminologi används inte](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
+      + [Tid: Filtrerad timtyp är inte standard vid loggningstid](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [Faktureringsposter: Knappen Lägg till fler faktureringsposter saknas](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [Dokument: Felaktigt antal dokument](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [Projekt: Fel vid gruppredigering av projekt](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
