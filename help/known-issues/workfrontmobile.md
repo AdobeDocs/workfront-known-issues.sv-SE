@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront] Mobilapp
 keywords: ny fil, lägga till fil
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 
 >[!IMPORTANT]
 >
->Mer information om serverns drifttid och avbrott finns i [status.adobe.com](https://status.adobe.com). Information om problem som nyligen har åtgärdats finns i [[!DNL Workfront] Underhållsuppdateringar](../maintenance/current-updates.md).
+>Mer information om serverns drifttid och avbrott finns i [status.adobe.com](https://status.adobe.com). Mer information om problem som nyligen har åtgärdats finns i [[!DNL Workfront] Underhållsuppdateringar](../maintenance/current-updates.md).
 
-**Det finns för närvarande inga kända problem för[!DNL Workfront Mobile]**
+<!--**There are currently no known issues for [!DNL Workfront Mobile]**
 
-<!--
+
 
 ## Current Issues
 
@@ -30,3 +30,11 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 |Issue text  | YYYY/MM/DD  | 
 
 -->
+
+## Nytt
+
+Dessa nyligen rapporterade problem granskas för närvarande.
+
+| **Problem** | **Senast ändrad** |
+| -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile: Kan inte öppna korrektur](known-issues-workfront/wf-mobile-proofs-not-open.md) | 9 juli 2024 |

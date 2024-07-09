@@ -4,9 +4,9 @@ description: Rapporterade kända fel för [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '444'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile: Kan inte öppna korrektur](known-issues-workfront/wf-mobile-proofs-not-open.md) | 9 juli 2024 |
 | [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
 | [Anpassade formulär: Anpassat formulär tas inte bort från dokumentet](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 8 juli 2024 |
 | [Dokument: Felaktigt antal dokument](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |

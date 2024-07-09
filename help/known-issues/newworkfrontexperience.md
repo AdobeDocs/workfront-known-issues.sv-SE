@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '854'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | [Korrektur: Om du stänger ett korrektur kommer du till sidan Produktdokument](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 24 juni 2024 |
 | [Integrering: Det går inte att lägga till en ny version av ett dokument från [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 24 juni 2024 |
 | [Styrelser: anslagstavlan visas inte som användare när man använder [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) | 21 juni 2024 |
-| [Rapporter:&quot;Inga data att visa&quot; när gruppnamnet har ett snedstreck eller ett bakåtstreck](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 18 juni 2024 |
 | [Integrering: Problem med integrering med Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
 | [Rapporter: Fel vid visning av rapportinformation som är grupperad efter anpassat datum](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 14 juni 2024 |
 | [Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 maj 2024 |
@@ -50,11 +49,11 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Korrektur: Det går inte att stänga korrekturläsaren](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 9 juli 2024 |
 | [Problem: Fel vid avancerad tilldelning till ett problem](known-issues-workfront/wf-issues-error-when-making-assignment.md) | 8 juli 2024 |
 | [Portfolio: Användaren kan inte ange portfölj](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 8 juli 2024 |
 | [Workfront: Anpassad terminologi används inte](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 8 juli 2024 |
 | [Tid: Filtrerad timtyp är inte standard vid loggningstid](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | 8 juli 2024 |
-| [Uppgifter: Jobbrollen försvinner inte från listan när användaren tilldelas till uppgiften](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 juni 2024 |
 | [Projekt: Det går inte att konvertera utgåva till projekt om dokumentet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 maj 2024 |
 | [Användare: Användare saknas vid grupptilldelning](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 maj 2024 |
 | [Team: Det går inte att visa teamets ägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |

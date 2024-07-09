@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
-source-wordcount: '3951'
+source-wordcount: '4175'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,56 @@ Följande underhållsuppdateringar gjordes 2024.
 >Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
 
 Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
+
+## Uppdateringar i juli 2024
+
++++**(Planerat) Underhållsuppdatering 11 juli 2024**
+
+### (Planerat) Underhållsuppdatering 11 juli 2024
+
+#### Problem
+
+**Fel vid avancerad tilldelning av ett problem**
+
+När en användare försöker göra en avancerad tilldelning till ett problem i Workfront, tilldelas inte problemet och användaren ser följande felmeddelande:
+
+&quot;[!UICONTROL APIModel INTERNAL does not support field duration (OpTask)]&quot;
+
+#### Rapporter
+
+**Hoppfel när matrisinställningar anges i timrapporten**
+
+När en användare försöker ställa in matrisinställningarna för en timrapport kan de inte ställa in inställningarna och de ser följande fel:
+
+* &quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+
+
++++
+
++++**Underhållsuppdatering 4 juli 2024**
+
+### Underhållsuppdatering 4 juli 2024
+
+#### Startsida
+
+**Trepunktsmenyn är ineffektiv**
+
+När en användare klickar på menyn med tre punkter mer i den äldre Home Worlkist utlöses ingen åtgärd.
+
+#### Rapporter
+
+**&quot;Det finns inga data att visa&quot; när gruppnamnet innehåller snedstreck eller omvända snedstreck**
+
+När en användare visar ett diagram i en rapport och klickar på en gruppering i diagrammet och den grupperingen har namnet / eller \, visas inte de öppna detaljerna i grupperingen och användaren ser meddelandet&quot;Inga data att visa&quot;.
+
+#### Uppgifter
+
+**Jobbrollen försvinner inte från listan när användaren tilldelas till uppgiften**
+
+När en jobbroll tilldelas till en uppgift och den uppgiften tilldelas till en användare som har jobbrollen, försvinner inte jobbrollen från listan med tilldelningar.
+
+
++++
 
 ## Uppdateringar i juni 2024
 
