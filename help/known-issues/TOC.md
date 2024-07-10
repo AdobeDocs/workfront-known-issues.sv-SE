@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel [!DNL Adobe Workfront]
 role: User
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
 workflow-type: tm+mt
-source-wordcount: '1711'
+source-wordcount: '1726'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Agile: Artikelbordet blir tomt när du lägger till en underaktivitet](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
+      + [Användare: Sidan för användarprofilen läses in kontinuerligt](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile: Kan inte öppna korrektur](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [Hem: Det går inte att öppna objekt från [!UICONTROL Home Calendar] eller [!UICONTROL Work List]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)

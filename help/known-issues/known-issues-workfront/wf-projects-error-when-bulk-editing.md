@@ -3,15 +3,19 @@ title: "Projekt: Fel vid gruppredigering av projekt"
 description: "När en användare försöker gruppredigera projekt är redigeringsfönstret tomt och användaren ser ett fel."
 hidefromtoc: true
 feature: Projects
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 
 # Projekt: Fel vid gruppredigering av projekt
+
+>[!NOTE]
+>
+>Problemet korrigerades den 8 juli 2024.
 
 När en användare försöker gruppredigera projekt är redigeringsfönstret tomt och användaren ser följande fel:
 

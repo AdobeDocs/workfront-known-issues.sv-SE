@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Problem** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile: Artikelbordet blir tomt när du lägger till en underaktivitet](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 10 juli 2024 |
 | [Hem: Det går inte att öppna objekt från [!UICONTROL Home Calendar] eller [!UICONTROL Work List]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | 8 juli 2024 |
 | [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
 | [Anpassade formulär: Anpassat formulär tas inte bort från dokumentet](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 8 juli 2024 |
 | [Faktureringsposter: Knappen Lägg till fler faktureringsposter saknas](known-issues-workfront/wf-billing-records-new-button-missing.md) | 28 juni 2024 |
 | [Dokument: Felaktigt antal dokument](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [Navigering: Bakåtknappen går inte tillbaka till föregående sida](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
-| [Projekt: Fel vid gruppredigering av projekt](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 27 juni 2024 |
 | [Uppgifter: Att söka efter förnamn i aktivitetstilldelning returnerar inte användare](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 27 juni 2024 |
 | [Integrering: länka mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 | [Korrektur: Om du stänger ett korrektur kommer du till sidan Produktdokument](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 24 juni 2024 |
@@ -49,6 +49,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Problem** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Användare: Sidan för användarprofilen läses in kontinuerligt](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 10 juli 2024 |
 | [Korrektur: Det går inte att stänga korrekturläsaren](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 9 juli 2024 |
 | [Problem: Fel vid avancerad tilldelning till ett problem](known-issues-workfront/wf-issues-error-when-making-assignment.md) | 8 juli 2024 |
 | [Portfolio: Användaren kan inte ange portfölj](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 8 juli 2024 |
