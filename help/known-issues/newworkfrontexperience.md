@@ -4,9 +4,9 @@ description: Rapporterade kända fel för nya [!DNL Adobe Workfront] Upplevelse
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '853'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 |----------------------------------| ----------------- |
 | [Användare: Sidan för användarprofilen läses in kontinuerligt](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 10 juli 2024 |
 | [Korrektur: Det går inte att stänga korrekturläsaren](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 9 juli 2024 |
-| [Problem: Fel vid avancerad tilldelning till ett problem](known-issues-workfront/wf-issues-error-when-making-assignment.md) | 8 juli 2024 |
 | [Portfolio: Användaren kan inte ange portfölj](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 8 juli 2024 |
 | [Workfront: Anpassad terminologi används inte](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 8 juli 2024 |
 | [Tid: Filtrerad timtyp är inte standard vid loggningstid](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | 8 juli 2024 |
