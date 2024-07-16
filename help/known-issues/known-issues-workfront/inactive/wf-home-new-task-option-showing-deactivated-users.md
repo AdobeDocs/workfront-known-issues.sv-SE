@@ -1,6 +1,6 @@
 ---
 title: 'Hem: Alternativet Ny aktivitet visar inaktiverade användare i fältet Tilldela till'
-description: När en användare befinner sig på den nya [!DNL Adobe Workfront] upplevelsen skapar en ny uppgift eller ett problem i hemområdet och försöker tilldela en användare. Inaktiverade användare visas som val i dialogrutan [!UICONTROL typeahead] listruta.
+description: När en användare i den nya  [!DNL Adobe Workfront] funktionen skapar en ny uppgift eller ett problem i Hem-området och försöker tilldela en användare, visas inaktiverade användare som markeringar i listrutan [!UICONTROL typeahead] .
 exl-id: 32257ac1-9804-4793-9c37-62ca5608df3d
 feature: Get Started with Workfront, Tasks
 hidefromtoc: true
@@ -11,10 +11,10 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Home]: [!UICONTROL New Task] visa inaktiverade användare i [!UICONTROL Assign To] fält
+# [!UICONTROL Home]: Alternativet [!UICONTROL New Task] som visar inaktiverade användare i fältet [!UICONTROL Assign To]
 
 <!--Valid issue, won't fix-->
 
-När en användare befinner sig på den nya [!DNL Adobe Workfront] upplevelsen skapar en ny uppgift eller ett nytt problem i [!UICONTROL Home] och de försöker tilldela en användare, visas inaktiverade användare som markeringar i typsnittslistan.
+När en användare i den nya [!DNL Adobe Workfront]-upplevelsen skapar en ny uppgift eller ett problem i [!UICONTROL Home]-området och försöker tilldela en användare, visas inaktiverade användare som markeringar i listrutan med skrivhuvud.
 
 _Först rapporterad den 15 juni 2021._

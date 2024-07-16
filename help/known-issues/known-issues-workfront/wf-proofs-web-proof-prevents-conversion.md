@@ -21,7 +21,7 @@ När en användare försöker konvertera en uppgift eller ett problem som inneh�
 
 &quot;[!UICONTROL There was a problem copying the file] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\. [!UICONTROL Please remove the file or contact support and try again.]&quot;
 
-**Tillfällig lösning** s
+**Tillfällig lösning**
 
 Utför följande procedur:
 

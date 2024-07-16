@@ -15,8 +15,8 @@ ht-degree: 0%
 
 <!--Won't fix tab, article live by request-->
 
-När ett korrektors status ändras, [!UICONTROL Document] lista som visar att korrektur inte visar rätt ny status.
+När statusen för ett korrektur ändras visas inte rätt ny status i en [!UICONTROL Document]-lista.
 
-The [!UICONTROL Proof Workflow] sida in [!DNL Workfront] visar korrekturets korrekta status.
+På sidan [!UICONTROL Proof Workflow] i [!DNL Workfront] visas korrekturets korrekta status.
 
 _Först rapporterad den 3 augusti 2022._

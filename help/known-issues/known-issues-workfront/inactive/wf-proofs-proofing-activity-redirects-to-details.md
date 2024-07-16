@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Korrektur: [!UICONTROL Proof Activity] tabböppna [!UICONTROL Proof Details]
+# Korrektur: [!UICONTROL Proof Activity]-fliken öppnas [!UICONTROL Proof Details]
 
 <!--This article is on WF and WFP TOCs-->
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >Problemet har stängts.
 
-När en användare visar ett korrektur och klickar på[!UICONTROL Proof Activity] -fliken, [!UICONTROL Proof Details] öppnas i stället. Detta inträffar när ett korrekturstadium har lagts till manuellt i arbetsflödet.
+När en användare visar ett korrektur och klickar på fliken [!UICONTROL Proof Activity] öppnas fliken [!UICONTROL Proof Details] i stället. Detta inträffar när ett korrekturstadium har lagts till manuellt i arbetsflödet.
 
 **Tillfällig lösning**
 

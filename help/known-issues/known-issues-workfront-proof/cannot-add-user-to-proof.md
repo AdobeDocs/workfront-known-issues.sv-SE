@@ -1,5 +1,5 @@
 ---
-title: '"Korrektur: Det går inte att lägga till användare i korrektur genom att tagga användaren i en kommentar'
+title: "Korrektur: Det går inte att lägga till användare i korrektur genom att tagga användaren i en kommentar"
 description: När en användare taggar en annan användare som inte finns med i korrekturet i en kommentar, har de inte möjlighet att välja en jobbroll eller e-postadress för användaren och kan därför inte lägga till användaren i korrekturet.
 exl-id: 0ed7af8f-b177-4839-8045-24a5be2c764f
 hidefromtoc: true

@@ -1,26 +1,65 @@
 ---
 title: Workfront Maintenance Updates
-description: Underhållsuppdateringar för [!DNL Adobe Workfront]
+description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
+source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
 workflow-type: tm+mt
-source-wordcount: '4173'
+source-wordcount: '4328'
 ht-degree: 0%
 
 ---
 
-# [!DNL Workfront] Underhållsuppdateringar
+# [!DNL Workfront] underhållsuppdateringar
 
 Följande underhållsuppdateringar gjordes 2024.
 
 >[!NOTE]
 >
->Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
+>Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Support meddelar dig när ett problem som du har skickat har åtgärdats.
 
-Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
+Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i juli 2024
+
+
+
++++**(Planerad) underhållsuppdatering 18 juli 2024**
+
+### (Planerat) Underhållsuppdatering den 18 juli 2024
+
+#### Agile
+
+**Artikelbordet blir tomt när en underaktivitet läggs till**
+
+När en användare försöker lägga till en underaktivitet på en artikelanslagstavla medan ett filter är markerat, blir skärmen tom och användaren kan inte lägga till underaktiviteten.
+
+#### Startsida
+
+**Kan inte öppna objekt från [!UICONTROL Home Calendar] eller[!UICONTROL Work List]**
+
+När en användare försöker öppna ett arbetsobjekt eller ett korrektur från sin [!UICONTROL Home Calendar] eller [!UICONTROL Home Work List] öppnas inte objektet.
+
+#### Korrektur
+
+**Om du stänger ett korrektur leder det till sidan Produktdokument**
+
+När en användare visar ett korrektur och stänger korrekturet dirigeras användaren till sidan Projektdokument i stället för till sidan som korrekturet öppnades från.
+
+#### Workfront
+
+**Anpassad terminologi används inte**
+
+Anpassad terminologi som angetts i layoutmallen visas inte i vissa områden i Workfront. I stället visas den icke-anpassade standardterminologin.
+
+Detta har rapporterats i följande områden:
+
+* Menyflikar
+* Sidhuvuden
+* Beskrivningar där projekt listas
+
+
++++
 
 +++**Underhållsuppdatering 11 juli 2024**
 
@@ -32,15 +71,15 @@ Underhållsuppdateringar före 2024 finns på [Tidigare underhållsuppdateringar
 
 När en användare försöker göra en avancerad tilldelning till ett problem i Workfront, tilldelas inte problemet och användaren ser följande felmeddelande:
 
-&quot;[!UICONTROL APIModel INTERNAL does not support field duration (OpTask)]&quot;
+[!UICONTROL APIModel INTERNAL does not support field duration (OpTask)]
 
 #### Rapporter
 
-**Hoppfel när matrisinställningar anges i timrapporten**
+**Hoppfel vid inställning av matrisinställningar i timrapporten**
 
 När en användare försöker ställa in matrisinställningarna för en timrapport kan de inte ställa in inställningarna och de ser följande fel:
 
-* &quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+* [!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]
 
 
 +++
@@ -57,13 +96,13 @@ När en användare klickar på menyn med tre punkter mer i den äldre Home Worlk
 
 #### Rapporter
 
-**&quot;Det finns inga data att visa&quot; när gruppnamnet innehåller snedstreck eller omvända snedstreck**
+**&quot;Inga data att visa&quot; när grupperingsnamnet har snedstreck eller omvänt snedstreck**
 
 När en användare visar ett diagram i en rapport och klickar på en gruppering i diagrammet och den grupperingen har namnet / eller \, visas inte de öppna detaljerna i grupperingen och användaren ser meddelandet&quot;Inga data att visa&quot;.
 
 #### Uppgifter
 
-**Jobbrollen försvinner inte från listan när användaren tilldelas till uppgiften**
+**Jobbrollen försvinner inte från listan när användaren tilldelas till aktiviteten**
 
 När en jobbroll tilldelas till en uppgift och den uppgiften tilldelas till en användare som har jobbrollen, försvinner inte jobbrollen från listan med tilldelningar.
 
@@ -92,9 +131,9 @@ När en användare försöker visa en rapport som har standardvalutan som USD l�
 
 **Den kopierade länken klistras inte in korrekt**
 
-Om en användare kopierar en länk från en uppdatering genom att högerklicka och välja &quot;[!UICONTROL Copy link address]&quot;, klistrar sedan in länken i en uppdatering och länken klistras inte in korrekt. Endast den första delen av länken är en länk, och resten av URL:en ignoreras.
+Om en användare kopierar en länk från en uppdatering genom att högerklicka och välja [!UICONTROL Copy link address] och sedan klistrar in länken i en uppdatering, klistras länken inte in korrekt. Endast den första delen av länken är en länk, och resten av URL:en ignoreras.
 
-Kopiera länken med en annan metod[!UICONTROL Copy link address]&quot; tillåter att länken klistras in som förväntat.
+Om du kopierar länken med en annan metod, [!UICONTROL Copy link address], kan länken klistras in som förväntat.
 
 +++
 
@@ -113,7 +152,7 @@ När en användare i Workfront klickar på knappen Bakåt i webbläsaren kan nå
 
 #### Korrektur
 
-**Det går inte att stänga korrekturläsaren**
+**Kan inte stänga korrekturläsaren**
 
 När en användare visar ett korrektur i korrekturläsaren och försöker stänga korrekturet genom att klicka på krysset i det övre högra hörnet, stängs inte korrekturet.
 
@@ -125,7 +164,7 @@ När en användare visar ett korrektur i korrekturläsaren och försöker stäng
 
 #### Grupper
 
-**Kan inte lägga till undergrupp**
+**Det går inte att lägga till undergrupp**
 
 När en användare försöker lägga till en befintlig undergrupp i en grupp, är knappen Spara inaktiv och undergruppen läggs inte till.
 
@@ -161,7 +200,7 @@ Detta har rapporterats i den äldre formulärbyggaren.
 
 #### Uppdateringar
 
-**Om du kopierar och klistrar in ett omnämnande visas inget meddelande om detta för den angivna användaren**
+**Om du kopierar och klistrar in ett omnämnande visas inget meddelande för den angivna användaren**
 
 När en användare kopierar en kommentar som innehåller ett omnämnande i @-format och sedan klistrar in kommentaren i uppdateringsområdet för ett annat objekt, meddelas inte den aktuella användaren om den inklistrade kommentaren.
 
@@ -183,11 +222,11 @@ Detta har rapporterats i Chrome webbläsare.
 
 #### Uppdateringar
 
-**Taggad användare kan inte se vem som taggat dem**
+**Taggad användare kan inte se vem som taggade dem**
 
 När en användare är taggad i en uppdatering kan de inte se vem som taggat dem. Detta inträffar när inställningen &quot;Personer i andra företag bör endast visa användare från..&quot; är inställd på &quot;Deras företag&quot;.
 
-**Det går inte att tagga en användare med @ i sammanfattningspanelen**
+**Det går inte att tagga en användare med @ på sammanfattningspanelen**
 
 När en användare försöker tagga en annan användare genom att använda @ i uppdateringsområdet på en sammanfattningspanel, är det ineffektivt att klicka på användarens namn i listrutan. Försök att tagga användaren en andra gång fungerar som väntat.
 
@@ -199,7 +238,7 @@ När en användare försöker tagga en annan användare genom att använda @ i u
 
 #### Inställningar
 
-**Status för standardutleverans saknas för vissa typer av utleveranser i installationsprogrammet**
+**Standardstatus för problem saknas i vissa problemtyper i installationen**
 
 När en användare visar problem i installationsprogrammet ser de att standardstatusvärdena för problem (Nytt, Pågår och Fullständigt) saknas i vissa typer av problem. Standardstatusvärden har inte möjlighet att ändra utgåvans typ, så användaren kan inte konfigurera om statusvärdena så att de visas för de berörda utgåvorna.
 
@@ -215,7 +254,7 @@ När en användare försöker ta bort användare tas de inte bort. Detta har rap
 
 ### Underhållsuppdatering 9 maj 2024
 
-Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
+Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Support meddelar dig när ett problem som du har skickat har åtgärdats.
 
 +++
 
@@ -239,7 +278,7 @@ När en användare försöker redigera timmar för en uppgift eller ett problem 
 
 #### Uppdateringar
 
-**Numrerade listor numreras inte korrekt**
+**Numrerade listor är inte korrekt numrerade**
 
 När en användare skickar en kommentar som innehåller en numrerad lista visas felaktig numrering i uppdateringen.
 
@@ -265,7 +304,7 @@ När en användare visar en Kanban-tavla som har konfigurerats för att inkluder
 
 #### Kalendrar
 
-**Fel vid uppdatering av kalender**
+**Fel vid uppdatering av kalendern**
 
 När en användare visar en kalender och uppdaterar sidan visas ett &quot;Hoppfel&quot;. Data i kalendern visas som förväntat, men kan skymmas av felmeddelandet.
 
@@ -279,7 +318,7 @@ Om ett externt uppslagsfält till exempel refererar till ett flervalsfält som h
 
 #### Projekt
 
-**Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat**
+**Det går inte att konvertera utgåvan till ett projekt om det finns ett webbkorrektur bifogat**
 
 När en utgåva har ett webbkorrektur bifogat (ett URL-korrektur med en länk från en extern dokumentleverantör som SharePoint) och en användare försöker konvertera utgåvan till ett projekt, misslyckas konverteringen och projektet skapas inte. Användaren ser följande fel:
 
@@ -293,7 +332,7 @@ När en utgåva har ett webbkorrektur bifogat (ett URL-korrektur med en länk fr
 
 #### Sök
 
-**Kan inte redigera från sökning**
+**Det går inte att redigera från sökning**
 
 När en användare använder Avancerad sökning och försöker redigera eller massredigera sökresultaten, svarar inte redigeringsikonen.
 
@@ -305,11 +344,11 @@ När en användare tittar på uppdateras och klickar på förstoringsglaset på 
 
 Om användaren hämtar bilden visas den med den förväntade upplösningen.
 
-**&quot;[!UICONTROL We're unable to post your comment]&quot; när du svarar**
+**[!UICONTROL We're unable to post your comment]-meddelande vid svar**
 
 När en användare försöker svara på ett meddelande i den nya kommentarsfunktionen sparas inte svaret och användaren ser följande meddelande:
 
-&quot;[!UICONTROL We're unable to post your comment right now. Please wait a moment then try again.]&quot;
+[!UICONTROL We're unable to post your comment right now. Please wait a moment then try again.]
 
 +++
 
@@ -319,7 +358,7 @@ När en användare försöker svara på ett meddelande i den nya kommentarsfunkt
 
 #### Sök
 
-**Kan inte redigera från sökning**
+**Det går inte att redigera från sökning**
 
 När en användare använder Avancerad sökning och försöker redigera eller massredigera sökresultaten, svarar inte redigeringsikonen.
 
@@ -331,11 +370,11 @@ När en användare tittar på uppdateras och klickar på förstoringsglaset på 
 
 Om användaren hämtar bilden visas den med den förväntade upplösningen.
 
-**&quot;[!UICONTROL We're unable to post your comment]&quot; när du svarar**
+**[!UICONTROL We're unable to post your comment]-meddelande vid svar**
 
 När en användare försöker svara på ett meddelande i den nya kommentarsfunktionen sparas inte svaret och användaren ser följande meddelande:
 
-&quot;[!UICONTROL We're unable to post your comment right now. Please wait a moment then try again.]&quot;
+[!UICONTROL We're unable to post your comment right now. Please wait a moment then try again.]
 
 +++
 
@@ -347,11 +386,12 @@ När en användare försöker svara på ett meddelande i den nya kommentarsfunkt
 
 **Dokument som inte bifogas när en begäran skapas från[!DNL Outlook]**
 
-När en användare skapar en begäran från [!DNL Outlook], bifogas inte dokumenten i e-postmeddelandet till begäran.
+När en användare skapar en begäran från [!DNL Outlook] bifogas inte dokumenten till e-postmeddelandet till begäran.
 
 Detta har rapporterats för följande typer av bifogade filer:
 
-XLS PDF
+XLS
+PDF
 
 #### Loggningstid
 
@@ -383,11 +423,12 @@ De gamla kommentarfunktionerna fungerar som förväntat.
 
 **Dokument som inte bifogas när en begäran skapas från[!DNL Outlook]**
 
-När en användare skapar en begäran från [!DNL Outlook], bifogas inte dokumenten i e-postmeddelandet till begäran.
+När en användare skapar en begäran från [!DNL Outlook] bifogas inte dokumenten till e-postmeddelandet till begäran.
 
 Detta har rapporterats för följande typer av bifogade filer:
 
-XLS PDF
+XLS
+PDF
 
 #### Korrektur
 
@@ -397,7 +438,7 @@ Ett korrektur som ska försvinna från widgeten Mina godkännanden finns kvar p�
 
 #### Resurshantering
 
-**Skillnad i budgeterade timmar**
+**Discreency in Budget Hours**
 
 Budgeterade timmar som visas i något av följande områden kanske inte matchar dem som visas i något av dessa områden:
 
@@ -433,7 +474,7 @@ Detta har rapporterats i de tidigare kommentarerna.
 
 **RuntimeError med 200 svar från Workfront-modulen**
 
-En Workfront-modul kan returnera en `RuntimeError [200]` svar. 2000 innebär ett lyckat svar, men felet visar att begäran misslyckades.
+En Workfront-modul kan returnera ett `RuntimeError [200]`-svar. 2000 innebär ett lyckat svar, men felet visar att begäran misslyckades.
 
 Detta kan inträffa om svaret är mycket långt. Data returneras till Fusion, men kan inte behandlas av Fusion.
 
@@ -473,19 +514,19 @@ Detta gäller även korrektur som skapats via API och Workfront Fusion.
 
 #### Användare
 
-**Lägre åtkomstnivåer är inte tillgängliga när användaren skapas**
+**Lägre åtkomstnivåer är inte tillgängliga när en användare skapas**
 
 När en användare skapar en annan användare är endast den första användarens åtkomstnivå tillgänglig för den nya användaren. Alla åtkomstnivåer med lägre behörigheter än de som användaren skapar bör vara tillgängliga att tilldela till den nya användaren.
 
 +++
 
-+++**Underhållsuppdatering 7 mars 2024**
++++**Underhållsuppdatering den 7 mars 2024**
 
 ### Underhållsuppdatering 7 mars 2024
 
 #### Varumärkena
 
-**400 fel när en uppgift läggs till på en anslagstavla**
+**400-fel när en uppgift läggs till på en anslagstavla**
 
 När en användare visar ett projekt och försöker lägga till en uppgift på en anslagstavla läggs uppgiften inte till och användaren ser följande fel:
 
@@ -502,7 +543,7 @@ När en användare försöker att infoga en redigering i widgeten Mina uppgifter
 
 #### Utjämning av arbetsbelastning
 
-**Planerade timmar uppdateras inte i Utjämning av arbetsbelastning**
+**Planerade timmar uppdateras inte i arbetsbelastningsutjämnaren**
 
 När de planerade timmarna i ett projekt uppdateras uppdateras de inte i Utjämning av arbetsbelastning. Detta kan inträffa även om ändringen återspeglas korrekt i projektet.
 
@@ -510,7 +551,7 @@ När de planerade timmarna i ett projekt uppdateras uppdateras de inte i Utjämn
 
 ++**Workfront Fusion Maintenance Update den 7 mars 2024
 
-**Workfront Proof > Titta på korrekturmodulens timeout**
+**Workfront Proof > Titta på korrekturmodulen - timeout**
 
 Scenarier som använder Workfront Proof > Bevakningskorrektur kan inaktiveras på grund av timeout för modulen Bevakningsbevis.
 
@@ -524,7 +565,7 @@ Scenarier som använder Workfront Proof > Bevakningskorrektur kan inaktiveras p�
 
 #### Uppdateringar
 
-**Uppdateringar: Skärmen blir tom när en användare från ett annat företag svarar**
+**Uppdateringar: Skärmen blir tom när en användare från ett annat företag svarar.**
 
 När en användare försöker svara på en kommentar av en användare i ett annat företag, blir skärmen tom.
 
@@ -538,12 +579,12 @@ Detta beror på att användaren inte har behörighet att se användare från and
 
 #### Startsida
 
-**[!UICONTROL Home]: [!UICONTROL Workspace] och punkter inte läses in**
+**[!UICONTROL Home]: [!UICONTROL Workspace] och punkter läses inte in**
 
 När en användare loggar in kan följande inträffa:
 
-* Användarens nya [!UICONTROL Home Workspace] läser inte in och felmeddelandet visas &quot;[!UICONTROL We are unable to load your Workspace information. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
-* Användarens stift läses inte in och felet visas[!UICONTROL Your pins are unavailable because of a system error. Try refreshing your browser to fix the problem.]&quot;
+* Användarens nya [!UICONTROL Home Workspace] läses inte in och felet [!UICONTROL We are unable to load your Workspace information. Please contact Workfront so we can figure out what went wrong and fix it.] visas
+* Användarens stift läses inte in och felet [!UICONTROL Your pins are unavailable because of a system error. Try refreshing your browser to fix the problem.] visas
 
 #### Användare
 
@@ -560,7 +601,7 @@ När en gruppadministratör försöker ändra åtkomstnivån för en användare 
 
 **Etikett för ej arbetstid**
 
-Utjämning av arbetsbelastning och personlig tid i kalendern visas nu[!UICONTROL Non-working Hours]&quot; för den tid som en användare ger sig av. Tidigare visades &quot;[!UICONTROL Working Hours]&quot; för arbetstid.
+Utjämning av arbetsbelastning och personlig tid i kalendern visar nu [!UICONTROL Non-working Hours] för den tid som en användare startar. Tidigare visades [!UICONTROL Working Hours] för ledig tid.
 
 +++
 
@@ -570,13 +611,13 @@ Utjämning av arbetsbelastning och personlig tid i kalendern visas nu[!UICONTROL
 
 #### Problem
 
-**Tidsfält sparar felaktig tid vid gruppredigering**
+**Tidsfält sparar felaktig tid vid gruppredigering av problem**
 
 När en användare gör stora redigeringsproblem och väljer ett datum och en tid för ett datumfält och sparar, är tiden som sparas i det här fältet i utgåvan inte den tid som användaren valde. I stället ser tiden ut att konverteras till UTC när användaren sparar.
 
 #### Uppgifter
 
-**Användaren är inte tilldelad från en eller flera uppgifter**
+**Användaren har inte tilldelats från en eller flera uppgifter**
 
 En användare kan automatiskt tas bort från en uppgift som de har tilldelats. Detta kan inträffa för en eller flera uppgifter. Uppdelningen visas inte i aktiviteternas systemuppdateringar, men den visas inte i avsnittet Uppdatera feeds på inställningsmenyn.
 
@@ -584,7 +625,7 @@ En användare kan automatiskt tas bort från en uppgift som de har tilldelats. D
 
 **Alternativet Inaktiverad bild är tillgängligt när du redigerar en kommentar**
 
-Efter [!DNL Workfront] administratören har inaktiverat alternativet att lägga till bilder i kommentarer. Det alternativet är inte tillgängligt när du skapar en kommentar. Om en användare redigerar en befintlig kommentar är dock bildalternativet tillgängligt.
+När en [!DNL Workfront]-administratör har inaktiverat alternativet att lägga till bilder i kommentarer, är det alternativet inte tillgängligt när du skapar en kommentar. Om en användare redigerar en befintlig kommentar är dock bildalternativet tillgängligt.
 
 +++
 
@@ -594,23 +635,23 @@ Efter [!DNL Workfront] administratören har inaktiverat alternativet att lägga 
 
 #### Varumärkena
 
-**Det går inte att flytta ett kort i en kolumn med hjälp av [!UICONTROL Move] alternativ**
+**Det går inte att flytta ett kort i en kolumn med [!UICONTROL Move] options**
 
-När en användare försöker flytta ett kort i en kolumn med hjälp av[!UICONTROL Top of column]&quot; eller &quot;[!UICONTROL Bottom of column]&quot;i menyn med tre punkter flyttas kortet inte.
+När en användare försöker flytta ett kort i en kolumn med alternativen [!UICONTROL Top of column] eller [!UICONTROL Bottom of column] i menyn med tre punkter flyttas inte kortet.
 
-**Korten behålls vid ändring av upprepning**
+**Kort behålls när upprepning ändras**
 
 När en användare visar en upprepning på en anslagstavla och sedan ändrar upprepningen, är korten som visas för den nya upprepningen korten från en iteration som användaren visade tidigare.
 
 #### Rapporter
 
-**Kolumnen Inget värde visar inga resultat**
+Kolumnen **&quot;Inget värde&quot; visar inga resultat**
 
-När en diagramrapport har[!DNL No value]kolumnen visar inga data, även om det ska finnas data.
+När en diagramrapport har en [!DNL No value]-kolumn visar kolumnen inga data, även om det finns data.
 
 #### Resurshantering
 
-**Felaktiga ekonomiska beräkningar på grund av problem med jobbroller**
+**Felaktiga ekonomiska beräkningar på grund av problem med jobbrollen**
 
 Timmar- och finansberäkningar kan vara felaktiga, vilket ger en kostnad på 0 även om timmar är inloggade i en jobbroll som har en kostnadstariff.
 
@@ -626,7 +667,7 @@ Detta beror på att jobbroller automatiskt skapar dubblettfrekvenser utan start-
 
 **Användare som använder enkel inloggning omdirigeras inte till den ursprungliga platsen när de loggar in**
 
-När en användare är på en sida i [!DNL Workfront] och loggar in med enkel inloggning när inloggningen är klar dirigeras de till [!UICONTROL Home] i stället för sidan som de var på innan de loggade in.
+När en användare är på en sida i [!DNL Workfront] och loggar in med enkel inloggning dirigeras de till [!UICONTROL Home] i stället för den sida de var på innan de loggade in.
 
 #### Mallar
 
@@ -634,7 +675,7 @@ När en användare är på en sida i [!DNL Workfront] och loggar in med enkel in
 
 När en användare försöker kopiera en ny eller befintlig mall kopieras inte mallen och användaren ser följande fel:
 
-&quot;[!UICONTROL ID Cannot be Null]&quot;
+[!UICONTROL ID Cannot be Null]
 
 +++
 
@@ -646,7 +687,7 @@ När en användare försöker kopiera en ny eller befintlig mall kopieras inte m
 
 #### Rapporter
 
-**Externt API-fält visar inte alla tillgängliga värden i listor och rapporter**
+**Det externa API-fältet visar inte alla tillgängliga värden i listor och rapporter**
 
 Tidigare kunde användarna se det valda värdet (och redigera värdet) för ett externt uppslagsfält i listor och rapporter, men kunde inte se listrutan med alternativen från API:t.
 
@@ -660,7 +701,7 @@ När ett anpassat fält för extern sökning används i en lista eller rapport �
 
 #### Varumärkena
 
-**Kort som inte flyttas till rätt kolumn när status ändras**
+**Kort flyttas inte till lämplig kolumn när status ändras**
 
 När statusen för det länkade objektet för ett anslutet kort ändras direkt på objektet flyttas kortet inte till rätt kolumn. Om objektets status ändras på kortet, eller om kortet dras till den nya kolumnen, fungerar kortet som förväntat.
 
@@ -668,7 +709,7 @@ När statusen för det länkade objektet för ett anslutet kort ändras direkt p
 
 **Markeringsmeddelanden som de visas kvarstår inte**
 
-När en användare markerar sina meddelanden som de ser och sedan navigerar till en annan sida på [!DNL Workfront]visas fortfarande antalet olästa meddelanden som fanns innan användaren markerade dem som synliga och meddelanden fortfarande när användaren klickar på ikonen. Detta fortsätter om användaren markerar dem som synliga och navigerar till en annan sida eller tillbaka till den ursprungliga sidan.
+När en användare markerar sina meddelanden som de ser och sedan navigerar till en annan sida inom [!DNL Workfront], visar meddelandeikonen fortfarande antalet olästa meddelanden som fanns innan användaren markerade dem som synliga, och meddelandena visas fortfarande när användaren klickar på ikonen. Detta fortsätter om användaren markerar dem som synliga och navigerar till en annan sida eller tillbaka till den ursprungliga sidan.
 
 #### Uppdateringar
 
@@ -707,15 +748,15 @@ När en användare visar vyn för anslagstavlor i en uppgiftslista i ett projekt
 
 För att stänga kortet måste användaren redigera URL:en för att ta bort&quot;board&quot; och allt till höger om&quot;board&quot;.
 
-**Korten behålls vid ändring av upprepning**
+**Kort behålls när upprepning ändras**
 
 När en användare visar en upprepning på en anslagstavla och sedan ändrar upprepningen, är korten som visas för den nya upprepningen korten från en iteration som användaren visade tidigare.
 
-**Fel i [!UICONTROL Comments] kortavsnitt**
+**Fel i [!UICONTROL Comments]-kortavsnitt**
 
-När en användare visar ett kort och rullar till [!UICONTROL Comments], avsnitt, kommentarer visas inte och användaren ser följande fel:
+När en användare visar ett kort och rullar till avsnittet [!UICONTROL Comments] visas inga kommentarer och användaren ser följande fel:
 
-&quot;[!UICONTROL Something went wrong. Please try again later.]&quot;
+[!UICONTROL Something went wrong. Please try again later.]
 
 **Problem vid visning av delaktivitetsstatus**
 
@@ -724,17 +765,17 @@ Följande problem har rapporterats när det gäller att visa status för underak
 * Statusen visas som &quot;Välj status&quot; även när aktiviteten redan har en status. Den här statusen visas när du visar uppgiften direkt.
 * Om användaren försöker välja en status, blir skärmen tom och måste uppdateras.
 
-**&quot;[!UICONTROL You have no access]&quot; när du visar kommentarer på ett kort**
+**[!UICONTROL You have no access] vid visning av kommentarer på ett kort**
 
-När en användare försöker visa kommentarer på ett kort som inte är anslutet till en [!DNL Workfront] visas följande meddelande:
+När en användare försöker visa kommentarer på ett kort som inte är anslutet till ett [!DNL Workfront]-objekt visas följande meddelande:
 
-&quot;[!UICONTROL You have no access to view comments on this object]&quot;
+[!UICONTROL You have no access to view comments on this object]
 
 Detta kan inträffa även när användaren tidigare kan se kommentarer på kortet.
 
 #### Egna formulär
 
-**Det går inte att lägga till eller ta bort anpassade formulär gruppvis i malluppgifter**
+**Det går inte att lägga till eller ta bort anpassade formulär gruppvis i mallaktiviteter**
 
 Om en användare försöker att lägga till eller ta bort ett anpassat formulär gruppvis i en mallåtgärd läggs inte formuläret till eller tas bort, och användaren ser följande fel:
 
@@ -752,21 +793,21 @@ När en användare anger anpassad terminologi på Portfolio-nivå, gäller inte 
 
 #### Inställningar
 
-**Det går inte att dölja valfria statusvärden**
+**Det går inte att dölja valfria statusar**
 
 När en användare försöker dölja valfria statusar på system- och gruppnivå döljs inte statusen. Om användaren visar statusen är alternativet att dölja statusen inte aktiverat, även om användaren aktiverade det och sparade ändringarna.
 
-**Status för standardutleverans saknas för vissa typer av utleveranser i installationsprogrammet**
+**Standardstatus för problem saknas i vissa problemtyper i installationen**
 
 När en användare visar problem i installationsprogrammet ser de att standardstatusvärdena för problem (Nytt, Pågår och Fullständigt) saknas i vissa typer av problem. Standardstatusvärden har inte möjlighet att ändra utgåvans typ, så användaren kan inte konfigurera om statusvärdena så att de visas för de berörda utgåvorna.
 
 #### Team
 
-**Problem med att ställa in teamstatus för [!UICONTROL Done] knapp**
+**Problem med att ställa in teamstatus för [!UICONTROL Done] button**
 
-Följande problem har rapporterats angående status för [!UICONTROL Done] när du redigerar eller skapar ett team:
+Följande problem har rapporterats angående status för knappen [!UICONTROL Done] när du redigerar eller skapar ett team:
 
-* Vissa statusar kan saknas i knappområdet Klar i [!UICONTROL New team] eller [!UICONTROL Team Settings] del av ett befintligt team.
+* Vissa statusar kan saknas i knappområdet Klar i fönstret [!UICONTROL New team] eller i [!UICONTROL Team Settings] i ett befintligt team.
 * Om användaren försöker spara teamet kan felet&quot;Du måste välja minst en status i varje kategori&quot; visas.
 
 #### Mallar
@@ -781,7 +822,7 @@ Detta inträffar när användaren inte har behörigheten Visa för ett anpassat 
 
 #### Uppdateringar
 
-**Kommentarerna överförs inte mellan gamla och nya upplevelser**
+**Kommentarerna överförs inte mellan den gamla och den nya upplevelsen**
 
 En kommentar som gjorts i det gamla kommentargränssnittet kanske inte syns i det nya kommentarsgränssnittet. Det motsatta kan också inträffa.
 

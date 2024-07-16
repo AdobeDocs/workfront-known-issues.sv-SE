@@ -17,6 +17,6 @@ ht-degree: 0%
 >
 >Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
-När en användare visar en rapport som innehåller bevis för godkännande visas inte rapporten [!UICONTROL Approved] beslut för alla godkända korrektur. När användaren tittar på själva korrekturet kan han eller hon se att det har godkänts.
+När en användare tittar på en rapport som innehåller bevis för godkännandebeslut visar rapporten inte [!UICONTROL Approved]-beslutet för alla godkända korrektur. När användaren tittar på själva korrekturet kan han eller hon se att det har godkänts.
 
 _Först rapporterad den 26 juni 2023._

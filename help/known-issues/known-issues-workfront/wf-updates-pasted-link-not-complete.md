@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >Detta problem korrigerades den 27 juni 2024.
 
-Om en användare kopierar en länk från en uppdatering genom att högerklicka och välja &quot;[!UICONTROL Copy link address]&quot;, klistrar sedan in länken i en uppdatering och länken klistras inte in korrekt. Endast den första delen av länken är en länk, och resten av URL:en ignoreras.
+Om en användare kopierar en länk från en uppdatering genom att högerklicka och välja [!UICONTROL Copy link address] och sedan klistrar in länken i en uppdatering, klistras länken inte in korrekt. Endast den första delen av länken är en länk, och resten av URL:en ignoreras.
 
-Kopiera länken med en annan metod än[!UICONTROL Copy link address]&quot; tillåter att länken klistras in som förväntat.
+Om du kopierar länken med en annan metod än [!UICONTROL Copy link address] kan länken klistras in som förväntat.
 
 **Tillfällig lösning**
 
-Använd &quot;[!UICONTROL Copy]i stället för[!UICONTROL Copy link address]&quot;.
+Använd alternativet [!UICONTROL Copy] i stället för [!UICONTROL Copy link address].
 
 _Först rapporterad den 29 maj 2024._

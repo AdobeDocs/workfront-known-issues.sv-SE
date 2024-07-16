@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Problemet har stängts eftersom det inte är något problem.
 
-När en användare försöker överföra en stor fil (över 25 MB) överförs inte filen och användaren ser felet &quot;[!UICONTROL Failed to upload file].&quot;
+När en användare försöker överföra en stor fil (över 25 MB) överförs inte filen och användaren ser felet [!UICONTROL Failed to upload file].
 
 **Tillfällig lösning**
 

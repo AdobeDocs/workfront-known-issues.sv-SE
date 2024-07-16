@@ -17,8 +17,8 @@ ht-degree: 0%
 >
 >Detta problem korrigerades den 20 juni 2024.
 
-När en användare får ett e-postmeddelande om godkännande och klickar på[!UICONTROL Make Approval Decision]&quot;, användaren dirigeras inte till det objekt som behöver godkännas. I stället ser användaren följande fel:
+När en användare får ett e-postmeddelande om godkännande och klickar på knappen [!UICONTROL Make Approval Decision] dirigeras användaren inte till objektet som behöver godkännas. I stället ser användaren följande fel:
 
-&quot;[!UICONTROL This page isn't working (domain).my.workfront.com redirected you too many times.]&quot;
+[!UICONTROL This page isn't working (domain).my.workfront.com redirected you too many times.]
 
 _Först rapporterad den 19 juni 2024._

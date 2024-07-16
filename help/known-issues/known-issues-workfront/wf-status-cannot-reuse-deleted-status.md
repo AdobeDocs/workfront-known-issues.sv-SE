@@ -1,15 +1,15 @@
 ---
-title: "Status: Kan inte återanvända tidigare borttagen status"
-description: "När en användare försöker skapa en status med samma statusnyckel som en tidigare borttagen status, skapas inte statusen och användaren ser ett meddelande."
+title: 'Status: Kan inte återanvända tidigare borttagen status'
+description: När en användare försöker skapa en status med samma statusnyckel som en tidigare borttagen status, skapas inte statusen och användaren ser ett meddelande.
 hidefromtoc: true
 feature: Work Management, Projects, Tasks
-source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
+exl-id: 7ca79d9f-7dcf-4e15-a916-6252065a2763
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Status: Det går inte att återanvända tidigare borttagen status
 

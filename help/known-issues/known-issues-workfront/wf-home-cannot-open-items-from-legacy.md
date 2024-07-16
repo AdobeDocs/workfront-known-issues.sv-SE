@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Hem: Det går inte att öppna objekt från [!UICONTROL Home Calendar] eller [!UICONTROL Work List]
+# Hem: Kan inte öppna objekt från [!UICONTROL Home Calendar] eller [!UICONTROL Work List]
 
-När en användare försöker öppna ett arbetsobjekt eller ett korrektur från sina [!UICONTROL Home Calendar] eller [!UICONTROL Home Work List], objektet inte öppnas.
+När en användare försöker öppna ett arbetsobjekt eller ett korrektur från sin [!UICONTROL Home Calendar] eller [!UICONTROL Home Work List] öppnas inte objektet.
 
 **Tillfällig lösning**
 

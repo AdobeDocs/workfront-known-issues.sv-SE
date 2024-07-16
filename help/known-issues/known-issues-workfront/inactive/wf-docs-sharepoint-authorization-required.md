@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Problemet har stängts eftersom det inte är ett Workfront-problem.
 
-När en användare försöker öppna en [!UICONTROL SharePoint] mapp i [!DNL Workfront], mappen inte öppnas och följande meddelande visas:
+När en användare försöker öppna en [!UICONTROL SharePoint]-mapp i [!DNL Workfront] öppnas inte mappen och följande meddelande visas:
 
 [!UICONTROL Error: Authorization is required.]
 
@@ -29,6 +29,6 @@ Auktoriseringstidpunkten styrs av Microsoft.
 
 Återauktorisera.
 
-Om problemen kvarstår kontrollerar du [Felsökning](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html#troubleshooting) avsnitt i [Konfigurera SharePoint-integrering](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html).
+Om problemen kvarstår kontrollerar du avsnittet [Felsökning](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html#troubleshooting) i [Konfigurera SharePoint-integreringen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html).
 
 _Först rapporterad den 9 november 2023._

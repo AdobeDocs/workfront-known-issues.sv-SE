@@ -1,15 +1,15 @@
 ---
-title: "Uppgifter: Föregående verktygstips visar inte aktivitetsnamn"
-description: "När en användare visar en uppgiftslista och för pekaren över en föregående ikon för att få mer information, visas inte namnet på föregående aktivitet i det verktygstips som visas."
+title: 'Åtgärder: Föregående verktygstips visar inte aktivitetsnamn'
+description: När en användare visar en uppgiftslista och för pekaren över en föregående ikon för att få mer information, visas inte namnet på föregående aktivitet i det verktygstips som visas.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+exl-id: ebc01df2-cfb7-4d67-ba69-53781b2c3ec9
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # Uppgifter: Föregående verktygstips visar inte aktivitetsnamnet
 

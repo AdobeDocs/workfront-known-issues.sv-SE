@@ -25,10 +25,10 @@ ht-degree: 0%
 
 -->
 
-När en användare försöker få åtkomst till ett dokument via [!DNL OneDrive] integration i [!DNL Workfront]kan användaren inte se alla [!DNL OneDrive] och kan inte komma åt dokument i de saknade mapparna.
+När en användare försöker få åtkomst till ett dokument via [!DNL OneDrive]-integreringen i [!DNL Workfront] kan användaren inte se alla [!DNL OneDrive]-mappar och kan inte få åtkomst till dokument i de saknade mapparna.
 
 **Tillfällig lösning**
 
-Hämta filen direkt från [!DNL OneDrive]och överföra filen som ett dokument i [!DNL Workfront].
+Hämta filen direkt från [!DNL OneDrive] och överför filen som ett dokument i [!DNL Workfront].
 
-_Först rapporterad den 15 maj 2023._
+_Först rapporterad 15 maj 2023._

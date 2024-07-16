@@ -19,6 +19,6 @@ ht-degree: 0%
 >
 >Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
-Numret som visas för [!UICONTROL Completed Points] i artikelstyrelsen ibland inte stämmer överens med det faktiska antalet punkter som fyllts i för artiklarna i en iteration
+Numret som visas för [!UICONTROL Completed Points] på artikelpanelen matchar ibland inte det faktiska antalet punkter som har slutförts för artiklarna i en iteration
 
 _Först rapporterad den 13 april 2021._

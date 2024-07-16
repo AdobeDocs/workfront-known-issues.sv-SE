@@ -1,6 +1,6 @@
 ---
-title: '"Workfront Proof: Listor är inte korrekt sorterade'
-description: När en användare visar en lista i Workfront Korrektur som har sortering (till exempel Namn), blir sorteringen inte korrekt.
+title: "Workfront Proof: Listor är inte korrekt sorterade"
+description: När en användare tittar på en lista i Workfront Proof som använder sortering (till exempel Namn) är sorteringen inte korrekt.
 hidefromtoc: true
 exl-id: 89dcfc45-0ea3-4ba6-8778-865adff9c456
 feature: Workfront Proof
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 <!--Won't fix, valid issue-->
 
-När en användare visar en lista i [!DNL Workfront Proof] som använder sortering (till exempel [!UICONTROL Name]) är sorteringen inte korrekt. När en sortering används är listan tom.
+När en användare tittar på en lista i [!DNL Workfront Proof] som använder sortering (till exempel [!UICONTROL Name]) är sorteringen inte korrekt. När en sortering används är listan tom.
 
 **Tillfällig lösning**
 

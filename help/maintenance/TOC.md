@@ -1,6 +1,6 @@
 ---
 user-guide-title: Underhållsversioner
-user-guide-description: Underhållsreleaser för [!DNL Adobe Workfront]
+user-guide-description: Underhållsreleaser för  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 5888405d48bb6a271fcfe748d3cce99e2ccfadaf
 workflow-type: tm+mt

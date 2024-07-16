@@ -19,4 +19,4 @@ ht-degree: 0%
 
 När du försöker få åtkomst till en kontrollpanel på sidan Begäranden visas instrumentpanelens URL-adress temporärt och växlar sedan snabbt till den skickade URL-adressen (/skickad).
 
-_Först rapporterad den 16 maj 2024._
+_Först rapporterad 16 maj 2024._

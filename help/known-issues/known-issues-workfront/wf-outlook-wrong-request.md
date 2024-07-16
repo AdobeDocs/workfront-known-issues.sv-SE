@@ -19,4 +19,4 @@ ht-degree: 0%
 
 När en användare försöker logga in på Workfront Plug-in för Outlook med enkel inloggning aktiverad visas sidan &quot;Fel begäran&quot; och användaren kan inte logga in.
 
-_Först rapporterad den 14 maj 2024._
+_Först rapporterad 14 maj 2024._

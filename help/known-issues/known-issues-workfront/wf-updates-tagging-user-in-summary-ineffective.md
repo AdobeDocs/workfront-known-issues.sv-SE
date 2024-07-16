@@ -1,15 +1,15 @@
 ---
 title: "Uppdateringar: Det går inte att tagga en användare med @ på sammanfattningspanelen"
-description: "När en användare försöker tagga en annan användare genom att använda @ i uppdateringsområdet i en sammanfattningspanel, är det inte giltigt att klicka på användarens namn i listrutan. Försök att tagga användaren en andra gång fungerar som väntat."
+description: När en användare försöker tagga en annan användare genom att använda @ i uppdateringsområdet på en sammanfattningspanel, är det ineffektivt att klicka på användarens namn i listrutan. Försök att tagga användaren en andra gång fungerar som väntat.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+exl-id: bf802503-0c05-48fb-ab5c-6965740c6333
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
-
 
 # Uppdateringar: Det går inte att tagga en användare med @ på sammanfattningspanelen
 
@@ -28,5 +28,3 @@ eller
 Markera användaren med tangenten Enter/Return.
 
 _Först rapporterad den 18 mars 2024._
-
-

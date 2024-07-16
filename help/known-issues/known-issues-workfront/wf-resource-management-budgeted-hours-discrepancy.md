@@ -1,15 +1,15 @@
 ---
-title: "Resurshantering: Avvikelser i budgeterade timmar"
-description: "Budgeterade timmar som visas i ett av Workfront-områdena kanske inte matchar dem som visas i ett annat område."
+title: 'Resurshantering: Discreens in Budget Hours'
+description: Budgeterade timmar som visas i ett av Workfront-områdena kanske inte matchar dem som visas i ett annat område.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+exl-id: 67d7f36e-f40c-4eee-92a0-fe1625c9b486
+source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
-
 
 # Resurshantering: Skillnad i budgeterade timmar
 

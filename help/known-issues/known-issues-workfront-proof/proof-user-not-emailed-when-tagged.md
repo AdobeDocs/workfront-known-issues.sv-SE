@@ -1,5 +1,5 @@
 ---
-title: '"Korrektur: Användaren får inte e-post när den taggas i en korrekturkommentar'
+title: "Korrektur: Användaren får inte e-post när den taggas i en korrekturkommentar"
 description: När en användare taggas med formatet @name i en korrekturkommentar får användaren inget e-postmeddelande om kommentaren.
 hidefromtoc: true
 exl-id: 5773ba30-7826-428c-8878-f8d2b3368f30

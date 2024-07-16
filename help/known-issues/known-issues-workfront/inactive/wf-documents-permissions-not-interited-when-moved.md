@@ -19,14 +19,14 @@ ht-degree: 0%
 
 När en användare flyttar ett dokument till ett annat projekt ärver dokumentet inte delningsbehörigheter från det nya projektet. Dokumentet delas inte med användarna som projektet delas till.
 
-**Lösning:**
+**Tillfällig lösning:**
 
 1. Navigera till dokumentets överordnade objekt, till exempel Projekt, Uppgift eller Utgåva.
 
-1. Ta bort ärvda behörigheter från det överordnade objektets resurslista genom att klicka på&quot;x&quot; bredvid ärvda behörigheter och klicka sedan på **[!UICONTROL Save]**.
+1. Ta bort ärvda behörigheter från det överordnade objektets resurslista genom att klicka på&quot;x&quot; bredvid ärvda behörigheter och sedan klicka på **[!UICONTROL Save]**.
 
-1. Lägg till ärvda behörigheter igen genom att gå tillbaka till det överordnade objektets resurslista och klicka på **[!UICONTROL Undo]** bredvid ärvda behörigheter och klicka sedan på **[!UICONTROL Save]**.
+1. Lägg till ärvda behörigheter igen genom att gå tillbaka till det överordnade objektets resurslista och klicka på **[!UICONTROL Undo]** bredvid ärvda behörigheter och sedan på **[!UICONTROL Save]**.
 
-Du kan också anteckna dokumentets ID (finns i URL:en för [!UICONTROL Document Details] sida) och kontakt [!DNL Workfront] kundsupport.
+Du kan också anteckna dokumentets ID (finns i URL:en för sidan [!UICONTROL Document Details]) och kontakta [!DNL Workfront] kundsupport.
 
-_Först rapporterad den 6 januari 2023._
+_Först rapporterad 6 januari 2023._

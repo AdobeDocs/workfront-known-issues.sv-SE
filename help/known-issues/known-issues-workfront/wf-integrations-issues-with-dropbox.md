@@ -1,15 +1,15 @@
 ---
-title: "Integreringar: Problem med integrering med Dropbox"
-description: "Problem med integreringen av Dropbox har rapporterats."
+title: 'Integrationer: Problem med integrering med Dropbox'
+description: Det har rapporterats om problem med integreringen av Dropbox.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
+exl-id: 58df9050-d71a-4fee-834b-8b15b20f4946
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
-
 
 # Integrering: Problem med integrering med Dropbox
 

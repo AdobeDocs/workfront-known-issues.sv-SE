@@ -52,4 +52,4 @@ OR:1:task:statusEquatesWith=CPL
 OR:1:task:statusEquatesWith_Mod=ne
 ```
 
-_Först rapporterad den 6 november 2023._
+_Först rapporterad 6 november 2023._

@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Korrektur: Korrektur visas som[!UICONTROL Generating proof]&quot; för mycket tid
+# Korrektur: Korrektur visas som [!UICONTROL Generating proof] för mycket tid
 
 >[!NOTE]
 >
@@ -19,7 +19,6 @@ ht-degree: 0%
 >
 >* Problemet finns bara i förhandsvisningssandlådemiljön.
 
+När en användare genererar ett korrektur visas korrekturet som [!UICONTROL Generating proof]. Detta kan pågå i flera timmar. Om användaren försöker öppna korrekturet medan [!UICONTROL Generating proof] fortfarande visas, kan användaren inte öppna korrekturet. Beviset har genererats, men det går inte att komma åt det.
 
-När en användare genererar ett korrektur visas korrekturet som[!UICONTROL Generating proof].&quot; Detta kan pågå i flera timmar. Om användaren försöker öppna korrekturet medan &quot;[!UICONTROL Generating proof]&quot; visas fortfarande, användaren kan inte öppna korrekturet. Beviset har genererats, men det går inte att komma åt det.
-
-*Först rapporterad den 10 maj 2022.*
+*Först rapporterad 10 maj 2022.*

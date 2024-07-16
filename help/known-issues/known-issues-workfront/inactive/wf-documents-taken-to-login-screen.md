@@ -20,6 +20,6 @@ ht-degree: 0%
 >
 >Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
-När en användare visar [!UICONTROL Document Details] sida och klicka på ett alternativ i [!UICONTROL Proofing Activities] -menyn dirigeras användaren till en inloggningssida i stället för till den avsedda målsidan.
+När en användare visar sidan [!UICONTROL Document Details] och klickar på ett alternativ på menyn [!UICONTROL Proofing Activities] dirigeras användaren till en inloggningssida i stället för till den avsedda målsidan.
 
 _Först rapporterad den 3 mars 2023._

@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Setup]: Listor läses in långsamt in [!UICONTROL Setup]
+# [!UICONTROL Setup]: Listor läses in långsamt i [!UICONTROL Setup]
 
 <!--Converted to story-->
 
@@ -19,6 +19,6 @@ ht-degree: 0%
 >
 >Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
-När en användare finns i [!UICONTROL Setup] och försöker läsa in en lista, läses listan in mycket långsamt. Detta har rapporterats i olika områden i [!UICONTROL Setup].
+När en användare befinner sig i området [!UICONTROL Setup] och försöker läsa in en lista, läses listan in mycket långsamt. Detta har rapporterats i olika områden i [!UICONTROL Setup].
 
 _Först rapporterad den 20 oktober 2022._

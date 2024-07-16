@@ -11,24 +11,24 @@ ht-degree: 0%
 
 ---
 
-# Uppgifter: Det går inte att ändra [!UICONTROL Planned Completion Date] av en uppgift
+# Uppgifter: Det går inte att ändra [!UICONTROL Planned Completion Date] för en aktivitet
 
 >[!NOTE]
 >
 >Problemet har stängts eftersom det fungerar som det ska.
 
-När en användare försöker ändra [!UICONTROL Planned Completion Date] för en uppgift är fältet inte responsivt.
+När en användare försöker ändra [!UICONTROL Planned Completion Date] för en aktivitet svarar inte fältet.
 
 Detta har rapporterats i följande områden:
 
 * Uppgiftshuvudet
-* The [!UICONTROL Task Details] area
+* Området [!UICONTROL Task Details]
 
 **Tillfällig lösning**
 
 Gör något av följande:
 
-* I [!UICONTROL Task Details] område, ändra [!UICONTROL Task Constraint] till &quot;[!UICONTROL Must Finish On]&quot; och sedan ändra [!UICONTROL Planned Completion Date].
-* Ändra [!UICONTROL Planned Completion Date] infogad i uppgiftslistan.
+* I området [!UICONTROL Task Details] ändrar du [!UICONTROL Task Constraint] till [!UICONTROL Must Finish On] och ändrar sedan [!UICONTROL Planned Completion Date].
+* Ändra [!UICONTROL Planned Completion Date] i uppgiftslistan.
 
 _Först rapporterad den 11 oktober 2022._

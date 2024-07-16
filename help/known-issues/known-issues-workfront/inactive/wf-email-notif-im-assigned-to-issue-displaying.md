@@ -1,6 +1,6 @@
 ---
 title: "E-postmeddelanden: Jag har tilldelats en probleminställning som visas"
-description: I [!UICONTROL Setup] visas inställningen "Jag har tilldelats ett problem" för e-postmeddelanden för användare med licens för granskning och begäran. Den här inställningen är inte tillgänglig för de här licenstyperna och aktivering av inställningen utlöser inte e-postmeddelanden för den här händelsen.
+description: I området [!UICONTROL Setup] visas inställningen E-postmeddelanden om att jag har tilldelats ett problem för användare med licens för granskning och begäran. Den här inställningen är inte tillgänglig för de här licenstyperna och aktivering av inställningen utlöser inte e-postmeddelanden för den här händelsen.
 feature: Updates and Notifications
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950
 hidefromtoc: true
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# E-postmeddelanden: &quot;[!UICONTROL I'm assigned to an issue]&quot;-inställningen visas
+# E-postmeddelanden: Inställningen [!UICONTROL I'm assigned to an issue] visas
 
 <!--Article created by request-->
 
@@ -19,6 +19,6 @@ ht-degree: 0%
 >
 >Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
-I [!UICONTROL Setup] område, [!UICONTROL Email Notifications] inställning &quot;[!UICONTROL I'm assigned to an issue]&quot; visas för användare med licens för granskning och begäran. Den här inställningen är inte tillgänglig för de här licenstyperna och aktivering av inställningen utlöser inte e-postmeddelanden för den här händelsen.
+I området [!UICONTROL Setup] visas [!UICONTROL Email Notifications]-inställningen [!UICONTROL I'm assigned to an issue] för användare med licens för granskning och begäran. Den här inställningen är inte tillgänglig för de här licenstyperna och aktivering av inställningen utlöser inte e-postmeddelanden för den här händelsen.
 
 _Först rapporterad den 15 april 2021._

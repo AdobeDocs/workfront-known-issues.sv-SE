@@ -21,7 +21,7 @@ När en användare navigerar till en kalender läser kalendern in ett slumpmäss
 
 **Tillfällig lösning**
 
-Klicka **[!UICONTROL Today]** läser in rätt vecka i kalendern.
+Om du klickar på **[!UICONTROL Today]** läses rätt vecka in i kalendern.
 
 
 _Först rapporterad den 7 april 2020._

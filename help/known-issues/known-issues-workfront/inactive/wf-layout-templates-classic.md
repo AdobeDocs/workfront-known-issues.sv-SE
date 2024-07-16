@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Problemet har åtgärdats.
 
-Layoutmallar från Classic [!DNL Workfront] upplevelsen är inte längre tillgänglig i [!DNL Workfront] gränssnitt, men kan fortfarande påverka [!DNL Workfront] data. Detta kan orsaka inkonsekvenser i fält som påverkas av layoutmallar (som [!UICONTROL Shared with]) på rapporter eller kontrollpaneler.
+Layoutmallar från det klassiska [!DNL Workfront]-gränssnittet är inte längre tillgängliga i [!DNL Workfront]-gränssnittet, men de kan fortfarande påverka [!DNL Workfront]-data. Detta kan orsaka inkonsekvenser i fält som påverkas av layoutmallar (till exempel [!UICONTROL Shared with]) i rapporter eller instrumentpaneler.
 
 **Tillfällig lösning**
 

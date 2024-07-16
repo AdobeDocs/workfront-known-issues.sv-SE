@@ -21,4 +21,4 @@ ht-degree: 0%
 
 När en användare länkar ett dokument från en dokumentintegration visas dokumentet i Workfront med filtillägget UNK.
 
-_Först rapporterad den 12 maj 2024._
+_Först rapporterad 12 maj 2024._

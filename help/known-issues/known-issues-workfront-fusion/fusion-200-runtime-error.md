@@ -21,7 +21,7 @@ ht-degree: 0%
 
 -->
 
-En Workfront-modul kan returnera en `RuntimeError [200]` svar. 2000 innebär ett lyckat svar, men felet visar att begäran misslyckades.
+En Workfront-modul kan returnera ett `RuntimeError [200]`-svar. 2000 innebär ett lyckat svar, men felet visar att begäran misslyckades.
 
 Detta kan inträffa om svaret är mycket långt. Data returneras till Fusion, men kan inte behandlas av Fusion.
 

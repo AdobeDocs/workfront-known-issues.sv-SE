@@ -17,6 +17,6 @@ ht-degree: 0%
 >
 >Produktgruppen håller på att utvärdera den här problemlösningen. När problemet är löst kommer det att kommuniceras i produktmeddelandena och inte med underhållsuppdateringarna.
 
-När en användare grupperar en lista efter ett anpassat fält och ändrar visningsnamnet i [!UICONTROL Text Mode]visas i stället fältets ursprungliga namn.
+När en användare grupperar en lista efter ett anpassat fält och ändrar visningsnamnet i [!UICONTROL Text Mode], visas i stället fältets ursprungliga namn.
 
 _Först rapporterad den 13 augusti 2020._

@@ -11,16 +11,17 @@ ht-degree: 0%
 
 ---
 
-# Integrering: Dokument som inte bifogas när en begäran skapas från [!DNL Outlook]
+# Integreringar: Dokument som inte bifogas när en begäran skapas från [!DNL Outlook]
 
 >[!NOTE]
 >
 >Problemet korrigerades den 4 april 2024.
 
-När en användare skapar en begäran från [!DNL Outlook], bifogas inte dokumenten i e-postmeddelandet till begäran.
+När en användare skapar en begäran från [!DNL Outlook] bifogas inte dokumenten till e-postmeddelandet till begäran.
 
 Detta har rapporterats för följande typer av bifogade filer:
 
-XLS PDF
+XLS
+PDF
 
 _Först rapporterad den 5 februari 2024._

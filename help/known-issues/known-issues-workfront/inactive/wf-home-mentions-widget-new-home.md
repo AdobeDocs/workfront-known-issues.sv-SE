@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Home]: &quot;[!UICONTROL Mentions]&quot; widget i ny [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad
+# [!UICONTROL Home]: Widgeten [!UICONTROL Mentions] i nya [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad
 
 <!--Requested article, won't fix-->
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Problemet har stängts eftersom det fungerar som det ska.
 
-När en användare tittar på[!UICONTROL Mentions]&quot; i den nya [!UICONTROL Home] de får se kommentarer som de inte taggar eller omnämns i. Widgeten innehåller kommentarer där:
+När en användare tittar på widgeten [!UICONTROL Mentions] i den nya [!UICONTROL Home]-upplevelsen ser de kommentarer som de inte är taggade eller omnämnda i. Widgeten innehåller kommentarer där:
 
 * Användaren är tilldelad uppgiften eller utgåvan
 * Användaren gjorde tilldelningen för aktiviteten eller problemet

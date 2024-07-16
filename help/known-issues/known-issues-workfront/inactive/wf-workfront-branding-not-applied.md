@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Workfront]: Ingen profilering används
+# [!DNL Workfront]: Varumärket används inte
 
 >[!NOTE]
 >
@@ -21,8 +21,8 @@ ht-degree: 0%
 >
 >Varumärkning är inte tillgängligt om din organisation har migrerats till Adobe Admin Console eller Adobe Unified Shell.
 
-När en användare överför filer till [!UICONTROL Branding] under installationen verkar filerna överföras på rätt sätt. Men om en användare tittar på [!UICONTROL Main Menu]så ser de inte logotypen. De ser i stället följande meddelande:
+När en användare överför filer till inställningsområdet [!UICONTROL Branding] verkar filerna överföras korrekt. Men om en användare tittar på [!UICONTROL Main Menu] ser de inte logotypen. De ser i stället följande meddelande:
 
-&quot;[!UICONTROL Company logo unavailable. We could not load your company logo based on the provided URL. Please contact your system administrator.]&quot;
+[!UICONTROL Company logo unavailable. We could not load your company logo based on the provided URL. Please contact your system administrator.]
 
 _Först rapporterad den 29 september 2023._

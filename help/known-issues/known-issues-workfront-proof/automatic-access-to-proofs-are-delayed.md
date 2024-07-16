@@ -1,6 +1,6 @@
 ---
-title: '"Korrektur: Automatisk åtkomst till korrektur fördröjs'
-description: När en användare utses till granskare och godkännare för ett korrektur med automatiserat arbetsflöde, kommer åtkomsten att fördröjas och de kan inte komma åt korrekturet.
+title: 'Korrektur: Automatisk åtkomst till korrektur är fördröjd'
+description: När en användare utses till granskare och godkännare för ett korrektur med automatiserat arbetsflöde fördröjs åtkomsten och de kan inte komma åt korrekturet.
 exl-id: 5b6fffed-a9af-4f1f-83a6-d4b992067b3a
 hidefromtoc: true
 feature: Workfront Proof
@@ -19,6 +19,6 @@ ht-degree: 0%
 >
 >Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
-När en användare utses till granskare och godkännare för ett korrektur med automatiserat arbetsflöde, kommer åtkomsten att fördröjas och de kan inte komma åt korrekturet.
+När en användare utses till granskare och godkännare för ett korrektur med automatiserat arbetsflöde fördröjs åtkomsten och de kan inte komma åt korrekturet.
 
 Först rapporterad den 11 maj 2021

@@ -19,10 +19,10 @@ ht-degree: 0%
 >
 >Produktgruppen håller på att utvärdera den här problemlösningen. När problemet är löst kommer det att kommuniceras i produktmeddelandena och inte med underhållsuppdateringarna.
 
-När en användare klickar på en [!UICONTROL .docx] om du vill visa en förhandsgranskning av dokumentet öppnas en videospelare som inte kan se dokumentet.
+När en användare klickar på en [!UICONTROL .docx]-miniatyrbild för att visa en förhandsgranskning av dokumentet öppnas en videospelare som inte kan se dokumentet.
 
 **Tillfällig lösning**
 
-Klicka på dokumentnamnslänken för att gå direkt till [!UICONTROL Document Details] där du kan förhandsgranska dokumentet.
+Klicka på dokumentnamnslänken för att gå direkt till sidan [!UICONTROL Document Details] där du kan förhandsgranska dokumentet.
 
 _Först rapporterad den 26 oktober 2020._

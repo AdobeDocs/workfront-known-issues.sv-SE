@@ -21,6 +21,6 @@ När en användare försöker visa en rapport som har standardvalutan som USD l�
 
 **Tillfällig lösning**
 
-Ändra standardvalutan till[!UICONTROL Project's default currency].&quot;
+Ändra standardvalutan till [!UICONTROL Project's default currency].
 
 _Först rapporterad den 20 juni 2024._

@@ -1,17 +1,17 @@
 ---
 title: "Uppdateringar: Det går inte att skicka kommentaren när vi svarar"
-description: "När en användare försöker svara på ett meddelande i den nya kommentarsfunktionen sparas inte svaret och användaren ser ett meddelande."
+description: När en användare försöker svara på ett meddelande i den nya kommentarsfunktionen sparas inte svaret och användaren ser ett meddelande.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
+exl-id: 9b0e2389-c00a-4368-b277-1ce7700bc3d9
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-
-# Uppdateringar: &quot;[!UICONTROL We're unable to post your comment]&quot; när du svarar
+# Uppdateringar: [!UICONTROL We're unable to post your comment]-meddelande vid svar
 
 >[!NOTE]
 >
@@ -19,7 +19,6 @@ ht-degree: 0%
 
 När en användare försöker svara på ett meddelande i den nya kommentarsfunktionen sparas inte svaret och användaren ser följande meddelande:
 
-&quot;[!UICONTROL We're unable to post your comment right now. Please wait a moment then try again.]&quot;
+[!UICONTROL We're unable to post your comment right now. Please wait a moment then try again.]
 
 _Först rapporterad den 27 mars 2024._
-

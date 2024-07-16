@@ -1,15 +1,15 @@
 ---
-title: "Team: Det går inte att visa teamets ägare eller ta bort team"
-description: "De här åtgärderna är inte tillgängliga för gruppadministratörer."
+title: "Team: Det går inte att visa teamägare eller ta bort team"
+description: De här åtgärderna är inte tillgängliga för gruppadministratörer.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 5ca6aa4e5e8ddc127623f0587cb42fc0fc10ebf8
+exl-id: bc8b7759-2cda-4ea0-8ba8-1ca883838ba9
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
-
 
 # Team: Det går inte att visa teamets ägare eller ta bort team
 
@@ -25,4 +25,3 @@ Följande åtgärder är inte tillgängliga för gruppadministratörer
 Detta inträffar trots att gruppadministratören har alla behörigheter som rör team och användare.
 
 _Först rapporterad den 15 mars 2024._
-

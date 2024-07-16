@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Anpassade formulär: Egna formulär för flera objekt kräver [!UICONTROL Manage] eller [!UICONTROL Edit] behörighet att redigera fält
+# Anpassade formulär: Egna formulär för flera objekt kräver [!UICONTROL Manage]- eller [!UICONTROL Edit]-åtkomst för att redigera fält
 
 <!--Won't fix, live for workaround-->
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Problemet har stängts
 
-När en användare skapar ett formulär med korsobjekt som bara tillåter [!UICONTROL Manage] eller [!UICONTROL Edit] åtkomst, och sedan tar bort den objekttypen, fortsätter det anpassade formuläret att kräva [!UICONTROL Manage] eller [!UICONTROL Edit] behörighet att redigera fälten. Det finns ingen visuell indikation på att fälten kräver behörigheten Hantera eller Redigera och det finns inget sätt att återställa formuläret.
+När en användare skapar ett formulär med korsobjekt som bara tillåter [!UICONTROL Manage] eller [!UICONTROL Edit] åtkomst, och sedan tar bort den objekttypen, fortsätter det anpassade formuläret att kräva [!UICONTROL Manage] - eller [!UICONTROL Edit]-åtkomst för att redigera fälten. Det finns ingen visuell indikation på att fälten kräver behörigheten Hantera eller Redigera och det finns inget sätt att återställa formuläret.
 
 **Tillfällig lösning**
 

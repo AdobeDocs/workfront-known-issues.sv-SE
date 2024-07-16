@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
-The [!UICONTROL Home] -området visar standardnamn för objekt i stället för den terminologi som angetts av organisationen. Detta har rapporterats i följande områden:
+Området [!UICONTROL Home] visar standardnamn för objekt i stället för den terminologi som angetts av organisationen. Detta har rapporterats i följande områden:
 
-* The [!UICONTROL Work List] filter
-* The &quot;[!UICONTROL Start] (objekt)&quot; i [!UICONTROL Work List]
+* Filtret [!UICONTROL Work List]
+* Knappen [!UICONTROL Start] (objekt) i [!UICONTROL Work List]
 
 _Först rapporterad den 8 april 2022._

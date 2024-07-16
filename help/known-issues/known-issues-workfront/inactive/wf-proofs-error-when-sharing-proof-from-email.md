@@ -19,7 +19,7 @@ ht-degree: 0%
 
 När ett korrektur delas med en gäst och gästen försöker använda alternativet &quot;Dela det här korrekturet med någon annan&quot; i e-postmeddelandet, får de ett felmeddelande när de försöker skicka en e-postadress för att dela korrekturet med. E-postfältet blir rött och användaren ser följande fel:
 
-&quot;[!UICONTROL There are some errors. Please, correct them above.]&quot;
+[!UICONTROL There are some errors. Please, correct them above.]
 
 Detta kan inträffa även när e-postmeddelandet har angetts korrekt.
 

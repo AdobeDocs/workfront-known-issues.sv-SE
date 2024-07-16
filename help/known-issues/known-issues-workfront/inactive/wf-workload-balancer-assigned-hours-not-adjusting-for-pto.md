@@ -17,6 +17,6 @@ ht-degree: 0%
 >
 >Problemet har stängts eftersom det inte är något problem.
 
-Om en användare schemalägger en tid utan och har tilldelat uppgifter, uppdateras inte tidslinjen med hänsyn till den lediga tiden. I stället [!UICONTROL Workload Balancer] visar att användaren är överbelagd för de dagar som har planerats ut. Administratören måste gå in i projektet och beräkna om tidslinjen för att justera timmarna.
+Om en användare schemalägger en tid utan och har tilldelat uppgifter, uppdateras inte tidslinjen med hänsyn till den lediga tiden. I stället visar [!UICONTROL Workload Balancer] att användaren är överallokerad för de dagar som har planerats av. Administratören måste gå in i projektet och beräkna om tidslinjen för att justera timmarna.
 
-_Först rapporterad 6 mars 2023._
+_Först rapporterat 6 mars 2023._

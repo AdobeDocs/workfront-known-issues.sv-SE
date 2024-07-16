@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Workfront-korrektur: Sökdata är inte alltid korrekta
+# Workfront Proof: Sökdata är inte alltid korrekta
 
 De data som visas på resultatsidan i korrektur visar inte alltid den mest aktuella informationen.
 

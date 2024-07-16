@@ -1,5 +1,5 @@
 ---
-title: "Workfront-korrektur: E-signaturer fungerar inte"
+title: "Workfront Proof: E-signaturer fungerar inte"
 description: När en användare visar ett korrektur i Workfront Proof och försöker fatta ett beslut med en e-signatur, är e-signaturen ineffektiv och användaren kan inte signera beslutet.
 hidefromtoc: true
 feature: Digital Content and Documents
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Workfront-korrektur: E-signaturer fungerar inte
+# Workfront Proof: E-signaturer fungerar inte
 
 >[!NOTE]
 >

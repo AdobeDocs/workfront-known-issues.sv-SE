@@ -15,14 +15,14 @@ ht-degree: 0%
 
 <!--Requested article. This issue is on the WF and WFP TOCs.-->
 
-När en användare försöker få åtkomst till ett dokument som länkats via [!DNL SharePoint], tas de till en sida med följande fel:
+När en användare försöker få åtkomst till ett dokument som är länkat via [!DNL SharePoint], dirigeras de till en sida med följande fel:
 
-&quot;[!UICONTROL Error 404: Page not found. This page isn't available. Try checking the URL or visit a different page.]&quot;
+[!UICONTROL Error 404: Page not found. This page isn't available. Try checking the URL or visit a different page.]
 
-Detta är en känd [!DNL SharePoint] problem som inträffar när platsen har en @-symbol i länken.
+Det här är ett känt [!DNL SharePoint]-problem som inträffar när webbplatsen har en @-symbol i länken.
 
 **Tillfällig lösning**
 
-[!DNL SharePoint] rekommenderar att du genererar en kort URL-adress och använder den för länken.
+[!DNL SharePoint] rekommenderar att du genererar en kort URL och använder den för länken.
 
 _Först rapporterad den 14 mars 2023._

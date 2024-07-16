@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >Problemet har stängts eftersom det fungerar som det ska.
 
-När en användare tittar på [!UICONTROL My Projects], [!UICONTROL My Tasks], eller [!UICONTROL My Issues] widgeten i den nya [!UICONTROL Home] standardfiltret och grupperingen för den widgeten är inte standardinställningen i layoutmallen som tilldelats den användaren.
+När en användare visar [!UICONTROL My Projects], [!UICONTROL My Tasks] eller [!UICONTROL My Issues] widgeten i den nya [!UICONTROL Home]-upplevelsen är standardfiltret och standardgrupperingen för den widgeten inte standardinställningen i layoutmallen som tilldelats den användaren.
 
-**Tillfällig lösning**:
+**Lösning**:
 
 När du använder Nytt hem är det viktigt att komma ihåg att användarinställningarna (inställningarna) prioriteras. Det innebär att om du anger ett standardfilter eller en standardgruppering för en viss widget med hjälp av en layoutmall kanske det inte börjar gälla omedelbart på grund av befintliga användarinställningar. Om du vill använda det nya filtret eller grupperingen kan du eller användaren behöva återställa inställningarna. Detta kan du göra genom att lägga till `/resetUser` till din URL.
 

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 När en användare visar ett kort som har checklisteobjekt och gör en ändring så att checklistesumman ändras, ändras inte summan.
 
-Detta har rapporterats både i [!UICONTROL Boards] området och [!UICONTROL Boards] widgeten i den nya [!UICONTROL Home] upplevelse.
+Detta har rapporterats både i området [!UICONTROL Boards] och i widgeten [!UICONTROL Boards] i den nya [!UICONTROL Home]-upplevelsen.
 
 _Först rapporterad den 16 februari 2024._

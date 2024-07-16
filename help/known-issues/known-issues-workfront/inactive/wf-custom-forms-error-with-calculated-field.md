@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Egna formulär: &quot;[!UICONTROL Whoops]&quot; fel vid inställning av beräkningsfält
+# Anpassade formulär: [!UICONTROL Whoops]-fel när ett beräknat fält konfigureras
 
 <!--Requested: Do not delete without approval from Alex Beach-->
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 >
 >Problemet korrigerades den 12 januari 2023
 
-När en användare skapar eller redigerar ett beräknat fält i ett anpassat formulär och inkluderar ett anpassat fält i det beräknade fältets uttryck, anses uttrycket vara ogiltigt. The [!UICONTROL Save] är inaktiverad och användaren kan inte navigera bort från det anpassade fältet. Dessutom ser användaren följande meddelande under fältet:
+När en användare skapar eller redigerar ett beräknat fält i ett anpassat formulär och inkluderar ett anpassat fält i det beräknade fältets uttryck, anses uttrycket vara ogiltigt. Knappen [!UICONTROL Save] är inaktiverad och användaren kan inte navigera bort från det anpassade fältet. Dessutom ser användaren följande meddelande under fältet:
 
-&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]
 
 Om du tar bort det anpassade fältet från uttrycket kan användaren spara och navigera bort från fältet.
 

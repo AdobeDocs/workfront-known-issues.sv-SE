@@ -15,6 +15,6 @@ ht-degree: 0%
 
 När en användare försöker visa en användarprofilsida ser sidan ut att läsas in, men den läses inte in helt.
 
-Detta har rapporterats vid användning av [!UICONTROL Log In As] -funktion.
+Detta har rapporterats när funktionen [!UICONTROL Log In As] används.
 
 _Först rapporterad den 8 juli 2024._

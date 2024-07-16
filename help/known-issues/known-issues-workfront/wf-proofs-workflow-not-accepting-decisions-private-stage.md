@@ -1,6 +1,6 @@
 ---
 title: "Korrektur: Det går inte att fatta beslut på den privata arbetsflödesfasen"
-description: När en automatiserad arbetsflödesfas är privat kan användare inte fatta korrekturbeslut från dokumentinformations&get; korrekturarbetsflödessteget. Det finns en lösning.
+description: När en automatiserad arbetsflödesfas är privat kan användare inte fatta korrekturbeslut från dokumentets &stämpel;gt; korrekturarbetsflödesfas. Det finns en lösning.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: f60b7fe8-7a1f-418b-9ca7-00fc2e2653f6

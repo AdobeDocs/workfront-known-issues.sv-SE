@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Workfront-korrektur: Instrumentpanelsdata är inte alltid korrekta
+# Workfront Proof: Instrumentpanelsdata är inte alltid korrekta
 
 De data som visas i kontrollpanelens område i korrektur visar inte alltid den senaste informationen.
 

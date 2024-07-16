@@ -1,23 +1,24 @@
 ---
 title: Workfront Maintenance Updates in 2023
-description: Underhållsuppdateringar för [!DNL Adobe Workfront]
+description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 feature: Get Started with Workfront
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '7242'
 ht-degree: 0%
 
 ---
 
-# [!DNL Workfront] Underhållsuppdateringar 2023
+# [!DNL Workfront] underhållsuppdateringar 2023
 
 Följande underhållsuppdateringar gjordes 2023.
 
 >[!NOTE]
 >
->Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
+>Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Support meddelar dig när ett problem som du har skickat har åtgärdats.
 
-Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
+Underhållsuppdateringar före 2023 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i december 2023
 
@@ -25,7 +26,7 @@ Underhållsuppdateringar före 2023 finns på [Tidigare underhållsuppdateringar
 
 **Problem vid visning av delaktivitetsstatus**
 
-_Varumärkena_
+_Vandrar_
 
 Följande problem har rapporterats när det gäller att visa status för underaktiviteter på ett kort i Boards:
 
@@ -34,17 +35,17 @@ Följande problem har rapporterats när det gäller att visa status för underak
 
 **Kan inte bifoga ett dokument till ett kort**
 
-_Varumärkena_
+_Vandrar_
 
 När en användare försöker bifoga ett dokument till ett anslutet kort kan han eller hon välja det dokument som ska bifogas, men dokumentet visas inte i kortets dokumentområde och dokumentet är inte bifogat till objektet som kortet är anslutet till.
 
 Detta har rapporterats i kort som är kopplade till problem.
 
-**Kan inte välja mall från [!UICONTROL Favorites] list**
+**Det går inte att välja mall från [!UICONTROL Favorites] list**
 
 _Mallar_
 
-När en användare försöker välja en mall från [!UICONTROL Favorites] listan försvinner när användaren flyttar musen till listan och användaren inte kan välja någon mall.
+När en användare försöker välja en mall från listan [!UICONTROL Favorites] försvinner listan när användaren flyttar musen till listan och användaren inte kan välja någon mall.
 
 **Vissa uppdateringar saknas i den nya kommentarsfunktionen**
 
@@ -77,15 +78,15 @@ När en användare visar en rapport för väntande korrekturgodkännanden visas 
 
 +++**Underhållsuppdatering 7 december 2023**
 
-**Godkännandet fastnat [!UICONTROL Awaiting my approval] widget**
+**Godkännandet fastnat i [!UICONTROL Awaiting my approval] widget**
 
 _Startsida_
 
-När en ny version av ett dokument överförs och den föregående versionen har ett godkännande som inte är fullständigt, fastnar den gamla versionen av dokumentet på godkännarens [!UICONTROL Awaiting my approval] widget. Godkännandet kan inte godkännas eftersom det finns en ny version och det kan inte tas bort från widgeten.
+När en ny version av ett dokument överförs och den föregående versionen har ett godkännande som inte är fullständigt, fastnar den gamla versionen av dokumentet på godkännarens [!UICONTROL Awaiting my approval]-widget. Godkännandet kan inte godkännas eftersom det finns en ny version och det kan inte tas bort från widgeten.
 
-**Problem vid tillägg av arbetsuppgifter i styrelsens vy över uppgifter eller frågor**
+**Problem när arbetsobjekt läggs till i vyn över uppgifter eller problem i styrelsen**
 
-_Uppgifter/ärenden_
+_Uppgifter/problem_
 
 När en användare tittar på styrelsens vy över uppgifter eller problem i ett projekt och försöker lägga till en uppgift eller ett problem kan följande inträffa:
 
@@ -104,9 +105,9 @@ Detta har rapporterats inträffa när en användare väljer ett område från de
 
 _[!UICONTROL Home]_
 
-När en användare visar sina [!UICONTROL My Work] widget i [!UICONTROL Home]visas inte vissa av de uppgifter som de är tilldelade till i widgeten. En användare kan till exempel gå till ett projekt och se att de är tilldelade uppgifter i projektet, men dessa uppgifter visas inte på användarens [!UICONTROL My Work] widget.
+När en användare visar sin [!UICONTROL My Work]-widget i [!UICONTROL Home] visas inte vissa av de uppgifter som de är tilldelade till i widgeten. En användare kan till exempel gå till ett projekt och se att de är tilldelade uppgifter i projektet, men dessa uppgifter visas inte i användarens [!UICONTROL My Work]-widget.
 
-**Inloggningssidan omdirigeras till utloggningssidan**
+**Inloggningssidan omdirigeras till utloggningsstartsidan**
 
 _Inloggning_
 
@@ -122,7 +123,7 @@ När en användare försöker exportera en rapport misslyckas exporten med följ
 500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
 ```
 
-Detta har rapporterats i rapporter där en `valueexpression` referera till `lastNote` anteckningstext.
+Detta har rapporterats i rapporter där `valueexpression` används som referens för anteckningstexten `lastNote`.
 
 +++
 
@@ -146,7 +147,7 @@ När användaren skickar sin begäran visas valutan som den korrekta anpassade v
 
 _Uppdateringar_
 
-När en användare skickar en kommentar via API:t eller via [!DNL Workfront Fusion]visar kommentaren som visas i uppdateringsområdet extra rader. Ibland finns det så många rader att användaren måste rulla nedåt för att kunna se kommentarinnehållet.
+När en användare skickar en kommentar via API:t eller via [!DNL Workfront Fusion] visas extra rader i kommentaren som visas i uppdateringsområdet. Ibland finns det så många rader att användaren måste rulla nedåt för att kunna se kommentarinnehållet.
 
 Detta har rapporterats i den nya kommentarsfunktionen.
 
@@ -154,23 +155,23 @@ Detta har rapporterats i den nya kommentarsfunktionen.
 
 +++**Underhållsuppdatering 9 november 2023**
 
-**My Work widget missing objects when not top of page**
+**Widgeten Mitt arbete saknar objekt när den inte är överst på sidan**
 
 _Startsida_
 
 Om widgeten Mitt arbete är högst upp på den nya hemsidan, hämtas alla förväntade objekt. Om den här widgeten däremot finns under andra widgetar på sidan, hämtas endast 10 objekt.
 
-**Kan inte generera korrektur**
+**Det går inte att generera bevis**
 
 _Korrektur_
 
 När en användare försöker generera ett korrektur skapas inte korrekturet och användaren ser följande fel:
 
-&quot;[!UICONTROL Error generating proof]&quot;
+[!UICONTROL Error generating proof]
 
-Detta inträffar när användarens åtkomstnivåinställning[!UICONTROL  View Contact Info] är inställt på Inaktiverad.
+Detta inträffar när användarens åtkomstnivåinställning [!UICONTROL  View Contact Info] är Inaktiverad.
 
-**Radera fält när ett dokument läggs till i en begäran**
+**Fält rensas när ett dokument läggs till i en begäran**
 
 _Begäranden_
 
@@ -180,13 +181,13 @@ När en användare skapar en begäran fyller i fält i ett formulär och sedan l
 
 _Tidrapporter_
 
-När en användare skapar en uppgift på [!UICONTROL Todo] den nya widgeten [!UICONTROL Home] så visas den uppgiften på användarens tidrapport. Detta inträffar även om aktiviteten inte har några timmar loggad och det personliga projektet inte är fäst.
+När en användare skapar en uppgift i [!UICONTROL Todo]-widgeten för den nya [!UICONTROL Home]-upplevelsen visas den uppgiften på användarens tidrapport. Detta inträffar även om aktiviteten inte har några timmar loggad och det personliga projektet inte är fäst.
 
 +++
 
 +++**Underhållsuppdatering (snabbkorrigering) 3 november 2023**
 
-**Underordnade uppgifter visas i fel ordning när de flyttas under den överordnade uppgiften**
+**Underordnade aktiviteter visas i fel ordning när de flyttas under den överordnade aktiviteten**
 
 _Mallar_
 
@@ -204,7 +205,7 @@ När ett rapportfält innehåller ett värdeuttryck som refererar till en privat
 
 **Användaren visas som överallokerad på grund av felaktig kapacitet**
 
-_Utjämning av arbetsbelastning_
+_Utjämnare för arbetsbelastning_
 
 En användare kan visa i belastningsutjämnaren som överallokerad. Om en användare hovrar över övertilldelningen ser de att användarens kapacitet är inställd på 0.
 
@@ -218,7 +219,7 @@ Om användaren ändrar datumintervallet är allokeringen korrekt. Om användaren
 
 **Sökningen fungerar inte**
 
-_Varumärkena_
+_Vandrar_
 
 När en användare försöker söka på anslagstavlor returnerar sökningen inte alla kort som uppfyller sökvillkoren.
 
@@ -228,7 +229,7 @@ _Korrektur_
 
 När en användare försöker visa ett korrektur i webbkorrekturläsaren visas inte korrekturet och användaren ser följande fel:
 
-&quot;[!UICONTROL Missing Key-Pair-Id query parameter or cookie value]&quot;
+[!UICONTROL Missing Key-Pair-Id query parameter or cookie value]
 
 **Kan inte skapa en ny version av ett korrektur**
 
@@ -236,7 +237,7 @@ _Korrektur_
 
 När en användare försöker skapa en ny version av ett korrektur skapas inte den nya versionen och användaren ser följande felmeddelande:
 
-&quot;[!UICONTROL Error generating proof]&quot;
+[!UICONTROL Error generating proof]
 
 **Användaren dupliceras när en begäran delas**
 
@@ -246,13 +247,13 @@ Om åtkomstnivån för en användare som begäran delas med ändras när en beg�
 
 Om begäran till exempel delas med användare A och användare B och åtkomst för användare B ändras, ändras användare A till användare B och det nu finns två användardatabaser i listan. Dessutom har endast den översta användar-B-åtkomsten ändrats.
 
-**&quot;[!UICONTROL Whoops]&quot; fel i uppgiftshuvud**
+**[!UICONTROL Whoops]-fel i aktivitetshuvudet**
 
 _Uppgifter_
 
 När en användare tittar på en uppgift innehåller uppgiftshuvudet ingen information. I stället ser användaren följande felmeddelande:
 
-&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]
 
 +++
 
@@ -272,37 +273,37 @@ När en användare gör en kommentar om ett korrektur skapas även en annan komm
 
 Detta har rapporterats på videokorrektur.
 
-**[!UICONTROL Proof activity]fliken öppnas inte**
+Fliken **[!UICONTROL Proof activity]öppnas inte**
 
 _Korrektur_
 
-När en användare visar ett korrektur och klickar på [!UICONTROL Proof activity] fliken återgår användaren till [!UICONTROL Proof details] -fliken.
+När en användare visar ett korrektur och klickar på fliken [!UICONTROL Proof activity] återgår användaren till fliken [!UICONTROL Proof details].
 
-**[!UICONTROL Planned Hours]allokeras om när en ytterligare användare tilldelas till en uppgift**
+**[!UICONTROL Planned Hours]omallokeras när ytterligare en användare tilldelas till en aktivitet**
 
 _Uppgifter_
 
-När en användare tilldelas en uppgift som har [!UICONTROL Planned Hours] som tilldelats andra tilldelningar för uppgiften, aktivitetens [!UICONTROL Planned Hours] är jämnt fördelade till alla tilldelningar för uppgiften.
+När en användare tilldelas till en aktivitet som har [!UICONTROL Planned Hours] allokerats till andra tilldelningar för aktiviteten, fördelas aktivitetens [!UICONTROL Planned Hours] jämnt till alla tilldelningar för aktiviteten.
 
-**&quot;[!UICONTROL Deleted]&quot; visas som namn på användare i systemuppdateringar när problem konverteras till uppgift**
+**[!UICONTROL Deleted] visas som användarnamn i systemuppdateringar när utgåvan konverteras till aktiviteten**
 
 _Uppdateringar_
 
-När en användare som är inloggad som en annan användare konverterar ett problem till en uppgift och problemet tilldelas ett team, visas systemuppdateringarna[!UICONTROL Deleted]&quot; som den användare som begärde att teamet ska arbeta med uppgiften.
+När en användare som är inloggad som en annan användare konverterar ett problem till en aktivitet och problemet tilldelas till ett team, visas [!UICONTROL Deleted] som den användare som begärde att teamet ska arbeta med uppgiften.
 
 +++
 
 +++**Underhållsuppdatering 12 oktober 2023**
 
-**Arbetsflöden som tagits bort för konton som inte använder dem**
+**Arbetsströmmar borttagna för konton som inte använder dem**
 
-_Varumärkena_
+_Vandrar_
 
 För konton som aldrig har skapat ett arbetsflöde i Boards-programmet har Workstreams-området tagits bort från instrumentpanelen för paneler. Konton som använder arbetsflöden har fortfarande tillgång till dem.
 
-**Beräknade fält behåller inget värde när utleverans konverteras till uppgift**
+**Beräknade fält behåller inget värde när utgåvan konverteras till aktiviteten**
 
-_Egna formulär_
+_Anpassade formulär_
 
 Beräknade fält som refererar till sig själva behåller inte sina värden när en utgåva konverteras till en uppgift.
 
@@ -312,17 +313,17 @@ När du konverterar problemet till en uppgift visas det önskade värdet korrekt
 
 _Startsida_
 
-När en användare ändrar filtren för [!UICONTROL Home], [!UICONTROL Home] -området läses inte in och användaren ser följande fel:
+När en användare ändrar filtren på [!UICONTROL Home] läses inte området [!UICONTROL Home] in och användaren ser följande fel:
 
-&quot;[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]&quot;
+[!UICONTROL An error has occurred and we are working to resolve the issue. To continue with your work, try refreshing this browser page.]
 
 +++
 
 +++**Underhållsuppdatering 5 oktober 2023**
 
-**Långsam styrelbelastning**
+**Kortet läses in långsamt**
 
-_Varumärkena_
+_Vandrar_
 
 När en användare läser in en bräda laddas brädet extremt långsamt. Detta kan inträffa även om styrelsen har ett litet antal kort.
 
@@ -330,7 +331,7 @@ Arkiverade kort, även om de inte visades, påverkade kortens inläsningstid.
 
 **Kan inte flytta kort mellan kolumner**
 
-_Varumärkena_
+_Vandrar_
 
 När en användare försöker flytta ett kort ombord flyttas inte kortet. Detta inträffar under följande omständigheter:
 
@@ -338,19 +339,19 @@ När en användare försöker flytta ett kort ombord flyttas inte kortet. Detta 
 * Alternativet Flytta på kortet
 * Redigera kortet
 
-**Det går inte att flytta kort från inmatningskolumnen**
+**Det går inte att flytta kort från inloppskolumnen**
 
-_Varumärkena_
+_Vandrar_
 
 Användaren kan dra ut ett kort från inmatningskolumnen till en annan kolumn på kortet, men efterföljande kort kan inte flyttas ut från inmatningskolumnen.
 
 **Gruppera efter påverkar kortets prestanda**
 
-_Varumärkena_
+_Vandrar_
 
 När användaren försöker gruppera korten efter tilldelningar eller taggar blir kortets prestanda väldigt långsamt.
 
-**Automatiska påminnelsemeddelanden skickas inte**
+**Automatiska påminnelser skickas inte**
 
 _Meddelanden_
 
@@ -362,13 +363,13 @@ Automatiska e-postpåminnelser skickas inte. Detta började den 14 september 202
 
 +++**Underhållsuppdatering 28 september 2023**
 
-**Kan inte ta bort anpassat fält**
+**Det går inte att ta bort det anpassade fältet**
 
-_Egna formulär_
+_Anpassade formulär_
 
-När en användare försöker ta bort ett anpassat fält kan han/hon inte ta bort det och han/hon ser meddelandet &quot;[!UICONTROL Database error due to constraint violation].&quot;
+När en användare försöker ta bort ett anpassat fält kan de inte ta bort det och de ser meddelandet [!UICONTROL Database error due to constraint violation].
 
-**Kommentarer som gjorts i den nya kommentarsupplevelsen visas inte i den äldre versionen**
+**Kommentarer som gjorts i den nya kommentarsfunktionen visas inte i den äldre versionen.**
 
 _Uppdateringar_
 
@@ -378,7 +379,7 @@ När en användare gör en kommentar i den nya kommentarsfunktionen och den komm
 
 _Workfront_
 
-När en användare navigerar till ett anpassat avsnitt i ett objekt i [!DNL Workfront], sidan som läses in kanske saknar vissa element. Dessa element kan vara:
+När en användare navigerar till ett anpassat avsnitt på ett objekt i [!DNL Workfront] kan det saknas vissa element på sidan som läses in. Dessa element kan vara:
 
 * Den vänstra navigeringspanelen
 * Namnet på objektet som det anpassade avsnittet tillhör
@@ -390,21 +391,21 @@ När en användare navigerar till ett anpassat avsnitt i ett objekt i [!DNL Work
 
 **Det går inte att tilldela användare på en anslagstavla i en arbetsström**
 
-_Varumärkena_
+_Vandrar_
 
 När en användare försöker tilldela en annan användare till en uppgift från en arbetsyta som är en del av ett arbetsflöde och börjar skriva användarens namn, visas inte användaren i listrutan med tillgängliga användare. Detta inträffar även när användaren är aktiv och medlem av både styrelsen och arbetsflödet.
 
 Användaren kan också se att inaktiverade användare visas i listrutan.
 
-**Det går inte att ta bort checklistobjektet**
+**Det går inte att ta bort checklisteobjektet**
 
-_Varumärkena_
+_Vandrar_
 
-När en användare försöker ta bort ett checklisteobjekt från ett kort på en anslagstavla, [!UICONTROL Delete] knappen svarar inte och objektet tas inte bort.
+När en användare försöker ta bort ett checklisteobjekt från ett kort på en bräda svarar inte knappen [!UICONTROL Delete] och objektet tas inte bort.
 
 **Anpassade formulär läses in långsamt**
 
-_Egna formulär_
+_Anpassade formulär_
 
 När en användare försöker läsa in ett anpassat formulär läses det anpassade formuläret in långsamt.
 
@@ -420,7 +421,7 @@ _Dokument_
 
 När en användare försöker hämta ett dokument hämtas inte dokumentet, och användaren ser en sida med följande meddelande följt av XML-text.
 
-&quot;[!UICONTROL The XML file does not appear to have any style information associated with it. The document tree is below.]&quot;
+[!UICONTROL The XML file does not appear to have any style information associated with it. The document tree is below.]
 
 **Det går inte att hämta dokument från förhandsgransknings-/sandlådemiljöer**
 
@@ -428,9 +429,9 @@ _Dokument_
 
 När en användare försöker hämta ett dokument från en annan miljö än produktionsmiljön hämtas inte dokumentet och användaren ser följande fel:
 
-&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]
 
-**Korrektur ser uttunnade eller beskurna ut**
+**Korrektur visas omättade eller beskurna**
 
 _Korrektur_
 
@@ -441,7 +442,7 @@ Följande problem har rapporterats när du skapar ett korrektur från en URL.
 
 Detta kan göra att korrekturläsningsbeslut blir svåra eftersom korrekturet inte återges korrekt.
 
-**Det tar lång tid att generera korrektur**
+**Det tar lång tid att generera** korrektur
 
 _Korrektur_
 
@@ -451,13 +452,13 @@ När en användare försöker generera ett korrektur tar det lång tid att gener
 
 +++**Underhållsuppdatering 14 september 2023**
 
-**&quot;[!UICONTROL No factory]&quot; fel när ett dokument läggs till**
+**[!UICONTROL No factory]-fel vid tillägg av dokument**
 
 _Dokument_
 
-När en användare försöker lägga till ett dokument från en extern källa, [!DNL Workfront] kan inte komma åt källan och användaren ser följande fel:
+När en användare försöker lägga till ett dokument från en extern källa, kan [!DNL Workfront] inte komma åt källan och användaren ser följande fel:
 
-&quot;[!UICONTROL The following error occurred: No factory found for authentication type null]&quot;
+[!UICONTROL The following error occurred: No factory found for authentication type null]
 
 **&quot;Hoppfel&quot; i matrisrapporter**
 
@@ -465,7 +466,7 @@ _Rapporter_
 
 När en användare försöker visa en matrisrapport läses rapporten inte in och användaren ser följande fel:
 
-&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]
 
 Detta inträffar när en rapport grupperas efter datumintervall.
 
@@ -483,13 +484,13 @@ Personliga uppgifter visas inte längre på tidrapporten som standard. Personlig
 
 +++**Underhållsuppdatering 7 september 2023**
 
-**Projektet är tomt när det läses in från nytt [!UICONTROL Home] upplevelse**
+**Projektet är tomt när det läses in från en ny [!UICONTROL Home] upplevelse**
 
 _Projekt_
 
-När en användare klickar på ett projekt från sin [!UICONTROL Home] sidan i den nya hemupplevelsen, kan projektsidan inte läsas in.
+När en användare klickar på ett projekt från sin [!UICONTROL Home]-sida i den nya hemupplevelsen, läses projektsidan inte in.
 
-Detta inträffar när användaren har loggat in som en annan användare, sedan loggat ut som den andra användaren och återgått till sin egen [!UICONTROL Home] sida.
+Detta inträffar när användaren har loggat in som en annan användare, sedan loggat ut som den andra användaren och återgått till sin egen [!UICONTROL Home]-sida.
 
 +++
 
@@ -497,11 +498,11 @@ Detta inträffar när användaren har loggat in som en annan användare, sedan l
 
 +++**Underhållsuppdatering 31 augusti 2023**
 
-**Filter gäller inte för widgetar i den nya [!UICONTROL Home] upplevelse**
+**Filter gäller inte för widgetar i den nya [!UICONTROL Home] upplevelsen**
 
 _[!UICONTROL Home]_
 
-När en användare tillämpar ett filter på en widget i den nya [!UICONTROL Home] så visar widgeten objekt som ska exkluderas av filtret.
+När en användare använder ett filter på en widget i den nya [!UICONTROL Home]-upplevelsen visar widgeten objekt som ska uteslutas av filtret.
 
 Detta har rapporterats i den anpassade sandlådemiljön. Samma widgetar i miljöfiltret för förhandsgranskning och produktion som förväntat.
 
@@ -512,21 +513,21 @@ _Rapporter_
 När en användare försöker läsa in en matrisrapport som ett diagram kan något av följande inträffa:
 
 * Viss information i rapporten läses inte in
-* Rapporten ger felmeddelandet &quot;[!UICONTROL Unable to load content from the server]&quot;
+* Rapporten ger felmeddelandet [!UICONTROL Unable to load content from the server]
 
 **Planeraren läses inte in när filter används**
 
 _[!UICONTROL Resource Planner]_
 
-När en användare försöker läsa in [!UICONTROL Resource Planner]läses inte in och användaren ser följande felmeddelande:
+När en användare försöker läsa in [!UICONTROL Resource Planner] läses inte planeraren in och användaren ser följande felmeddelande:
 
-&quot;[!UICONTROL The following error occurred: Something went wrong while connecting to WorkPerDay service]&quot;
+[!UICONTROL The following error occurred: Something went wrong while connecting to WorkPerDay service]
 
 +++
 
 +++**Underhållsuppdatering 24 augusti 2023**
 
-**Det går inte att markera text i listor eller punkter**
+**Det går inte att markera text i listor eller punktlistor**
 
 _Korrektur_
 
@@ -536,25 +537,25 @@ När en användare visar ett korrektur i korrekturläsaren och försöker marker
 
 _Korrektur_
 
-När en användare skapar ett korrektur från ett dokument skapas korrekturet. Om en användare skapar en annan version av korrekturet tas dock både den gamla och den nya versionen bort. Det finns en [!UICONTROL Create Proof] på originaldokumentet och korrekturversionerna finns i [!UICONTROL Trash] området på [!UICONTROL Proofing] område i [!DNL Workfront].
+När en användare skapar ett korrektur från ett dokument skapas korrekturet. Om en användare skapar en annan version av korrekturet tas dock både den gamla och den nya versionen bort. Det finns ett [!UICONTROL Create Proof]-alternativ i originaldokumentet och korrekturversionerna finns i [!UICONTROL Trash]-området i [!UICONTROL Proofing]-området i [!DNL Workfront].
 
 +++
 
 +++**Underhållsuppdatering 17 augusti 2023**
 
-**Det går inte att navigera till ett projekt med en URL som använder[!UICONTROL Reference ID]**
+**Det går inte att navigera till projekt med en URL som använder[!UICONTROL Reference ID]**
 
 _Projekt_
 
-När en användare försöker navigera till ett projekt med en URL som innehåller en [!UICONTROL Reference ID] -nummer omdirigeras de till en sida med ett felmeddelande. Navigera till en uppgift med en URL med en [!UICONTROL Reference ID] fungerar som förväntat.
+När en användare försöker navigera till ett projekt med en URL som innehåller ett [!UICONTROL Reference ID]-nummer, dirigeras de om till en sida med ett felmeddelande. Navigering till en aktivitet med en URL med en [!UICONTROL Reference ID] fungerar som förväntat.
 
-**&quot;[!UICONTROL Disable proof email notifications]&quot; visas felaktigt**
+Inställningen **[!UICONTROL Disable proof email notifications] visas felaktigt**
 
 _Korrektur_
 
-När en användare visar korrekturinställningar i [!DNL Workfront], &quot;[!UICONTROL Disable proof email notifications]&quot; visas inte korrekt med den aktuella inställningen. När kryssrutan är markerad, vilket anger att korrekturmeddelanden via e-post är inaktiverade, aktiveras meddelanden. Motsatsen är också sann.
+När en användare visar korrekturinställningar i [!DNL Workfront] visas inte korrekt aktuell inställning i kryssrutan [!UICONTROL Disable proof email notifications]. När kryssrutan är markerad, vilket anger att korrekturmeddelanden via e-post är inaktiverade, aktiveras meddelanden. Motsatsen är också sann.
 
-**Det går inte att justera korrekturmarkeringar**
+**Kan inte justera korrekturmarkeringar**
 
 _Korrektur_
 
@@ -564,27 +565,27 @@ När en användare gör en kommentar i korrekturläsaren och sedan klickar bort 
 
 +++**Underhållsuppdatering 10 augusti 2023**
 
-**Kan inte ta bort [!UICONTROL To-do] objekt i nytt [!UICONTROL Home] upplevelse**
+**Det går inte att ta bort [!UICONTROL To-do] objekt i den nya [!UICONTROL Home]-upplevelsen**
 
 _Startsida_
 
-När en användare befinner sig på den nya [!UICONTROL Home] försök att ta bort ett objekt från [!UICONTROL To-do] widgeten, objektet tas inte bort och användaren ser följande fel:
+När en användare i den nya [!UICONTROL Home]-upplevelsen försöker ta bort ett objekt från [!UICONTROL To-do]-widgeten tas inte objektet bort och användaren ser följande fel:
 
-&quot;[!UICONTROL There was a problem removing your to-do, please try again soon.]&quot;
+[!UICONTROL There was a problem removing your to-do, please try again soon.]
 
-Detta kan inträffa när timmar loggas till [!UICONTROL To-do] objekt.
+Detta kan inträffa när timmar loggas till objektet [!UICONTROL To-do].
 
 **Fastnålade projekt visar inte information i vissa kolumner**
 
 _Projekt_
 
-När en användare navigerar till ett fäst projekt med stiftet kan objektlistorna (t.ex. uppgiftslistan) visa tomma kolumner. Till exempel en [!UICONTROL Assignments] -kolumnen kan inte visa några tilldelningar, även om tilldelningar har gjorts.
+När en användare navigerar till ett fäst projekt med stiftet kan objektlistorna (t.ex. uppgiftslistan) visa tomma kolumner. En [!UICONTROL Assignments]-kolumn kan till exempel inte visa några tilldelningar, även om tilldelningar har gjorts.
 
 **Vilolägesmodulen orsakar att scenarier låser sig**
 
 _[!DNL Workfront Fusion]_
 
-The [!UICONTROL Tools] > [!UICONTROL Sleep] i ett scenario kan göra att ett scenario körs. Dessa körningar visar statusen Köra i [!UICONTROL Scenario History]och inte avsluta.
+Modulen [!UICONTROL Tools] > [!UICONTROL Sleep] i ett scenario kan göra att ett scenario körs. Dessa körningar har statusen Körs i [!UICONTROL Scenario History] och slutförs inte.
 
 +++
 
@@ -592,7 +593,7 @@ The [!UICONTROL Tools] > [!UICONTROL Sleep] i ett scenario kan göra att ett sce
 
 **Svårighet att hitta objekt i inloppskolumnen**
 
-_Varumärkena_
+_Vandrar_
 
 Inloppskolumnen på en styrelse sorterades tidigare efter den prioritet som definierats för uppgifter och frågor, vilket gjorde det svårt att hitta specifika punkter.
 
@@ -620,7 +621,7 @@ _Rapporter_
 
 När en användare försöker visa en matrisrapport läses rapporten inte in och användaren ser följande fel:
 
-&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]
 
 Detta har rapporterats för användare inom EMEA.
 
@@ -632,21 +633,21 @@ Detta har rapporterats för användare inom EMEA.
 
 **Taggar och checklisteobjekt fungerar inte korrekt i projektpanelsvyn**
 
-_Varumärkena_
+_Vandrar_
 
 Taggar och checklisteobjekt har tagits bort från projektvyn eftersom de inte ingår i Workfront-åtgärderna och inte kan delas mellan användare.
 
-**&quot;[!UICONTROL Enable system-wide]och &quot;[!UICONTROL View system-wide]&quot; representerar olika funktioner**
+**[!UICONTROL Enable system-wide] och [!UICONTROL View system-wide] representerar olika funktioner**
 
 _Filter_
 
-Om en användare delar ett filter och aktiverar[!UICONTROL View system-wide]&quot; delas filtret med alla användare i systemet. Om en administratör sedan visar det här filtret i [!UICONTROL Setup]ser de att det här filtret visar &quot;[!UICONTROL false]&quot; i &quot;[!UICONTROL Visible System-Wide]&quot;. Administratören måste aktivera alternativet[!UICONTROL Enable system-wide]&quot; i [!UICONTROL Setup]. Detta kan orsaka viss förvirring på grund av likheter i ordalydelsen.
+Om en användare delar ett filter och aktiverar alternativet [!UICONTROL View system-wide] delas filtret med alla användare i systemet. Om en administratör sedan visar det här filtret i [!UICONTROL Setup] ser de att filtret visar [!UICONTROL false] i kolumnen [!UICONTROL Visible System-Wide]. Om du vill göra det här filtret till ett standardsystem måste administratören aktivera alternativet [!UICONTROL Enable system-wide] i [!UICONTROL Setup]. Detta kan orsaka viss förvirring på grund av likheter i ordalydelsen.
 
 +++
 
 +++**Underhållsuppdatering 20 juli 2023**
 
-Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
+Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Support meddelar dig när ett problem som du har skickat har åtgärdats.
 
 +++
 
@@ -684,21 +685,21 @@ När en användare försöker redigera en annan användare är sidan Redigera an
 
 +++**Underhållsuppdatering 29 juni 2023**
 
-Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
+Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Support meddelar dig när ett problem som du har skickat har åtgärdats.
 
 +++
 
 +++**Underhållsuppdatering 22 juni 2023**
 
-**&quot;[!UICONTROL Whoops]&quot; fel vid visning av matrisrapport**
+**[!UICONTROL Whoops]-fel vid visning av matrisrapport**
 
 _Rapporter_
 
 När en användare visar en matrisrapport visas följande fel:
 
-&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]
 
-Detta har rapporterats när rapporten sorteras efter datum och &quot;[!UICONTROL Show weeks with no results]Alternativet &quot; är aktiverat.
+Detta har rapporterats när rapporten sorteras efter datum och alternativet [!UICONTROL Show weeks with no results] är aktiverat.
 
 **Datum visas felaktigt i matrisrapporter**
 
@@ -710,13 +711,13 @@ När ett diagram eller en matrisrapport grupperas efter datum kan datum nära gr
 
 +++**Underhållsuppdatering 15 juni 2023**
 
-Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
+Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Support meddelar dig när ett problem som du har skickat har åtgärdats.
 
 +++
 
 +++**Underhållsuppdatering 8 juni 2023**
 
-Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Supporten meddelar dig när ett ärende som du har skickat har åtgärdats.
+Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Support meddelar dig när ett problem som du har skickat har åtgärdats.
 
 +++
 
@@ -724,7 +725,7 @@ Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrige
 
 [!DNL Fusion] har distribuerat en korrigering som förhindrar att en användares anslutningar tas bort när användaren tas bort eller inaktiveras i [!UICONTROL Adobe Admin Console].
 
-[!DNL Fusion] Teamadministratörer kan fortfarande ta bort onödiga anslutningar från [!UICONTROL Connections] sida in [!DNL Fusion].
+[!DNL Fusion] teamadministratörer kan fortfarande ta bort onödiga anslutningar från sidan [!UICONTROL Connections] i [!DNL Fusion].
 
 +++
 
@@ -734,13 +735,13 @@ Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrige
 
 _Uppgifter_
 
-När en användare försöker ordna om en uppgift i en uppgiftslista och uppgiften finns [!UICONTROL Pending approval] status, aktiviteten verkar flyttas i uppgiftslistan. Användaren ser att objektet inte har flyttats vid uppdateringen. Objektet kan inte flyttas eftersom det finns i [!UICONTROL Pending approval] status, men det finns inget meddelande som talar om för användaren att objektet inte kan flyttas, vilket kan leda till missförstånd.
+När en användare försöker ändra ordning på en uppgift i en uppgiftslista och uppgiften har statusen [!UICONTROL Pending approval], verkar aktiviteten flyttas i uppgiftslistan. Användaren ser att objektet inte har flyttats vid uppdateringen. Objektet kan inte flyttas eftersom det har statusen [!UICONTROL Pending approval], men det finns inget meddelande som talar om för användaren att objektet inte kan flyttas, vilket kan leda till missförstånd.
 
-**Inget felmeddelande visas när föregående aktivitet flyttas under beroende aktivitet**
+**Inget felmeddelande visas när föregående aktivitet flyttas under den beroende aktiviteten**
 
 _Uppgifter_
 
-När en användare försöker ordna om en uppgift i en uppgiftslista och uppgiften finns [!UICONTROL Pending approval] status, aktiviteten verkar flyttas i uppgiftslistan. Användaren ser att objektet inte har flyttats vid uppdateringen. Det går inte att flytta objektet eftersom en föregående aktivitet inte kan flyttas under en aktivitet som det är föregångare till, men det finns inget meddelande som talar om för användaren att objektet inte kan flyttas, vilket kan leda till missförstånd.
+När en användare försöker ändra ordning på en uppgift i en uppgiftslista och uppgiften har statusen [!UICONTROL Pending approval], verkar aktiviteten flyttas i uppgiftslistan. Användaren ser att objektet inte har flyttats vid uppdateringen. Det går inte att flytta objektet eftersom en föregående aktivitet inte kan flyttas under en aktivitet som det är föregångare till, men det finns inget meddelande som talar om för användaren att objektet inte kan flyttas, vilket kan leda till missförstånd.
 
 +++
 
@@ -748,11 +749,11 @@ När en användare försöker ordna om en uppgift i en uppgiftslista och uppgift
 
 +++**Underhållsuppdatering 25 maj 2023**
 
-**[!UICONTROL Kanban]kortet blir tomt när du redigerar kort**
+**[!UICONTROL Kanban]-kort blir tomt när du redigerar kort**
 
 _Agile_
 
-När en användare ändrar något om ett kort på [!UICONTROL Kanban] bräda [!UICONTROL Kanban] kortet blir tomt i stället för att uppdateras med ändringen. Om användaren uppdaterar sidan manuellt uppdaterar [!UICONTROL Kanban] kortreturer som visar rätt ändring.
+När en användare ändrar något om ett kort på [!UICONTROL Kanban]-kortet blir [!UICONTROL Kanban]-kortet tomt i stället för att uppdateras med ändringen. Om användaren uppdaterar sidan manuellt, returneras [!UICONTROL Kanban]-tavlan med rätt ändring.
 
 Detta har rapporterats under följande omständigheter:
 
@@ -766,7 +767,7 @@ Detta har rapporterats under följande omständigheter:
 
 **Det går inte att justera storleken på beskrivande text**
 
-_Egna formulär_
+_Anpassade formulär_
 
 När den anpassade formulärdesignern släpptes som betaversion var funktionen för att justera storleken på den beskrivande texten inte tillgänglig. Problemet har åtgärdats och användare kan nu justera storleken på beskrivande text.
 
@@ -793,15 +794,15 @@ Detta verkar inträffa om alla följande omständigheter är uppfyllda:
 
 _Korrektur_
 
-När en användare visar ett korrektur i [!UICONTROL Proofing Viewer]och växlar till en annan version, blir listrutan i version inaktiverad och användaren kan inte växla tillbaka till den ursprungliga versionen som han/hon visade eller till en annan version av korrekturet.
+När en användare visar ett korrektur i [!UICONTROL Proofing Viewer] och växlar till en annan version, inaktiveras listrutan för version och användaren kan inte växla tillbaka till den ursprungliga versionen de visade eller till en annan version av korrekturet.
 
 **[!DNL Workfront]Timeout för sökning**
 
 _Sök_
 
-[!DNL Workfront] sökningen tar slut. Sökningen kan returnera några få resultat, eller inga alls.
+[!DNL Workfront]-sökningen väntar. Sökningen kan returnera några få resultat, eller inga alls.
 
-Detta påverkar även funktionaliteten i [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] -modul.
+Det här problemet påverkar även funktionen för modulen [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search].
 
 +++
 
@@ -817,17 +818,17 @@ När ett scenario körs kan det ha ett timeout-fel. Informationen från modulen 
 
 _Sök_
 
-[!DNL Workfront] sökningen tar slut. Sökningen kan returnera några få resultat, eller inga alls.
+[!DNL Workfront]-sökningen väntar. Sökningen kan returnera några få resultat, eller inga alls.
 
-Detta påverkar även funktionaliteten i [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search] -modul.
+Det här problemet påverkar även funktionen för modulen [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Search].
 
 +++
 
 +++**Underhållsuppdatering 9 maj 2023**
 
-**Sparade filter finns i inloppskolumnen**
+**Sparade filter finns i kolumnen för ritbordsintag**
 
-_Varumärkena_
+_Vandrar_
 
 Nu kan du använda befintliga Workfront-uppgiftsfilter och utgivningsfilter när du konfigurerar en anslagskolumn för en anslagstavla. Befintliga filter för inloppskolumner är nu skrivskyddade på konfigurationspanelen. De befintliga filtren används fortfarande i inloppskolumnen, men du måste återskapa filtren om du vill redigera dem.
 
@@ -835,7 +836,7 @@ Nu kan du använda befintliga Workfront-uppgiftsfilter och utgivningsfilter när
 
 +++**Underhållsuppdatering 4 maj 2023**
 
-**Kan inte välja mall från[!UICONTROL Favorite templates]**
+**Det går inte att välja mall från[!UICONTROL Favorite templates]**
 
 _Mallar_
 
@@ -851,7 +852,7 @@ När en användare försöker välja en mall på Åtgärder-menyn (tre punkter) 
 
 _Korrektur_
 
-När en användare visar ett korrektur i [!UICONTROL Proofing Viewer]och växlar till ett annat korrektur, ändras inte skärmkorrektusknappen. Användaren kan inte växla tillbaka till det ursprungliga korrekturet eller till ett annat korrektur.
+När en användare visar ett korrektur i [!UICONTROL Proofing Viewer] och växlar till ett annat korrektur, svarar inte knappen för att byta korrektur. Användaren kan inte växla tillbaka till det ursprungliga korrekturet eller till ett annat korrektur.
 
 **Redigera bifogade bilder när du redigerar en kommentar**
 
@@ -867,7 +868,7 @@ Du kan nu redigera bilden som är kopplad till en kommentar när du redigerar en
 
 _[!DNL Workfront Fusion]_
 
-När en användare visar ett korrektur i [!UICONTROL Proofing Viewer]och växlar till ett annat korrektur, ändras inte skärmkorrektusknappen. Användaren kan inte växla tillbaka till det ursprungliga korrekturet eller till ett annat korrektur.
+När en användare visar ett korrektur i [!UICONTROL Proofing Viewer] och växlar till ett annat korrektur, svarar inte knappen för att byta korrektur. Användaren kan inte växla tillbaka till det ursprungliga korrekturet eller till ett annat korrektur.
 
 +++
 
@@ -875,20 +876,20 @@ När en användare visar ett korrektur i [!UICONTROL Proofing Viewer]och växlar
 
 **Problem i anpassade listrutefält**
 
-_Egna formulär_
+_Anpassade formulär_
 
 Anpassade listrutefält som är aktiverade som flervalsfält kan visa följande problem:
 
-* The &quot;+[!UICONTROL Add]knappen finns inte när formuläret inte är i redigeringsläge.
-* Fält som inte har värden visar ett &quot;—[!UICONTROL no label]—&quot;.
+* Knappen +[!UICONTROL Add] finns inte när formuläret inte är i redigeringsläge.
+* Fält som inte har värden visar ett &quot;—[!UICONTROL no label]—&quot;-alternativ.
 
-**Det går inte att använda verktyget Polyline när du kommenterar ett korrektur**
+**Det går inte att använda polygonverktyget när du gör en kommentar i ett korrektur**
 
 _Korrektur_
 
 När en användare visar ett korrektur i korrekturläsaren och försöker göra en kommentar med polygonverktyget markeras inte korrekturet.
 
-**Textalternativrutan visar&quot;textAnnotations&quot;**
+**Textalternativrutan visar &quot;textAnnotations&quot;**
 
 _Korrektur_
 
@@ -914,7 +915,7 @@ _Uppdateringar_
 
 När någon lägger till en kommentar eller svarar, eller tar bort en kommentar från uppdateringsområdet, kan du nu se den nya kommentaren eller en indikation på att kommentaren togs bort i realtid, utan fördröjning. Detta är tillgängligt i uppdateringsavsnittet för mål och problem när du aktiverar betafunktionen för kommentarer.
 
-**Åtkomstnivån har ändrats av systemet utan att det gick att registrera ändringen**
+**Åtkomstnivån har ändrats av systemet utan att det fanns någon post för ändringen**
 
 _Användare_
 
@@ -924,27 +925,27 @@ En användares åtkomstnivå kan ändras oförutsägbart av systemet. När detta
 
 +++**Underhållsuppdatering 17 april 2023**
 
-**Visa nya kommentarer utanför det synliga skärmområdet i dialogrutan [!UICONTROL Updates] problemsektion (nya kommentarer med Beta) och[!UICONTROL Goals]**
+**Visa nya kommentarer utanför det synliga skärmområdet i [!UICONTROL Updates] -avsnittet av problem (nya kommentarer i Beta) och[!UICONTROL Goals]**
 
 _Uppdateringar_
 
-Vi har lagt till en meddelandebanderoll för [!UICONTROL Updates] för att informera användare när det finns nyare kommentarer för ett objekt som kan ligga utanför det synliga området på skärmen. Den här uppdateringen är för närvarande tillgänglig i [!UICONTROL Updates] målgrupper och problem när den nya kommentarfunktionen har aktiverats för problem.
+Vi har lagt till en meddelandebanderoll för avsnittet [!UICONTROL Updates] för att informera användare när det finns nyare kommentarer för ett objekt som kanske ligger utanför det synliga området på skärmen. Den här uppdateringen är för närvarande tillgänglig i målavsnittet [!UICONTROL Updates] och i problemavsnittet när den nya betafunktionen för kommentarer har aktiverats för problem.
 
 +++
 
 +++**Underhållsuppdatering 13 april 2023**
 
-**Filter används inte på förfrågningslistor**
+**Filter används inte på listan över förfrågningar**
 
 _Begäranden_
 
 När en användare visar en lista med begäranden som har ett filter, innehåller listan begäranden som filtret ska utesluta.
 
-**Kan inte markera [!UICONTROL Default Hour Type] eller[!UICONTROL Available Hour Types]**
+**Det går inte att välja [!UICONTROL Default Hour Type] eller[!UICONTROL Available Hour Types]**
 
 _Användare_
 
-När en administratör redigerar en användare och försöker markera en [!UICONTROL Default Hour Type] eller [!UICONTROL Available Hour Type]ser de att listrutorna för dessa fält är inaktiverade och att de inte kan välja timtyper.
+När en administratör redigerar en användare och försöker välja en [!UICONTROL Default Hour Type] eller [!UICONTROL Available Hour Type] ser de att listrutorna för dessa fält är inaktiverade och att de inte kan välja timtyper.
 
 +++
 
@@ -954,7 +955,7 @@ När en administratör redigerar en användare och försöker markera en [!UICON
 
 _Korrektur_
 
-När en användare lägger till en annan användare i ett korrektur i [!UICONTROL Proofing Viewer], &quot;[!UICONTROL Proof role]och &quot;[!UICONTROL Email alerts]&quot;-listrutor kan inte öppnas. Användaren kan inte tilldela ett korrekturfält eller en e-postavisering. Detta kan inträffa när en användare läggs till via en kommentar eller när korrekturet delas med användaren.
+När en användare lägger till en annan användare i ett korrektur i [!UICONTROL Proofing Viewer] kan inte listrutorna [!UICONTROL Proof role] och [!UICONTROL Email alerts] öppnas. Användaren kan inte tilldela ett korrekturfält eller en e-postavisering. Detta kan inträffa när en användare läggs till via en kommentar eller när korrekturet delas med användaren.
 
 +++
 
@@ -966,7 +967,7 @@ När en användare lägger till en annan användare i ett korrektur i [!UICONTRO
 
 _Korrektur_
 
-När en användare visar ett korrektur i [!UICONTROL Proofing Viewer]och växlar till en annan version, blir listrutan i version inaktiverad och användaren kan inte växla tillbaka till den ursprungliga versionen som han/hon visade eller till en annan version av korrekturet.
+När en användare visar ett korrektur i [!UICONTROL Proofing Viewer] och växlar till en annan version, inaktiveras listrutan för version och användaren kan inte växla tillbaka till den ursprungliga versionen de visade eller till en annan version av korrekturet.
 
 **504-fel vid export av rapporter**
 
@@ -974,7 +975,7 @@ _Rapporter_
 
 När en användare försöker exportera en rapport med ett stort antal objekt visas ett 504-fel och rapporten kan inte exporteras.
 
-**Uppdateringar som gjorts för en användares räkning visas som direkt från användaren**
+**Uppdatering som gjorts för en användares räkning visas direkt från användaren**
 
 _Uppdateringar_
 
@@ -984,19 +985,19 @@ När en administratör är inloggad som användare och gör en kommentar, visas 
 
 +++**Underhållsuppdatering 23 mars 2023**
 
-**[!UICONTROL Summary]panelinnehållet är för brett för panelen**
+**[!UICONTROL Summary]panelinnehåll är för brett för panelen**
 
 _Dokument_
 
-När en användare tittar på [!UICONTROL Summary] för ett dokument är innehållet för brett för att visas på panelen. Panelen har nu en vågrät rullningslist och användaren måste rulla vågrätt för att se [!UICONTROL Summary] panelinnehåll. Det beror på att dokumentets filnamn inte radbryts. Problemet är begränsat till filer där filnamnet har filtillägget HTML.
+När en användare visar panelen [!UICONTROL Summary] för ett dokument är innehållet för brett för att visas på panelen. Panelen har nu en vågrät rullningslist och användaren måste rulla vågrätt för att se innehållet i panelen [!UICONTROL Summary]. Det beror på att dokumentets filnamn inte radbryts. Problemet är begränsat till filer där filnamnet har filtillägget HTML.
 
-**Nytt [!UICONTROL Desktop Proofing Viewer] version**
+**Ny [!UICONTROL Desktop Proofing Viewer] version**
 
 _Korrektur_
 
-Åtgärda ett problem med kommentarer i [!UICONTROL Desktop Proofing Viewe]r har vi driftsatt en ny version av korrekturläsaren för skrivbordet.
+För att åtgärda ett kommentarsproblem i [!UICONTROL Desktop Proofing Viewe]r har vi distribuerat en ny version av korrekturläsaren för skrivbordet.
 
-Användare som redan [!UICONTROL Desktop Proofing Viewer] den här uppdateringen hämtas automatiskt.
+Användare som redan har [!UICONTROL Desktop Proofing Viewer] installerat får uppdateringen automatiskt.
 
 Användarna kan även manuellt välja den senaste versionen. Mer information finns i [Installera [!UICONTROL Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
 
@@ -1007,13 +1008,13 @@ Användarna kan även manuellt välja den senaste versionen. Mer information fin
 
 +++**Underhållsuppdatering 16 mars 2023**
 
-**Checklisteobjekt kopieras inte när ett kort kopieras**
+**Objekt i checklistan kopieras inte när ett kort kopieras**
 
-_Varumärkena_
+_Vandrar_
 
 När du kopierar ett ad hoc-kort (anslutna kort kan inte kopieras) kopieras inte checklisteobjekt till det nya kortet.
 
-**Anpassat fält saknas när utgåva konverteras till projekt**
+**Anpassat fält saknas när problem konverteras till projekt**
 
 _Projekt_
 
@@ -1033,42 +1034,42 @@ När en användare delar ett korrektur och lägger till ett anpassat meddelande 
 
 _Användare_
 
-När en användare återaktiverar en inaktiverad användare och försöker tilldela dem en åtkomstnivå i [!UICONTROL Reactivate User] -fönstret fylls inte listrutan på åtkomstnivå som användartyper och användaren kan inte välja en åtkomstnivå. Om användaren skriver i åtkomstnivån och sparar, tilldelas den återaktiverade användaren inte den åtkomstnivån.
+När en användare återaktiverar en inaktiverad användare och försöker tilldela dem en åtkomstnivå i fönstret [!UICONTROL Reactivate User], fylls inte listrutan på åtkomstnivå som användartyper och användaren kan inte välja en åtkomstnivå. Om användaren skriver i åtkomstnivån och sparar, tilldelas den återaktiverade användaren inte den åtkomstnivån.
 
-**Spara utkastet av en kommentar i [!DNL Goals] area**
+**Spara utkastet av en kommentar i [!DNL Goals] området**
 
 _[!DNL Workfront Goals]_
 
-Nu när du navigerar bort från [!UICONTROL Updates] när du skriver ett meddelande bevaras meddelandet när du kommer tillbaka. Före den här uppdateringen skulle den ej inskickade kommentaren ha tagits bort.
+När du nu navigerar bort från sidan [!UICONTROL Updates] för ett mål medan ett meddelande disponeras bevaras meddelandet när du går tillbaka. Före den här uppdateringen skulle den ej inskickade kommentaren ha tagits bort.
 
 +++
 
 +++**Underhållsuppdatering 2 mars 2023**
 
-**Det går inte att lägga till kort när gruppering används**
+**Kan inte lägga till kort när gruppering används**
 
-_Varumärkena_
+_Vandrar_
 
-När en användare visar en anslagstavla med en gruppering och försöker lägga till ett kort, kan användaren bara ange kortets namn. Resten av kortfälten är inaktiverade, inklusive [!UICONTROL Save] -knappen.
+När en användare visar en anslagstavla med en gruppering och försöker lägga till ett kort, kan användaren bara ange kortets namn. Resten av kortfälten är inaktiverade, inklusive knappen [!UICONTROL Save].
 
-Om användaren ändrar grupperingen till [!UICONTROL None]kvarstår problemet. Användaren måste ändra grupperingen till [!UICONTROL None] och sedan uppdatera sidan för att återställa möjligheten att lägga till ett kort.
+Om användaren ändrar grupperingen till [!UICONTROL None] kvarstår problemet. Användaren måste ändra grupperingen till [!UICONTROL None] och sedan uppdatera sidan för att återställa möjligheten att lägga till ett kort.
 
 **Anslutna kort har inte lagts till i kolumner baserat på status**
 
-_Varumärkena_
+_Vandrar_
 
 Även om kolumnprofiler används för status, visas nya anslutna kort i kolumnen längst till vänster och inte i den kolumn som motsvarar deras status.
 
 
-**Länka till en kommentar omdirigeras till [!UICONTROL Details] page**
+**Länk till en kommentar omdirigeras till [!UICONTROL Details] sida**
 
 _Uppdateringar_
 
-När en användare följer en länk till en kommentar om ett objekt i Workfront läses uppdateringsströmmen in en kort stund och sedan dirigeras användaren till objektets [!UICONTROL Details] område. Detta kan inträffa om användaren klickar på länken från ett e-postmeddelande eller klistrar in länken i sin webbläsare.
+När en användare följer en länk till en kommentar om ett objekt i Workfront läses uppdateringsströmmen in en kort stund och sedan dirigeras användaren till objektets [!UICONTROL Details]-område. Detta kan inträffa om användaren klickar på länken från ett e-postmeddelande eller klistrar in länken i sin webbläsare.
 
 Detta påverkar för närvarande bara Document-objekt.
 
-**Utskriftssammanfattning läses inte in**
+**Utskriftssammanfattningen läses inte in**
 
 _[!UICONTROL Workfront Proof]_
 
@@ -1080,11 +1081,11 @@ När en användare försöker att läsa in sidan Skriv ut sammanfattning ser det
 
 +++**Underhållsuppdatering 23 februari 2023**
 
-**Länka till en kommentar omdirigeras till [!UICONTROL Details] page**
+**Länk till en kommentar omdirigeras till [!UICONTROL Details] sida**
 
 _Uppdateringar_
 
-När en användare följer en länk till en kommentar om ett objekt i Workfront läses uppdateringsströmmen in en kort stund och sedan dirigeras användaren till objektets [!UICONTROL Details] område. Detta kan inträffa om användaren klickar på länken från ett e-postmeddelande eller klistrar in länken i sin webbläsare.
+När en användare följer en länk till en kommentar om ett objekt i Workfront läses uppdateringsströmmen in en kort stund och sedan dirigeras användaren till objektets [!UICONTROL Details]-område. Detta kan inträffa om användaren klickar på länken från ett e-postmeddelande eller klistrar in länken i sin webbläsare.
 
 Detta påverkar för närvarande bara Document-objekt.
 
@@ -1092,25 +1093,25 @@ Detta påverkar för närvarande bara Document-objekt.
 
 _Användare_
 
-När en användare har en [!UICONTROL Worker] licensförsök att redigera sina egna meddelandeinställningar, [!UICONTROL Notifications] alternativen inte visas i [!UICONTROL Edit] och användaren kan inte redigera inställningarna.
+När en användare med en [!UICONTROL Worker]-licens försöker redigera sina egna meddelandeinställningar, visas inte alternativen för [!UICONTROL Notifications] i [!UICONTROL Edit]-fönstret och användaren kan inte redigera inställningarna.
 
 +++
 
 +++**Underhållsuppdatering 16 februari 2023**
 
-**Flera teamuppdrag på styrelser**
+**Flera teamtilldelningar på anslagstavlor**
 
-_Varumärkena_
+_Vandrar_
 
 Du kan nu tilldela flera team till en uppgift eller ett ärende i en styrelse och till själva styrelsen.
 
-**Ökning av kortets utfallsgräns**
+**Ökning av kortets reservgräns**
 
-_Varumärkena_
+_Vandrar_
 
 Utgångsdatumet för kortet har ökat till 8 veckor/60 dagar i stället för 4 veckor/30 dagar.
 
-**Schemalagd inaktivering inaktiverar inte användare**
+**Den schemalagda inaktiveringen inaktiverar inte användaren**
 
 _Användare_
 
@@ -1120,11 +1121,11 @@ När en användare är schemalagd att inaktiveras och det schemalagda datumet oc
 
 +++**Underhållsuppdatering 9 februari 2023**
 
-**[!UICONTROL Story Points]fält som lagts till i uppgifts- och utgivningslistor och rapporter**
+Fältet **[!UICONTROL Story Points]har lagts till i uppgiftslistor och problemlistor och rapporter**
 
 _Rapporter_
 
-The [!UICONTROL Story Points] -fältet är nu tillgängligt för att lägga till i listor och rapporter för uppgifter eller problem. Det är ett redigerbart frihandsfält som inte är kopplat till planerade timmar eller grupptilldelningar.
+Fältet [!UICONTROL Story Points] är nu tillgängligt att lägga till i listor och rapporter för uppgifter eller problem. Det är ett redigerbart frihandsfält som inte är kopplat till planerade timmar eller grupptilldelningar.
 
 +++
 
@@ -1132,25 +1133,25 @@ The [!UICONTROL Story Points] -fältet är nu tillgängligt för att lägga till
 
 **Filterknapp i intagskolumnen**
 
-_Varumärkena_
+_Vandrar_
 
-Inloppskolumnen på en anslagstavla innehåller nu en **[!UICONTROL Add a filter]** när kolumnen är tom och inga filter har skapats. Knappen öppnar konfigurationsområdet, där du kan lägga till filter för att ta in uppgifter och problem i inloppskolumnen.
+Inloppskolumnen på en anslagstavla innehåller nu en **[!UICONTROL Add a filter]**-knapp när kolumnen är tom och inga filter har skapats. Knappen öppnar konfigurationsområdet, där du kan lägga till filter för att ta in uppgifter och problem i inloppskolumnen.
 
 +++
 
 +++**Underhållsuppdatering 2 februari 2023**
 
-**[!UICONTROL Boards]ikonen visas i [!UICONTROL Main Menu] som standard**
+Ikonen **[!UICONTROL Boards]visas i [!UICONTROL Main Menu] som standard**
 
-_Varumärkena_
+_Vandrar_
 
-The [!UICONTROL Boards] ikonen visas nu i [!UICONTROL Main Menu] för användare som inte har någon layoutmall. Alla nya layoutmallar som skapas innehåller som standard även stödlinjer på huvudmenyn. Befintliga layoutmallar har inte ändrats.
+Ikonen [!UICONTROL Boards] visas nu i [!UICONTROL Main Menu] för användare som inte har någon layoutmall. Alla nya layoutmallar som skapas innehåller som standard även stödlinjer på huvudmenyn. Befintliga layoutmallar har inte ändrats.
 
 **Kan inte spara e-postmallar**
 
-_Inställningar_
+_Konfigurera_
 
-När en användare försöker skapa eller redigera en e-postmall [!UICONTROL Save] knappen svarar inte och användaren kan inte spara mallen.
+När en användare försöker skapa eller redigera en e-postmall svarar inte knappen [!UICONTROL Save] och användaren kan inte spara mallen.
 
 +++
 
@@ -1158,7 +1159,7 @@ När en användare försöker skapa eller redigera en e-postmall [!UICONTROL Sav
 
 +++**Underhållsuppdatering 30 januari 2023**
 
-**Kortkommandon som lagts till för vanliga tidrapportåtgärder**
+**Kortkommandon har lagts till för vanliga tidrapportåtgärder**
 
 _Tidrapporter_
 
@@ -1184,8 +1185,8 @@ _Tidrapporter_
 
 Vi har lagt till flera informationsikoner i följande inställningar:
 
-* &quot;[!UICONTROL Can edit time]&quot;, kryssruta när du skapar eller redigerar en tidrapport eller en tidrapportprofil för att ange att godkännare när den är aktiverad även kan skicka, öppna igen eller redigera tidrapporten, såvida inte administratören begränsar dessa åtgärder i [!UICONTROL Timesheet Preferences] område på [!UICONTROL Setup].
-* &quot;[!UICONTROL Restrict timesheet editing to owners and admins]&quot; i [!UICONTROL Timesheet & Hour Preferences] område på [!UICONTROL Setup] om du vill ange att följande användare även kan redigera tidrapporterna när de är inaktiverade: användare med administrativ åtkomst till tidrapporter och timmar, tidrapportgodkännare som kan redigera tid och tidrapportägares chefer.
+* Kryssrutan [!UICONTROL Can edit time] när du skapar eller redigerar en tidrapport eller en tidrapportprofil för att ange att godkännare när den är aktiverad även kan skicka, öppna eller redigera tidrapporten, såvida inte administratören begränsar dessa åtgärder i [!UICONTROL Timesheet Preferences] -området i [!UICONTROL Setup].
+* &quot;[!UICONTROL Restrict timesheet editing to owners and admins]&quot; i området [!UICONTROL Timesheet & Hour Preferences] i [!UICONTROL Setup] för att indikera att följande användare även kan redigera tidrapporterna när de är inaktiverade: användare med administrativ åtkomst till tidrapporter och timmar, tidrapportgodkännare som har behörighet att redigera tid samt tidrapportsägarnas hanterare.
 
 Observera att funktionaliteten för de här inställningarna inte har ändrats och att bara informationsikonerna har lagts till för att göra inställningarna tydligare.
 
@@ -1195,15 +1196,15 @@ Observera att funktionaliteten för de här inställningarna inte har ändrats o
 
 **Fel när begäran skickades från[!DNL Outlook]**
 
-_Integreringar_
+_Integrationer_
 
-När en användare försöker skicka en begäran med bilagor från en [!DNL Outlook] e-post, en eller flera bilagor överförs inte och användaren ser följande fel:
+När en användare försöker skicka en begäran med bifogade filer från ett [!DNL Outlook]-e-postmeddelande, överförs inte en eller flera bifogade filer och användaren ser följande fel:
 
-&quot;[!UICONTROL The following error occurred: File with handle xxxx does not exist.]&quot;
+[!UICONTROL The following error occurred: File with handle xxxx does not exist.]
 
 Detta inträffar endast när en tilldelning görs för den nya begäran, antingen via begärandekön eller manuellt när begäran skapas.
 
-**Ny version av Desktop Proofing Viewer**
+**Ny version av korrekturläsaren för skrivbordet**
 
 _Korrektur_
 
@@ -1226,19 +1227,19 @@ När en användare med en licens för Arbete, Granska eller Begäran försöker 
 
 **Intagskolumnfilter kan nu delas**
 
-_Varumärkena_
+_Vandrar_
 
 När intagskolumnens funktion släpptes till Boards kunde filter för att ställa in intagskolumnen bara ses av den person som skapade dessa filter. Nu kan skaparen dela filtren med andra användare eller team.
 
-**Fästfunktionen är tillgänglig i [!UICONTROL More] meny**
+**Fästfunktionen finns i [!UICONTROL More] menu**
 
 _Navigering_
 
-Följande funktioner är nu tillgängliga i [!UICONTROL More] för stift, i produktionsmiljön:
+Följande funktioner är nu tillgängliga på menyn [!UICONTROL More] för stift i produktionsmiljön:
 
 * Byter namn på punkter
-* Ändra ordning på punkter i [!UICONTROL More] meny
-* Flytta ut ett häftstift från [!UICONTROL More] (när du gör det flyttas det sista stiftet i det övre navigeringsfältet till [!UICONTROL More] meny)
+* Ändra ordning på punkter på menyn [!UICONTROL More]
+* Flytta ett häftstift från menyn [!UICONTROL More] (när du gör det flyttas det sista stiftet i det övre navigeringsfältet till menyn [!UICONTROL More])
 
 +++
 
@@ -1250,21 +1251,21 @@ _Anpassad Forms_
 
 När en användare använder ett jokertecken som \$$TODAY eller $$NOW tillsammans med en modifierare (till exempel&quot;-30d&quot;) i ett anpassat fält, accepterar inte valideraren jokertecknet som giltigt. Jokertecken utan modifierare betraktas som giltiga.
 
-**[!UICONTROL Workload Balancer]visar timmar som inte är associerade med ett projekt/en uppgift/utleverans**
+**[!UICONTROL Workload Balancer]visar timmar som inte är associerade med ett projekt/en aktivitet/ett problem**
 
 _[!UICONTROL Workload Balancer]_
 
-När en användare tittar på [!UICONTROL Workload Balancer]ser de timmar som loggats för en användare som inte är kopplad till något projekt, någon uppgift eller något problem, och de loggas inte heller som [!UICONTROL General] timmar. Dessa timmar kan endast visas i vyn 4 veckor eller 6 veckor.
+När en användare tittar på [!UICONTROL Workload Balancer] ser de timmar som loggats för en användare som inte är kopplad till något projekt, aktivitet eller problem, och de loggas inte heller som [!UICONTROL General] timmar. Dessa timmar kan endast visas i vyn 4 veckor eller 6 veckor.
 
 +++
 
 +++**[!DNL Adobe Workfront Fusion]Underhållsuppdatering (snabbkorrigering) 12 januari 2023**
 
-**404 fel på [!DNL Workfront] moduler**
+**404 fel i [!DNL Workfront] moduler**
 
 _Workfront Fusion_
 
-När ett scenario körs [!DNL Workfront] modulen returnerar ett 404-fel.
+När ett scenario körs returnerar en [!DNL Workfront]-modul ett 404-fel.
 
 Detta har rapporterats i följande moduler:
 
@@ -1274,13 +1275,13 @@ Detta har rapporterats i följande moduler:
 
 +++**Underhållsuppdatering (snabbkorrigering) 12 januari 2023**
 
-**&quot;[!UICONTROL Whoops]&quot; fel vid inställning av beräkningsfält**
+**[!UICONTROL Whoops]-fel vid inställning av ett beräknat fält**
 
 _Anpassad Forms_
 
-När en användare skapar eller redigerar ett beräknat fält i ett anpassat formulär och inkluderar ett anpassat fält i det beräknade fältets uttryck, anses uttrycket vara ogiltigt. The [!UICONTROL Save] är inaktiverad och användaren kan inte navigera bort från det anpassade fältet. Dessutom ser användaren följande meddelande under fältet:
+När en användare skapar eller redigerar ett beräknat fält i ett anpassat formulär och inkluderar ett anpassat fält i det beräknade fältets uttryck, anses uttrycket vara ogiltigt. Knappen [!UICONTROL Save] är inaktiverad och användaren kan inte navigera bort från det anpassade fältet. Dessutom ser användaren följande meddelande under fältet:
 
-&quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]
 
 Om du tar bort det anpassade fältet från uttrycket kan användaren spara och navigera bort från fältet.
 
@@ -1294,13 +1295,13 @@ När en användare försöker ändra åtkomstnivån för en annan användare är
 
 +++**Underhållsuppdatering 12 januari 2023**
 
-**Ctrl+F eller Cmd+F fungerar inte som väntat i listrutor**
+**Ctrl+F eller Cmd+F fungerar inte som förväntat i listrutor**
 
 _Anpassad Forms_
 
 När en användare fyller i ett anpassat formulär och söker i en listruta med Ctrl+F eller Cmd+F och sedan försöker hoppa till nästa förekomst av sökningen, återgår listrutan till början av listan i stället för att hoppa till nästa förekomst av sökningen. Detta inträffar när en listruta är inställd på att tillåta flera val.
 
-**[!UICONTROL Edit Report]skärmen är tom**
+**[!UICONTROL Edit Report]-skärmen är tom**
 
 _Rapporter_
 
@@ -1316,17 +1317,17 @@ När en användare visar en uppgiftslista och drar in en uppgift återgår uppgi
 
 +++**Underhållsuppdatering 5 januari 2023**
 
-**Fästfunktionen är tillgänglig i [!UICONTROL More] meny**
+**Fästfunktionen finns i [!UICONTROL More] menu**
 
 _Navigering_
 
-Följande funktioner är nu tillgängliga i [!UICONTROL More] meny för punkter, endast i förhandsvisningsmiljön:
+Följande funktioner är nu tillgängliga på menyn [!UICONTROL More] för stift, endast i förhandsvisningsmiljön:
 
 * Byter namn på punkter
-* Ändra ordning på punkter i [!UICONTROL More] meny
-* Flytta ut ett häftstift från [!UICONTROL More] (när du gör det flyttas det sista stiftet i det övre navigeringsfältet till [!UICONTROL More] meny)
+* Ändra ordning på punkter på menyn [!UICONTROL More]
+* Flytta ett häftstift från menyn [!UICONTROL More] (när du gör det flyttas det sista stiftet i det övre navigeringsfältet till menyn [!UICONTROL More])
 
-**Begränsningen för projektgruppen har tagits bort från möjligheten att lägga till användare i projektteamet**
+**Begränsningen för projektgruppen har tagits bort från att lägga till användare i projektteamet**
 
 _Team_
 

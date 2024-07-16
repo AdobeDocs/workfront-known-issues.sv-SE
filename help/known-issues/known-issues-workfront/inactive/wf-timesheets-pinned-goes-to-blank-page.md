@@ -17,7 +17,7 @@ ht-degree: 0%
 
 När en användare klickar på ett häftstift i Workfront som är avsett att gå till sin tidrapport, hamnar stiftet i stället på en tom sida.
 
-Detta beror på att URL:en för tidrapporten har ändrats. The `/own` i slutet av URL:en inte längre är rätt URL. Om användaren har fäst en URL som innehåller `/own`, leder nålen till en tom sida.
+Detta beror på att URL:en för tidrapporten har ändrats. `/own` i slutet av URL:en är inte längre rätt URL. Om användaren har fäst en URL som innehåller `/own` leder det stiftet till en tom sida.
 
 **Tillfällig lösning**
 

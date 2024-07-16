@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Updates]: Det går inte att logga tiden för den aktuella dagen i [!UICONTROL Updates] area
+# [!UICONTROL Updates]: Det går inte att logga tid för den aktuella dagen i området [!UICONTROL Updates]
 
 >[!NOTE]
 >
 >Problemet har stängts eftersom det inte gick att reproducera.
 
-När en användare försöker logga tid för den aktuella dagen i [!UICONTROL Updates] är den aktuella dagen nedtonad och användaren kan inte ange några timmar.
+När en användare försöker logga tid för den aktuella dagen i [!UICONTROL Updates]-området är den aktuella dagen nedtonad och användaren kan inte ange några timmar.
 
 **Tillfällig lösning**
 

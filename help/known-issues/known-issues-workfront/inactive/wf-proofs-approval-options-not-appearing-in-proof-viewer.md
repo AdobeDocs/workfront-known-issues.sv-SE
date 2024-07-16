@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
-När en användare försöker godkänna ett korrektur i [!UICONTROL Desktop Proofing Viewer], kort efter att godkännandet begärdes, visas inte godkännandealternativen och användaren kan inte godkänna korrekturet. Godkännandealternativen visas flera timmar efter att godkännandet begärdes.
+När en användare försöker godkänna ett korrektur i [!UICONTROL Desktop Proofing Viewer], strax efter att godkännandet begärdes, visas inte godkännandealternativen och användaren kan inte godkänna korrekturet. Godkännandealternativen visas flera timmar efter att godkännandet begärdes.
 
 **Tillfällig lösning**
 
-Godkänn dokumentet från [!UICONTROL Document Details] sida in [!DNL Workfront].
+Godkänn dokumentet från sidan [!UICONTROL Document Details] i [!DNL Workfront].
 
 _Först rapporterad den 12 juni 2023._

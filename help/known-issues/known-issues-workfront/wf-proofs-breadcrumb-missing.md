@@ -23,4 +23,4 @@ När en användare visar ett korrektur genom att klicka på knappen Gå till kor
 
 Se korrekturet inifrån Workfront istället för via e-postmeddelandet.
 
-_Först rapporterad den 16 oktober 2023._
+_Först rapporterad 16 oktober 2023._

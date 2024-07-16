@@ -1,15 +1,15 @@
 ---
 title: "Uppdateringar: Kommentarer som är kopplade till systemuppdateringar visas inte"
-description: "När en användare gör en kommentar om en systemåtgärd (till exempel statusändring) visas inte kommentaren i uppdateringsområdet. "
+description: '"När en användare gör en kommentar om en systemåtgärd (till exempel statusändring) visas inte kommentaren i uppdateringsområdet. '''
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
+exl-id: 0c5381a9-7a1f-4a60-9793-2cc902e83d9b
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
-
 
 # Uppdateringar: Kommentarer kopplade till systemuppdateringar visas inte
 

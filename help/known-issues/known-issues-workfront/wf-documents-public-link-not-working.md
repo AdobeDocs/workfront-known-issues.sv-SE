@@ -20,7 +20,7 @@ ht-degree: 0%
 När en användare klickar på en offentlig länk för att gå till ett dokument i Workfront kan ett av följande fel uppstå:
 
 * 500-fel
-* &quot;[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]&quot;
+* [!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]
 
 
 _Först rapporterad den 30 maj 2024._

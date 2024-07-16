@@ -1,15 +1,15 @@
 ---
-title: "Rapporter: Ändringar som görs i textläge tillämpas inte på rapporter eller vyer"
-description: "När en användare ändrar en rapport eller vy i textläge sparas inte dessa ändringar och gäller för rapporten eller vyn."
+title: 'Rapporter: Ändringar som görs i textläge tillämpas inte på rapporter eller vyer'
+description: När en användare ändrar en rapport eller vy i textläge sparas inte ändringarna och gäller för rapporten eller vyn.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 65490f20efd723dfbb0492b57456c21c727848e5
+exl-id: fcd0ba82-4c0f-4090-8450-123e0abb3be4
+source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Rapporter: Ändringar som görs i textläge tillämpas inte på rapporter eller vyer
 

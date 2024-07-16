@@ -21,6 +21,6 @@ När ett fält på ett kort på Kanban-tavlan hämtas från ett anpassat formul�
 
 **Tillfällig lösning**
 
-Öppna uppgiften och redigera fältet från [!UICONTROL Edit Task] -fönstret.
+Öppna aktiviteten och redigera fältet från fönstret [!UICONTROL Edit Task].
 
 _Först rapporterad den 12 april 2022._

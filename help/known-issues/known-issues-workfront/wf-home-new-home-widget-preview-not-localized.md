@@ -11,10 +11,10 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Home]: Ny [!UICONTROL Home] widgetens förhandsgranskning visar inte rätt objektnamn
+# [!UICONTROL Home]: Den nya förhandsvisningen av [!UICONTROL Home]-widgeten visar inte rätt objektnamn
 
 <!--valid issue; won't fix-->
 
-När en användare konfigurerar sina [!UICONTROL Home] sida i den nya [!UICONTROL Home] i widgetförhandsvisningar kanske inte rätt namn på objektet som widgeten representerar visas. Det beror på att [!DNL Workfront] I kan du anpassa objektnamn. Förhandsvisningsbilderna använder dock objektets standardnamn. Det innebär att om en organisation har anpassat namnet på ett objekt visas ett annat objektnamn i förhandsgranskningen än det som används i organisationen.
+När en användare konfigurerar sin [!UICONTROL Home]-sida i den nya [!UICONTROL Home]-upplevelsen kanske inte rätt namn på objektet som widgeten representerar visas i widgetens förhandsvisningar. Detta beror på att [!DNL Workfront] tillåter anpassning av objektnamn. Förhandsvisningsbilderna använder dock objektets standardnamn. Det innebär att om en organisation har anpassat namnet på ett objekt visas ett annat objektnamn i förhandsgranskningen än det som används i organisationen.
 
 _Först rapporterad 6 september 2023._
