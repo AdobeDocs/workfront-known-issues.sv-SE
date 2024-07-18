@@ -3,15 +3,19 @@ title: "Faktureringsposter: Knappen Lägg till fler faktureringsposter saknas"
 description: "När en användare visar en lista över faktureringsposter och försöker lägga till en ny, ser de att knappen Lägg till ny faktureringspost saknas längst upp på sidan."
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
 
 # Faktureringsposter: Knappen Lägg till fler faktureringsposter saknas
+
+>[!NOTE]
+>
+>Problemet korrigerades den 18 juli 2024.
 
 När en användare visar en lista över faktureringsposter och försöker lägga till en ny, ser de att knappen Lägg till ny faktureringspost saknas längst upp på sidan.
 

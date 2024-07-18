@@ -4,20 +4,18 @@ description: När en användare visar ett korrektur i korrekturläsaren och för
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
 # Korrektur: Det går inte att stänga korrekturläsaren
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on June 20, 2024.
--->
+>Problemet korrigerades den 18 juli 2024.
 
 När en användare visar ett korrektur i korrekturläsaren och försöker stänga korrekturet genom att klicka på krysset i det övre högra hörnet, stängs inte korrekturet.
 
