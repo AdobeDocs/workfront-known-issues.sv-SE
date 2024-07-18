@@ -3,15 +3,19 @@ title: "Workfront Mobile: Kan inte öppna korrektur"
 description: "När en användare försöker öppna ett korrektur i Workfront-mobilappen ser användaren indikatorn för inläsning av snurrning, men korrekturet läses inte in."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 
 # Workfront Mobile: Kan inte öppna korrektur
+
+>[!NOTE]
+>
+>Problemet har åtgärdats med appversionen som släpptes 15 juli 2024.
 
 När en användare försöker öppna ett korrektur i Workfront-mobilappen ser användaren indikatorn för inläsning av snurrning, men korrekturet läses inte in.
 

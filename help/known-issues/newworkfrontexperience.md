@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
+source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
-| [Anpassade formulär: Anpassat formulär tas inte bort från dokumentet](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 8 juli 2024 |
 | [Dokument: Felaktigt antal dokument](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [Navigering: Bakåtknappen går inte tillbaka till föregående sida](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
-| [Uppgifter: Om du söker efter förnamn i aktivitetstilldelning returneras inte användare](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 27 juni 2024 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 | [Integrationer: Det går inte att lägga till en ny version av ett dokument från  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 24 juni 2024 |
 | [Brevkort: Kortet visas inte som användare när [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) används | 21 juni 2024 |
@@ -45,8 +42,9 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 18 juli 2024 |
+| [Anpassade formulär: Anpassat formulär tas inte bort från dokumentet](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 18 juli 2024 |
 | [Det går inte att skapa vyn för dokumentlistan](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 15 juli 2024 |
-| [Användare: Användarprofilsidan läses in kontinuerligt](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 10 juli 2024 |
 | [Portfolio: Användaren kan inte ange portfölj](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 8 juli 2024 |
 | [Team: Det går inte att visa teamägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [Åtgärder: Bizcontext-fel vid tillägg eller borttagning av en aktivitet](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |

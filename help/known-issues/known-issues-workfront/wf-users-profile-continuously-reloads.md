@@ -3,15 +3,19 @@ title: "Användare: Sidan för användarprofilen läses in kontinuerligt"
 description: "När en användare försöker visa en användarprofilsida ser sidan ut att läsas in, men den läses inte in helt."
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 
 # Användare: Sidan för användarprofilen läses in kontinuerligt
+
+>[!NOTE]
+>
+>Problemet korrigerades den 18 juli 2024.
 
 När en användare försöker visa en användarprofilsida ser sidan ut att läsas in, men den läses inte in helt.
 
