@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '1732'
+source-wordcount: '1759'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Projekt: Valutasymbolen är felaktig vid export](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
+      + [Anpassade formulär: Listrutan stängs när flera värden väljs](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
+      + [Skärmar: Fel vid inläsning av anslagstavla](known-issues-workfront/wf-boards-error-when-loading-board.md)
+      + [korrektur: Godkända korrektur visas i rapporter](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [Kan inte skapa vy för dokumentlista](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [Agile: Artikelbordet blir tomt när du lägger till en underaktivitet](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [Användare: Sidan för användarprofilen läses in kontinuerligt](known-issues-workfront/wf-users-profile-continuously-reloads.md)

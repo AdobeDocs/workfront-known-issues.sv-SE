@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '4328'
+source-wordcount: '4355'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](
 
 
 
-+++**(Planerad) underhållsuppdatering 18 juli 2024**
++++**Underhållsuppdatering 18 juli 2024**
 
-### (Planerat) Underhållsuppdatering den 18 juli 2024
+### Underhållsuppdatering 18 juli 2024
 
 #### Agile
 
@@ -39,6 +39,10 @@ När en användare försöker lägga till en underaktivitet på en artikelanslag
 **Kan inte öppna objekt från [!UICONTROL Home Calendar] eller[!UICONTROL Work List]**
 
 När en användare försöker öppna ett arbetsobjekt eller ett korrektur från sin [!UICONTROL Home Calendar] eller [!UICONTROL Home Work List] öppnas inte objektet.
+
+**Administratörens hemsida visas när du är inloggad som en annan användare**
+
+När en administratör är inloggad som en annan användare och visar användarens hemsida, visas administratörens hemsida.
 
 #### Korrektur
 
