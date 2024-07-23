@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
 workflow-type: tm+mt
-source-wordcount: '4355'
+source-wordcount: '4440'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,28 @@ Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](
 ## Uppdateringar i juli 2024
 
 
+
++++**Underhållsuppdatering 18 juli 2024**
+
+### Underhållsuppdatering 18 juli 2024
+
+#### Egna formulär
+
+**Listrutan stängs när flera värden väljs**
+
+När en användare försöker markera flera värden i ett anpassat formulärfält stängs listrutan när det första värdet har valts.
+
+Detta inträffar när fältet är associerat med visningslogiken i det anpassade formuläret.
+
+#### Meddelanden
+
+**Miniatyrbilder visas inte i e-postmeddelanden**
+
+När en användare visar ett e-postmeddelande om ett dokumentgodkännande visas inte dokumentminiatyrbilden i e-postmeddelandet.
+
+Detta har rapporterats i Gmail.
+
++++
 
 +++**Underhållsuppdatering 18 juli 2024**
 
