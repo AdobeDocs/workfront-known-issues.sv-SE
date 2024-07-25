@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '1759'
+source-wordcount: '1803'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,11 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppdateringar: Användarna meddelas inte om dirigerade uppdateringar](known-issues-workfront/wf-updates-users-not-getting-email.md)
+      + [korrektur: Om du öppnar ett korrektur öppnas flera kopior](known-issues-workfront/wf-proofs-two-proofs-open.md)
+      + [Logga in som: Hem och punkter visas felaktigt när du loggar ut från Logga in som](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
+      + [Uppgifter: Aktiviteter saknar ärvda behörigheter](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
+      + [Åtkomstnivåer: Duplicera åtkomstnivåer i inställningsområdet](known-issues-workfront/wf-access-duplicate-level.md)
       + [Projekt: Valutasymbolen är felaktig vid export](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
       + [Anpassade formulär: Listrutan stängs när flera värden väljs](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
       + [Skärmar: Fel vid inläsning av anslagstavla](known-issues-workfront/wf-boards-error-when-loading-board.md)

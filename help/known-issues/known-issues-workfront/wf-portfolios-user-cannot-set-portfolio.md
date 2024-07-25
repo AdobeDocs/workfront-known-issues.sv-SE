@@ -1,17 +1,21 @@
 ---
-title: "Portfolio: Användaren kan inte ange portfölj"
-description: "Användare kan inte ändra portföljer för ett projekt om de inte har tillgång till portföljen."
+title: 'Portfolio: Användaren kan inte ange portfölj'
+description: Användare kan inte ändra portföljer för ett projekt om de inte har tillgång till portföljen.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+exl-id: 38ad277a-2087-486c-8715-93e275488697
+source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-
 # Portfolio: Användaren kan inte ange portfölj
+
+>[!NOTE]
+>
+>Problemet har stängts eftersom det fungerar som det ska.
 
 Användare kan inte ändra portföljer för ett projekt om de inte har tillgång till portföljen.
 

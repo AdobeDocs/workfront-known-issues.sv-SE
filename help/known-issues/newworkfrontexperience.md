@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 689e979b0598017911ad86f2f16e30733eadd2bb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,9 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Om du öppnar ett korrektur öppnas flera kopior](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 juli 2024 |
+| [Logga in som: Hem och stift visas felaktigt när du loggar ut från Logga in som ](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | 25 juli 2024 |
 | [Kort: Kortet innehåller inte underaktiviteter](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 juli 2024 |
-| [Användare: Det går inte att ändra användarens åtkomstnivå](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 18 juli 2024 |
 | [Kort: Fel vid inläsning av kort](known-issues-workfront/wf-boards-error-when-loading-board.md) | 18 juli 2024 |
 | [Dokument: Felaktigt antal dokument](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [Navigering: Bakåtknappen går inte tillbaka till föregående sida](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
@@ -45,12 +46,12 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Uppdateringar: Användare meddelas inte om dirigerade uppdateringar](known-issues-workfront/wf-updates-users-not-getting-email.md) | 25 juli 2024 |
+| [Uppgifter: Aktiviteter saknar ärvda behörigheter](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | 25 juli 2024 |
+| [Åtkomstnivåer: Duplicerade åtkomstnivåer i inställningsområdet](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
 | [Projekt: Valutasymbolen är felaktig vid export](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 18 juli 2024 |
-| [Anpassade formulär: Listrutan stängs när flera värden väljs](known-issues-workfront/wf-custom-forms-dropdown-closes.md) | 18 juli 2024 |
-| [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 18 juli 2024 |
 | [Anpassade formulär: Anpassat formulär tas inte bort från dokumentet](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 18 juli 2024 |
 | [Det går inte att skapa vyn för dokumentlistan](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 15 juli 2024 |
-| [Portfolio: Användaren kan inte ange portfölj](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 8 juli 2024 |
 | [Team: Det går inte att visa teamägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [Åtgärder: Bizcontext-fel vid tillägg eller borttagning av en aktivitet](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
 | [[!DNL Workfront]: Problem med att skicka ett  [!DNL Workfront] supportärende på Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
