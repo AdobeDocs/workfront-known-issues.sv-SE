@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '802'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,9 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | -----------------------------------------------------------------| ----------------- |
 | [Korrektur: Om du öppnar ett korrektur öppnas flera kopior](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 juli 2024 |
 | [Logga in som: Hem och stift visas felaktigt när du loggar ut från Logga in som ](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | 25 juli 2024 |
-| [Kort: Kortet innehåller inte underaktiviteter](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 juli 2024 |
 | [Kort: Fel vid inläsning av kort](known-issues-workfront/wf-boards-error-when-loading-board.md) | 18 juli 2024 |
-| [Dokument: Felaktigt antal dokument](known-issues-workfront/wf-documents-count-only-root-folder.md) | 28 juni 2024 |
 | [Navigering: Bakåtknappen går inte tillbaka till föregående sida](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
-| [Integrationer: Det går inte att lägga till en ny version av ett dokument från  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 24 juni 2024 |
 | [Brevkort: Kortet visas inte som användare när [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) används | 21 juni 2024 |
 | [Integrationer: Problem med integrering med Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
 | [Rapporter: Fel vid visning av rapportinformation som är grupperad efter anpassat datum](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 14 juni 2024 |
@@ -46,6 +43,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Kort: Kortet innehåller inte underaktiviteter](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25 juli 2024 |
 | [Uppdateringar: Användare meddelas inte om dirigerade uppdateringar](known-issues-workfront/wf-updates-users-not-getting-email.md) | 25 juli 2024 |
 | [Uppgifter: Aktiviteter saknar ärvda behörigheter](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | 25 juli 2024 |
 | [Åtkomstnivåer: Duplicerade åtkomstnivåer i inställningsområdet](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
