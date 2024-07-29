@@ -1,17 +1,21 @@
 ---
-title: "Logga in som: Hem och punkter visas felaktigt när du loggar ut ur Logga in som"
-description: "När en användare som är inloggad som en annan användare loggar ut som den användaren ser de följande problemen på hemskärmen."
+title: 'Logga in som: Hem och punkter visas felaktigt när du loggar ut ur Logga in som'
+description: När en användare som är inloggad som en annan användare loggar ut som den användaren ser de följande problemen på hemskärmen.
 hidefromtoc: true
 feature: System Setup and Administration, Get Started with Workfront
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+exl-id: 3614563d-7f53-4632-b09f-2874133aa217
+source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-
 # Logga in som: Hem och punkter visas felaktigt när du loggar ut från Logga in som
+
+>[!NOTE]
+>
+>Problemet korrigerades den 25 juli 2024.
 
 När en användare som är inloggad som en annan användare loggar ut som den användaren ser de följande:
 
