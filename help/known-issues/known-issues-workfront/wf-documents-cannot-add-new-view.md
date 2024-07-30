@@ -1,17 +1,17 @@
 ---
-title: "Det går inte att skapa vy för dokumentlistan"
-description: "När en användare försöker skapa en ny vy i en dokumentlista, blir skärmen tom och användaren kan inte skapa vyn. "
+title: Kan inte skapa vy för dokumentlista
+description: '"När en användare försöker skapa en ny vy i en dokumentlista, blir skärmen tom och användaren kan inte skapa vyn. '''
 hidefromtoc: true
 feature: Digital Content and Documents, Work Management
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+exl-id: 19fe57f9-fea3-48da-8c82-51e2991958d7
+source-git-commit: a04d80ecff08c17a0e4006f71e23c841c20581b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-
-# Kan inte skapa vy för dokumentlista
+# Dokument: Det går inte att skapa vy för dokumentlista
 
 När en användare försöker skapa en ny vy i en dokumentlista, blir skärmen tom och användaren kan inte skapa vyn.
 

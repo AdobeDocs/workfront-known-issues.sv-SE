@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
+source-git-commit: 3d966ae45f5a1a6c6e34dc49c801186178e7635d
 workflow-type: tm+mt
-source-wordcount: '4440'
+source-wordcount: '4571'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,34 @@ Följande underhållsuppdateringar gjordes 2024.
 
 Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
+## Uppdateringar i augusti 2024
+
++++**(Planerad) underhållsuppdatering 1 augusti 2024**
+
+### (Planerat) Underhållsuppdatering 1 augusti 2024
+
+#### Dokument
+
+**Det går inte att skapa vyn för dokumentlistan**
+
+När en användare försöker skapa en ny vy i en dokumentlista, blir skärmen tom och användaren kan inte skapa vyn.
+
+Befintliga vyer fungerar som förväntat.
+
+#### Integreringar
+
+**Problem med integrering med Dropbox**
+
+Följande problem har rapporterats när det gäller integreringen av Dropbox:
+
+* När en användare försöker söka efter en fil i filväljaren i Dropbox visas ett felmeddelande om auktorisering, och filväljaren hämtar inte filen från Dropbox.
+* När en användare försöker öppna en länkad mapp visas ett felmeddelande om att filerna eller mappen inte längre finns i Dropbox.
+
+Dessa problem beror på problem med Dropbox, inte med Workfront.
+
++++
+
 ## Uppdateringar i juli 2024
-
-
 
 +++**Underhållsuppdatering 25 juli 2024**
 
