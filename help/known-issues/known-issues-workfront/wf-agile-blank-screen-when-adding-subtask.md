@@ -4,9 +4,9 @@ description: När en användare försöker lägga till en underaktivitet på en 
 hidefromtoc: true
 feature: Agile
 exl-id: 3d4ad64a-31a3-4205-a469-80bf680659b3
-source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
+source-git-commit: 99647a699d8a32726302cba80385cd0dcd5497ff
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,9 @@ ht-degree: 0%
 # Agile: Artikelbordet blir tomt när du lägger till en underaktivitet
 
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on July 18, 2024.
--->
+>Detta problem korrigerades den 1 augusti 2024.
 
 När en användare försöker lägga till en underaktivitet på en artikelanslagstavla medan ett filter är markerat, blir skärmen tom och användaren kan inte lägga till underaktiviteten.
 
