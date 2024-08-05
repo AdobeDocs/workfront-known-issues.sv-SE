@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
 workflow-type: tm+mt
-source-wordcount: '1803'
+source-wordcount: '1886'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,17 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Meddelanden: Hoppfel vid inställning av meddelandeinställningar](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [Anpassade formulär: Webbläsaren kraschar när stora formulär skapas](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [Rapporter: Rapportleveranser är fördröjda eller saknas](known-issues-workfront/wf-reports-not-delivered.md)
+      + [Uppgifter: Problem med tidslinjeomberäkning](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [Anpassade formulär: Formulärverktyget kraschar när visningslogik anges](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [Dokument: Klicka på ett dokumentnamn om du vill visa en tom sida](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [Anpassade formulär: Det går inte att rulla i det externa sökfältet](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
+      + [Anpassade formulär: Beräknat fält med felaktigt värde](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion: Det går inte att autentisera en anslutning med Workfront Inloggningsfunktion](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [Inställningar: Inloggning som leder till en tom skärm](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [API: begäran om tidsgräns](known-issues-workfront/wf-api-request-timing-out.md)
       + [Uppdateringar: Användarna meddelas inte om dirigerade uppdateringar](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [korrektur: Om du öppnar ett korrektur öppnas flera kopior](known-issues-workfront/wf-proofs-two-proofs-open.md)
       + [Logga in som: Hem och punkter visas felaktigt när du loggar ut från Logga in som](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
