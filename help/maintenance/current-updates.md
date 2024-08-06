@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
+source-git-commit: 6a969ff30fbc8299786ceda421f615c0c6322a4d
 workflow-type: tm+mt
-source-wordcount: '4569'
+source-wordcount: '4678'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,30 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i augusti 2024
+
++++**(Planerad) underhållsuppdatering 8 augusti 2024**
+
+### (Planerat) Underhållsuppdatering 8 augusti 2024
+
+#### Varumärkena
+
+**Kortet innehåller inte underaktiviteter**
+
+När en användare visar ett kort för en uppgift som är en överordnad uppgift, visas inte underuppgifterna för den överordnade uppgiften på kortet. Istället visas 0 underaktiviteter på kortet.
+
+### Rapporter
+
+**Rapportleveranser är fördröjda eller saknas**
+
+Rapporter med schemalagda leveranser levereras inte som förväntat. De kanske kommer för sent, eller så kanske de inte levereras alls.
+
+#### Inställningar
+
+**&quot;Logga in som&quot; leder till en tom skärm**
+
+När en administratör loggar in som en annan användare visas en tom skärm i stället för att användarens konto visas.
+
++++
 
 +++**Underhållsuppdatering 1 augusti 2024**
 
