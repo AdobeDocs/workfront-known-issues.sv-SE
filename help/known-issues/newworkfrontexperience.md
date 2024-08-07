@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2ec952138a05cf003c1f9ab3f31304a53cb7bfc2
+source-git-commit: ebd60c6433e8ef475d1b93f50790cc7305c4678e
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '879'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 augusti 2024 |
 | [Böcker: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 25 juli 2024 |
 | [Anpassade formulär: Webbläsaren kraschar när stora formulär skapas](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 augusti 2024 |
 | [Rapporter: Rapportleveranser är fördröjda eller saknas](known-issues-workfront/wf-reports-not-delivered.md) | 5 augusti 2024 |
