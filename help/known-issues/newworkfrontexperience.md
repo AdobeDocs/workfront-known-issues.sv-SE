@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e10357f37cd453025e0e3b214cd5dd253719fb21
+source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '855'
 ht-degree: 0%
 
 ---
@@ -25,12 +25,10 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Meddelanden: Hoppfel vid inställning av aviseringsinställningar](known-issues-workfront/wf-notifications-whoops-error.md) | 5 augusti 2024 |
 | [Uppgifter: Problem med tidslinjeomberäkning](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 5 augusti 2024 |
 | [API: begäran om tidsgräns](known-issues-workfront/wf-api-request-timing-out.md) | 5 augusti 2024 |
 | [Korrektur: Om du öppnar ett korrektur öppnas flera kopior](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 juli 2024 |
 | [Kort: Kortet innehåller inte underaktiviteter](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 juli 2024 |
-| [Kort: Fel vid inläsning av kort](known-issues-workfront/wf-boards-error-when-loading-board.md) | 18 juli 2024 |
 | [Navigering: Bakåtknappen går inte tillbaka till föregående sida](known-issues-workfront/wf-navigation-back-button-not-work.md) | 28 juni 2024 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 | [Brevkort: Kortet visas inte som användare när [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) används | 21 juni 2024 |
@@ -45,6 +43,9 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Meddelanden: Hoppfel vid inställning av aviseringsinställningar](known-issues-workfront/wf-notifications-whoops-error.md) | 8 augusti 2024 |
+| [Kort: Fel vid inläsning av kort](known-issues-workfront/wf-boards-error-when-loading-board.md) | 8 augusti 2024 |
+| [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 augusti 2024 |
 | [Böcker: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 5 augusti 2024 |
 | [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 augusti 2024 |
 | [Anpassade formulär: Webbläsaren kraschar när stora formulär skapas](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 augusti 2024 |
