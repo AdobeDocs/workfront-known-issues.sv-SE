@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ebd60c6433e8ef475d1b93f50790cc7305c4678e
+source-git-commit: e10357f37cd453025e0e3b214cd5dd253719fb21
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '847'
 ht-degree: 0%
 
 ---
@@ -45,16 +45,13 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Böcker: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 5 augusti 2024 |
 | [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 augusti 2024 |
-| [Böcker: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 25 juli 2024 |
 | [Anpassade formulär: Webbläsaren kraschar när stora formulär skapas](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 augusti 2024 |
-| [Rapporter: Rapportleveranser är fördröjda eller saknas](known-issues-workfront/wf-reports-not-delivered.md) | 5 augusti 2024 |
 | [Anpassade formulär: Formulärverktyget kraschar när visningslogik anges](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 augusti 2024 |
 | [Dokument: Om du klickar på ett dokumentnamn blir sidan tom](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5 augusti 2024 |
 | [Anpassade formulär: Det går inte att rulla i det externa sökfältet](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 5 augusti 2024 |
 | [Anpassade formulär: Beräknade fält med felaktigt värde](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5 augusti 2024 |
-| [Installationsprogram: Logga in som leder till en tom skärm](known-issues-workfront/wf-setup-blank-screen-for-login-as.md) | 5 augusti 2024 |
-| [Kort: Kortet innehåller inte underaktiviteter](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25 juli 2024 |
 | [Åtkomstnivåer: Duplicerade åtkomstnivåer i inställningsområdet](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
 | [Projekt: Valutasymbolen är felaktig vid export](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 18 juli 2024 |
 | [Anpassade formulär: Anpassat formulär tas inte bort från dokumentet](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 18 juli 2024 |
