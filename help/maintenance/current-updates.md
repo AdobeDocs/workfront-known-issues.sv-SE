@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
+source-git-commit: 550eddafb8d52aae6eb89066d74907cd0bcbb4e9
 workflow-type: tm+mt
-source-wordcount: '4676'
+source-wordcount: '4799'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,41 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i augusti 2024
+
++++**Underhållsuppdatering 15 augusti 2024**
+
+### Underhållsuppdatering 15 augusti 2024
+
+#### Varumärkena
+
+**Problem med dubblettkort**
+
+Följande problem har rapporterats när det gäller dubblettkort på anslagstavlor:
+
+* Ett kort visas två gånger. Detta kan åtgärdas genom att sidan uppdateras.
+* Om en användare tar bort ett av de duplicerade korten tas alla instanser av det duplicerade kortet bort.
+
+#### Meddelanden
+
+**Hoppfel vid inställning av aviseringsinställningar**
+
+När en användare försöker visa meddelandeinställningar visas följande fel:
+
+[!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]
+
+Detta har rapporterats i följande områden:
+
+* Meddelandeinställningar för en användarprofil
+* Området med händelsemeddelanden i installationsprogrammet
+
+#### Projekt
+
+**Valutasymbolen är felaktig vid export**
+
+När en användare exporterar en utgåva matchar inte valutasymbolen i exporten den som angetts i projektet eller utgåvan.
+
+
++++
 
 +++**Underhållsuppdatering 8 augusti 2024**
 
