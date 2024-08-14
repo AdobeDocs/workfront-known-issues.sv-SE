@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3bd94e7fbed03e3394f01043b3af32f29cc6d09e
+source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
 workflow-type: tm+mt
-source-wordcount: '4801'
+source-wordcount: '4821'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,12 @@ Detta har rapporterats i följande områden:
 **Valutasymbolen är felaktig vid export**
 
 När en användare exporterar en utgåva matchar inte valutasymbolen i exporten den som angetts i projektet eller utgåvan.
+
+#### Korrektur
+
+**Korrekturmarkeringar är felaktiga**
+
+Korrekturmarkeringar är feljusterade på PDF-utskrifter som tas emot via e-post från funktionen Korrekturutskrift.
 
 
 +++

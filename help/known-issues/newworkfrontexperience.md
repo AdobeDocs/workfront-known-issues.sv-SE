@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
+source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '930'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,12 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront: Flera webbläsarflikar gör att Workfront loggar ut](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 14 augusti 2024 |
+| [Begäranden: Användaren kan ändra status trots att behörigheter saknas](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 14 augusti 2024 |
+| [Kort: Anslutet kort finns i fel kolumn](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 14 augusti 2024 |
+| [Workfront Mobile: Det går inte att logga in utan SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 14 augusti 2024 |
+| [Rapporter: Fel vid export av rapport](known-issues-workfront/wf-reports-error-cache-content.md) | 14 augusti 2024 |
+| [Användare: Språkinställningen för e-post för användaren sparas inte](known-issues-workfront/wf-users-email-locale-not-saving.md) | 14 augusti 2024 |
 | [Uppgifter: Problem med tidslinjeomberäkning](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 5 augusti 2024 |
 | [API: begäran om tidsgräns](known-issues-workfront/wf-api-request-timing-out.md) | 5 augusti 2024 |
 | [Korrektur: Om du öppnar ett korrektur öppnas flera kopior](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 juli 2024 |
@@ -43,6 +49,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Rapporter: Det går inte att klicka på en rapport från området Anpassade fält i installationsprogrammet](known-issues-workfront/wf-reports-cannot-click-on-report.md) | 14 augusti 2024 |
+| [Integrationer: Fel när en begäran från Outlook skapades](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 14 augusti 2024 |
 | [Meddelanden: Hoppfel vid inställning av aviseringsinställningar](known-issues-workfront/wf-notifications-whoops-error.md) | 8 augusti 2024 |
 | [Kort: Fel vid inläsning av kort](known-issues-workfront/wf-boards-error-when-loading-board.md) | 8 augusti 2024 |
 | [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 augusti 2024 |

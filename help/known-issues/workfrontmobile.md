@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront] mobilappen
 keywords: ny fil, lägga till fil
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
+source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -19,23 +19,22 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 >
 >Mer information om serverns drifttid och avbrott finns på [status.adobe.com](https://status.adobe.com). Mer information om problem som nyligen har korrigerats finns i [[!DNL Workfront] Underhållsuppdateringar](../maintenance/current-updates.md).
 
-**Det finns för närvarande inga kända problem för[!DNL Workfront Mobile]**
+<!--**There are currently no known issues for [!DNL Workfront Mobile]**
 
-
-
-<!--
-
-## New
-
-These recently reported issues are currently under review.
-
-| **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- |
-|Issue text  | YYYY/MM/DD  | 
-
-## Current Issues
-
-|Issue  |Last Modified   | 
-|---|---|
-|Issue text  | YYYY/MM/DD  | 
 -->
+
+
+
+## Nytt
+
+Dessa nyligen rapporterade problem granskas för närvarande.
+
+| **Utgåva** | **Senast ändrad** |
+| -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile: Det går inte att logga in utan SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 14 augusti 2024 |
+
+## Aktuella problem
+
+| Problem | Senast ändrad |
+|---|---|
+| Ärendetext | YYYY/MM/DD |

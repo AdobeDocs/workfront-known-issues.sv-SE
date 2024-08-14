@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
 workflow-type: tm+mt
-source-wordcount: '1886'
+source-wordcount: '1953'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,14 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront: Flera webbläsarflikar gör att Workfront loggar ut](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [Rapporter: Det går inte att klicka på en rapport från området Anpassade fält i installationsprogrammet](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [Begäranden: Användaren kan ändra status trots att behörigheter saknas](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [Kort: Anslutet kort är i fel kolumn](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront Mobile: Det går inte att logga in utan SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [Rapporter: Fel vid export av rapport](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [Användare: Språkinställningen E-post för användaren sparas inte](known-issues-workfront/wf-users-email-locale-not-saving.md)
+      + [Integreringar: Fel när en begäran från Outlook skapades](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Meddelanden: Hoppfel vid inställning av meddelandeinställningar](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Anpassade formulär: Webbläsaren kraschar när stora formulär skapas](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [Rapporter: Rapportleveranser är fördröjda eller saknas](known-issues-workfront/wf-reports-not-delivered.md)
