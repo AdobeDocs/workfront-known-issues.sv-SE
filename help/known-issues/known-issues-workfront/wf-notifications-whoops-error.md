@@ -3,15 +3,19 @@ title: "Meddelanden: Oftast-fel vid inställning av meddelandeinställningar"
 description: "När en användare försöker visa meddelandeinställningar visas ett fel."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
 
 # Meddelanden: Hoppfel vid inställning av meddelandeinställningar
+
+>[!NOTE]
+>
+>Detta problem korrigerades den 15 augusti 2024.
 
 När en användare försöker visa meddelandeinställningar visas följande fel:
 

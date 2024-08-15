@@ -1,17 +1,21 @@
 ---
-title: "Projekt: valutasymbolen är felaktig vid export av "
-description: "När en användare exporterar en utgåva matchar inte valutasymbolen i exporten den som angetts i projektet eller utgåvan."
+title: 'Projekt: Valutasymbolen är felaktig vid export av'
+description: När en användare exporterar en utgåva matchar inte valutasymbolen i exporten den som angetts i projektet eller utgåvan.
 hidefromtoc: true
 feature: Projects, Work Management
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+exl-id: c5af8e07-d3d7-490e-9223-6fa67d0339ed
+source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-
 # Projekt: Valutasymbolen är felaktig vid export
+
+>[!NOTE]
+>
+>Detta problem korrigerades den 15 augusti 2024.
 
 När en användare exporterar en utgåva matchar inte valutasymbolen i exporten den som angetts i projektet eller utgåvan.
 
