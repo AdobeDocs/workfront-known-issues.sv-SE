@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
 workflow-type: tm+mt
-source-wordcount: '970'
+source-wordcount: '960'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Anpassade formulär: Webbläsaren kraschar när stora formulär skapas](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 augusti 2024 |
 | [Anpassade formulär: Formulärverktyget kraschar när visningslogik anges](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 augusti 2024 |
 | [Dokument: Om du klickar på ett dokumentnamn blir sidan tom](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5 augusti 2024 |
-| [Anpassade formulär: Det går inte att rulla i det externa sökfältet](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 5 augusti 2024 |
 | [Anpassade formulär: Beräknade fält med felaktigt värde](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5 augusti 2024 |
 | [Åtkomstnivåer: Duplicerade åtkomstnivåer i inställningsområdet](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
 | [Anpassade formulär: Anpassat formulär tas inte bort från dokumentet](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 18 juli 2024 |
