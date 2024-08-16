@@ -3,15 +3,19 @@ title: "Tavlor: Anslutet kort är i fel kolumn"
 description: "Problem med anslutna kort har rapporterats i fel kolumn."
 hidefromtoc: true
 feature: Agile
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
+source-git-commit: 5a6d6b7d8866d234340bb816531353495e1e7f1c
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 
 # Kort: Anslutet kort är i fel kolumn
+
+>[!NOTE]
+>
+>Detta problem korrigerades den 15 augusti 2024.
 
 Följande problem har rapporterats angående anslutna kort i fel kolumn:
 
