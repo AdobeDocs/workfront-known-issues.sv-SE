@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
 workflow-type: tm+mt
-source-wordcount: '2001'
+source-wordcount: '2008'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Hem: Väntande godkännandewidget visar borttagna dokument](known-issues-workfront/wf-home-deleted-documents.md)
       + [Hem:&quot;Ingen åtkomst&quot; visas som projektnamn](known-issues-workfront/wf-home-no-access-project-name.md)
       + [Dokument: Det går inte att förhandsgranska dokument med förhandsgranskningslänk](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
       + [Anpassade formulär: Fel vid konvertering av visningstyp i anpassade formulär](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)

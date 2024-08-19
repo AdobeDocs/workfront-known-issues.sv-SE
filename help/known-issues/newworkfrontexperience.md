@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 654b13c25c7a69da5b14b2846cf1c1db4d527fba
+source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
 workflow-type: tm+mt
-source-wordcount: '952'
+source-wordcount: '967'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Hem: Väntande godkännandewidget visar borttagna dokument](known-issues-workfront/wf-home-deleted-documents.md) | 19 augusti 2024 |
+| [Kort: Kortet innehåller inte underaktiviteter](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 19 augusti 2024 |
 | [Dokument: Kan inte förhandsgranska dokument med förhandsgranskningslänk](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 15 augusti 2024 |
 | [Anpassade formulär: Fel vid konvertering av visningstyp i anpassade formulär](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 15 augusti 2024 |
 | [Anpassade formulär: Det går inte att redigera fält på fältlistsidan](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | 15 augusti 2024 |
