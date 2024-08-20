@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+source-git-commit: dfb204f364643c92ebce34916c8a926661dd0383
 workflow-type: tm+mt
-source-wordcount: '4819'
+source-wordcount: '4895'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,18 @@ Följande underhållsuppdateringar gjordes 2024.
 Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 ## Uppdateringar i augusti 2024
+
++++**Underhållsuppdatering 22 augusti 2024**
+
+### Underhållsuppdatering 22 augusti
+
+#### Rapporter
+
+**Det går inte att klicka på en rapport från området Anpassade fält i installationsprogrammet**
+
+När en användare visar området Anpassade Forms > Fält i inställningarna, och vyn innehåller fältet Inbyggda rapporter, fungerar inte länkarna till rapporterna. Användaren bör kunna klicka på namnet på en rapport och komma till rapporten, men det går inte att klicka på rapportens namn.
+
++++
 
 +++**Underhållsuppdatering 15 augusti 2024**
 
