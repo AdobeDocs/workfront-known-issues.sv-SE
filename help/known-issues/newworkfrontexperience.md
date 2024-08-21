@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '996'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,9 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrationer: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 21 augusti 2024 |
+| [Hem: &quot;widget.list.view&quot; skapades när användaren flyttar kolumner i widgeten Hem](known-issues-workfront/wf-home-widget-list-view.md) | 21 augusti 2024 |
+| [Dokument: Korrekturkommentarer visas inte i dokumentuppdateringar](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 21 augusti 2024 |
 | [Hem: &quot;Ingen åtkomst&quot; visas som projektnamn](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augusti 2024 |
 | [Hem: Hem kraschar med felet &quot;Slut på minne&quot; ](known-issues-workfront/wf-home-crashes-with-error.md) | 15 augusti 2024 |
 | [Workfront: Flera webbläsarflikar gör att Workfront loggar ut](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 augusti 2024 |

@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
 workflow-type: tm+mt
-source-wordcount: '2008'
+source-wordcount: '2034'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Integrering: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
+      + [Hem: &quot;widget.list.view&quot; som skapas när användaren flyttar kolumner i widgeten Hem](known-issues-workfront/wf-home-widget-list-view.md)
+      + [Dokument: Korrekturkommentarer visas inte i dokumentuppdateringar](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [Hem: Väntande godkännandewidget visar borttagna dokument](known-issues-workfront/wf-home-deleted-documents.md)
       + [Hem:&quot;Ingen åtkomst&quot; visas som projektnamn](known-issues-workfront/wf-home-no-access-project-name.md)
       + [Dokument: Det går inte att förhandsgranska dokument med förhandsgranskningslänk](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
