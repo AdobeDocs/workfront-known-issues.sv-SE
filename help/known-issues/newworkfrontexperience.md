@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
+source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
-source-wordcount: '996'
+source-wordcount: '970'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [Integrationer: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 21 augusti 2024 |
-| [Hem: &quot;widget.list.view&quot; skapades när användaren flyttar kolumner i widgeten Hem](known-issues-workfront/wf-home-widget-list-view.md) | 21 augusti 2024 |
 | [Dokument: Korrekturkommentarer visas inte i dokumentuppdateringar](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 21 augusti 2024 |
 | [Hem: &quot;Ingen åtkomst&quot; visas som projektnamn](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augusti 2024 |
 | [Hem: Hem kraschar med felet &quot;Slut på minne&quot; ](known-issues-workfront/wf-home-crashes-with-error.md) | 15 augusti 2024 |
@@ -53,13 +52,12 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Egna formulär: Forms använder som standard Project-formulär](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 augusti 2024 |
 | [Hem: Väntande godkännandewidget visar borttagna dokument](known-issues-workfront/wf-home-deleted-documents.md) | 19 augusti 2024 |
 | [Kort: Kortet innehåller inte underaktiviteter](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 19 augusti 2024 |
 | [Dokument: Kan inte förhandsgranska dokument med förhandsgranskningslänk](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 15 augusti 2024 |
 | [Anpassade formulär: Fel vid konvertering av visningstyp i anpassade formulär](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 15 augusti 2024 |
-| [Anpassade formulär: Det går inte att redigera fält på fältlistsidan](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | 15 augusti 2024 |
 | [Inställningar: Problem vid utloggning som en annan användare](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 augusti 2024 |
-| [Rapporter: Det går inte att klicka på en rapport från området Anpassade fält i installationsprogrammet](known-issues-workfront/wf-reports-cannot-click-on-report.md) | 14 augusti 2024 |
 | [Integrationer: Fel när en begäran från Outlook skapades](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 14 augusti 2024 |
 | [Meddelanden: Hoppfel vid inställning av aviseringsinställningar](known-issues-workfront/wf-notifications-whoops-error.md) | 8 augusti 2024 |
 | [Kort: Fel vid inläsning av kort](known-issues-workfront/wf-boards-error-when-loading-board.md) | 8 augusti 2024 |

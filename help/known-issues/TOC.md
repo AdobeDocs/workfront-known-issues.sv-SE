@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
+source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
-source-wordcount: '2034'
+source-wordcount: '2041'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Egna formulär: Forms har som standard Project-formulär](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Integrering: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Hem: &quot;widget.list.view&quot; som skapas när användaren flyttar kolumner i widgeten Hem](known-issues-workfront/wf-home-widget-list-view.md)
       + [Dokument: Korrekturkommentarer visas inte i dokumentuppdateringar](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
