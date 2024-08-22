@@ -4,7 +4,7 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
+source-git-commit: f8183b30f86ffade75a6f80b2d5a4a7befd3b0ae
 workflow-type: tm+mt
 source-wordcount: '970'
 ht-degree: 0%
@@ -29,7 +29,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | [Dokument: Korrekturkommentarer visas inte i dokumentuppdateringar](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 21 augusti 2024 |
 | [Hem: &quot;Ingen åtkomst&quot; visas som projektnamn](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augusti 2024 |
 | [Hem: Hem kraschar med felet &quot;Slut på minne&quot; ](known-issues-workfront/wf-home-crashes-with-error.md) | 15 augusti 2024 |
-| [Workfront: Flera webbläsarflikar gör att Workfront loggar ut](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 augusti 2024 |
 | [Begäranden: Användaren kan ändra status trots att behörigheter saknas](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 14 augusti 2024 |
 | [Workfront Mobile: Det går inte att logga in utan SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 14 augusti 2024 |
 | [Rapporter: Fel vid export av rapport](known-issues-workfront/wf-reports-error-cache-content.md) | 14 augusti 2024 |
@@ -52,6 +51,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Workfront: Flera webbläsarflikar gör att Workfront loggar ut](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 22 augusti 2024 |
 | [Egna formulär: Forms använder som standard Project-formulär](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 augusti 2024 |
 | [Hem: Väntande godkännandewidget visar borttagna dokument](known-issues-workfront/wf-home-deleted-documents.md) | 19 augusti 2024 |
 | [Kort: Kortet innehåller inte underaktiviteter](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 19 augusti 2024 |
