@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f8183b30f86ffade75a6f80b2d5a4a7befd3b0ae
+source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
 workflow-type: tm+mt
-source-wordcount: '970'
+source-wordcount: '960'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | [Dokument: Korrekturkommentarer visas inte i dokumentuppdateringar](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 21 augusti 2024 |
 | [Hem: &quot;Ingen åtkomst&quot; visas som projektnamn](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augusti 2024 |
 | [Hem: Hem kraschar med felet &quot;Slut på minne&quot; ](known-issues-workfront/wf-home-crashes-with-error.md) | 15 augusti 2024 |
-| [Begäranden: Användaren kan ändra status trots att behörigheter saknas](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 14 augusti 2024 |
 | [Workfront Mobile: Det går inte att logga in utan SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 14 augusti 2024 |
 | [Rapporter: Fel vid export av rapport](known-issues-workfront/wf-reports-error-cache-content.md) | 14 augusti 2024 |
 | [Användare: Språkinställningen för e-post för användaren sparas inte](known-issues-workfront/wf-users-email-locale-not-saving.md) | 14 augusti 2024 |
