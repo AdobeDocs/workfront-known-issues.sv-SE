@@ -4,18 +4,22 @@ description: Problem har rapporterats med dubblettkort på anslagstavlor.
 hidefromtoc: true
 feature: Agile
 exl-id: f08d6464-99df-4b49-be0f-becc8297c6c5
-source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Tavlor: Problem med dubblettkort
 
+<!--
+
 >[!NOTE]
 >
->Detta problem korrigerades den 15 augusti 2024.
+>This issue was fixed on August 15, 2024.
+
+-->
 
 
 Följande problem har rapporterats när det gäller dubblettkort på anslagstavlor:
