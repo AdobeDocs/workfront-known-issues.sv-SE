@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 368856cd75b3c09c09442f4cb5ffe479425211af
+source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
 workflow-type: tm+mt
-source-wordcount: '1549'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront: Kan inte använda enkel inloggning](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Användare: Kan inte återaktivera användare](known-issues-workfront/wf-users-reactivate-user.md)
       + [Uppdrag: Ikonen Tid borta visas inte när uppgifter tilldelas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [Egna formulär: Forms har som standard Project-formulär](known-issues-workfront/wf-custom-forms-default-to-project.md)
@@ -211,6 +212,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Kända fel i Workfront Fusion](workfrontfusion.md)
    + Aktuella problem i [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion: Fältet saknas i modulen](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: Utdataformatering](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: RuntimeError med 200 svar från Workfront-modulen](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
