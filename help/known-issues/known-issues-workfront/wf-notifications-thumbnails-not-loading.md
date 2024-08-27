@@ -4,24 +4,27 @@ description: När en användare visar ett e-postmeddelande om ett dokumentgodkä
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 8f378ff6-5a44-40a2-b28e-c613b63a1b76
-source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
 # Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden
 
+<!-- 
 >[!NOTE]
 >
->Problemet korrigerades den 29 juli 2024.
+>This issue was fixed on July 29, 2024.
+
+-->
 
 >[!IMPORTANT]
 >
 >Miniatyrbilder stöds inte i Gmail.
 
-När en användare visar ett e-postmeddelande om ett dokumentgodkännande visas inte dokumentminiatyrbilden i e-postmeddelandet.
+När en användare visar ett e-postmeddelande om ett dokumentgodkännande visas inte dokumentminiatyrbilden i e-postmeddelandet. Användaren ser i stället en trasig bildikon.
 
 Detta har rapporterats i Gmail.
 

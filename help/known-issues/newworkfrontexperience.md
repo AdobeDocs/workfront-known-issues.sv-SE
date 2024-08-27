@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '987'
+source-wordcount: '995'
 ht-degree: 0%
 
 ---
@@ -85,6 +85,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 27 augusti 2024 |
 | [Hem: Widgeten Mina problem visar inte stängda eller slutförda problem](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 20 juni 2024 |
 | [Hem: Det går inte att ta bort widgeten Mentions](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 12 juni 2024 |
 | [Korrektur: Korrektur förhindrar konvertering av aktivitet eller problem till projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 juni 2024 |

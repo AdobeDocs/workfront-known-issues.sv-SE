@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '4923'
+source-wordcount: '5049'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,33 @@ Följande underhållsuppdateringar gjordes 2024.
 
 ## Uppdateringar i augusti 2024
 
++++**(Planerad) underhållsuppdatering 29 augusti 2024**
+
+### (Planerat) Underhållsuppdatering 29 augusti 2024
+
+#### Egna formulär
+
+**Forms har som standard Project-formulär**
+
+När en användare skapar ett anpassat formulär och väljer en objekttyp för formuläret, ignoreras objekttypen och formuläret skapas som ett anpassat projektformulär.
+
+#### Dokument
+
+**Om du klickar på ett dokumentnamn blir sidan tom**
+
+När en användare försöker visa dokumentinformation genom att klicka på dokumentets namn i en dokumentlista, försvinner listan och användaren dirigeras inte till dokumentinformationen.
+
+#### Startsida
+
+**Väntande widget för godkännande visar borttagna dokument**
+
+När en användare visar sin widget för väntande godkännanden i hemmet, ser de dokument som har tagits bort. Om användaren klickar på ett av dessa dokument, placeras de på en tom sida.
+
++++
+
 +++**Underhållsuppdatering 22 augusti 2024**
 
-### Underhållsuppdatering 22 augusti
+### Underhållsuppdatering 22 augusti 2024
 
 #### Rapporter
 
