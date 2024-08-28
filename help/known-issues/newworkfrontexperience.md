@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '1002'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Grupper: Undergrupper visas inte korrekt](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 28 augusti 2024 |
 | [Användare: Det går inte att återaktivera användare](known-issues-workfront/wf-users-reactivate-user.md) | 26 augusti 2024 |
 | [Böcker: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 26 augusti 2024 |
 | [Workfront: Flera webbläsarflikar gör att Workfront loggar ut](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 22 augusti 2024 |

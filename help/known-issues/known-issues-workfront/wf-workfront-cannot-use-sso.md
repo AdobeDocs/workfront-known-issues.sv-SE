@@ -3,9 +3,9 @@ title: "Workfront: Kan inte använda enkel inloggning"
 description: "Workfront-funktionalitet som använder enkel inloggning returnerar ett fel."
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* Detta har rapporterats i förhandsvisningssandlådemiljön.
->* Detta har rapporterats för organisationer som använder äldre enkel inloggning (ej Adobe)
+>* Detta har rapporterats i förhandsvisningens sandlådemiljö och i den anpassade uppdateringsmiljön.
+>* Detta har rapporterats för organisationer som använder äldre enkel inloggning (ej Adobe).
 
 Workfront-funktioner som använder enkel inloggning returnerar följande fel:
 
