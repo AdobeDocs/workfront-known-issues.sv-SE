@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '1002'
+source-wordcount: '1011'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 28 augusti 2024 |
 | [Workfront: Kan inte använda enkel inloggning](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 26 augusti 2024 |
 | [Rapporter: Rapportleveranser är fördröjda eller saknas](known-issues-workfront/wf-reports-not-delivered.md) | 26 augusti 2024 |
 | [Uppdrag: Ikonen Tid borta visas inte när uppgifter tilldelas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 26 augusti 2024 |

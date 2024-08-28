@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '1563'
+source-wordcount: '1571'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [Grupper: Undergrupper visas inte korrekt](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: Kan inte använda enkel inloggning](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Användare: Kan inte återaktivera användare](known-issues-workfront/wf-users-reactivate-user.md)

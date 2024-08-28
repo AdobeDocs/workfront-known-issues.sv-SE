@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '5049'
+source-wordcount: '5130'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,14 @@ När en användare försöker visa dokumentinformation genom att klicka på doku
 **Väntande widget för godkännande visar borttagna dokument**
 
 När en användare visar sin widget för väntande godkännanden i hemmet, ser de dokument som har tagits bort. Om användaren klickar på ett av dessa dokument, placeras de på en tom sida.
+
+#### Användare
+
+**Fältet E-post för användarprofil har inaktiverats**
+
+För organisationer som använder IMS lagras språkinställningarna i varje användares Adobe Experience Cloud-profil. Fältet E-postspråk i Workfront-användarprofilen har inaktiverats (endast för IMS-organisationer) och ett verktygstips för det fältet innehåller instruktioner om hur du kommer åt språkinställningarna i Adobe-profilen.
+
+Detta åtgärdar ett problem som uppstår när en administratör försöker ändra språkinställningen för e-post för en användare, så återställs den till engelska.
 
 +++
 
