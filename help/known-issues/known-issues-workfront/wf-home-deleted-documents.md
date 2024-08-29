@@ -1,17 +1,21 @@
 ---
-title: "Hem: Väntande godkännandewidget visar borttagna dokument"
-description: "När en användare visar sin widget för väntande godkännanden i hemmet, ser de dokument som har tagits bort. Om användaren klickar på ett av dessa dokument, placeras de på en tom sida."
+title: 'Hem: Väntande godkännandewidget visar borttagna dokument'
+description: När en användare visar sin widget för väntande godkännanden i hemmet, ser de dokument som har tagits bort. Om användaren klickar på ett av dessa dokument, placeras de på en tom sida.
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+exl-id: 82fa6159-ae27-4391-9690-8d4679c5b91c
+source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-
 # Hem: Väntande godkännandewidget visar borttagna dokument
+
+>[!NOTE]
+>
+>Problemet korrigerades den 29 augusti 2024.
 
 När en användare visar sin widget för väntande godkännanden i hemmet, ser de dokument som har tagits bort. Om användaren klickar på ett av dessa dokument, placeras de på en tom sida.
 
