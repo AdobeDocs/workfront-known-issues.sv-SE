@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
+source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
 workflow-type: tm+mt
-source-wordcount: '998'
+source-wordcount: '1001'
 ht-degree: 0%
 
 ---
@@ -55,14 +55,14 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Workfront: Datumet visas i felaktigt format](known-issues-workfront/wf-home-crashes-with-error.md) | 30 augusti 2024 |
+| [Dokument: Om du klickar på ett dokumentnamn skapas en tom sökare](known-issues-workfront/wf-home-crashes-with-error.md) | 30 augusti 2024 |
 | [Hem: Hem kraschar med felet &quot;Slut på minne&quot; ](known-issues-workfront/wf-home-crashes-with-error.md) | 29 augusti 2024 |
 | [Grupper: Undergrupper visas inte korrekt](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 28 augusti 2024 |
 | [Användare: Det går inte att återaktivera användare](known-issues-workfront/wf-users-reactivate-user.md) | 26 augusti 2024 |
-| [Böcker: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 26 augusti 2024 |
 | [Workfront: Flera webbläsarflikar gör att Workfront loggar ut](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 22 augusti 2024 |
 | [Egna formulär: Forms använder som standard Project-formulär](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 augusti 2024 |
 | [Kort: Kortet innehåller inte underaktiviteter](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 19 augusti 2024 |
-| [Dokument: Kan inte förhandsgranska dokument med förhandsgranskningslänk](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 15 augusti 2024 |
 | [Anpassade formulär: Fel vid konvertering av visningstyp i anpassade formulär](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 15 augusti 2024 |
 | [Inställningar: Problem vid utloggning som en annan användare](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 augusti 2024 |
 | [Integrationer: Fel när en begäran från Outlook skapades](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 14 augusti 2024 |
