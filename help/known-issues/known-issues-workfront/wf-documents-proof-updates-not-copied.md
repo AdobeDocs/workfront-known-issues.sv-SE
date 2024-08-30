@@ -1,17 +1,21 @@
 ---
-title: "Dokument: Korrekturkommentarer visas inte vid dokumentuppdateringar"
-description: "När en användare kommenterar ett korrektur kopieras inte kommentaren till korrekturets dokumentuppdateringsområde i Workfront."
+title: 'Dokument: Korrekturkommentarer visas inte vid dokumentuppdateringar'
+description: När en användare kommenterar ett korrektur kopieras den kommentaren inte till korrekturets dokumentuppdateringsområde i Workfront.
 hidefromtoc: true
 feature: Digital Content and Documents, Updates and Notifications
-source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
+exl-id: 37b8f980-c782-404f-838d-7404f9112778
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-
 # Dokument: Korrekturkommentarer visas inte i dokumentuppdateringar
+
+>[!NOTE]
+>
+>Problemet har stängts eftersom det fungerar som det ska.
 
 När en användare kommenterar ett korrektur kopieras den kommentaren inte till korrekturets dokumentuppdateringsområde i Workfront.
 

@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: cc5305d58c51c2944c992682dedbcc61bce56166
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '1577'
+source-wordcount: '1568'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,6 @@ ht-degree: 0%
       + [Kort: Anslutet kort är i fel kolumn](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
       + [Workfront Mobile: Det går inte att logga in utan SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
       + [Rapporter: Fel vid export av rapport](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Användare: Språkinställningen E-post för användaren sparas inte](known-issues-workfront/wf-users-email-locale-not-saving.md)
       + [Integreringar: Fel när en begäran från Outlook skapades](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Meddelanden: Hoppfel vid inställning av meddelandeinställningar](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Anpassade formulär: Webbläsaren kraschar när stora formulär skapas](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
