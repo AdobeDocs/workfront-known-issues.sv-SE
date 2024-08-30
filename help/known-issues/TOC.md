@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
+source-git-commit: cc5305d58c51c2944c992682dedbcc61bce56166
 workflow-type: tm+mt
-source-wordcount: '1571'
+source-wordcount: '1577'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront: Datumet visas i felaktigt format](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [Grupper: Undergrupper visas inte korrekt](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: Kan inte använda enkel inloggning](known-issues-workfront/wf-workfront-cannot-use-sso.md)
