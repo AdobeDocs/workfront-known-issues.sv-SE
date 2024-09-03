@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
+source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
 workflow-type: tm+mt
-source-wordcount: '1568'
+source-wordcount: '1600'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Mobil: Det går inte att logga ut och saknar användarprofilinformation](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
+      + [Kort: Kortstatus matchar inte anslutet objekt och bypasfilter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
+      + [Kontrollpaneler: Om du väljer Exportera-knappen i en rapport rullas den överst på sidan](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: Datumet visas i felaktigt format](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [Grupper: Undergrupper visas inte korrekt](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
