@@ -1,17 +1,21 @@
 ---
-title: "Användare: Kan inte återaktivera användare"
-description: "När en användare försöker återaktivera en användare med alternativet Återaktivera användare på Mer-menyn kan han/hon välja en åtkomstnivå för användaren, men ändringen sparas inte. Användaren ser i stället ett fel. Det finns en lösning."
+title: 'Användare: Det går inte att återaktivera användare'
+description: När en användare försöker återaktivera en användare med alternativet Återaktivera användare på menyn Mer kan användaren välja en åtkomstnivå, men ändringen sparas inte. Användaren ser i stället ett fel. Det finns en lösning.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 122608dfb019c55d370a3ffebede9fc5e68be76b
+exl-id: 771c1393-ed95-4556-b053-e3e91348f5ac
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
 # Användare: Kan inte återaktivera användare
+
+>[!NOTE]
+>
+>Den här artikeln fastställdes den 5 september 2024.
 
 När en användare försöker återaktivera en användare med alternativet &quot;Återaktivera användare&quot; på menyn Mer kan användaren välja en åtkomstnivå, men ändringen sparas inte. I stället ser användaren följande fel:
 

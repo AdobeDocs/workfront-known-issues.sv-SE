@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1606'
+source-wordcount: '1614'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Styrelser: Det går inte att förhandsgranska eller hämta dokument från kortet](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [Mobil: Det går inte att logga ut och saknar användarprofilinformation](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [Kort: Kortstatus matchar inte anslutet objekt och bypasfilter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Kontrollpaneler: Om du väljer Exportera-knappen i en rapport rullas den överst på sidan](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)

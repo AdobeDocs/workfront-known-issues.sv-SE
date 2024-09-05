@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '978'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,16 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Böcker: Det går inte att förhandsgranska eller hämta dokument från kortet](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 5 september 2024 |
 | [Mobil: Det går inte att logga ut och saknar användarprofilinformation](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 3 september 2024 |
 | [Kort: Kortstatusen matchar inte det anslutna objektet och filtret för åsidosättningar](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 3 september 2024 |
 | [Kontrollpaneler: Om du väljer knappen Exportera i en rapport rullas den till början av sidan ](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 3 september 2024 |
 | [Kort: Anslutet kort finns i fel kolumn](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 28 augusti 2024 |
-| [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 28 augusti 2024 |
 | [Workfront: Kan inte använda enkel inloggning](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 26 augusti 2024 |
 | [Rapporter: Rapportleveranser är fördröjda eller saknas](known-issues-workfront/wf-reports-not-delivered.md) | 26 augusti 2024 |
 | [Uppdrag: Ikonen Tid borta visas inte när uppgifter tilldelas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 26 augusti 2024 |
 | [Integrationer: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 21 augusti 2024 |
 | [Hem: &quot;Ingen åtkomst&quot; visas som projektnamn](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augusti 2024 |
-| [Hem: Hem kraschar med felet &quot;Slut på minne&quot; ](known-issues-workfront/wf-home-crashes-with-error.md) | 15 augusti 2024 |
 | [Workfront Mobile: Det går inte att logga in utan SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 14 augusti 2024 |
 | [Rapporter: Fel vid export av rapport](known-issues-workfront/wf-reports-error-cache-content.md) | 14 augusti 2024 |
 | [API: begäran om tidsgräns](known-issues-workfront/wf-api-request-timing-out.md) | 5 augusti 2024 |
@@ -54,10 +53,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
 | [Uppgifter: Problem med tidslinjeomberäkning](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 30 augusti 2024 |
-| [Workfront: Datumet visas i felaktigt format](known-issues-workfront/wf-home-crashes-with-error.md) | 30 augusti 2024 |
 | [Hem: Hem kraschar med felet &quot;Slut på minne&quot; ](known-issues-workfront/wf-home-crashes-with-error.md) | 29 augusti 2024 |
-| [Grupper: Undergrupper visas inte korrekt](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 28 augusti 2024 |
-| [Användare: Det går inte att återaktivera användare](known-issues-workfront/wf-users-reactivate-user.md) | 26 augusti 2024 |
 | [Workfront: Flera webbläsarflikar gör att Workfront loggar ut](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 22 augusti 2024 |
 | [Egna formulär: Forms använder som standard Project-formulär](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 augusti 2024 |
 | [Kort: Kortet innehåller inte underaktiviteter](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 19 augusti 2024 |
@@ -66,7 +62,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Integrationer: Fel när en begäran från Outlook skapades](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 14 augusti 2024 |
 | [Meddelanden: Hoppfel vid inställning av aviseringsinställningar](known-issues-workfront/wf-notifications-whoops-error.md) | 8 augusti 2024 |
 | [Kort: Fel vid inläsning av kort](known-issues-workfront/wf-boards-error-when-loading-board.md) | 8 augusti 2024 |
-| [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 augusti 2024 |
 | [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 augusti 2024 |
 | [Anpassade formulär: Webbläsaren kraschar när stora formulär skapas](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 augusti 2024 |
 | [Anpassade formulär: Formulärverktyget kraschar när visningslogik anges](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 augusti 2024 |
@@ -142,6 +137,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Listor: Visningsnamnet används inte för anpassad fältgruppering](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 9 november 2020 |
 | [Hem: Datum för delegering av godkännande ändras efter uppdateringen och 2 e-postmeddelanden skickas](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | 9 november 2020 |
 | [Kalender: Aktiviteter visas inte](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 9 november 2020 |
+| [Hem: Hem kraschar med felet &quot;Slut på minne&quot; ](known-issues-workfront/wf-home-crashes-with-error.md) | 5 september 2024 |
 
 {style="table-layout:auto"}
 

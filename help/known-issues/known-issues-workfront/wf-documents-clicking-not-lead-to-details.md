@@ -4,7 +4,7 @@ description: När en användare försöker visa dokumentinformation genom att kl
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 683b2066-9812-4a22-a40b-49f0cd6450a1
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # Dokument: Klicka på ett dokumentnamn om du vill visa en tom sida
 
-
 >[!NOTE]
 >
 >Problemet korrigerades den 29 augusti 2024.
-
 
 När en användare försöker visa dokumentinformation genom att klicka på dokumentets namn i en dokumentlista, försvinner listan och användaren dirigeras inte till dokumentinformationen.
 

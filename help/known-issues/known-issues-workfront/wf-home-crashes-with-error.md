@@ -4,14 +4,18 @@ description: När en användare försöker visa det nya hemmet kraschar webbplat
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # Hem: Hem kraschar med felet&quot;Slut på minne&quot;
+
+>[!NOTE]
+>
+>Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
 När en användare försöker visa det nya hemmet kraschar webbplatsen med följande felmeddelande:
 

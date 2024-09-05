@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '5128'
+source-wordcount: '5254'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,30 @@ Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeri
 Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 Följande underhållsuppdateringar gjordes 2024.
+
+## Uppdateringar i september 2024
+
++++**Underhållsuppdatering 5 september 2024**
+
+### Underhållsuppdatering 5 september 2024
+
+#### Grupper
+
+**Undergrupper visas inte korrekt**
+
+När en användare visar grupplistan i inställningsområdet ser de att undergrupper inte visas korrekt under den överordnade gruppen. Undergruppen sparas korrekt under den överordnade gruppen, men listan kan orsaka missförstånd.
+
+Om användaren öppnar undergruppen kan de se i de synliga kolumnerna att undergruppen har sparats korrekt under den överordnade gruppen.
+
+#### Användare
+
+**Det går inte att återaktivera användaren**
+
+När en användare försöker återaktivera en användare med alternativet &quot;Återaktivera användare&quot; på menyn Mer kan användaren välja en åtkomstnivå, men ändringen sparas inte. I stället ser användaren följande fel:
+
+&quot;homeGroupID kan inte vara null&quot;
+
++++
 
 ## Uppdateringar i augusti 2024
 

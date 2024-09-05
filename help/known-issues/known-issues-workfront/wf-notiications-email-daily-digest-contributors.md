@@ -1,17 +1,21 @@
 ---
-title: "Meddelanden: Medverkande användare får inga e-postmeddelanden "
-description: "Användare med en Contributor-licens får inga e-postmeddelanden. Detta kan påverka både e-postmeddelanden med snabbmeddelanden och e-postmeddelanden med daglig sammandrag. "
+title: 'Meddelanden: Medverkande användare får inte e-postmeddelanden '
+description: Användare med en Contributor-licens får inga e-postmeddelanden. Detta kan påverka både e-postmeddelanden med snabbmeddelanden och e-postmeddelanden med daglig sammandrag. '
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
+exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-
 # Meddelanden: Medverkande användare får inga e-postmeddelanden
+
+>[!NOTE]
+>
+>Problemet har stängts eftersom det fungerar som det ska.
 
 Användare med en Contributor-licens får inga e-postmeddelanden. Detta kan påverka både e-postmeddelanden med snabbmeddelanden och e-postmeddelanden med daglig sammandrag.
 
