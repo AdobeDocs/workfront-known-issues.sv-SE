@@ -2,7 +2,7 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
 source-wordcount: '1614'
 ht-degree: 0%

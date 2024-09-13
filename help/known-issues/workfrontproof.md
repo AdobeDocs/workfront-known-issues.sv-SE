@@ -4,7 +4,7 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%

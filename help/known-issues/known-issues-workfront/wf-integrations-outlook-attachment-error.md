@@ -1,15 +1,15 @@
 ---
-title: "Integreringar: Fel när en begäran från Outlook skapades"
-description: "När en användare försöker skapa en begäran från Workfront för Outlook-integreringen och lägger till en bifogad fil. Användaren ser meddelandet Något gick fel. Försök igen senare."
+title: 'Integrationer: Fel när en begäran skapas från Outlook'
+description: När en användare försöker skapa en begäran från Workfront för Outlook-integreringen och lägger till en bifogad fil. Användaren ser meddelandet Något gick fel. Försök igen senare.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
-source-git-commit: bdf56413a3b704ef6020bd2093c6bddbb3b64913
+exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # Integreringar: Fel när en begäran från Outlook skapades
 
