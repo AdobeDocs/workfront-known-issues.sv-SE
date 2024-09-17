@@ -1,17 +1,21 @@
 ---
-title: "Integreringar: Det går inte att logga in på Workfront för Outlook"
-description: "När en användare försöker logga in på Workfront för Outlook svarar inte knappen och användaren kan inte logga in."
+title: 'Integrationer: Det går inte att logga in på Workfront för Outlook'
+description: När en användare försöker logga in på Workfront för Outlook svarar inte knappen och användaren kan inte logga in.
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
+exl-id: 5ea65906-84c8-4aad-a4d9-a10b577a4c4c
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-
 # Integrering: Det går inte att logga in på Workfront för Outlook
+
+>[!NOTE]
+>
+>Problemet korrigerades den 12 september 2024.
 
 När en användare försöker logga in på Workfront för Outlook svarar inte knappen och användaren kan inte logga in.
 

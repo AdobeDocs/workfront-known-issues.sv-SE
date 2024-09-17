@@ -1,17 +1,21 @@
 ---
 title: "Workfront Fusion: Webkrok-kön bearbetas inte"
-description: "När en händelse inträffar som bör utlösa ett webkrosscenario i Workfront Fusion, körs inte scenariot och händelsen finns kvar i webbkrokens kö."
+description: När en händelse inträffar som bör utlösa ett webkrosscenario i Workfront Fusion, körs inte scenariot och händelsen finns kvar i webbkrokens kö.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 7e872b20658c7d5b330dafce98c80d624d17bae8
+exl-id: 3388eaae-61cf-4a86-a946-925892c9633a
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-
 # Workfront Fusion: Webkrokkön bearbetas inte
+
+>[!NOTE]
+>
+>Problemet korrigerades den 13 september 2024.
 
 När en händelse inträffar som bör utlösa ett webkrosscenario i Workfront Fusion, körs inte scenariot och händelsen finns kvar i webbkrokens kö.
 
