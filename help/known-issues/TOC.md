@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
 workflow-type: tm+mt
-source-wordcount: '1614'
+source-wordcount: '1652'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,17 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppdrag: Uppgiftstilldelningen misslyckas och ärvda behörigheter tas bort](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
+      + [Grupper: Borttagen gruppstatus visas igen](known-issues-workfront/wf-groups-deleted-status-reappears.md)
+      + [API: API-anrop misslyckas på grund av SQL-fel](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
+      + [Agile: Lägg till i iterationsalternativet som anges två gånger när du tilldelar ett trumteam](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
+      + [korrektur: Aktiva användare visas som inaktiverade](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [Styrelser: Det går inte att förhandsgranska eller hämta dokument från kortet](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [Mobil: Det går inte att logga ut och saknar användarprofilinformation](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [Kort: Kortstatus matchar inte anslutet objekt och bypasfilter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Kontrollpaneler: Om du väljer Exportera-knappen i en rapport rullas den överst på sidan](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: Datumet visas i felaktigt format](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
       + [Grupper: Undergrupper visas inte korrekt](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: Kan inte använda enkel inloggning](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Användare: Kan inte återaktivera användare](known-issues-workfront/wf-users-reactivate-user.md)

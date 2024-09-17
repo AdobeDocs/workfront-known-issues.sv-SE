@@ -4,14 +4,18 @@ description: När en användare försöker skapa en begäran från Workfront fö
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
 exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
 # Integreringar: Fel när en begäran från Outlook skapades
+
+>[!NOTE]
+>
+>Problemet korrigerades den 12 september 2024.
 
 När en användare försöker skapa en begäran från Workfront för Outlook-integreringen och lägger till en bifogad fil. Användaren ser meddelandet&quot;Något gick fel. Försök igen senare.&quot;
 
