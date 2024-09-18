@@ -1,20 +1,27 @@
 ---
 title: "Workfront: Flera webbläsarflikar gör att Workfront loggar ut"
-description: "När en användare har flera webbläsarflikar öppna kan Workfront automatiskt logga ut."
+description: När en användare har flera webbläsarflikar öppna kan Workfront automatiskt logga ut.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
+exl-id: e76b7127-a283-461b-af10-30640fe9e711
+source-git-commit: 5346638be033d65ee86c7e991a70cea32fbbcc7f
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-
 # Workfront: Flera webbläsarflikar gör att Workfront loggar ut
+
+<!--Valid issue, won't fix-->
 
 När en användare har flera webbläsarflikar öppna kan Workfront automatiskt logga ut.
 
 Detta har rapporterats när du använder Chrome webbläsare.
+
+**Tillfällig lösning:**
+
+* Om du har en aktiv Workfront-flik öppen läser du in den förfallna fliken igen. Den återgår till sidan som du hade öppnat innan den gick ut.
+* Om du inte har en aktiv Workfront-flik öppen loggar du in i Workfront igen.
 
 _Först rapporterad den 2 augusti 2024._
