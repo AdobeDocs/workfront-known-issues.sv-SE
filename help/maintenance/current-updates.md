@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '5254'
+source-wordcount: '5380'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,32 @@ Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2024.
 
 ## Uppdateringar i september 2024
+
++++**Underhållsuppdatering 19 september 2024**
+
+### Underhållsuppdatering 19 september 2024
+
+#### Kontrollpaneler
+
+**Om du väljer knappen Exportera i en rapport rullas den överst på sidan**
+
+När du klickar på knappen Exportera för en rapport på en kontrollpanel, rullas fönstret till sidans överkant och kräver att du rullar nedåt för att hitta den öppna menyn för exportalternativ.
+
++++
+
++++**Underhållsuppdatering 12 september 2024**
+
+### Underhållsuppdatering 12 september 2024
+
+#### Integreringar
+
+**Det uppstod ett fel när en begäran skulle skapas från Outlook**
+
+När en användare försöker skapa en begäran från Workfront för Outlook-integreringen och lägger till en bifogad fil. Användaren ser meddelandet&quot;Något gick fel. Försök igen senare.&quot;
+
+Begäran skapas och det finns en mapp för e-postbilagor i begäran, men mappen är tom och bilagan lades inte till i begäran.
+
++++
 
 +++**Underhållsuppdatering 5 september 2024**
 
