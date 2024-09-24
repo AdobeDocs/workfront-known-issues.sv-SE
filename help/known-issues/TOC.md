@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 8641957b203a689fd881bc5a6b5979ca6372216b
 workflow-type: tm+mt
-source-wordcount: '1680'
+source-wordcount: '1688'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Kort: Fel vid flyttning av kort eller tilldelning av användare](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Rapporter: Långa inläsningstider för Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Rapporter: Det går inte att rulla för att visa hela diagramrapporten](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Uppdrag: Uppgiftstilldelningen misslyckas och ärvda behörigheter tas bort](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
