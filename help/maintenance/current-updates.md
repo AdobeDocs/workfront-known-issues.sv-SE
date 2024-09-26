@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '5380'
+source-wordcount: '5525'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,30 @@ Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2024.
 
 ## Uppdateringar i september 2024
+
++++**Underhållsuppdatering 26 september 2024**
+
+### Underhållsuppdatering 26 september 2024
+
+#### Agile
+
+**Lägg till i iterationsalternativet visas två gånger när du tilldelar trumteam**
+
+När du tilldelar en uppgift eller ett problem till ett team med flexibla skript visas alternativet Lägg till i upprepning två gånger på menyn Mer. Detta påverkar inte möjligheten att tilldela teamet och visas inte för icke-spridda rörliga team.
+
+#### Anpassad Forms
+
+**Fältlistan i beräkningsredigeraren är begränsad till 200 objekt**
+
+I Beräkningsredigeraren för beräknade fält i anpassade formulär är fältlistan för ett objekt nu begränsad till 200 objekt för att förbättra systemets prestanda. Om du känner till fältnamnet kan du söka efter det med typsnittsalternativet i stället för att bläddra igenom listan.
+
+#### Rapporter
+
+**Rapportleveranser är fördröjda eller saknas**
+
+Rapporter med schemalagda leveranser levereras inte som förväntat. De kanske kommer för sent, eller så kanske de inte levereras alls.
+
++++
 
 +++**Underhållsuppdatering 19 september 2024**
 
