@@ -3,14 +3,18 @@ title: "Korrektur: Aktiva användare visas som inaktiverade"
 description: "Trots att användaren är aktiv visas den som inaktiverad i vissa korrektur och kan inte komma åt den."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
 # korrektur: Aktiva användare visas som inaktiverade
+
+>[!NOTE]
+>
+>Artikeln har lösts.
 
 Trots att användaren är aktiv visas den som inaktiverad i vissa korrektur och kan inte komma åt den.
 

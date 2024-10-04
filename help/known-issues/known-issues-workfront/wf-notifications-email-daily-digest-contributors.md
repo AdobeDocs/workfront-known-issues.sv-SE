@@ -4,9 +4,9 @@ description: Användare med en Contributor-licens får inga e-postmeddelanden. D
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Problemet har stängts eftersom det fungerar som det ska.
+>Den här artikeln fastställdes den 3 oktober 2024.
 
 Användare med en Contributor-licens får inga e-postmeddelanden. Detta kan påverka både e-postmeddelanden med snabbmeddelanden och e-postmeddelanden med daglig sammandrag.
 

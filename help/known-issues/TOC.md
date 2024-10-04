@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '1710'
+source-wordcount: '1751'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Inloggning som omdirigeras till inloggning eller orsakar fel](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [Hem:&quot;Markera som färdig&quot; stänger sammanfattningsrutan för widgeten Mina problem](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [Projekt: Det går inte att dela projekt på grund av felet &quot;åtkomst till borttagning&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [Korrektur: Skapa korrektur misslyckas för dokument som länkas från AEM via Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [Kort: Fel vid flyttning av kort eller tilldelning av användare](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Rapporter: Långa inläsningstider för Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Rapporter: Det går inte att rulla för att visa hela diagramrapporten](known-issues-workfront/wf-reports-unable-to-scroll.md)

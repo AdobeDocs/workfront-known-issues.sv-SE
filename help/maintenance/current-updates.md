@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '5525'
+source-wordcount: '5708'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,47 @@ Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeri
 Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 Följande underhållsuppdateringar gjordes 2024.
+
+## Uppdateringar i oktober 2024
+
++++**Underhållsuppdatering 3 oktober 2024**
+
+### Underhållsuppdatering 3 oktober 2024
+
+#### Varumärkena
+
+**Arkiverade anslutna kort har inte synkroniserats**
+
+För att åtgärda prestandaproblem synkroniseras inte längre anslutna kort som är arkiverade. Ändringar som görs i Workfront-uppgiften eller -problemet återspeglas inte i de arkiverade korten. Om du återställer ett kort synkroniseras det igen.
+
+#### Egna formulär
+
+**Konverteringsfel för visningstyp i anpassade formulär**
+
+RTF-fält orsakar följande fel i anpassade formulär:
+
+&quot;Fel: Konvertering av visningstyp mellan text och RTF tillåts inte.&quot;
+
+Detta kan inträffa under följande förhållanden:
+
+* Användaren börjar redigera formulären men klickar på Använd utan att göra några ändringar.
+* Användaren skapar ett anpassat formulär.
+
+I båda fallen ger RTF-fält upphov till problem.
+
+#### Meddelanden
+
+**Deltagare får inga e-postmeddelanden**
+
+Användare med en Contributor-licens får inga e-postmeddelanden. Detta kan påverka både e-postmeddelanden med snabbmeddelanden och e-postmeddelanden med daglig sammandrag.
+
+#### Korrektur
+
+**Det går inte att lägga till elektroniska signaturer när SSO används för korrektur**
+
+När du använder enkel inloggning för att logga in på korrektur kan användare inte ställa in ett korrektur för att kräva elektroniska signaturer.
+
++++
 
 ## Uppdateringar i september 2024
 
