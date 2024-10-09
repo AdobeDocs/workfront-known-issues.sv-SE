@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1751'
+source-wordcount: '1794'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Dokument: Det går inte att flytta dokument från objektfliken Dokument](known-issues-workfront/wf-documents-cannot-move-from-object.md)
+      + [Tavlor: Duplicera statusalternativ för uppgifter och ärenden](known-issues-workfront/wf-boards-duplicate-status-options.md)
+      + [Hem: Borttagna anpassade fält finns kvar i widgetar för projekt, uppgifter och utgåvor](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [Prioriteringar: Grupperingar förhindrar sortering och infogad redigering](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [Inloggning som omdirigeras till inloggning eller orsakar fel](known-issues-workfront/wf-login-as-redirects-to-login.md)
       + [Hem:&quot;Markera som färdig&quot; stänger sammanfattningsrutan för widgeten Mina problem](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
       + [Projekt: Det går inte att dela projekt på grund av felet &quot;åtkomst till borttagning&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
@@ -205,6 +209,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Kända fel i  [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuella problem i [!DNL Workfront Proof] {#proof-current}
+      + [Workfront Mobile: Korrektur för e-postlänkar öppnas inte i iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [Workfront Proof: Innehållet klistras in felaktigt i uppdateringsavsnittet i Desktop Proofing Viewer](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]: Det går inte att ändra ordning på resurser när ett korrektur skapas](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: Felaktig tidsstämpel på [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)

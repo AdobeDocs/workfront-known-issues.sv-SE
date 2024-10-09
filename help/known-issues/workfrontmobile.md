@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront] mobilappen
 keywords: ny fil, lägga till fil
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,17 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 >
 >Mer information om serverns drifttid och avbrott finns på [status.adobe.com](https://status.adobe.com). Mer information om problem som nyligen har korrigerats finns i [[!DNL Workfront] Underhållsuppdateringar](../maintenance/current-updates.md).
 
-**Det finns för närvarande inga kända problem för[!DNL Workfront Mobile]**
+<!--**There are currently no known issues for [!DNL Workfront Mobile]**-->
 
+## Nytt
+
+Dessa nyligen rapporterade problem granskas för närvarande.
+
+| **Utgåva** | **Senast ändrad** |
+| -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile: Korrektur för e-postlänkar öppnas inte i iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 oktober 2024 |
 
 <!--
-## New
-
-These recently reported issues are currently under review.
-
-| **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- |
-
-
 ## Current Issues
 
 |Issue  |Last Modified   | 

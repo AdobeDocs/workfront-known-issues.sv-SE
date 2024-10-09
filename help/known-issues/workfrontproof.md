@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile: Korrektur för e-postlänkar öppnas inte i iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 oktober 2024 |
 | [Korrektur: Det går inte att skapa korrektur för dokument som länkats från AEM via Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 3 oktober 2024 |
 | [Agile: Artikelbordet blir tomt när en underaktivitet läggs till](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 26 juli 2024 |
 | [Korrektur: Om du öppnar ett korrektur öppnas flera kopior](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 juli 2024 |

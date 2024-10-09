@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '986'
+source-wordcount: '1034'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,9 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokument: Det går inte att flytta dokument från objektfliken Dokument](known-issues-workfront/wf-documents-cannot-move-from-object.md) | 9 oktober 2024 |
+| [Böcker: Duplicera statusalternativ för uppgifter och ärenden](known-issues-workfront/wf-boards-duplicate-status-options.md) | 9 oktober 2024 |
+| [Workfront Mobile: Korrektur för e-postlänkar öppnas inte i iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 oktober 2024 |
 | [Rapporter: Inläsningstider för långa rapportverktyg](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 19 september 2024 |
 | [API: API-anrop misslyckas på grund av SQL-fel](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 september 2024 |
 | [Böcker: Det går inte att förhandsgranska eller hämta dokument från kortet](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 5 september 2024 |
@@ -76,6 +79,8 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Hem: Borttagna anpassade fält finns kvar i widgetarna för projekt, aktiviteter och utgåvor](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8 oktober 2024 |
+| [Prioriteter: Grupperingar förhindrar sortering och infogad redigering](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 8 oktober 2024 |
 | [Rapporter: Det går inte att rulla för att visa hela diagramrapporten](known-issues-workfront/wf-reports-unable-to-scroll.md) | 19 september 2024 |
 | [Workfront: Flera webbläsarflikar gör att Workfront loggar ut](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 18 september 2024 |
 | [Anpassade formulär: Beräknade fält med felaktigt värde](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 12 september 2024 |
