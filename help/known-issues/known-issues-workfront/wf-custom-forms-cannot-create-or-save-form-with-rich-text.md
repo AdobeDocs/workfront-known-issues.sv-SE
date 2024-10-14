@@ -1,17 +1,21 @@
 ---
-title: "Anpassade formulär: Fel vid konvertering av visningstyp i anpassade formulär"
-description: "RTF-fält orsakar ett fel i anpassade formulär."
+title: 'Anpassade formulär: Fel vid konvertering av visningstyp i anpassade formulär'
+description: RTF-fält orsakar ett fel i anpassade formulär.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+exl-id: 60fc4472-292d-4910-8cde-1d39d8e8a1c8
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-
 # Anpassade formulär: Fel vid konvertering av visningstyp i anpassade formulär
+
+>[!NOTE]
+>
+>Den här artikeln var fast den 9 oktober 2024.
 
 RTF-fält orsakar följande fel i anpassade formulär:
 

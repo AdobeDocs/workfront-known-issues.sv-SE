@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
 workflow-type: tm+mt
-source-wordcount: '1794'
+source-wordcount: '1804'
 ht-degree: 0%
 
 ---
@@ -236,6 +236,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Kända fel i Workfront Fusion](workfrontfusion.md)
    + Aktuella problem i [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: Börja med att ange&quot;Från och med nu&quot; för att bearbeta alla data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: Problem med datalagring](known-issues-workfront-fusion/fusion-data-store-issues.md)
       + [Workfront Fusion: Körningsinformation visas som bearbetning](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
       + [Workfront Fusion: Kan inte lägga till eller ta bort användare från Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)

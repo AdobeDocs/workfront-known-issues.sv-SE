@@ -4,14 +4,18 @@ description: När en händelse inträffar som bör utlösa ett webkrosscenario i
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 3388eaae-61cf-4a86-a946-925892c9633a
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
 # Workfront Fusion: Webkrokkön bearbetas inte
+
+>[!NOTE]
+>
+>Den här artikeln var fast den 11 oktober 2024.
 
 När en händelse inträffar som bör utlösa ett webkrosscenario i Workfront Fusion, körs inte scenariot och händelsen finns kvar i webbkrokens kö.
 

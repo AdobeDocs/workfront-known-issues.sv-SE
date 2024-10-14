@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
-source-wordcount: '5708'
+source-wordcount: '5959'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,49 @@ Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2024.
 
 ## Uppdateringar i oktober 2024
+
++++**Underhållsuppdatering 10 oktober 2024**
+
+### Underhållsuppdatering 10 oktober 2024
+
+#### Varumärkena
+
+**Fel vid flyttning av kort eller tilldelning av användare**
+
+När du flyttar kort eller tilldelar användare händer det ibland att åtgärden inte går igenom och i stället visas felet&quot;Svaret misslyckades: Statuskoden 502&quot; efter en fördröjning.
+
+**Fel vid inläsning av anslagstavla**
+
+När en användare försöker läsa in en anslagstavla, läses inte anslagstavlan in och användaren ser följande meddelande:
+
+&quot;Fel vid inläsning av bräda&quot;
+
+&quot;Något gick fel när den här tavlan lästes in. Uppdatera sidan och försök igen, eller kontakta support med fel-ID nedan om problemet kvarstår.&quot;
+
+#### Startsida
+
+**&quot;Markera som färdig&quot; stänger sammanfattningsrutan för widgeten Mina problem**
+
+När du försöker använda knappen &quot;Markera som färdig&quot; i sammanfattningsrutan för ett problem som har öppnats via widgeten Mina problem stängs sammanfattningsrutan oväntat.
+
+**Inställningarna för layoutmallswidgeten kan inte lägga till kolumnen**
+
+När du markerar ett fält som ska läggas till i en widget via inställningarna för layoutmallswidgeten, kan du markera ett fält men motsvarande kolumn visas inte i widgeten.
+
+#### Uppgifter
+
+**Problem med tidslinjeomberäkning**
+
+Följande problem har rapporterats angående omberäkning av tidslinje:
+
+* När du uppdaterar varaktigheten för en tidslinjeaktivitet tar det lång tid att beräkna om.
+* När omberäkningen är klar kan datumen vara inaktiverade eller inaktiverade, som om tidslinjen fortfarande beräknas om.
+
+**Aktivitetsutgifter visas inte**
+
+När du har lagt till en utgift för en aktivitet visas inte utgiften i aktivitetsinformationen trots att API-bekräftelsen har angetts.
+
++++
 
 +++**Underhållsuppdatering 3 oktober 2024**
 
