@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,9 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Böcker: Duplicera statusalternativ för uppgifter och ärenden](known-issues-workfront/wf-boards-duplicate-status-options.md) | 9 oktober 2024 |
 | [Workfront Mobile: Korrektur för e-postlänkar öppnas inte i iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 oktober 2024 |
 | [Rapporter: Inläsningstider för långa rapportverktyg](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 19 september 2024 |
 | [API: API-anrop misslyckas på grund av SQL-fel](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 september 2024 |
-| [Böcker: Det går inte att förhandsgranska eller hämta dokument från kortet](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 5 september 2024 |
 | [Kort: Kortstatusen matchar inte det anslutna objektet och filtret för åsidosättningar](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 3 september 2024 |
 | [Kort: Anslutet kort finns i fel kolumn](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 28 augusti 2024 |
 | [Workfront: Kan inte använda enkel inloggning](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 26 augusti 2024 |

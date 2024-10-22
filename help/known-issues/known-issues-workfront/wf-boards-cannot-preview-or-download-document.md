@@ -1,17 +1,21 @@
 ---
-title: "Böcker: Det går inte att förhandsgranska eller ladda ned dokument från kortet"
-description: "Word-dokument (.docx) kan inte förhandsgranskas eller hämtas från dokumentavsnittet i den detaljerade kortvyn."
+title: 'Böcker: Det går inte att förhandsgranska eller hämta dokument från kortet'
+description: Word-dokument (.docx) kan inte förhandsgranskas eller laddas ned från dokumentavsnittet i den detaljerade kortvyn.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+exl-id: 2fd644b6-b7c0-47b1-9de5-93fc35069b63
+source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-
 # Styrelser: Det går inte att förhandsgranska eller hämta dokument från kortet
+
+>[!NOTE]
+>
+>Problemet korrigerades den 17 oktober 2024.
 
 Word-dokument (.docx) kan inte förhandsgranskas eller laddas ned från dokumentavsnittet i kortets fullständiga vy.
 
