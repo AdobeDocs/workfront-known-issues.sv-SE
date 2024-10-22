@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1015'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
 | [Projekt: Gantt-schemat är inte korrekt](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | 22 oktober 2024 |
-| [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 22 oktober 2024 |
+| [Korrektur: Det går inte att stänga korrekturläsaren](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 22 oktober 2024 |
 | [Projekt: Det går inte att lägga till problem i det slutförda projektet](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | 22 oktober 2024 |
 | [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 22 oktober 2024 |
 | [Anpassade formulär: Det går inte att uppdatera anpassade data i slutförda projekt](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | 22 oktober 2024 |
