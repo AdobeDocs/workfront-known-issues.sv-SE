@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+source-git-commit: c97902d01cc405c209eda11c53eb8b55ec5f9a6c
 workflow-type: tm+mt
-source-wordcount: '5959'
+source-wordcount: '6170'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,51 @@ Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2024.
 
 ## Uppdateringar i oktober 2024
+
++++**(Planerad) underhållsuppdatering 24 oktober 2024**
+
+### (Planerat) Underhållsuppdatering 24 oktober 2024
+
+#### Egna formulär
+
+**Det går inte att uppdatera anpassade data i slutförda projekt**
+
+När en användare försöker uppdatera anpassade data i ett projekt som är färdigt kan de inte uppdatera data och de ser följande meddelande:
+
+&quot;Det går inte att slutföra åtgärden för ett projekt med statusen Slutförd.&quot;
+
+#### Projekt
+
+**Det går inte att lägga till problem i det slutförda projektet**
+
+När en användare försöker lägga till ett problem i ett projekt med statusen Fullständigt kan användaren inte lägga till problemet. Detta kan inträffa även om alternativet Lägg till och redigera problem är aktiverat
+
+**Gantt-schemat är inte korrekt**
+
+När en användare tittar på Gantt-schemat och växlar vy, visar Gantt-schemat inte korrekta data eller visar inga data.
+
++++
+
+
++++**Underhållsuppdatering 17 oktober 2024**
+
+### Underhållsuppdatering 17 oktober 2024
+
+#### Korrektur
+
+**Korrektur visar felaktigt datum**
+
+Datum i dokumentlistan visar det datum då den första versionen av dokumentet skapades, i stället för det datum då den senaste versionen skapades.
+
+### Tidrapporter
+
+När en användare försöker logga tid på en tidrapport som har statusen Skickat eller Stängt kan användaren inte logga tiden.
+
+Detta är det förväntade beteendet och bör inte ses som något problem.
+
+Tidigare kunde användarna logga tid på inskickade eller stängda tidrapporter.
+
++++
 
 +++**Underhållsuppdatering 10 oktober 2024**
 
