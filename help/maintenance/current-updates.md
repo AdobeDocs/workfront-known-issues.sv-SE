@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2044929db057509bea6200631336e53b76d4a1ff
+source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
 workflow-type: tm+mt
-source-wordcount: '6170'
+source-wordcount: '6177'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ När en användare försöker logga tid på en tidrapport som har statusen Skick
 
 Detta är det förväntade beteendet och bör inte ses som något problem.
 
-Tidigare kunde användarna logga tid på inskickade eller stängda tidrapporter.
+Tidigare kunde användarna logga tid på inskickade eller stängda tidrapporter via Workfront API eller Workfront Fusion.
 
 +++
 
