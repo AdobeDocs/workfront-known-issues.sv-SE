@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
+source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '1018'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | [Kort: Anslutet kort finns i fel kolumn](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 28 augusti 2024 |
 | [Workfront: Kan inte använda enkel inloggning](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 26 augusti 2024 |
 | [Uppdrag: Ikonen Tid borta visas inte när uppgifter tilldelas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 26 augusti 2024 |
-| [Integrationer: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 21 augusti 2024 |
 | [Hem: &quot;Ingen åtkomst&quot; visas som projektnamn](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augusti 2024 |
 | [Workfront Mobile: Det går inte att logga in utan SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 14 augusti 2024 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
@@ -47,6 +46,14 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Projekt: Gantt-schemat är inte korrekt](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | 22 oktober 2024 |
+| [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 22 oktober 2024 |
+| [Projekt: Det går inte att lägga till problem i det slutförda projektet](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | 22 oktober 2024 |
+| [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 22 oktober 2024 |
+| [Anpassade formulär: Det går inte att uppdatera anpassade data i slutförda projekt](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | 22 oktober 2024 |
+| [Hem: Du kan komma åt området Prioriteter när det har inaktiverats](known-issues-workfront/wf-home-priorities-accessible.md) | 22 oktober 2024 |
+| [Hem: Widgeten Mina godkännanden fungerar inte](known-issues-workfront/wf-home-my-approval-not-working.md) | 22 oktober 2024 |
+| [Korrektur: Det går inte att skapa korrektur i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 22 oktober 2024 |
 | [Projekt: Det går inte att dela projekt på grund av felet &quot;åtkomst till borttagning&quot; ](known-issues-workfront/wf-projects-sharing-access-error.md) | 3 oktober 2024 |
 | [Korrektur: Det går inte att skapa korrektur för dokument som länkats från AEM via Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 3 oktober 2024 |
 | [Integrationer: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 24 september 2024 |

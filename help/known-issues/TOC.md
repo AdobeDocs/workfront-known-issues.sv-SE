@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
+source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
 workflow-type: tm+mt
-source-wordcount: '1804'
+source-wordcount: '1850'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,12 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Projekt: Gantt-schemat är inte korrekt](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
+      + [Projekt: Det går inte att lägga till problem i det färdiga projektet](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
+      + [Anpassade formulär: Det går inte att uppdatera anpassade data i färdiga projekt](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
+      + [Hem: Du kan komma åt området Prioriteter när det har inaktiverats](known-issues-workfront/wf-home-priorities-accessible.md)
+      + [Hem: Widgeten Mina godkännanden fungerar inte](known-issues-workfront/wf-home-my-approval-not-working.md)
+      + [Korrektur: Det går inte att skapa korrektur i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [Dokument: Det går inte att flytta dokument från objektfliken Dokument](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [Tavlor: Duplicera statusalternativ för uppgifter och ärenden](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [Hem: Borttagna anpassade fält finns kvar i widgetar för projekt, uppgifter och utgåvor](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
