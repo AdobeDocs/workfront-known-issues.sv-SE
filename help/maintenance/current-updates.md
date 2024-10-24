@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '6177'
+source-wordcount: '6244'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,15 @@ Följande underhållsuppdateringar gjordes 2024.
 
 ## Uppdateringar i oktober 2024
 
-+++**(Planerad) underhållsuppdatering 24 oktober 2024**
++++**Underhållsuppdatering 24 oktober 2024**
 
-### (Planerat) Underhållsuppdatering 24 oktober 2024
+### Underhållsuppdatering 24 oktober 2024
+
+#### Uppdrag
+
+**Ikonen Tid av visas inte när uppgifter tilldelas**
+
+När en användare tilldelar en uppgift och börjar skriva namnet på den tilldelande som har en tid utanför schemat under uppgiften, visas inte ikonen för tid utanför (flygplan) under området Förslag på uppdrag. Om användaren fortsätter att skriva så att namnet visas under området Användare och team visas ikonen.
 
 #### Egna formulär
 

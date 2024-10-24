@@ -3,15 +3,19 @@ title: "Anpassade formulär: Det går inte att uppdatera anpassade data i färdi
 description: ""
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 6e06225c52775894d03605b0dbbf0182e43e53ed
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 
 # Anpassade formulär: Det går inte att uppdatera anpassade data i färdiga projekt
+
+>[!NOTE]
+>
+>Problemet korrigerades den 24 oktober 2024.
 
 När en användare försöker uppdatera anpassade data i ett projekt som är färdigt kan de inte uppdatera data och de ser följande meddelande:
 

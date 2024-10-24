@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '1850'
+source-wordcount: '1864'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporter: Alternativet Visa filter/Dölj filter saknas](known-issues-workfront/wf-reports-show-filter-missing.md)
+      + [Hem: Procent färdigt har klippts av](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [Projekt: Gantt-schemat är inte korrekt](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
       + [Projekt: Det går inte att lägga till problem i det färdiga projektet](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
       + [Anpassade formulär: Det går inte att uppdatera anpassade data i färdiga projekt](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)

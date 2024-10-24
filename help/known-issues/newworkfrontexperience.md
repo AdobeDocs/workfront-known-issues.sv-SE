@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1000'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,14 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapporter: Alternativet Visa filter/Dölj filter saknas](known-issues-workfront/wf-reports-show-filter-missing.md) | 24 oktober 2024 |
+| [Hem: Procent färdigt har klippts av](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 24 oktober 2024 |
 | [Workfront Mobile: Korrektur för e-postlänkar öppnas inte i iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 oktober 2024 |
 | [Rapporter: Inläsningstider för långa rapportverktyg](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 19 september 2024 |
 | [API: API-anrop misslyckas på grund av SQL-fel](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 september 2024 |
 | [Kort: Kortstatusen matchar inte det anslutna objektet och filtret för åsidosättningar](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 3 september 2024 |
 | [Kort: Anslutet kort finns i fel kolumn](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 28 augusti 2024 |
 | [Workfront: Kan inte använda enkel inloggning](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 26 augusti 2024 |
-| [Uppdrag: Ikonen Tid borta visas inte när uppgifter tilldelas](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 26 augusti 2024 |
 | [Hem: &quot;Ingen åtkomst&quot; visas som projektnamn](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augusti 2024 |
 | [Workfront Mobile: Det går inte att logga in utan SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 14 augusti 2024 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
@@ -46,11 +47,9 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
-| [Projekt: Gantt-schemat är inte korrekt](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | 22 oktober 2024 |
+| [API: begäran om tidsgräns](known-issues-workfront/wf-api-request-timing-out.md) | 24 oktober 2024 |
 | [Korrektur: Det går inte att stänga korrekturläsaren](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 22 oktober 2024 |
-| [Projekt: Det går inte att lägga till problem i det slutförda projektet](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | 22 oktober 2024 |
 | [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 22 oktober 2024 |
-| [Anpassade formulär: Det går inte att uppdatera anpassade data i slutförda projekt](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | 22 oktober 2024 |
 | [Hem: Du kan komma åt området Prioriteter när det har inaktiverats](known-issues-workfront/wf-home-priorities-accessible.md) | 22 oktober 2024 |
 | [Hem: Widgeten Mina godkännanden fungerar inte](known-issues-workfront/wf-home-my-approval-not-working.md) | 22 oktober 2024 |
 | [Korrektur: Det går inte att skapa korrektur i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 22 oktober 2024 |
