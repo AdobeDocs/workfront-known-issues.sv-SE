@@ -4,7 +4,7 @@ description: När en användare visar ett korrektur i korrekturläsaren och för
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
-source-git-commit: a14a043c13563a2706f9dd0a344a4cabd07bb19a
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 <!--
 >[!NOTE]
 >
->This issue was fixed on July 18, 2024.
+>This issue was fixed on October 31, 2024.
 -->
 
 När en användare visar ett korrektur i korrekturläsaren och försöker stänga korrekturet genom att klicka på krysset i det övre högra hörnet, stängs inte korrekturet.

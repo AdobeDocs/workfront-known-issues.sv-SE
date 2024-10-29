@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '1864'
+source-wordcount: '1873'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Meddelanden: Det går inte att visa förhandsvisningar av bilder i e-postmeddelanden om dokumentmeddelanden](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Rapporter: Alternativet Visa filter/Dölj filter saknas](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [Hem: Procent färdigt har klippts av](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [Projekt: Gantt-schemat är inte korrekt](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)

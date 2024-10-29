@@ -4,7 +4,7 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -25,7 +25,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Starta inställningen &quot;Från och med nu&quot; som bearbetar alla data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 14 oktober 2024 |
 | [Korrektur: Det går inte att skapa korrektur för dokument som länkats från AEM via Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 3 oktober 2024 |
 | [API: begäran om tidsgräns](known-issues-workfront/wf-api-request-timing-out.md) | 5 augusti 2024 |
 
@@ -47,6 +46,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Starta inställningen &quot;Från och med nu&quot; som bearbetar alla data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 29 oktober 2024 |
 | [Workfront Fusion: Fält saknas i modul](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 5 februari 2024 |
 | [Workfront Fusion: Utdataformatering för datum](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 31 januari 2024 |
 | [Workfront Fusion: Fel med lågt minne](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16 november 2023 |
