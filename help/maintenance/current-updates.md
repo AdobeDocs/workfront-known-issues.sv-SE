@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '6244'
+source-wordcount: '6274'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,14 @@ Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2024.
 
 ## Uppdateringar i oktober 2024
+
++++**Underhållsuppdatering 31 oktober 2024**
+
+### Underhållsuppdatering 31 oktober 2024
+
+Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. Workfront Support meddelar dig när ett problem som du har skickat har åtgärdats.
+
++++
 
 +++**Underhållsuppdatering 24 oktober 2024**
 
@@ -55,7 +63,6 @@ När en användare försöker lägga till ett problem i ett projekt med statusen
 När en användare tittar på Gantt-schemat och växlar vy, visar Gantt-schemat inte korrekta data eller visar inga data.
 
 +++
-
 
 +++**Underhållsuppdatering 17 oktober 2024**
 

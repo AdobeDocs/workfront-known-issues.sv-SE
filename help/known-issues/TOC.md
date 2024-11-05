@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '1873'
+source-wordcount: '1919'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,11 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Layoutmallar: Anpassade datafält visas inte när de läggs till i uppgiftssammanfattning via layoutmall](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
+      + [Hem: Widgeten Mina uppdateringar fungerar inte](known-issues-workfront/wf-home-my-updates-not-working.md)
+      + [Dokument: Knappen Alternativ för godkännande saknas i dokument](known-issues-workfront/wf-documents-missing-approval-button.md)
+      + [Hem: Att göra-widgetfel för nya och slutförda uppgifter](known-issues-workfront/wf-home-to-do-new-complete-error.md)
+      + [Integreringar: JumpSeat-integreringar misslyckas för organisationer med enhetligt gränssnitt](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [Meddelanden: Det går inte att visa förhandsvisningar av bilder i e-postmeddelanden om dokumentmeddelanden](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Rapporter: Alternativet Visa filter/Dölj filter saknas](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [Hem: Procent färdigt har klippts av](known-issues-workfront/wf-home-percent-complete-inaccurate.md)

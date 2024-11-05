@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '1018'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,10 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Layoutmallar: Anpassade datafält visas inte när de läggs till i uppgiftssammanfattning via layoutmall](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 november 2024 |
+| [Hem: Widgeten Mina uppdateringar fungerar inte](known-issues-workfront/wf-home-my-updates-not-working.md) | 4 november 2024 |
+| [Dokument: Knappen Alternativ för godkännande saknas i dokument](known-issues-workfront/wf-documents-missing-approval-button.md) | 4 november 2024 |
+| [Hem: Att göra-widgetfel för nya och slutförda uppgifter](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 4 november 2024 |
 | [Hem: Procent färdigt har klippts av](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 24 oktober 2024 |
 | [Workfront Mobile: Korrektur för e-postlänkar öppnas inte i iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 oktober 2024 |
 | [Rapporter: Inläsningstider för långa rapportverktyg](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 19 september 2024 |
