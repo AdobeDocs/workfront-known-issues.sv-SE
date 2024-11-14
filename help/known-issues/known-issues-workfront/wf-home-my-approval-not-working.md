@@ -1,17 +1,21 @@
 ---
-title: "Hem: Widgeten Mina godkännanden fungerar inte"
-description: "När en användare försöker visa widgeten Mina godkännanden hemma visas inte widgeten och användaren ser ett meddelande."
+title: 'Hem: Widgeten Mina godkännanden fungerar inte'
+description: När en användare försöker visa widgeten Mina godkännanden hemma visas inte widgeten och användaren ser ett meddelande.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 6e06225c52775894d03605b0dbbf0182e43e53ed
+exl-id: dcfa4c2a-da19-4e62-bcbe-e8f93a99eb0b
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-
 # Hem: Widgeten Mina godkännanden fungerar inte
+
+>[!NOTE]
+>
+>Problemet korrigerades den 24 oktober 2024.
 
 När en användare försöker visa widgeten Mina godkännanden hemma visas inte widgeten och användaren ser följande meddelande:
 

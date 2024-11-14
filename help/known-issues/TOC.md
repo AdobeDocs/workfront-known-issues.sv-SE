@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
 workflow-type: tm+mt
-source-wordcount: '1919'
+source-wordcount: '2026'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,19 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Tidrapporter: Deltagare har en&quot;Skicka för godkännande&quot;-knapp](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
+      + [Meddelanden: E-postmeddelanden om att uppdateringar inte skickas](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
+      + [Anpassade formulär: Det går inte att lägga till aktivitetsfälten &quot;estimeraByHours&quot; eller &quot;hoursPerPoint&quot;](known-issues-workfront/wf-custom-forms-invalid-fields.md)
+      + [Dokument: Godkännandet&quot;snabbtillägg&quot; inkluderar inte deadlinepost för nya versioner](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
+      + [Layoutmallar: Administratörer kan inte redigera startlayoutmallar](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
+      + [Användare: Oregistrerad tagg kvarstår efter inloggning](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
+      + [Workfront: Contributor-användare har inte åtkomst till Program eller Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [Godkännanden: Filtret Alla utesluter personligt inskickade godkännanden](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
+      + [Uppgifter: Felaktig varaktighet för förflutna dagar för överordnade uppgifter med underordnade](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
+      + [Rapporter: Gruppredigering i diagramlistor svarar inte](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
+      + [Workfront: Det går inte att läsa in webbläsarflikar som är öppna](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [Resursplanering: Det går inte att komma åt resursplaneraren](known-issues-workfront/wf-resource-planner-inaccessible.md)
+      + [Hem: Widgeten Mina aktiviteter läses inte in](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [Layoutmallar: Anpassade datafält visas inte när de läggs till i uppgiftssammanfattning via layoutmall](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [Hem: Widgeten Mina uppdateringar fungerar inte](known-issues-workfront/wf-home-my-updates-not-working.md)
       + [Dokument: Knappen Alternativ för godkännande saknas i dokument](known-issues-workfront/wf-documents-missing-approval-button.md)

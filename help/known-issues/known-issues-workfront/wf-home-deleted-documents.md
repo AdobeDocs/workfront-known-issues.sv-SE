@@ -4,7 +4,7 @@ description: När en användare visar sin widget för väntande godkännanden i 
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
 exl-id: 82fa6159-ae27-4391-9690-8d4679c5b91c
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Problemet korrigerades den 29 augusti 2024.
+>Problemet korrigerades den 14 november 2024.
 
 När en användare visar sin widget för väntande godkännanden i hemmet, ser de dokument som har tagits bort. Om användaren klickar på ett av dessa dokument, placeras de på en tom sida.
 
