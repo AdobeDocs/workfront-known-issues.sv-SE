@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '1104'
+source-wordcount: '1073'
 ht-degree: 0%
 
 ---
@@ -36,13 +36,9 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | [Uppgifter: Felaktig varaktighet för förflutna dagar för överordnade aktiviteter med underordnade ](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 13 november 2024 |
 | [Rapporter: Massredigering i diagramlistor svarar inte](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 13 november 2024 |
 | [Workfront: Det går inte att läsa in öppna webbläsarflikar](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 november 2024 |
-| [Rapporter: Det går inte att läsa in rapporter](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 12 november 2024 |
-| [Resursplanerare: Det går inte att komma åt resursplaneraren](known-issues-workfront/wf-resource-planner-inaccessible.md) | 12 november 2024 |
-| [Hem: Widgeten Mina aktiviteter läses inte in](known-issues-workfront/wf-home-task-widget-wont-load.md) | 12 november 2024 |
 | [Layoutmallar: Anpassade datafält visas inte när de läggs till i uppgiftssammanfattning via layoutmall](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 november 2024 |
 | [Hem: Widgeten Mina uppdateringar fungerar inte](known-issues-workfront/wf-home-my-updates-not-working.md) | 4 november 2024 |
 | [Dokument: Knappen Alternativ för godkännande saknas i dokument](known-issues-workfront/wf-documents-missing-approval-button.md) | 4 november 2024 |
-| [Hem: Att göra-widgetfel för nya och slutförda uppgifter](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 4 november 2024 |
 | [Workfront Mobile: Korrektur för e-postlänkar öppnas inte i iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 oktober 2024 |
 | [API: API-anrop misslyckas på grund av SQL-fel](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 september 2024 |
 | [Kort: Kortstatusen matchar inte det anslutna objektet och filtret för åsidosättningar](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 3 september 2024 |

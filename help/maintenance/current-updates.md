@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '6308'
+source-wordcount: '6384'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,24 @@ Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2024.
 
 ## Uppdateringar i november 2024
+
++++**Underhållsuppdatering 14 november 2024**
+
+### Underhållsuppdatering 14 november 2024
+
+#### Startsida
+
+**Att göra-widgetfel för nya och slutförda uppgifter**
+
+När man försöker skapa en ny uppgift eller fylla i en befintlig i hemmakonfigurationen, uppstår ett fel och användaren kan inte skapa eller slutföra uppgiften.
+
+#### Användare
+
+Kryssrutan **&quot;Skicka inbjudningsmeddelanden till dessa personer&quot; saknas**
+
+När nya användare importeras till Workfront saknas kryssrutan&quot;Skicka inbjudningsmeddelanden till dessa personer&quot; i dialogrutan.
+
++++
 
 +++**Underhållsuppdatering 7 november 2024**
 
@@ -52,7 +70,7 @@ Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrige
 
 **Ikonen Tid av visas inte när uppgifter tilldelas**
 
-När en användare tilldelar en uppgift och börjar skriva namnet på den tilldelande som har en tid utanför schemat under uppgiften, visas inte ikonen för tid utanför (flygplan) under området Förslag på uppdrag. Om användaren fortsätter att skriva så att namnet visas under området Användare och team visas ikonen.
+När en användare tilldelar en uppgift och börjar skriva namnet på den som är tilldelad en tid som inte är schemalagd under uppgiften, visas inte ikonen för tid utanför (flygplan) under Föreslagna uppdrag. Om användaren fortsätter att skriva så att namnet visas under området Användare och team visas ikonen.
 
 #### Egna formulär
 
@@ -84,7 +102,7 @@ När en användare tittar på Gantt-schemat och växlar vy, visar Gantt-schemat 
 
 Datum i dokumentlistan visar det datum då den första versionen av dokumentet skapades, i stället för det datum då den senaste versionen skapades.
 
-### Tidrapporter
+#### Tidrapporter
 
 När en användare försöker logga tid på en tidrapport som har statusen Skickat eller Stängt kan användaren inte logga tiden.
 

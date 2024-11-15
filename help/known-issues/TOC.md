@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '2026'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 0%
       + [Uppgifter: Felaktig varaktighet för förflutna dagar för överordnade uppgifter med underordnade](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [Rapporter: Gruppredigering i diagramlistor svarar inte](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront: Det går inte att läsa in webbläsarflikar som är öppna](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [Rapporter: Rapporter läses inte in](known-issues-workfront/wf-reports-fail-to-load.md)
       + [Resursplanering: Det går inte att komma åt resursplaneraren](known-issues-workfront/wf-resource-planner-inaccessible.md)
       + [Hem: Widgeten Mina aktiviteter läses inte in](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [Layoutmallar: Anpassade datafält visas inte när de läggs till i uppgiftssammanfattning via layoutmall](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
