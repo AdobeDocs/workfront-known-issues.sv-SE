@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '6384'
+source-wordcount: '6541'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,38 @@ Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2024.
 
 ## Uppdateringar i november 2024
+
++++**Underhållsuppdatering 21 november 2024**
+
+### Underhållsuppdatering 21 november 2024
+
+#### Kontrollpaneler
+
+**Det går inte att interagera med rapportfält för stapeldiagram i instrumentpaneler**
+
+När du försöker klicka på eller föra musen över en stapel i en stapeldiagramrapport i en kontrollpanel öppnas inte informationsmenyn, eller så visas inget verktygstips.
+
+#### Projekt
+
+**Projekt kan inte läsas in**
+
+När du navigerar till ett projekt misslyckas sidan ibland med att läsa in något innehåll.
+
+#### Rapporter
+
+**Massredigering i diagramlistor svarar inte**
+
+När en användare visar ett diagram i en rapport och markerar flera objekt i listan som ska redigeras gruppvis, försvinner markören och textrutorna för massredigeringen slutar svara.
+
+**Knapparna Redigera och Ta bort svarar inte i tidrapporter**
+
+När du försöker klicka på ikonerna Redigera eller Ta bort i en tidrapportrapport visas inget svar.
+
+**Rapporter som innehåller typsnittsfält kan inte läsas in**
+
+När du öppnar en rapport som innehåller anpassade typsnittsfält går det ibland inte att läsa in rapporten och ett felmeddelande visas.
+
++++
 
 +++**Underhållsuppdatering 14 november 2024**
 

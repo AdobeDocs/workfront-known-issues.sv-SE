@@ -1,17 +1,21 @@
 ---
-title: "Hem: Widgeten Mina uppdateringar fungerar inte"
-description: "När en användare försöker visa widgeten Mina uppdateringar i Hem visas inte widgeten och användaren ser ett meddelande."
+title: 'Hem: Widgeten Mina uppdateringar fungerar inte'
+description: När en användare försöker visa widgeten Mina uppdateringar i Hem visas inte widgeten och användaren ser ett meddelande.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+exl-id: caa1cd37-825f-45bc-add8-48b6c0f09814
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-
 # Hem: Widgeten Mina uppdateringar fungerar inte
+
+>[!NOTE]
+>
+>Problemet korrigerades den 18 november 2024.
 
 När en användare försöker visa widgeten Mina uppdateringar i Hem visas inte widgeten och användaren ser följande meddelande:
 

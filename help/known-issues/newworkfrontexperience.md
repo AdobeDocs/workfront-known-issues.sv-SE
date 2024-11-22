@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 77345937934851b8ebfdf257f44e25133eade971
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '1081'
+source-wordcount: '1056'
 ht-degree: 0%
 
 ---
@@ -34,11 +34,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | [Workfront: Contributor-användare har inte åtkomst till Program eller Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 13 november 2024 |
 | [Godkännanden: Filtret Alla utesluter personligt inskickade godkännanden](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | 13 november 2024 |
 | [Uppgifter: Felaktig varaktighet för förflutna dagar för överordnade aktiviteter med underordnade ](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 13 november 2024 |
-| [Rapporter: Massredigering i diagramlistor svarar inte](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 13 november 2024 |
 | [Workfront: Det går inte att läsa in öppna webbläsarflikar](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 november 2024 |
 | [Layoutmallar: Anpassade datafält visas inte när de läggs till i uppgiftssammanfattning via layoutmall](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 november 2024 |
-| [Hem: Widgeten Mina uppdateringar fungerar inte](known-issues-workfront/wf-home-my-updates-not-working.md) | 4 november 2024 |
-| [Dokument: Knappen Alternativ för godkännande saknas i dokument](known-issues-workfront/wf-documents-missing-approval-button.md) | 4 november 2024 |
 | [Workfront Mobile: Korrektur för e-postlänkar öppnas inte i iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 oktober 2024 |
 | [API: API-anrop misslyckas på grund av SQL-fel](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 september 2024 |
 | [Kort: Kortstatusen matchar inte det anslutna objektet och filtret för åsidosättningar](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 3 september 2024 |
@@ -58,8 +55,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 |----------------------------------| ----------------- |
+| [Rapporter: Inläsningstider för långa rapportverktyg](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 november 2024 |
 | [API: begäran om tidsgräns](known-issues-workfront/wf-api-request-timing-out.md) | 24 oktober 2024 |
-| [Korrektur: Det går inte att skapa korrektur i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 22 oktober 2024 |
 | [Projekt: Det går inte att dela projekt på grund av felet &quot;åtkomst till borttagning&quot; ](known-issues-workfront/wf-projects-sharing-access-error.md) | 3 oktober 2024 |
 | [Integrationer: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 24 september 2024 |
 | [Grupper: Borttagen gruppstatus visas igen](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 12 september 2024 |
