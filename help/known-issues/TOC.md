@@ -2,7 +2,7 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 77345937934851b8ebfdf257f44e25133eade971
+source-git-commit: 8bb5041a13374ce5dde6a1db173487f50d049f17
 workflow-type: tm+mt
 source-wordcount: '2038'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
-      + [Workfront: ZScalar-inställningar kan ge sämre prestanda](known-issues-workfront//wf-workfront-zscalar.md)
+      + [Workfront: ZScaler-inställningar kan ge sämre prestanda](known-issues-workfront//wf-workfront-zscaler.md)
       + [Tidrapporter: Deltagare har en&quot;Skicka för godkännande&quot;-knapp](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [Meddelanden: E-postmeddelanden om att uppdateringar inte skickas](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
       + [Anpassade formulär: Det går inte att lägga till aktivitetsfälten &quot;estimeraByHours&quot; eller &quot;hoursPerPoint&quot;](known-issues-workfront/wf-custom-forms-invalid-fields.md)
