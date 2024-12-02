@@ -1,5 +1,5 @@
 ---
-title: 'Bort: Kortet innehåller inte underuppgifter'
+title: 'Kort: Kortet innehåller inte underuppgifter'
 description: När en användare visar ett kort för en uppgift som är en överordnad uppgift, visas inte underuppgifterna för den överordnade uppgiften på kortet. Istället visas 0 underaktiviteter på kortet.
 hidefromtoc: true
 feature: Agile

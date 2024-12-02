@@ -1,5 +1,5 @@
 ---
-title: "Kort: Kort som flyttats till en kolumn återgår till den ursprungliga kolumnen efter uppdatering"
+title: 'Kort: Kort som flyttats till en kolumn återgår till den ursprungliga kolumnen efter uppdatering'
 description: När en användare flyttar ett kort till en annan kolumn och sedan uppdaterar eller återgår till kortet, återgår kortet till sin ursprungliga kolumn.
 hidefromtoc: true
 feature: Agile

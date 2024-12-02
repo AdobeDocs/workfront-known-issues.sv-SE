@@ -1,5 +1,5 @@
 ---
-title: "Korrektur: Rapporten för godkännande av korrektur kan inte fastställa deadlines korrekt"
+title: 'Korrektur: Korrekturgodkännanderapporten kan inte fastställa deadlines korrekt'
 description: När en användare skapar en [!UICONTROL Proof Approval]-rapport som innehåller deadlinedatum för korrektur är de datum som visas i rapporten felaktiga, vilket leder till felrapportering och felaktig information i resultaten.
 exl-id: 1f636a74-9522-4f2b-8e91-4f0facf1cdbc
 hidefromtoc: true

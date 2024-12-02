@@ -1,5 +1,5 @@
 ---
-title: "Workfront Proof: Det går inte att utöka arbetsflödet"
+title: 'Workfront Proof: Det går inte att utöka arbetsflödet'
 description: På sidan  [!DNL ProofHQ] [!UICONTROL Dashboard] kan användare inte utöka korrekturarbetsflödet från listan Korrektur på kontrollpanelssidan. När en användare klickar på knappen Expandera svarar inte knappen.
 hidefromtoc: true
 feature: Digital Content and Documents

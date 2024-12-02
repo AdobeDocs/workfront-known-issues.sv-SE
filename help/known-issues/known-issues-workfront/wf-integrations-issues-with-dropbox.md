@@ -1,5 +1,5 @@
 ---
-title: 'Integrationer: Problem med integrering med Dropbox'
+title: 'Integrering: Problem med integrering med Dropbox'
 description: Det har rapporterats om problem med integreringen av Dropbox.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents

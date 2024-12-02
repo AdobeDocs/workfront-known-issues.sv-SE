@@ -1,6 +1,6 @@
 ---
 title: ' Anpassade formulär: Listrutan stängs när flera värden väljs'
-description: '"När en användare försöker markera flera värden i ett anpassat formulärfält stängs listrutan när det första värdet har valts. '''
+description: 'När en användare försöker markera flera värden i ett anpassat formulärfält stängs listrutan när det första värdet har valts. '
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 0313e7d9-b5b2-4871-a133-da3e78052ab9

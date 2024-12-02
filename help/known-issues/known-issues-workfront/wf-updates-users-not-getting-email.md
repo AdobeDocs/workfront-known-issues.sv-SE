@@ -1,5 +1,5 @@
 ---
-title: 'Uppdateringar: Användare meddelas inte om dirigerade uppdateringar'
+title: 'Uppdateringar: Användarna meddelas inte om dirigerade uppdateringar'
 description: När en användare gör en kommentar och omnämns eller taggar en annan användare får den taggade användaren inget e-postmeddelande eller något meddelande i appen om kommentaren.
 hidefromtoc: true
 feature: Updates and Notifications

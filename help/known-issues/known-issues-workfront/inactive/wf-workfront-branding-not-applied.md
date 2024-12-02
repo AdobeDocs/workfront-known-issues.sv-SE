@@ -1,5 +1,5 @@
 ---
-title: "Workfront: Varumärket används inte"
+title: 'Workfront: Varumärket används inte'
 description: När en användare överför filer till området Varumärke i installationsprogrammet verkar filerna överföras korrekt. Om en användare däremot visar huvudmenyn visas inte logotypen. I stället visas ett felmeddelande.
 hidefromtoc: true
 feature: System Setup and Administration

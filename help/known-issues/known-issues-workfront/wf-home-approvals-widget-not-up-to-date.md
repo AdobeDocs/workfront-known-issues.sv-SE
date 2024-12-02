@@ -1,5 +1,5 @@
 ---
-title: 'Hem: Widgeten Godkännanden är felaktig'
+title: 'Hem: Widgeten Godkännanden är inte korrekt'
 description: Widgeten Väntar på mina godkännanden i den nya hemupplevelsen visar inte godkännandena korrekt.
 hidefromtoc: true
 feature: Digital Content and Documents

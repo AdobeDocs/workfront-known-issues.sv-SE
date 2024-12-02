@@ -1,5 +1,5 @@
 ---
-title: 'Användare: Det går inte att återaktivera användare'
+title: 'Användare: Kan inte återaktivera användare'
 description: När en användare försöker återaktivera en användare med alternativet Återaktivera användare på menyn Mer kan användaren välja en åtkomstnivå, men ändringen sparas inte. Användaren ser i stället ett fel. Det finns en lösning.
 hidefromtoc: true
 feature: People Teams and Groups

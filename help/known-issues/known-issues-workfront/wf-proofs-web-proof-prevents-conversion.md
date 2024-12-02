@@ -1,5 +1,5 @@
 ---
-title: "Korrektur: Korrektur förhindrar konvertering av uppgift eller utleverans till projekt"
+title: 'Korrektur: Korrektur förhindrar konvertering av uppgift eller utleverans till projekt'
 description: När en användare försöker konvertera en uppgift eller ett problem som innehåller ett webbgenererat korrektur till ett projekt, skapas inte projektet och användaren ser ett meddelande. Det finns en lösning.
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management

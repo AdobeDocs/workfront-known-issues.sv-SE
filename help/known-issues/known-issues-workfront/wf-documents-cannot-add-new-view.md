@@ -1,6 +1,6 @@
 ---
 title: Kan inte skapa vy för dokumentlista
-description: '"När en användare försöker skapa en ny vy i en dokumentlista, blir skärmen tom och användaren kan inte skapa vyn. '''
+description: 'När en användare försöker skapa en ny vy i en dokumentlista, blir skärmen tom och användaren kan inte skapa vyn. '
 hidefromtoc: true
 feature: Digital Content and Documents, Work Management
 exl-id: 19fe57f9-fea3-48da-8c82-51e2991958d7

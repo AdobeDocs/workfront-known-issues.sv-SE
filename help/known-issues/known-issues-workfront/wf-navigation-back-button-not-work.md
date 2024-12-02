@@ -1,5 +1,5 @@
 ---
-title: 'Navigering: Tillbaka-knappen går inte tillbaka till föregående sida'
+title: 'Navigering: Bakåtknappen går inte tillbaka till föregående sida'
 description: När en användare i Workfront klickar på knappen Bakåt i webbläsaren fungerar den inte som förväntat.
 hidefromtoc: true
 feature: Get Started with Workfront

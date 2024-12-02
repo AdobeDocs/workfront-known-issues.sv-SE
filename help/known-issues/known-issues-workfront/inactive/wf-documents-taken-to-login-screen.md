@@ -1,5 +1,5 @@
 ---
-title: "Dokument: Alternativ för språkaktiviteter leder till inloggningssida"
+title: 'Dokument: Alternativ för språkverifieringsaktiviteter leder till inloggningssida'
 description: När en användare visar sidan Dokumentinformation och klickar på ett alternativ på menyn Korrekturaktiviteter dirigeras användaren till en inloggningssida i stället för till den avsedda målsidan.
 hidefromtoc: true
 feature: Digital Content and Documents

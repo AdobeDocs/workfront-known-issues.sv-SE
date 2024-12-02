@@ -1,5 +1,5 @@
 ---
-title: "Team: Det går inte att visa teamägare eller ta bort team"
+title: 'Team: Det går inte att visa teamets ägare eller ta bort team'
 description: De här åtgärderna är inte tillgängliga för gruppadministratörer.
 hidefromtoc: true
 feature: People Teams and Groups

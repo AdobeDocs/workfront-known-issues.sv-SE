@@ -1,5 +1,5 @@
 ---
-title: 'Hem: Det går inte att ta bort widgeten Mentions'
+title: 'Hem: Det går inte att ta bort widgeten Menyer'
 description: Om en användare i det nya Hem vill ta bort widgeten Mentions kan de inte ta bort den.
 hidefromtoc: true
 feature: Get Started with Workfront

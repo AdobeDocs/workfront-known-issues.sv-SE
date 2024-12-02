@@ -1,15 +1,15 @@
 ---
-title: "Uppgifter: Att söka efter förnamn i aktivitetstilldelning returnerar inte användare"
-description: "När en användare gör en uppgiftstilldelning och försöker söka efter den som tilldelats uppgiften efter förnamn, returnerar sökningen inga användare och användaren ser meddelandet Inga resultat hittades. Det finns en lösning."
+title: 'Uppgifter: Att söka efter förnamn i aktivitetstilldelning returnerar inte användare'
+description: När en användare gör en uppgiftstilldelning och försöker söka efter den som tilldelats uppgiften efter förnamn, returnerar sökningen inga användare och användaren ser meddelandet Inga resultat hittades. Det finns en lösning.
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
-source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
+exl-id: 0c31d1e4-7025-45a7-96ed-a7f9a4447eca
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
-
 
 # Uppgifter: Att söka efter förnamn i aktivitetstilldelning returnerar inte användare
 

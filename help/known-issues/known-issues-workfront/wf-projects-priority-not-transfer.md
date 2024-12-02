@@ -1,5 +1,5 @@
 ---
-title: "Projekt: Projekt som skapats från ett ärende med en mall återspeglar inte prioritetsuppsättningen i mallen"
+title: 'Projekt: Projekt som skapats från ett ärende med en mall återspeglar inte prioritetsuppsättningen i mallen'
 description: När en användare konverterar ett problem till ett projekt med hjälp av en mall matchar prioriteten i det nyligen skapade projektet inte den prioritet som angetts i mallen.
 hidefromtoc: true
 feature: Projects

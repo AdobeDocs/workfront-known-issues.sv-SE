@@ -1,5 +1,5 @@
 ---
-title: "Workfront Fusion: Duplicera projekt som skapats från en enda modul"
+title: 'Workfront Fusion: Duplicera projekt som skapats från en enda modul'
 description: När en Skapa projekt-modul används vid en scenariokörning skapas två identiska projekt. Detta kan skapa förvirring när du använder projekt i Workfront.
 hidefromtoc: true
 feature: Workfront Fusion

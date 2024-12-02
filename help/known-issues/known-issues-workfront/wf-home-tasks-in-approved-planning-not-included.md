@@ -1,5 +1,5 @@
 ---
-title: 'Hem: Uppgifter i projekt med statusen Godkänd eller Planering ingår inte i Mina uppgifter eller Arbetslista för Hem'
+title: 'Hem: Uppgifter i projekt med statusen Godkänd eller Planering ingår inte i Mina uppgifter eller Hemarbetslista'
 description: Aktiviteter från projekt som har statusen Godkänd eller Planering visas inte i Hem. Det finns en lösning.
 hidefromtoc: true
 feature: Get Started with Workfront

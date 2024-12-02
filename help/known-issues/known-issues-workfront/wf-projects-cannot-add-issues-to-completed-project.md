@@ -1,15 +1,15 @@
 ---
-title: "Projekt: Det går inte att lägga till problem i det färdiga projektet"
-description: "När en användare försöker lägga till ett problem i ett projekt med statusen Fullständigt kan användaren inte lägga till problemet. Detta kan inträffa även om alternativet Lägg till och redigera problem är aktiverat."
+title: 'Projekt: Det går inte att lägga till problem i det färdiga projektet'
+description: När en användare försöker lägga till ett problem i ett projekt med statusen Fullständigt kan användaren inte lägga till problemet. Detta kan inträffa även om alternativet Lägg till och redigera problem är aktiverat.
 hidefromtoc: true
 feature: Projects, Work Management
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+exl-id: 5eb027a4-5c06-4e73-abc5-f12d5b36e49e
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Projekt: Det går inte att lägga till problem i det färdiga projektet
 

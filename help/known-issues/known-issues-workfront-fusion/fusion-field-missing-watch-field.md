@@ -1,5 +1,5 @@
 ---
-title: "Workfront Fusion: Fältet saknas i modulen"
+title: 'Workfront Fusion: Fältet saknas i modulen'
 description: När en användare konfigurerar en modul i Workfront Fusion kan det hända att ett fält saknas bland de tillgängliga alternativen. Detta kan inträffa när en användare uppdaterar sina anpassade fält och har använt scenariodesignern inom den senaste timmen.
 hidefromtoc: true
 feature: Workfront Fusion

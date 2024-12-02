@@ -1,5 +1,5 @@
 ---
-title: "Workfront Fusion: Webkrok-kön bearbetas inte"
+title: 'Workfront Fusion: Webkrokkön bearbetas inte'
 description: När en händelse inträffar som bör utlösa ett webkrosscenario i Workfront Fusion, körs inte scenariot och händelsen finns kvar i webbkrokens kö.
 hidefromtoc: true
 feature: Workfront Fusion

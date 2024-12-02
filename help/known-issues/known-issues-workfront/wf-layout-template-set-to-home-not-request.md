@@ -1,5 +1,5 @@
 ---
-title: 'Layoutmall: Landningssidan är felaktig'
+title: 'Layoutmall: Startsidan är felaktig'
 description: När en användare som har en begärande licens tilldelas en layoutmall som har sidan med förfrågningar inställd som landningssida dirigeras användaren i stället till startsidan som sin startsida.
 hidefromtoc: true
 feature: System Setup and Administration

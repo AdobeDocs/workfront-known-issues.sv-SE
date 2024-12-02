@@ -1,5 +1,5 @@
 ---
-title: 'Korrektur: Om du klickar på korrekturnamnet visas inget på skärmen'
+title: 'Korrektur: Om du klickar på korrekturnamnet visas inget'
 description: När en användare i visningsprogrammet för webbkorrektur klickar på ett korrekturnamn för att öppna korrekturet, visas de på en tom skärm i stället för som korrektur.
 hidefromtoc: true
 feature: Digital Content and Documents

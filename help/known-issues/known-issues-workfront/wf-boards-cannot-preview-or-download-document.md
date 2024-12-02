@@ -1,5 +1,5 @@
 ---
-title: 'Böcker: Det går inte att förhandsgranska eller hämta dokument från kortet'
+title: 'Styrelser: Det går inte att förhandsgranska eller hämta dokument från kortet'
 description: Word-dokument (.docx) kan inte förhandsgranskas eller laddas ned från dokumentavsnittet i den detaljerade kortvyn.
 hidefromtoc: true
 feature: Agile

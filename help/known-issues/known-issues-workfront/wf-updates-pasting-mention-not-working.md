@@ -1,5 +1,5 @@
 ---
-title: "Uppdateringar: Om du kopierar och klistrar in ett omnämnande visas inget meddelande för den angivna användaren"
+title: 'Uppdateringar: När du kopierar och klistrar in ett omnämnande visas inget meddelande till den angivna användaren'
 description: När en användare kopierar en kommentar som innehåller ett omnämnande i @-format och sedan klistrar in kommentaren i uppdateringsområdet för ett annat objekt, meddelas inte den aktuella användaren om den inklistrade kommentaren.
 hidefromtoc: true
 feature: Updates and Notifications

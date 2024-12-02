@@ -1,15 +1,15 @@
 ---
-title: "Workfront Fusion: Problem med datalagring"
-description: "Följande problem har rapporterats när det gäller booleska fält i datalager: datalager returnerar inget värde för fält som har värdet EMPTY, och användare kan inte ange värden som FALSE direkt i datalagret."
+title: 'Workfront Fusion: Problem med datalagring'
+description: 'Följande problem har rapporterats för booleska fält i datalager: datalager returnerar inget värde för fält som har värdet EMPTY, och användare kan inte ange värden som FALSE direkt i datalagret.'
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+exl-id: 1e0c807c-dab0-46ab-bdfa-f0a99f5db986
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Fusion: Problem med datalagring
 

@@ -1,5 +1,5 @@
 ---
-title: 'Logga in som: Hem och punkter visas felaktigt när du loggar ut ur Logga in som'
+title: 'Logga in som: Hem och punkter visas felaktigt när du loggar ut från Logga in som'
 description: När en användare som är inloggad som en annan användare loggar ut som den användaren ser de följande problemen på hemskärmen.
 hidefromtoc: true
 feature: System Setup and Administration, Get Started with Workfront

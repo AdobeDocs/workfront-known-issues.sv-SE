@@ -1,5 +1,5 @@
 ---
-title: 'Status: Kan inte återanvända tidigare borttagen status'
+title: 'Status: Det går inte att återanvända tidigare borttagen status'
 description: När en användare försöker skapa en status med samma statusnyckel som en tidigare borttagen status, skapas inte statusen och användaren ser ett meddelande.
 hidefromtoc: true
 feature: Work Management, Projects, Tasks

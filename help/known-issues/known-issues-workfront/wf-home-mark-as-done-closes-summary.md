@@ -1,15 +1,15 @@
 ---
-title: "Hem: Markera som färdig stänger sammanfattningsrutan för widgeten Mina problem"
-description: "När du försöker använda knappen Markera som färdig i sammanfattningsrutan för ett problem som har öppnats via widgeten Mina problem stängs sammanfattningsrutan oväntat."
+title: 'Hem: Markera som klar stänger sammanfattningsrutan för widgeten Mina problem'
+description: När du försöker använda knappen Markera som färdig i sammanfattningsrutan för ett problem som har öppnats via widgeten Mina problem stängs sammanfattningsrutan oväntat.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+exl-id: 3df55091-6285-4a15-9436-80fa08839acf
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # Hem:&quot;Markera som färdig&quot; stänger sammanfattningsrutan för widgeten Mina problem
 

@@ -1,5 +1,5 @@
 ---
-title: 'Bards: Fel vid inläsning av bräde'
+title: 'Skärmar: Fel vid inläsning av anslagstavla'
 description: När en användare försöker läsa in en anslagstavla, läses inte anslagstavlan in och användaren ser ett felmeddelande.
 hidefromtoc: true
 feature: Agile

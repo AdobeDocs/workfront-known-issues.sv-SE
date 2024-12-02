@@ -1,15 +1,15 @@
 ---
-title: "Workfront Fusion: Börja från och med nu när alla data bearbetas"
-description: "Om en användare återställer scenariot till en tidigare version försöker användaren sedan bearbeta alla data oavsett datum, i stället för att bara inkludera data efter att startalternativet har valts, när han eller hon har valt Från och med nu som Välj när du ska börja ställa in ett scenario."
+title: 'Workfront Fusion: Börja från och med nu när alla data bearbetas'
+description: När du har valt Från och med nu som inställningen Välj när du ska börja ställa in för ett scenario, och en användare återställer scenariot till en tidigare version, kommer han/hon att försöka bearbeta alla data oavsett datum i stället för att bara inkludera data efter att startalternativet har valts.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+exl-id: 498c7487-a828-4ed1-a38d-26c89d2a70dc
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Fusion: Börja med att ange&quot;Från och med nu&quot; för att bearbeta alla data
 

@@ -1,5 +1,5 @@
 ---
-title: 'Dokument: Korrekturkommentarer visas inte vid dokumentuppdateringar'
+title: 'Dokument: Korrekturkommentarer visas inte i dokumentuppdateringar'
 description: När en användare kommenterar ett korrektur kopieras den kommentaren inte till korrekturets dokumentuppdateringsområde i Workfront.
 hidefromtoc: true
 feature: Digital Content and Documents, Updates and Notifications

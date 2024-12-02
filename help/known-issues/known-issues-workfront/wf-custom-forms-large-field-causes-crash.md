@@ -1,15 +1,15 @@
 ---
-title: "Anpassade formulär: Det går inte att redigera fält på fältlistsidan"
-description: "När en användare försöker redigera ett stort fält på fältlistsidan kraschar sidan med ett fel. Det finns en lösning."
+title: 'Anpassade formulär: Det går inte att redigera fält på fältlistsidan'
+description: När en användare försöker redigera ett stort fält på fältlistsidan kraschar sidan med ett fel. Det finns en lösning.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 2531eb3fd75a0f6c9b26780f521c61b2be464e83
+exl-id: 40c19c34-c8bb-4fa2-b7c3-ef617361c7be
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # Anpassade formulär: Det går inte att redigera fält på fältlistsidan
 

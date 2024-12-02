@@ -3,7 +3,8 @@ title: 'Layoutmallar: Administratörer kan inte redigera startlayoutmallar'
 description: När en administratör försöker redigera en hemlayoutmall för en användare, svarar inte gränssnittet och ändringarna kan inte sparas.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+exl-id: c044ba60-b69d-454d-934e-aeb104b91e4d
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

@@ -1,5 +1,5 @@
 ---
-title: "Uppdateringar: Användare med taggar kan inte se vem som taggat dem"
+title: 'Uppdateringar: Användare med taggar kan inte se vem som taggat dem'
 description: När en användare är taggad i en uppdatering kan de inte se vem som taggat dem. Detta inträffar när inställningen Personer i andra företag endast ska visa användare från ... anges till deras företag.
 hidefromtoc: true
 feature: Updates and Notifications

@@ -1,6 +1,6 @@
 ---
-title: "Workfront Proof: 500 fel vid åtkomst till Workfront Proof via API eller Workfront Fusion"
-description: '"När en användare kommer åt åtgärden getAllProofs i API:t för Korrektur returnerar Workfront Proof-servern meddelandet: 500 Internal Server Error'
+title: 'Workfront Proof: 500 fel vid åtkomst till Workfront Proof via API eller Workfront Fusion'
+description: 'När en användare kommer åt åtgärden getAllProofs i API:t för Korrektur returnerar Workfront Proof-servern meddelandet: 500 Internal Server Error'
 hidefromtoc: true
 feature: Workfront Proof
 exl-id: 3c968354-58e2-43fc-8c27-2670683ac862

@@ -1,5 +1,5 @@
 ---
-title: "Kontrollpanel: stor tom marginal vid utskrift av instrumentpanel till PDF"
+title: 'Kontrollpanel: stor tom marginal vid utskrift av instrumentpanel till PDF'
 description: När en användare skriver ut en kontrollpanel till PDF med liggande orientering visas en stor tom marginal till höger på PDF.
 hidefromtoc: true
 feature: Reports and Dashboards

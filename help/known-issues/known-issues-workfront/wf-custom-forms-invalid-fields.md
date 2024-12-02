@@ -1,9 +1,10 @@
 ---
-title: '''Anpassade formulär: Det går inte att lägga till aktivitetsfälten "estimeraEfterHours" eller "hoursPerPoint"'
-description: '"När en användare försöker lägga till fälten "estimeraByHours" eller "hoursPerPoint" i ett anpassat formulär i formulärbyggaren visas ett felmeddelande: "Detta är ett ogiltigt anpassat uttryck, försök igen."'
+title: 'Anpassade formulär: Det går inte att lägga till aktivitetsfälten "estimeraByHours" eller "hoursPerPoint"'
+description: 'När en användare försöker lägga till fälten "estimeraByHours" eller "hoursPerPoint" i ett anpassat formulär i formulärbyggaren visas ett felmeddelande: "Detta är ett ogiltigt anpassat uttryck, försök igen."'
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+exl-id: 018ad614-9ba8-43bf-8c0e-f90cd322e6ee
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%

@@ -1,5 +1,5 @@
 ---
-title: "Uppdateringar: Begärande användare kan inte lägga till bilder i uppdateringar"
+title: 'Uppdateringar: Begärande användare kan inte lägga till bilder i uppdateringar'
 description: När en användare som har en beställarlicens visar uppdateringsområdet och försöker lägga till en bild, saknas ikonen för att lägga till en bild och alternativet att lägga till en bild är inte tillgängligt för användaren.
 hidefromtoc: true
 feature: Updates and Notifications

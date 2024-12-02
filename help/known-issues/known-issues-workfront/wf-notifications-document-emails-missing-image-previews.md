@@ -3,7 +3,8 @@ title: 'Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden'
 description: När en användare visar ett e-postmeddelande om ett dokumentgodkännande visas inte dokumentminiatyrbilden i e-postmeddelandet.
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+exl-id: 9b733328-e05f-4a28-b8eb-da83d68ac68c
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%

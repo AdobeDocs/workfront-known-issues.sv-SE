@@ -1,5 +1,5 @@
 ---
-title: "Workfront: ZScaler-inställningar kan ge sämre prestanda"
+title: 'Workfront: ZScaler-inställningar kan ge sämre prestanda'
 description: ZScalers webbtjänst använder http/1.1 som standard, vilket kan ge sämre prestanda i Workfront.
 hidefromtoc: true
 feature: System Setup and Administration

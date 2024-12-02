@@ -1,5 +1,5 @@
 ---
-title: "E-postmeddelanden: Jag har tilldelats en probleminställning som visas"
+title: 'E-postmeddelanden: Jag har tilldelats en probleminställning som visas'
 description: I området [!UICONTROL Setup] visas inställningen E-postmeddelanden om att jag har tilldelats ett problem för användare med licens för granskning och begäran. Den här inställningen är inte tillgänglig för de här licenstyperna och aktivering av inställningen utlöser inte e-postmeddelanden för den här händelsen.
 feature: Updates and Notifications
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950

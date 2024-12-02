@@ -1,5 +1,5 @@
 ---
-title: "Kontrollpaneler: Rapportdiagram som visas på en kontrollpanel har andra färger än de som visas i rapporten"
+title: 'Kontrollpaneler: Rapportdiagram som visas på en kontrollpanel har andra färger än de som visas i rapporten'
 description: När en användare visar ett rapportdiagram på en kontrollpanel, skiljer sig de färger som används från när användaren visar själva rapporten. Detta kan orsaka förvirring om användaren förväntar sig att en viss färg ska ha en viss betydelse.
 exl-id: cfd8b018-c0d9-447a-b318-42938bd82edd
 feature: Reports and Dashboards

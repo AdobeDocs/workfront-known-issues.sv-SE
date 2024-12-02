@@ -1,5 +1,5 @@
 ---
-title: 'Agile: Artikelbordet blir tomt när en underuppgift läggs till'
+title: 'Agile: Artikelbordet blir tomt när du lägger till en underaktivitet'
 description: När en användare försöker lägga till en underaktivitet på en artikelanslagstavla medan ett filter är markerat, blir skärmen tom och användaren kan inte lägga till underaktiviteten.
 hidefromtoc: true
 feature: Agile

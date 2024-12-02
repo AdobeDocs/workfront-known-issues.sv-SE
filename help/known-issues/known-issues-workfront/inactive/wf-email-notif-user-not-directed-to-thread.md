@@ -1,5 +1,5 @@
 ---
-title: "E-postmeddelanden: Användaren är inte dirigerad till kommentarstråden"
+title: 'E-postmeddelanden: Användaren är inte dirigerad till kommentarstråden'
 description: När en användare klickar på kommentarlänken i ett e-postmeddelande dirigeras de till den övre delen av området [!UICONTROL Updates] i stället för till den kommentarstråd som de försöker svara på.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 feature: Updates and Notifications

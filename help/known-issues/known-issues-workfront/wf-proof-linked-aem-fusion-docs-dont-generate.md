@@ -1,5 +1,5 @@
 ---
-title: "Korrektur: Skapa korrektur misslyckas för dokument som länkas från AEM via Fusion"
+title: 'Korrektur: Skapa korrektur misslyckas för dokument som länkas från AEM via Fusion'
 description: När man försöker konvertera ett dokument till ett korrektur som har länkats till Workfront från AEM med Fusion, fastnar processen och korrekturet genereras aldrig.
 hidefromtoc: true
 feature: Digital Content and Documents, Workfront Fusion

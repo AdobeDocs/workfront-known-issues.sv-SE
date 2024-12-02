@@ -1,5 +1,5 @@
 ---
-title: 'Brevkort: Bården visas inte som användare när du använder Logga in som'
+title: 'Styrelser: Kortet visas inte som användare när du använder Logga in som'
 description: När en administratör eller gruppadministratör loggar in som en annan användare och visar anslagstavlor är de anslagstavlor som visas administratörens styrelser, inte användarens styrelser.
 hidefromtoc: true
 feature: Agile

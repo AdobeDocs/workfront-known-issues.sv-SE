@@ -1,5 +1,5 @@
 ---
-title: "Korrektur: Korrektur visas inte i godkända rapporter"
+title: 'Korrektur: Korrektur visas inte i rapporter som godkända'
 description: När en användare visar en rapport som innehåller bevis för godkännandebeslut, visar rapporten inte det godkända beslutet för alla godkända korrektur. När användaren tittar på själva korrekturet kan han eller hon se att det har godkänts.
 hidefromtoc: true
 feature: Digital Content and Documents

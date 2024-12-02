@@ -1,5 +1,5 @@
 ---
-title: 'Kalendrar: ELLER filterinstruktion exklusive filterregel'
+title: 'Kalendrar: OR-filtersats exklusive filterregel'
 description: När en användare ställer in en kalenderrapport att hämta in uppgifter baserat på ett anpassat fältval och lägger till en OR-sats, utesluts objekt som uppfyller villkoren från filterregeln i det första avsnittet från resultatet.
 exl-id: d08d0a53-28c0-48bb-be89-701900b0f221
 feature: Reports and Dashboards

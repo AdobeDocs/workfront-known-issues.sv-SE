@@ -1,5 +1,5 @@
 ---
-title: "Mobil: Det går inte att logga ut och saknar användarprofilinformation"
+title: 'Mobil: Det går inte att logga ut och saknar användarprofilinformation'
 description: Utloggningsalternativet i mobilprogrammet tillåter inte att vissa användare loggar ut. Användarprofilsidorna är också tomma och genererar ett felmeddelande.
 hidefromtoc: true
 feature: Get Started with Workfront

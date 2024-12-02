@@ -1,5 +1,5 @@
 ---
-title: 'Fältet för korrektur: [!UICONTROL Active Proof Stages] är tomt'
+title: 'Korrektur: fältet [!UICONTROL Active Proof Stages] är tomt'
 description: När en användare skapar ett korrektur och sedan visar det korrekturet i en rapport, t.ex. en [!UICONTROL Document Version]- eller [!UICONTROL Proof Approval]-rapport, ser de att fältet [!UICONTROL Active Proof Stages] är tomt. Detta inträffar när korrekturet skapas efter att dokumentet har överförts, antingen som [!UICONTROL Simple Proof] eller som en [!UICONTROL Advanced Proof] med en [!UICONTROL Basic Workflow].
 feature: Digital Content and Documents
 hidefromtoc: true

@@ -1,5 +1,5 @@
 ---
-title: "Kort: Kortstatusen matchar inte filtret för anslutna objekt och förbipasserande"
+title: 'Kort: Kortstatus matchar inte anslutet objekt och bypasfilter'
 description: Kort i en dynamiskt kartongs inmatningskolumn visar felaktig statusinformation och filtrerar inte korrekt baserat på deras status.
 hidefromtoc: true
 feature: Agile

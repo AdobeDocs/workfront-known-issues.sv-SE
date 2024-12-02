@@ -1,5 +1,5 @@
 ---
-title: 'Rapporter: Långa inläsningstider för Report builder'
+title: 'Rapporter: Långa inläsningstider för Report Builder'
 description: Rapportbyggaren tar längre tid att läsa in, i vissa fall upp till en minut.
 hidefromtoc: true
 feature: Reports and Dashboards

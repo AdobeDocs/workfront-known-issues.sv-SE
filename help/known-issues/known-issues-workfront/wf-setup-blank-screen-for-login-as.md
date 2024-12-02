@@ -1,15 +1,15 @@
 ---
-title: "Inställningar: Logga in som leder till tom skärm"
-description: "När en administratör loggar in som en annan användare visas en tom skärm i stället för att användarens konto visas."
+title: 'Inställningar: Logga in som leder till tom skärm'
+description: När en administratör loggar in som en annan användare visas en tom skärm i stället för att användarens konto visas.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
+exl-id: 53068b8c-b5f8-45b1-8e03-43c7a7a51eef
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
 
 ---
-
 
 # Inställningar: Inloggning som leder till en tom skärm
 

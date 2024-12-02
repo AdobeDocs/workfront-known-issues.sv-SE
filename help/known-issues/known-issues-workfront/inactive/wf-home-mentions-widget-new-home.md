@@ -1,5 +1,5 @@
 ---
-title: 'Hem: Widgeten Mentions i nya Hem är inte begränsad till meddelanden där användaren är taggad.'
+title: 'Hem: Widgeten Meningar i nya Hem är inte begränsad till meddelanden där användaren är taggad.'
 description: När en användare visar widgeten Mentions i den nya hemupplevelsen ser de kommentarer som de inte är taggade eller omnämnda i.
 hidefromtoc: true
 feature: Get Started with Workfront

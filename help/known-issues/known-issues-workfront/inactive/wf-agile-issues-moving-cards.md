@@ -1,5 +1,5 @@
 ---
-title: "Agile: Problem vid förflyttning av kort på Agile board"
+title: 'Agile: Problem vid förflyttning av kort på Agile-tavlan'
 description: Olika problem har rapporterats när man flyttar kort på Agile board.
 exl-id: ef347a24-efe6-4b11-b108-4db540005604
 feature: Agile

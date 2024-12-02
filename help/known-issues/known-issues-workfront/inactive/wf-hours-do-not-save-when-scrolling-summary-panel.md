@@ -1,6 +1,6 @@
 ---
 title: 'Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]'
-description: "När en användare försöker ange timmar för en uppgift i sammanfattningspanelen sparas inte timmarna. Detta inträffar när användaren lämnar markören i rutan där han/hon angav timmar och rullar [!UICONTROL Summary panel].   "
+description: 'När en användare försöker ange timmar för en uppgift i sammanfattningspanelen sparas inte timmarna. Detta inträffar när användaren lämnar markören i rutan där han/hon angav timmar och rullar [!UICONTROL Summary panel].   '
 hidefromtoc: true
 feature: Tasks, Timesheets
 exl-id: edf5ea1f-a75f-4df4-987a-53d2d3563579

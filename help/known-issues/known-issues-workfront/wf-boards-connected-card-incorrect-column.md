@@ -1,5 +1,5 @@
 ---
-title: "Tavlor: Det anslutna kortet är i fel kolumn"
+title: 'Kort: Anslutet kort är i fel kolumn'
 description: Problem med anslutna kort har rapporterats i fel kolumn.
 hidefromtoc: true
 feature: Agile

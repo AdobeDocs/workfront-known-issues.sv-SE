@@ -1,6 +1,6 @@
 ---
-title: 'Korrektur: Om du öppnar ett korrektur öppnas flera kopior'
-description: '"När en användare öppnar ett korrektur öppnas två webbläsarflikar med samma korrektur. '''
+title: 'korrektur: Om du öppnar ett korrektur öppnas flera kopior'
+description: 'När en användare öppnar ett korrektur öppnas två webbläsarflikar med samma korrektur. '
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c09e199c-0b72-4791-930c-eed14dd2ffbf

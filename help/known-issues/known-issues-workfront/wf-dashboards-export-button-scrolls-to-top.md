@@ -1,5 +1,5 @@
 ---
-title: 'Kontrollpaneler: Om du väljer knappen Exportera i en rapport rullas den till början av sidan'
+title: 'Kontrollpaneler: Om du väljer Exportera-knappen i en rapport rullas den överst på sidan'
 description: När du klickar på knappen Exportera för en rapport på en kontrollpanel, rullas fönstret till sidans överkant och kräver att du rullar nedåt för att hitta den öppna menyn för exportalternativ.
 hidefromtoc: true
 feature: Reports and Dashboards

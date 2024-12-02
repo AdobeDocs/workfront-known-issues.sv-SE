@@ -1,5 +1,5 @@
 ---
-title: 'Konfigurera: Det går inte att använda [!UICONTROL Kick-Starts] för att konfigurera grupperingar'
+title: 'Inställningar: Det går inte att använda [!UICONTROL Kick-Starts] för att konfigurera grupperingar'
 description: När en användare försöker [!UICONTROL Kick-Start] en gruppering misslyckas importen och användaren ser ett felmeddelande.
 hidefromtoc: true
 feature: System Setup and Administration

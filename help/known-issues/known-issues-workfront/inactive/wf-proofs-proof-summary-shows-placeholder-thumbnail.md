@@ -1,5 +1,5 @@
 ---
-title: 'Korrektur: [!UICONTROL Print summary] visar inte bildminiatyr'
+title: 'Korrektur: [!UICONTROL Print summary] visar inte miniatyrbilder'
 description: När en användare tittar på sidan [!UICONTROL Print summary] för ett korrektur i  [!DNL Workfront] visas inte korrekturets miniatyrbild. I stället visas en enkel platshållarbild.
 hidefromtoc: true
 exl-id: e3ad759d-59a2-4c2b-b4a1-14a75c9d85d2

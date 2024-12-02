@@ -1,6 +1,6 @@
 ---
 title: 'Rapporter: Offentliga länkar till en rapport fungerar inte'
-description: '"När en användare klickar på en offentlig länk till en rapport visas ett fel. Det specifika felet beror på vilken webbläsare användaren använder. '''
+description: 'När en användare klickar på en offentlig länk till en rapport visas ett fel. Det specifika felet beror på vilken webbläsare användaren använder. '
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 12fe08b3-1aa5-442e-ab23-ecc6d491359c

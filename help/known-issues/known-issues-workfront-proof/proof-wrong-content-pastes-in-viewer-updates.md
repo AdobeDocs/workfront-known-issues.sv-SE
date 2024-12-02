@@ -1,9 +1,10 @@
 ---
-title: "Workfront Proof: Innehållet klistras in felaktigt i uppdateringsavsnittet i Desktop Proofing Viewer"
-description: "När du försöker klistra in innehåll i uppdateringsavsnittet för ett korrektur i Desktop Proofing Viewer matchar inte innehållet det som kopierades i Urklipp."
+title: 'Workfront Proof: Innehållet klistras in felaktigt i uppdateringsavsnittet i Desktop Proofing Viewer'
+description: När du försöker klistra in innehåll i uppdateringsavsnittet för ett korrektur i Desktop Proofing Viewer matchar inte innehållet det som kopierades i Urklipp.
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+exl-id: 9469129d-3502-45f2-9efb-afe9d78a9ac7
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%

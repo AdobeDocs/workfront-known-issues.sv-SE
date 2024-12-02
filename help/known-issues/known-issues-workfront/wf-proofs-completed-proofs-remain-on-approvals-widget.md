@@ -1,5 +1,5 @@
 ---
-title: 'Korrektur: Slutförda korrektur finns kvar i Väntar på min widget för godkännande'
+title: 'Korrektur: Slutförda korrektur finns kvar på widgeten Väntar på godkännande'
 description: När en användare har fattat ett beslut om ett korrektur finns det inget bevis kvar på [!UICONTROL Awaiting My Approval]-widgeten på användarsidan [!UICONTROL Home] i den nya hemupplevelsen.
 hidefromtoc: true
 feature: Digital Content and Documents

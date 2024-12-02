@@ -1,5 +1,5 @@
 ---
-title: 'Korrektur: Godkända korrektur visas i rapporter'
+title: 'korrektur: Godkända korrektur visas i rapporter'
 description: När en användare visar en rapport för godkännande av korrektur kan vissa godkända korrektur visas i rapporten. Detta kan inträffa även om rapporten filtreras så att endast korrektur som väntar på godkännande visas.
 hidefromtoc: true
 feature: Digital Content and Documents, Reports and Dashboards

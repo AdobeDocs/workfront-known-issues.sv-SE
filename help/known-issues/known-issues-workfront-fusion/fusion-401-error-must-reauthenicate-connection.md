@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Workfront Fusion]: Det gick inte att verifiera anslutningsfelet'
-description: "Workfront Fusion-anslutningar till ett Workfront-konto kan misslyckas med autentiseringen, vilket kan orsaka följande fel: Det gick inte att verifiera anslutningen."
+description: 'Workfront Fusion-anslutningar till ett Workfront-konto kan misslyckas med autentiseringen, vilket kan orsaka följande fel: Det gick inte att verifiera anslutningen.'
 hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 feature: Workfront Fusion

@@ -1,5 +1,5 @@
 ---
-title: "Workfront Proof: Instrumentpanelsdata är inte alltid korrekta"
+title: 'Workfront Proof: Instrumentpanelsdata är inte alltid korrekta'
 description: De data som visas i kontrollpanelens område i korrektur visar inte alltid den senaste informationen. Vi rekommenderar att du skapar en anpassad vy och använder den för att få den senaste informationen om dina data.
 hidefromtoc: true
 feature: Workfront Proof

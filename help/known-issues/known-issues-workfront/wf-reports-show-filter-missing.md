@@ -1,15 +1,15 @@
 ---
-title: "Rapporter: alternativet Visa filter/Dölj filter saknas"
-description: "När en användare visar en rapport visas inte alternativen Visa filter och Dölj filter."
+title: 'Rapporter: Alternativet Visa filter/Dölj filter saknas'
+description: När en användare visar en rapport visas inte alternativen Visa filter och Dölj filter.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+exl-id: 4bd85c63-c7d5-41af-8a2f-2ebcdba84ca4
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
-
 
 # Rapporter: Alternativet Visa filter/Dölj filter saknas
 

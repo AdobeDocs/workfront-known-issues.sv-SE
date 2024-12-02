@@ -1,9 +1,10 @@
 ---
-title: "Rapporter: Det går inte att rulla för att visa hela diagramrapporten"
-description: "När du visar en stor diagramrapport visas inte rullningslisten så att användarna inte kan bläddra igenom hela rapporten."
+title: 'Rapporter: Det går inte att rulla för att visa hela diagramrapporten'
+description: När du visar en rapport för ett stort diagram visas inte rullningslisten så att användarna inte kan bläddra igenom hela rapporten.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+exl-id: b3b41b41-2bb6-40e3-9579-434349b7302f
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%

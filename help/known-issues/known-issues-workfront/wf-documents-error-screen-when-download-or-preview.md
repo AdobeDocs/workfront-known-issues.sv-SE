@@ -1,5 +1,5 @@
 ---
-title: 'Dokument: Felskärm vid hämtning eller förhandsgranskning av resurs'
+title: 'Dokument: Felskärm vid hämtning eller förhandsgranskning av resurser'
 description: När en användare försöker hämta eller förhandsgranska en resurs i Workfront dirigeras de istället till en felskärm.
 hidefromtoc: true
 feature: Digital Content and Documents

@@ -1,5 +1,5 @@
 ---
-title: "Korrektur: Det går inte att generera zippade korrektur"
+title: 'Korrektur: Zippade korrektur kan inte generera'
 description: När en användare försöker skapa ett komprimerat korrektur och två eller flera filer i korrekturet har samma namn, genereras inte korrekturet.
 hidefromtoc: true
 feature: Digital Content and Documents

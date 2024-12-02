@@ -1,5 +1,5 @@
 ---
-title: 'Rapporter: Kalendern har standardvärdet för gamla datum'
+title: 'Rapporter: Kalendern har som standard gamla datum'
 description: När en användare navigerar till en kalender läser kalendern in ett slumpmässigt datumintervall från tidigare (t.ex. en vecka från år 1800).
 exl-id: 2897967c-32c3-4ee7-ae9d-608d45f40fa3
 hidefromtoc: true

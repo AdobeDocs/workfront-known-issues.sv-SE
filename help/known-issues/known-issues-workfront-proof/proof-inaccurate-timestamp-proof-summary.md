@@ -1,5 +1,5 @@
 ---
-title: "Workfront Proof: Felaktig tidsstämpel i korrektursammanfattning"
+title: 'Workfront Proof: Felaktig tidsstämpel i korrektursammanfattning'
 description: När en användare klickar på alternativet Skriv ut sammanfattning för korrektur lades den tidsstämpel som visas till 30 minuter.
 hidefromtoc: true
 feature: Digital Content and Documents

@@ -1,5 +1,5 @@
 ---
-title: 'Projekt: Valutasymbolen är felaktig vid export av'
+title: 'Projekt: Valutasymbolen är felaktig vid export '
 description: När en användare exporterar en utgåva matchar inte valutasymbolen i exporten den som angetts i projektet eller utgåvan.
 hidefromtoc: true
 feature: Projects, Work Management

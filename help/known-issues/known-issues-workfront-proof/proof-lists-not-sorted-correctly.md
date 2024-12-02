@@ -1,5 +1,5 @@
 ---
-title: "Workfront Proof: Listor är inte korrekt sorterade"
+title: 'Workfront Proof: Listor är inte korrekt sorterade'
 description: När en användare tittar på en lista i Workfront Proof som använder sortering (till exempel Namn) är sorteringen inte korrekt.
 hidefromtoc: true
 exl-id: 89dcfc45-0ea3-4ba6-8778-865adff9c456

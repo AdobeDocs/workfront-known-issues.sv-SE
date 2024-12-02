@@ -1,9 +1,10 @@
 ---
-title: "Workfront Mobile: Korrektur för e-postlänkar öppnas inte på iPhone"
+title: 'Workfront Mobile: Korrektur för e-postlänkar öppnas inte i iPhone'
 description: När en användare försöker öppna ett korrektur via en e-postlänk på sin telefon, dirigeras användaren om till en webbläsarsida som till slut visar ett fel som anger att länken är felaktig.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+exl-id: 6279839d-6e91-4a5b-9acf-3afa1cb1c543
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%

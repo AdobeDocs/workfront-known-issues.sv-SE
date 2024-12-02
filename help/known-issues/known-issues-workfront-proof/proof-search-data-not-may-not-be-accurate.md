@@ -1,5 +1,5 @@
 ---
-title: "Workfront Proof: Sökdata är inte alltid korrekta"
+title: 'Workfront Proof: Sökdata är inte alltid korrekta'
 description: De data som visas på resultatsidan i korrektur visar inte alltid den mest aktuella informationen. Vi rekommenderar att du skapar en anpassad vy och använder den för att få den senaste informationen om dina data.
 hidefromtoc: true
 feature: Workfront Proof

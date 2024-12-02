@@ -1,5 +1,5 @@
 ---
-title: 'Rapporter: Det finns inga data att visa när gruppnamnet har ett snedstreck eller ett bakvänt snedstreck'
+title: 'Rapporter: Det finns inga data att visa när gruppnamnet har ett snedstreck eller ett bakåtstreck'
 description: När en användare visar ett diagram i en rapport och klickar på en gruppering i diagrammet, och den grupperingen har ett snedstreck eller ett bakvänt snedstreck i namnet, visas inte de öppna objekten i grupperingen och användaren ser ett meddelande om att inga data visas.
 hidefromtoc: true
 feature: Reports and Dashboards

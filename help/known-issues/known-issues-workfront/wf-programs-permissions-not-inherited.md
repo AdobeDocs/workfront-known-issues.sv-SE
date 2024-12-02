@@ -1,5 +1,5 @@
 ---
-title: "Program: All åtkomst till programmet förloras när användaren uppdaterar åtkomst till programmet"
+title: 'Program: All åtkomst till programmet förloras när användaren uppdaterar åtkomst till programmet'
 description: När en användare försöker uppdatera användaråtkomst för ett program förlorar alla andra grupper, team, roller och användare åtkomsten till det programmet. Detta inkluderar ärvda behörigheter från portföljen.
 hidefromtoc: true
 feature: Work Management

@@ -1,5 +1,5 @@
 ---
-title: "Workfront Proof API: brödtexten är inte ett giltigt XML-fel"
+title: 'Workfront Proof API: brödtexten är inte ett giltigt XML-fel'
 description: Ett anrop till Workfront Proof API returnerar ett fel.
 hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0

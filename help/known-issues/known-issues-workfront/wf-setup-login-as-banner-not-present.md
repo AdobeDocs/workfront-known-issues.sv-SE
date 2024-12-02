@@ -1,5 +1,5 @@
 ---
-title: 'Konfiguration: Inloggad som banderoll visas inte när du är inloggad som en annan användare.'
+title: 'Inställningar: Inloggad som banner visas inte när du är inloggad som en annan användare.'
 description: När en administratör är inloggad som en annan användare visas inte inloggad som banderoll. Användaren påminns inte om att han/hon är inloggad som en annan användare och kan inte logga ut från användarens konto.
 hidefromtoc: true
 feature: System Setup and Administration

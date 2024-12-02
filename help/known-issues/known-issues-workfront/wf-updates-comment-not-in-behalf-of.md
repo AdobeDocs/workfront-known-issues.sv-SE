@@ -1,5 +1,5 @@
 ---
-title: "Uppdateringar: Kommentarer visas inte för"
+title: 'Uppdateringar: Kommentarer visas inte för'
 description: När en administratör är inloggad som en annan användare och gör en kommentar, tillskrivs kommentaren den användaren, i stället för att tillskrivas administratören för användarens räkning.
 hidefromtoc: true
 feature: Updates and Notifications

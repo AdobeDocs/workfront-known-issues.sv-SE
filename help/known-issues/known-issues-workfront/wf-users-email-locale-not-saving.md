@@ -1,5 +1,5 @@
 ---
-title: 'Användare: Språkinställningen för e-post sparas inte för användaren'
+title: 'Användare: Språkinställningen E-post för användaren sparas inte'
 description: När en administratör försöker ändra språkinställningen för e-post för en användare, återställs den till engelska.
 hidefromtoc: true
 feature: People Teams and Groups

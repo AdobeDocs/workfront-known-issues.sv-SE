@@ -1,5 +1,5 @@
 ---
-title: 'Anpassade formulär: Det går inte att rulla det externa sökfältet'
+title: 'Anpassade formulär: Det går inte att rulla i det externa sökfältet'
 description: När en användare försöker visa alternativen i ett externt uppslagsfält rullar inte listrutan med alternativ och användaren kan inte se hela listan med alternativ
 hidefromtoc: true
 feature: Custom Forms

@@ -1,5 +1,5 @@
 ---
-title: "Uppdateringar: Det går inte att logga tid för den aktuella dagen i uppdateringsområdet"
+title: 'Uppdateringar: Det går inte att logga tid för den aktuella dagen i uppdateringsområdet'
 description: När en användare försöker logga tid för den aktuella dagen i uppdateringsområdet är den aktuella dagen nedtonad och användaren kan inte ange några timmar.
 hidefromtoc: true
 exl-id: 2cbdadb8-0ab1-4f94-bd1d-7f8151f865bc

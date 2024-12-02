@@ -1,5 +1,5 @@
 ---
-title: 'Agile: Discrecy in Completed Points for an iteration'
+title: 'Agile: Felaktighet i slutförda punkter för en iteration'
 description: Numret som visas för slutförda punkter på artikelstyrelsen matchar ibland inte det faktiska antalet punkter som fyllts i för artiklarna i en iteration
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 feature: Agile

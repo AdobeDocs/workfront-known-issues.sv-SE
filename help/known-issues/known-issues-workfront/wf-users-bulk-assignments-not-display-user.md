@@ -1,6 +1,6 @@
 ---
 title: 'Användare: Användare saknas vid grupptilldelning'
-description: '"När en användare försöker göra satstilldelningar och en jobbroll tilldelas till uppgiften, visas inte användare med den jobbrollen i listan och den tilldelande användaren kan inte markera dem. '''
+description: 'När en användare försöker göra grupptilldelningar och en jobbroll tilldelas till uppgiften, visas inte användare med den jobbrollen i listan och den tilldelande användaren kan inte markera dem. '
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: a2331209-b8b4-402a-8478-7eb220c579bb

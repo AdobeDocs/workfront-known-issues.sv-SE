@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Workfront]: Problem med att skicka ett Workfront-supportärende på Experience League'
-description: '""Om du är en [!DNL Workfront] auktoriserad supportkontakt och har problem med att skicka in ett supportärende, ring oss på telefonnumren nedan så att vi kan hjälpa dig."'
+description: '"Om du är en  [!DNL Workfront] auktoriserad supportkontakt och har problem med att skicka in ett supportärende kan du ringa oss på telefonnumren nedan så att vi kan hjälpa dig.'
 hidefromtoc: true
 exl-id: f19b3e67-d31d-48f8-b847-dd4d309e11fc
 feature: System Setup and Administration

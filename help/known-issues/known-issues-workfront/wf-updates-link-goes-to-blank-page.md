@@ -1,5 +1,5 @@
 ---
-title: 'Uppdateringar: Länken i kommentaren går till tom skärm'
+title: 'Uppdateringar: Länk i kommentar går till tom skärm'
 description: När en användare klickar på en länk som finns i en kommentar dirigeras användaren till en tom skärm med länken. Det finns en lösning.
 hidefromtoc: true
 feature: Updates and Notifications

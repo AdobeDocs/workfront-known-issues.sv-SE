@@ -1,5 +1,5 @@
 ---
-title: 'API: Begär timeout för begäran'
+title: 'API: begäran om tidsgräns'
 description: Begäranden som görs via Workfront API tar slut.
 hidefromtoc: true
 feature: Workfront API, Workfront Fusion

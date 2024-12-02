@@ -1,9 +1,10 @@
 ---
-title: "Hem: Borttagna anpassade fält finns kvar i widgetar för projekt, aktiviteter och utgåvor"
+title: 'Hem: Borttagna anpassade fält finns kvar i widgetar för projekt, uppgifter och utgåvor'
 description: När du har lagt till ett anpassat fält i en projekt-, uppgifts- eller utgivningswidget (t.ex. Mina projekt) i Hem, kommer det anpassade fältet att fortsätta att visas utan värden även efter att det har tagits bort."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+exl-id: 715e385e-5c9a-4429-82a8-83ad1eb1a2a3
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%

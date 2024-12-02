@@ -1,15 +1,15 @@
 ---
-title: "Projekt: Det går inte att dela projekt på grund av borttagningsfel"
-description: "När användaren försöker dela ett projekt visas ett felmeddelande: Du har inte tillräcklig behörighet för att ta bort det här projektet. Detta inträffar trots att användaren inte försöker ta bort projektet, samt att användaren är projektägare och har behörighet att dela och hantera projektet."
+title: 'Projekt: Det går inte att dela projekt på grund av borttagningsfel'
+description: 'När användaren försöker dela ett projekt visas ett felmeddelande: Du har inte tillräcklig behörighet för att ta bort det här projektet. Detta inträffar trots att användaren inte försöker ta bort projektet, samt att användaren är projektägare och har behörighet att dela och hantera projektet.'
 hidefromtoc: true
 feature: Projects
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+exl-id: 4eb533ed-babc-4ba8-8ac2-5c99e55b95b4
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
-
 
 # Projekt: Det går inte att dela projekt på grund av felet &quot;åtkomst till borttagning&quot;
 

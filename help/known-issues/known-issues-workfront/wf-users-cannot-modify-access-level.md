@@ -1,5 +1,5 @@
 ---
-title: "Användare: Det går inte att ändra användarens åtkomstnivå"
+title: 'Användare: Det går inte att ändra användarens åtkomstnivå'
 description: När en gruppadministratör försöker ändra åtkomstnivån för en användare i gruppen inaktiveras fältet för åtkomstnivå och gruppadministratören kan inte ändra användarens åtkomstnivå.
 hidefromtoc: true
 feature: People Teams and Groups

@@ -1,5 +1,5 @@
 ---
-title: 'Utjämning av arbetsbelastning: Timmarna justeras inte efter användarens inaktivitet'
+title: 'Utjämning av arbetsbelastning: Timmarna justeras inte efter användarens ledig tid'
 description: Om en användare schemalägger en tid utan och har tilldelat uppgifter, uppdateras inte tidslinjen med hänsyn till den lediga tiden. I stället visar Arbetsbelastningsutjämnaren att användaren är överallokerad för de dagar som den har schemalagt. Administratören måste gå in i projektet och beräkna om tidslinjen för att justera timmarna.
 hidefromtoc: true
 exl-id: 0b3c75c4-43cf-4de2-a2ab-e67c24db6930

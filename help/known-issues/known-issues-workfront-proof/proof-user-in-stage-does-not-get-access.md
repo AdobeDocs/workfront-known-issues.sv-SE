@@ -1,5 +1,5 @@
 ---
-title: "Korrektur: Korrektur delas inte med användare i arbetsflödet för korrektur"
+title: 'Korrektur: Korrektur delas inte med användare i korrekturarbetsflödet'
 description: När ett korrektur når en fas i ett arbetsflöde som en användare har lagts till när ett korrektur skapas, delas inte korrekturet med användaren och användaren kan inte komma åt korrekturet.
 hidefromtoc: true
 exl-id: c3b8cc45-5181-4335-8188-56ca942925f0

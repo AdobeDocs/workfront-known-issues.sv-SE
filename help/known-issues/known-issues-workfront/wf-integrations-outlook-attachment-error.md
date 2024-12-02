@@ -1,5 +1,5 @@
 ---
-title: 'Integrationer: Fel när en begäran skapas från Outlook'
+title: 'Integreringar: Fel när en begäran från Outlook skapades'
 description: När en användare försöker skapa en begäran från Workfront för Outlook-integreringen och lägger till en bifogad fil. Användaren ser meddelandet Något gick fel. Försök igen senare.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management

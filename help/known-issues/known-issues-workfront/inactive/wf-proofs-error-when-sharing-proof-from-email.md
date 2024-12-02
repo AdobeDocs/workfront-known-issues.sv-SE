@@ -1,5 +1,5 @@
 ---
-title: "Korrektur: Fel vid delning av korrektur från e-postlänk"
+title: 'Korrektur: Fel vid delning av korrektur från e-postlänk'
 description: När ett korrektur delas med en gäst och gästen försöker använda alternativet Dela det här korrekturet med någon annan i e-postmeddelandet, får de ett felmeddelande när de försöker skicka en e-postadress för att dela korrekturet med. E-postfältet blir rött och användaren ser ett fel.
 hidefromtoc: true
 feature: Digital Content and Documents

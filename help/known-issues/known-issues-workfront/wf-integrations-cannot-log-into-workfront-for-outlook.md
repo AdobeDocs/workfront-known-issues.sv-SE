@@ -1,5 +1,5 @@
 ---
-title: 'Integrationer: Det går inte att logga in på Workfront för Outlook'
+title: 'Integrering: Det går inte att logga in på Workfront för Outlook'
 description: När en användare försöker logga in på Workfront för Outlook svarar inte knappen och användaren kan inte logga in.
 hidefromtoc: true
 feature: Workfront Integrations and Apps

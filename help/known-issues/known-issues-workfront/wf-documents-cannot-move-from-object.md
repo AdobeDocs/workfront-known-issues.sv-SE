@@ -1,9 +1,10 @@
 ---
-title: "Dokument: Det går inte att flytta dokument från objektfliken Dokument"
-description: "När man försöker flytta ett dokument från ett projekt, en uppgift eller en utgåva på fliken Dokument, visas följande fel: Fel vid inläsning av sekundärt innehåll."
+title: 'Dokument: Det går inte att flytta dokument från objektfliken Dokument'
+description: 'När användare försöker flytta ett dokument från ett projekt, en uppgift eller ett ärende på fliken Dokument, uppstår följande fel: Fel vid inläsning av sekundärt innehåll.'
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+exl-id: fe5de4ce-dc30-41aa-96ba-aeb73851ef9f
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

@@ -1,5 +1,5 @@
 ---
-title: 'Korrektur: Nytt stadium har skapats eftersom deadline inte kan matcha deadline för befintligt stadium'
+title: 'Korrektur: Ny fas har skapats eftersom deadline inte kan matcha deadline för befintlig fas'
 description: När du skapar ett nytt korrektur kan du ställa in tidsgränsen i steg om 15 minuter (10:00, 10:15, 10:30, 20:45 osv.). När en användare läggs till i ett korrektur efter att korrekturet har skapats, kan du dock bara ställa in tidsgränsen i steg om 30 minuter (10:00, 10:30, 11:00 osv.).
 hidefromtoc: true
 feature: Workfront Proof

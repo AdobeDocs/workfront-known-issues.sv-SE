@@ -1,5 +1,5 @@
 ---
-title: 'Åtgärder: Jobbrollen försvinner inte från listan när användaren tilldelas till uppgiften'
+title: 'Uppgifter: Jobbrollen försvinner inte från listan när användaren tilldelas till uppgiften'
 description: När en jobbroll tilldelas till en uppgift och den uppgiften tilldelas till en användare som har jobbrollen, försvinner inte jobbrollen från listan med tilldelningar.
 hidefromtoc: true
 feature: Tasks

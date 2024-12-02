@@ -1,9 +1,10 @@
 ---
-title: '"Godkännanden: filtret "Alla" utesluter personligt inskickade godkännanden"'
-description: '"När du visar godkännanden i widgeten Mina godkännanden i hemmet eller på sidan Mina uppdateringar, innehåller listan inte godkännanden som skickas av användaren även om filtret är inställt på "Alla"."'
+title: 'Godkännanden: Filtret Alla utesluter personligt inskickade godkännanden'
+description: När du visar godkännanden i widgeten Mina godkännanden i hemmet eller på sidan Mina uppdateringar, innehåller listan inte godkännanden som skickas av användaren även om filtret är inställt på Alla.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%

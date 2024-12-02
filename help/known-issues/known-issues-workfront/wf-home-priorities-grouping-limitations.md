@@ -1,9 +1,10 @@
 ---
-title: "Prioriteringar: Grupperingar förhindrar sortering och infogad redigering"
-description: "När arbetslistan Prioriteter har grupperingar kan den inte sorteras och infogad redigering fungerar inte för fält i arbetslistan."
+title: 'Prioriteringar: Grupperingar förhindrar sortering och infogad redigering'
+description: Om grupperingar används i arbetslistan Prioriteter går det inte att sortera den, och infogad redigering fungerar inte för fält i arbetslistan.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+exl-id: 9b36df42-30ea-47d2-b791-114d59429480
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%

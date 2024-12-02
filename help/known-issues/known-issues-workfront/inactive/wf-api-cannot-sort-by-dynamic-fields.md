@@ -1,6 +1,6 @@
 ---
-title: 'API: det går inte att sortera efter dynamiska fält'
-description: '"Workfront API tillåter inte sortering efter dynamiska fält. '''
+title: 'API: kan inte sortera efter dynamiska fält'
+description: 'Workfront API tillåter inte sortering efter dynamiska fält. '
 hidefromtoc: true
 exl-id: f681fca8-7def-4fe4-9ab1-18dd6e2502d6
 feature: Workfront API

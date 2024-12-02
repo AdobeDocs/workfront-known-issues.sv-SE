@@ -1,5 +1,5 @@
 ---
-title: "Workfront Proof: Det går inte att ändra ordning på resurser när ett korrektur skapas"
+title: 'Workfront Proof: Det går inte att ändra ordning på resurser när ett korrektur skapas'
 description: när en användare i Workfront Proof försöker ändra ordning på de resurser som ska kombineras till ett korrektur, kan de inte dra filerna och filernas ordning ändras inte.
 hidefromtoc: true
 feature: Digital Content and Documents

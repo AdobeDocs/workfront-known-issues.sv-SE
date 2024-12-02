@@ -1,5 +1,5 @@
 ---
-title: 'Projekt: Delningsmenyn läses inte in'
+title: 'Projekt: Delningsmenyn läses inte in '
 description: När en användare försöker dela en uppgift eller ett problem, läses behörigheten för Ge X-åtkomst in kontinuerligt och användaren kan inte dela uppgiften eller problemet.
 hidefromtoc: true
 feature: Projects, Tasks, Work Management

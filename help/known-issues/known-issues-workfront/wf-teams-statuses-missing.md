@@ -1,5 +1,5 @@
 ---
-title: 'Team: Issues with setting team statuses for Done button '
+title: 'Team: Problem med att ange gruppstatus för Klar-knappen '
 description: Problem med status för knappen [!UICONTROL Done] har rapporterats när du redigerar eller skapar ett team. Det finns en lösning för att lösa problemet.
 hidefromtoc: true
 feature: People Teams and Groups

@@ -1,15 +1,15 @@
 ---
-title: "Brevkort: Fel vid flyttning av kort eller tilldelning av användare"
-description: "När du flyttar kort eller tilldelar användare händer det ibland att åtgärden inte går igenom och i stället uppstår ett felsvar som inte lyckas: Statuskoden 502 togs emot efter en fördröjning."
+title: 'Kort: Fel vid flyttning av kort eller tilldelning av användare'
+description: 'När du flyttar kort eller tilldelar användare går åtgärden ibland inte igenom, utan i stället skapas ett felsvar som inte lyckas: Statuskoden 502 togs emot efter en fördröjning.'
 hidefromtoc: true
 feature: Agile
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+exl-id: 6760a73e-65ad-466f-9bec-964e3490f1e8
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # Kort: Fel vid flyttning av kort eller tilldelning av användare
 

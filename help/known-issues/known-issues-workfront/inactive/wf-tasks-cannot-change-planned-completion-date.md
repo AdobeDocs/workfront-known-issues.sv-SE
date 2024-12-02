@@ -1,6 +1,6 @@
 ---
-title: "Aktiviteter: Det går inte att ändra planerat slutförandedatum för en aktivitet"
-description: '"När en användare försöker ändra det planerade slutförandedatumet för en aktivitet svarar inte fältet. '''
+title: 'Uppgifter: Det går inte att ändra planerat slutförandedatum för en aktivitet'
+description: 'När en användare försöker ändra det planerade slutförandedatumet för en uppgift, svarar inte fältet. '
 hidefromtoc: true
 exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
 feature: Tasks

@@ -1,5 +1,5 @@
 ---
-title: 'Dokument: Om du klickar på ett dokumentnamn visas en tom sida'
+title: 'Dokument: Klicka på ett dokumentnamn om du vill visa en tom sida'
 description: När en användare försöker visa dokumentinformation genom att klicka på dokumentets namn i en dokumentlista, försvinner listan och användaren dirigeras inte till dokumentinformationen.
 hidefromtoc: true
 feature: Digital Content and Documents

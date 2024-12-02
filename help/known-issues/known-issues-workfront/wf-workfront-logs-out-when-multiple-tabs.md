@@ -1,5 +1,5 @@
 ---
-title: "Workfront: Flera webbläsarflikar gör att Workfront loggar ut"
+title: 'Workfront: Flera webbläsarflikar gör att Workfront loggar ut'
 description: När en användare har flera webbläsarflikar öppna kan Workfront automatiskt logga ut.
 hidefromtoc: true
 feature: Get Started with Workfront

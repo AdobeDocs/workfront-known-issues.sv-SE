@@ -1,5 +1,5 @@
 ---
-title: 'Anpassade formulär: Hoppfel när ett beräkningsfält skapas'
+title: 'Anpassade formulär: Hoppfel när du ställer in ett beräkningsfält'
 description: När en användare skapar eller redigerar ett beräknat fält i ett anpassat formulär och inkluderar ett anpassat fält i det beräknade fältets uttryck, anses uttrycket vara ogiltigt. Knappen Spara är inaktiverad och användaren kan inte navigera bort från det anpassade fältet. Dessutom ser användaren ett meddelande under fältet.
 hidefromtoc: true
 feature: Custom Forms

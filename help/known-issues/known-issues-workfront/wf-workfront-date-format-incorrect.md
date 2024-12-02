@@ -1,6 +1,6 @@
 ---
-title: "Workfront: Datumet visas i felaktigt format"
-description: "Datum i Workfront visas som MM/DD/ÅÅÅÅ. Detta gäller även när användarna har sina webbläsare inställda på lokala inställningar för datumvisning."
+title: 'Workfront: Datumet visas i felaktigt format'
+description: Datum i Workfront visas som MM/DD/ÅÅÅÅ. Detta gäller även när användarna har sina webbläsare inställda på lokala inställningar för datumvisning.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 2afa4965-d261-48e4-9325-341caba75f8a

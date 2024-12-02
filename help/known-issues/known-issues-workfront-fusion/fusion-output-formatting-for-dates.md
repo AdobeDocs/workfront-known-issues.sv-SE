@@ -1,5 +1,5 @@
 ---
-title: "Workfront Fusion: Output formatting for dates"
+title: 'Workfront Fusion: Utdataformatering'
 description: När datum anges som strängar kan datumet skrivas ut som en UTC- eller ISO-sträng. Detta beror på logiken i en mappningspanel.
 hidefromtoc: true
 feature: Workfront Fusion

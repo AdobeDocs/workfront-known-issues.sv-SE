@@ -1,5 +1,5 @@
 ---
-title: '"Workfront Mobile: Det går inte att logga in utan SSO'
+title: 'Workfront Mobile: Det går inte att logga in utan SSO'
 description: När en användare loggar in på Workfront-mobilappen måste han/hon använda enkel inloggning för att logga in. Användaren kan inte använda sina inloggningsuppgifter för Workfront eller Adobe ID.
 hidefromtoc: true
 feature: Get Started with Workfront

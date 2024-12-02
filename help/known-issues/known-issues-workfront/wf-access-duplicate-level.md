@@ -1,5 +1,5 @@
 ---
-title: 'Åtkomstnivåer: dubblerade åtkomstnivåer i inställningsområdet'
+title: 'Åtkomstnivåer: Duplicera åtkomstnivåer i inställningsområdet'
 description: När en användare tittar på listan över åtkomstnivåer i inställningsområdet ser de att vissa åtkomstnivåer är dubblerade. Detta gäller endast inbyggda nivåer.
 hidefromtoc: true
 feature: System Setup and Administration
