@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
 workflow-type: tm+mt
-source-wordcount: '6541'
+source-wordcount: '6944'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,77 @@ Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](
 
 Följande underhållsuppdateringar gjordes 2024.
 
+## Uppdateringar i december 2024
+
++++**Underhållsuppdatering 5 december 2024**
+
+### Underhållsuppdatering 5 december 2024
+
+#### Egna formulär
+
+**Det går inte att lägga till aktivitetsfälten &quot;stimbyHours&quot; eller &quot;hoursPerPoint&quot;**
+
+När en användare försöker lägga till fälten &quot;estimeraByHours&quot; eller &quot;hoursPerPoint&quot; i ett anpassat formulär i formulärbyggaren visas ett felmeddelande: &quot;Detta är ett ogiltigt anpassat uttryck, försök igen.&quot;
+
+**Visningslogik fungerar inte i anpassade formulär**
+
+När en användare anger information i ett anpassat formulär med visningslogik visas inte fält som ska visas baserat på visningslogiken.
+
+#### Startsida
+
+**Medarbetare visade knappen &quot;Arbeta med den&quot; som inte fungerar**
+
+Medverkande användare har tillgång till en icke-funktionell&quot;Work on it&quot;-knapp i widgeten Mitt arbete i hemmet.
+
+#### Rapporter
+
+**Anpassade kvartal visas inte i rapportuppmaningar**
+
+När en användare kör en rapport med en datumbaserad fråga visas inte anpassade kvartal i listan med val för frågan.
+
++++
+
 ## Uppdateringar i november 2024
+
++++**Underhållsuppdatering 28 november 2024**
+
+### Underhållsuppdatering 28 november 2024
+
+#### Projekt
+
+**Det går inte att dela projekt på grund av felet&quot;åtkomst till borttagning&quot;**
+
+När användaren försöker dela ett projekt visas ett felmeddelande:&quot;Du har inte tillräcklig behörighet för att ta bort det här projektet&quot;. Detta inträffar trots att användaren inte försöker ta bort projektet, samt att användaren är projektägare och har behörighet att dela och hantera projektet.
+
+#### Rapporter
+
+**Fältet Kategorinamn länkar inte till anpassat formulär**
+
+När du visar en lista i en rapport som innehåller ett kategorinamnfält kan du inte klicka på innehållet i kolumnen Kategorinamn för att öppna motsvarande anpassade formulär.
+
+**Gruppera egna färger i rapporter fungerar inte**
+
+När du tilldelar en anpassad färg till en grupp i Report Builder visas inte färgvalet när rapporten körs.
+
+**Långa inläsningstider för rapporter**
+
+Rapporterna tar längre tid att läsa in. Detta påverkar visning av rapporter och redigering och skapande av rapporter i Report Builder.
+
+**Tidsfält saknas för beräknade datum/tid-fält i rapportmeddelanden**
+
+När en rapport körs med ett anpassat datum/tid-fält som används som kommando saknas fältet för tidsval i kommandotolken.
+
+**Det går inte att visa delade rapporter/instrumentpaneler**
+
+När en användare försöker få åtkomst till en rapport eller kontrollpanel som har delats med dem går det inte att få åtkomst till rapporten eller kontrollpanelen.
+
+#### Tidrapporter
+
+**Deltagare har en Skicka för godkännande-knapp**
+
+Trots att användare med åtkomstnivån Medarbetare inte kan ange timmar i tidrapporter har de en Skicka för godkännande-knapp som de kan klicka på.
+
++++
 
 +++**Underhållsuppdatering 21 november 2024**
 

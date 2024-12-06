@@ -4,14 +4,18 @@ description: När en administratör försöker redigera en hemlayoutmall för en
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: c044ba60-b69d-454d-934e-aeb104b91e4d
-source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
+source-git-commit: 273f533553626082787f579b171ab4b314743d58
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
 # Layoutmallar: Administratörer kan inte redigera startlayoutmallar
+
+>[!NOTE]
+>
+>Problemet korrigerades den 5 december 2024.
 
 När en administratör försöker redigera en hemlayoutmall för en användare, svarar inte gränssnittet och ändringarna kan inte sparas.
 

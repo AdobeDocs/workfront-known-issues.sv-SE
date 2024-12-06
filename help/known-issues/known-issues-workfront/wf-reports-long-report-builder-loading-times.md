@@ -4,14 +4,18 @@ description: Rapportbyggaren tar längre tid att läsa in, i vissa fall upp till
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: ca850f76-8cdb-47ac-8687-4a3c57deb1dd
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Rapporter: Långa inläsningstider för rapporter
+
+>[!NOTE]
+>
+>Den här artikeln var fast den 28 november 2024.
 
 Rapporterna tar längre tid att läsa in. Detta påverkar visning av rapporter och redigering och skapande av rapporter i Report Builder.
 

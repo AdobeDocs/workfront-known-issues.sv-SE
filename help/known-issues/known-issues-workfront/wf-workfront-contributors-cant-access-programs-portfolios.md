@@ -4,14 +4,18 @@ description: Användare som har den nya åtkomstnivån Contributor kan inte komm
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 463d212d-ff0a-4de2-ae6e-70a538de497e
-source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # Workfront: Contributor-användare har inte åtkomst till Program eller Portfolio
+
+>[!NOTE]
+>
+>Problemet har stängts eftersom det fungerar som det ska.
 
 Användare som har den nya åtkomstnivån Contributor kan inte komma åt Program eller Portfolio trots att båda är tillgängliga på åtkomstnivån.
 
