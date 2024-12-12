@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
 workflow-type: tm+mt
-source-wordcount: '2072'
+source-wordcount: '2120'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,12 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Anpassade formulär: Anpassade data visas inte på panelen Sammanfattning](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
+      + [Agile: Det går inte att massredigera artiklar i en iteration](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
+      + [Korrektur: Det går inte att lägga till mottagare i korrektur](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
+      + [Korrektur: Korrekturnamn visas inte på webbläsarfliken](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
+      + [Uppgifter: Oftesfel när personliga uppgifter läggs till](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
+      + [Korrektur: Webbfångstkorrektur genererar inte](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [Godkännanden: Delegerade godkännanden visas inte för ombud](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [Dokument:&quot;Osparade ändringar&quot;-fel när ett formulär läggs till i ett dokument](known-issues-workfront/wf-documents-unsaved-changes-error.md)
       + [Uppgifter: Fältet är klart att börja inte uppdateras trots slutförda föregående aktiviteter](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
@@ -170,7 +176,7 @@ ht-degree: 0%
       + [Uppdateringar: Länk i kommentar går till tom skärm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Team: Det går inte att visa teamets ägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Korrektur: Korrektur förhindrar konvertering av uppgift eller utleverans till projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
-      + [Uppgifter: Bizcontext-fel när en uppgift läggs till eller tas bort](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [Uppgifter: Databasfel när en uppgift läggs till eller tas bort (tidigare Bizcontext-fel)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [Layoutmall: Startsidan är felaktig](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [Rapporter: Rapportfiltret returnerar inte förväntade resultat](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)

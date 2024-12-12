@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
 workflow-type: tm+mt
-source-wordcount: '1058'
+source-wordcount: '1112'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Agile: Det går inte att massredigera artiklar i en iteration](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | 5 december 2024 |
 | [Godkännanden: Delegerade godkännanden visas inte för delegater](known-issues-workfront/wf-approvals-delegation-not-working.md) | 5 december 2024 |
 | [Dokument: Felet &quot;Osparade ändringar&quot; när ett formulär läggs till i ett dokument](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 5 december 2024 |
 | [Uppgifter: Fältet är klart att börja inte uppdateras trots slutförda föregående aktiviteter](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | 3 december 2024 |
@@ -53,6 +54,11 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 | ---------------------------------- | ----------------- |
+| [Anpassade formulär: Anpassade data visas inte på sammanfattningspanelen](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 december 2024 |
+| [Korrektur: Det går inte att lägga till mottagare i korrektur](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 11 december 2024 |
+| [Korrektur: Korrekturnamn visas inte på webbläsarfliken](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 11 december 2024 |
+| [Aktiviteter: Hoppfel när personliga uppgifter läggs till](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | 11 december 2024 |
+| [Korrektur: Webbfångstkorrektur genererar inte](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 11 december 2024 |
 | [Rapporter: Massredigering i diagramlistor svarar inte](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 3 december 2024 |
 | [Rapporter: Inläsningstider för långa rapportverktyg](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 november 2024 |
 | [API: begäran om tidsgräns](known-issues-workfront/wf-api-request-timing-out.md) | 24 oktober 2024 |
@@ -63,7 +69,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Meddelanden: Hoppfel vid inställning av aviseringsinställningar](known-issues-workfront/wf-notifications-whoops-error.md) | 8 augusti 2024 |
 | [Åtkomstnivåer: Duplicerade åtkomstnivåer i inställningsområdet](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
 | [Team: Det går inte att visa teamägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
-| [Åtgärder: Bizcontext-fel vid tillägg eller borttagning av en aktivitet](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 april 2024 |
 | [[!DNL Workfront]: Problem med att skicka ett  [!DNL Workfront] supportärende på Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 
 {style="table-layout:auto"}
@@ -74,6 +79,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Uppgifter: Databasfel när en aktivitet läggs till eller tas bort (tidigare Bizcontext-fel)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 10 december 2024 |
 | [Layoutmallar: Anpassade datafält visas inte när de läggs till i uppgiftssammanfattning via layoutmall](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 november 2024 |
 | [Meddelanden: E-postmeddelanden om att uppdateringar inte skickas](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 5 december 2024 |
 | [Workfront: Contributor-användare har inte åtkomst till Program eller Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 5 december 2024 |
