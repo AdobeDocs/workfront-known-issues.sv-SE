@@ -3,14 +3,19 @@ title: 'Uppgifter: Fältet är klart att börja inte uppdateras trots slutförda
 description: Fältet Klar att starta för en aktivitet med föregångare kan inte uppdateras till Sant trots att alla nödvändiga föregångare har markerats som Fullständigt.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+exl-id: 1eb9441c-ffd0-4953-9e5c-61e8e32b8600
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
 # Uppgifter: Fältet är klart att börja inte uppdateras trots slutförda föregående aktiviteter
+
+>[!NOTE]
+>
+>Problemet korrigerades den 9 december 2024.
 
 Fältet Klar att starta för en aktivitet med föregångare kan inte uppdateras till Sant trots att alla nödvändiga föregångare har markerats som Fullständigt.
 

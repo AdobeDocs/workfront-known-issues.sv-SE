@@ -3,20 +3,19 @@ title: 'Workfront: Datumformatet ändras i hela programmet'
 description: När du navigerar mellan olika sidor med listor i programmet ändras datumformatet med jämna mellanrum från MM/DD/ÅÅÅÅ till DD/MM/ÅÅÅÅ eller vice versa.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+exl-id: baeed4df-8b86-4767-9991-c0b947b07f3b
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 # Workfront: Datumformatet ändras i hela programmet
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on August 30, 2024.
--->
+>Problemet har stängts eftersom det inte gick att reproducera.
 
 När du navigerar mellan olika sidor med listor i programmet ändras datumformatet med jämna mellanrum från MM/DD/ÅÅÅÅ till DD/MM/ÅÅÅÅ eller vice versa.
 

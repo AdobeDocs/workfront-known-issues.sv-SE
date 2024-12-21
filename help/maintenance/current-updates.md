@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
 workflow-type: tm+mt
-source-wordcount: '6944'
+source-wordcount: '7090'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,36 @@ Underhållsuppdateringar före 2024 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2024.
 
 ## Uppdateringar i december 2024
+
++++**Underhållsuppdatering 19 december 2024**
+
+### Underhållsuppdatering 19 december 2024
+
+Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. Workfront Support meddelar dig när ett problem som du har skickat har åtgärdats.
+
++++
+
++++**Underhållsuppdatering 12 december 2024**
+
+### Underhållsuppdatering 12 december 2024
+
+#### Kontrollpaneler
+
+**Kolumnen försvinner när den används för sortering i en instrumentpanelsrapport**
+
+När du sorterar en rapport som placerats i en kontrollpanel efter en kolumn, försvinner kolumnen och innehållet sorteras inte.
+
+#### Rapporter
+
+**Gruppkolumnen under diagramalternativet orsakar fel**
+
+När du aktiverar alternativet Gruppera kolumn under diagram i en rapport med ett diagram visas följande felmeddelande: &quot;Ett fel har inträffat och vi arbetar för att lösa problemet. Om du vill fortsätta med ditt arbete kan du försöka med att uppdatera den här webbläsarsidan.&quot;
+
+**Ikonerna Redigera och Ta bort gruppvis saknas i rapporter**
+
+Om du försöker redigera eller ta bort flera rapportobjekt samtidigt visas ibland inte ikonerna Redigera och Ta bort.
+
++++
 
 +++**Underhållsuppdatering 5 december 2024**
 
