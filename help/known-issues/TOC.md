@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
 workflow-type: tm+mt
-source-wordcount: '2120'
+source-wordcount: '2174'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,12 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppdateringar: Inloggade timmar visas inte i loggtidsetiketten i uppdateringsområdet](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [Rapporter: Rapportera uppmaningar läses in långsamt](known-issues-workfront/wf-reports-prompts-load-slowly.md)
+      + [Meddelanden: Push-meddelanden till Workfront-mobilappen fungerar inte](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [Dokument: Dokumentområdet visar inte alla dokument](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [Anpassade formulär: Fel vid redigering av anpassat formulär via kolumn](known-issues-workfront/wf-custom-forms-error-when-editing.md)
+      + [Begäranden och problem: Fel vid avancerade användartilldelningar](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [Anpassade formulär: Anpassade data visas inte på panelen Sammanfattning](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [Agile: Det går inte att massredigera artiklar i en iteration](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [Korrektur: Det går inte att lägga till mottagare i korrektur](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
