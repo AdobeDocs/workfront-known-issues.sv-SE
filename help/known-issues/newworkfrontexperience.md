@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '1142'
+source-wordcount: '1177'
 ht-degree: 0%
 
 ---
@@ -54,6 +54,10 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 | ---------------------------------- | ----------------- |
+| [Kort: Det går inte att flytta kortet till en annan kolumn](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2 januari 2025 |
+| [Anpassade formulär: Meddelandet &quot;Ogiltiga fält&quot; när ett anpassat formulär redigeras](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2 januari 2025 |
+| [Användare: Det går mycket långsamt att uppdatera användare gruppvis](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2 januari 2025 |
+| [Anpassade formulär: Alternativknappar visas vågrätt](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | 2 januari 2025 |
 | [Begäranden och problem: Fel med avancerade användartilldelningar](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2 januari 2025 |
 | [Anpassade formulär: Det går inte att lägga till aktivitetsfälten &quot;estimeraEfterHours&quot; eller &quot;hoursPerPoint&quot; ](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 20 december 2024 |
 | [Anpassade formulär: Anpassade data visas inte på sammanfattningspanelen](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 december 2024 |

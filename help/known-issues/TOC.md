@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '2174'
+source-wordcount: '2205'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Tavlor: Det går inte att flytta kortet till en annan kolumn](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+      + [Anpassade formulär: Meddelandet&quot;Ogiltiga fält&quot; när ett anpassat formulär redigeras](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [Användare: Det går mycket långsamt att uppdatera användare gruppvis](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [Anpassade formulär: Alternativknappar visas vågrätt](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
       + [Uppdateringar: Inloggade timmar visas inte i loggtidsetiketten i uppdateringsområdet](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [Rapporter: Rapportera uppmaningar läses in långsamt](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Meddelanden: Push-meddelanden till Workfront-mobilappen fungerar inte](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
