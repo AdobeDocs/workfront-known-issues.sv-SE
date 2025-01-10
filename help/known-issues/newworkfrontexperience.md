@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '1193'
+source-wordcount: '1164'
 ht-degree: 0%
 
 ---
@@ -25,12 +25,13 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Hem: Godkännandeknappar saknas i väntande godkännandewidget](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 9 januari 2025 |
+| [Användare: Ett dubblettkonto skapades när systemadministratören ändrades](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 9 januari 2025 |
+| [Projekt: Sena villkor används inte som förväntat](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 9 januari 2025 |
 | [Anpassade formulär: Anpassat formulär visas i äldre format](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 3 januari 2024 |
 | [Faktureringspost: Timmar sparas inte](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 3 januari 2024 |
-| [Uppdateringar: Inloggade timmar visas inte i loggtidsetiketten i uppdateringsområdet](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | 2 januari 2024 |
 | [Rapporter: Rapporteringsmeddelanden läses in långsamt](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2 januari 2024 |
 | [Meddelanden: Push-meddelanden till Workfront-mobilappen fungerar inte](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2 januari 2024 |
-| [Dokument: Alla dokument visas inte i dokumentområdet](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2 januari 2024 |
 | [Anpassade formulär: Fel vid redigering av anpassat formulär via kolumn](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2 januari 2024 |
 | [Dokument: Felet &quot;Osparade ändringar&quot; när ett formulär läggs till i ett dokument](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 5 december 2024 |
 | [Integrationer: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 3 december 2024 |
@@ -59,17 +60,13 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Kort: Det går inte att flytta kortet till en annan kolumn](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2 januari 2025 |
 | [Anpassade formulär: Meddelandet &quot;Ogiltiga fält&quot; när ett anpassat formulär redigeras](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2 januari 2025 |
 | [Användare: Det går mycket långsamt att uppdatera användare gruppvis](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2 januari 2025 |
-| [Anpassade formulär: Alternativknappar visas vågrätt](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | 2 januari 2025 |
 | [Begäranden och problem: Fel med avancerade användartilldelningar](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2 januari 2025 |
-| [Anpassade formulär: Det går inte att lägga till aktivitetsfälten &quot;estimeraEfterHours&quot; eller &quot;hoursPerPoint&quot; ](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 20 december 2024 |
 | [Anpassade formulär: Anpassade data visas inte på sammanfattningspanelen](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 december 2024 |
 | [Korrektur: Korrekturnamn visas inte på webbläsarfliken](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 11 december 2024 |
-| [Aktiviteter: Hoppfel när personliga uppgifter läggs till](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | 11 december 2024 |
 | [Rapporter: Massredigering i diagramlistor svarar inte](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 3 december 2024 |
 | [Rapporter: Inläsningstider för långa rapportverktyg](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 november 2024 |
 | [API: begäran om tidsgräns](known-issues-workfront/wf-api-request-timing-out.md) | 24 oktober 2024 |
 | [Integrationer: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 24 september 2024 |
-| [Grupper: Borttagen gruppstatus visas igen](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 12 september 2024 |
 | [Egna formulär: Forms använder som standard Project-formulär](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 augusti 2024 |
 | [Inställningar: Problem vid utloggning som en annan användare](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 augusti 2024 |
 | [Meddelanden: Hoppfel vid inställning av aviseringsinställningar](known-issues-workfront/wf-notifications-whoops-error.md) | 8 augusti 2024 |

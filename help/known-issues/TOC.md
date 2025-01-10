@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '2219'
+source-wordcount: '2242'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Hem: Godkännandeknappar saknas i väntande godkännandewidget](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
+      + [Användare: Dubblettkonto skapades när systemadministratören ändrades](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
+      + [Projekt: Sena villkor används inte som förväntat](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [Anpassade formulär: Anpassat formulär visas i äldre format](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [Faktureringspost: Timmar sparas inte](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [Tavlor: Det går inte att flytta kortet till en annan kolumn](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
