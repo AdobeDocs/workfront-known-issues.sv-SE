@@ -3,15 +3,19 @@ title: 'Anpassade formulär: Meddelande om ogiltiga fält när ett anpassat form
 description: När en användare redigerar anpassade formulär i området Detaljer för ett objekt och ett av de anpassade formulären har ett obligatoriskt fält som för närvarande är tomt, kan användaren inte redigera formulär och ser ett meddelande. Det finns en lösning.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+exl-id: 8e812a51-617f-4aa7-be29-184f018e9baa
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-
 # Anpassade formulär: Meddelandet&quot;Ogiltiga fält&quot; när ett anpassat formulär redigeras
+
+>[!NOTE]
+>
+>Den här artikeln fastställdes den 13 januari 2025.
 
 När en användare redigerar anpassade formulär i området Detaljer för ett objekt, och ett av de anpassade formulären har ett obligatoriskt fält som för närvarande är tomt, kan användaren inte redigera formulär och ser följande meddelande:
 
