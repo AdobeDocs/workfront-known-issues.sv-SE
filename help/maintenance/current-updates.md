@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,24 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i januari 2025
+
++++**Underhållsuppdatering 23 januari 2025**
+
+### Underhållsuppdatering 23 januari 2025
+
+#### Rapporter
+
+**Anpassade valutafält orsakar rapportfel**
+
+När en rapportvy innehåller två eller flera anpassade valutafält returneras rapporten och ett fel returneras.
+
+#### Användare
+
+Taggen **&quot;Oregistrerad&quot; kvarstår efter inloggning**
+
+Trots att inloggningen lyckades minst en gång försvinner inte taggen &quot;unregistered&quot; som förväntat för nya användare.
+
++++
 
 +++**Underhållsuppdatering 16 januari 2025**
 

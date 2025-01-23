@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
 workflow-type: tm+mt
-source-wordcount: '2262'
+source-wordcount: '2284'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporter: Anpassade typsnittsfält i detaljnivån svarar inte](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
+      + [Logga in som: Administratörens layoutmall för startsidan visas](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
+      + [Användare: Fel vid redigering av kostnadstariff](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
       + [Uppgifter: Loggad timme finns kvar i föregående projekt när det flyttats](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
       + [Rapporter: Timrapportfilter innehåller felaktiga datum](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
       + [Tidrapporter: Felaktiga totala timmar](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
