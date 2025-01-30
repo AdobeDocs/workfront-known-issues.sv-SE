@@ -3,15 +3,19 @@ title: 'Faktureringspost: Timmar sparas inte'
 description: När en användare försöker lägga till berättigade timmar i en affärspost sparas inte timmarna och användaren ser ett meddelande.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
+exl-id: a199d943-69d7-4262-8fd8-ca8ff4f5ab33
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-
 # Faktureringspost: Timmar sparas inte
+
+>[!NOTE]
+>
+>Den här artikeln fastställdes den 29 januari 2025.
 
 När en användare försöker lägga till berättigade timmar i en affärspost sparas inte timmarna och användaren ser följande meddelande:
 

@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '2284'
+source-wordcount: '2297'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Korrektur: Det går inte att tagga vissa användare](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
+      + [Uppgifter: Filter och vyer på projektnivå som är tillgängliga för uppgifter](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [Rapporter: Anpassade typsnittsfält i detaljnivån svarar inte](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [Logga in som: Administratörens layoutmall för startsidan visas](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [Användare: Fel vid redigering av kostnadstariff](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
@@ -173,7 +175,7 @@ ht-degree: 0%
       + [Status: Det går inte att återanvända tidigare borttagen status](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Hem: Det går inte att ta bort widgeten Menyer](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navigering: Bakåtknappen går inte tillbaka till föregående sida](known-issues-workfront/wf-navigation-back-button-not-work.md)
-      + [Dokument: Fel vid användning av en offentlig länk till ett dokument](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [Dokument: Fel vid användning av en offentlig länk till ett dokument](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Korrektur: Det går inte att stänga korrekturläsaren](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [Projekt: Delningsmenyn läses inte in](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [Rapporter: Offentliga länkar till en rapport fungerar inte](known-issues-workfront/wf-reports-public-link-not-working.md)

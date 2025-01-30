@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '1136'
+source-wordcount: '1121'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,15 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Korrektur: Det går inte att tagga vissa användare](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 30 januari 2025 |
+| [Dokument: Fel vid användning av en offentlig länk till ett dokument](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 30 januari 2025 |
+| [Uppgifter: Filter och vyer på projektnivå som är tillgängliga för uppgifter](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 januari 2025 |
 | [Rapporter: Anpassade typsnittsfält i detaljnivån svarar inte](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | 23 januari 2025 |
-| [Logga in som: Administratörens hemlayoutmall visas](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 23 januari 2025 |
-| [Användare: Fel vid redigering av kostnadstariff](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md) | 23 januari 2025 |
 | [Uppgifter: Den loggade timmen finns kvar i föregående projekt när den har flyttats](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 16 januari 2025 |
-| [Rapporter: Timrapportfilter innehåller felaktiga datum](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | 16 januari 2025 |
 | [Tidrapporter: Felaktigt totalt antal timmar](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 16 januari 2025 |
 | [Hem: Godkännandeknappar saknas i väntande godkännandewidget](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 9 januari 2025 |
 | [Användare: Ett dubblettkonto skapades när systemadministratören ändrades](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 9 januari 2025 |
 | [Projekt: Sena villkor används inte som förväntat](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 9 januari 2025 |
-| [Faktureringspost: Timmar sparas inte](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 3 januari 2024 |
-| [Meddelanden: Push-meddelanden till Workfront-mobilappen fungerar inte](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2 januari 2024 |
 | [Integrationer: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 3 december 2024 |
 | [Uppgifter: Problem med tidslinjeomberäkning](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 3 december 2024 |
 | [Workfront: Det går inte att läsa in öppna webbläsarflikar](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 november 2024 |
@@ -58,7 +56,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 | ---------------------------------- | ----------------- |
-| [Kort: Det går inte att flytta kortet till en annan kolumn](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2 januari 2025 |
 | [Anpassade formulär: Anpassade data visas inte på sammanfattningspanelen](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 december 2024 |
 | [Rapporter: Massredigering i diagramlistor svarar inte](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 3 december 2024 |
 | [Rapporter: Inläsningstider för långa rapportverktyg](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 november 2024 |
@@ -79,6 +76,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Logga in som: Administratörens hemlayoutmall visas](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 23 januari 2025 |
 | [Rapporter: Rapporteringsmeddelanden läses in långsamt](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 16 januari 2024 |
 | [Korrektur: Webbfångstkorrektur genererar inte](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 december 2024 |
 | [Workfront: Datumformatet ändras i hela programmet](known-issues-workfront/wf-workfront-date-format-changing.md) | 20 december 2024 |

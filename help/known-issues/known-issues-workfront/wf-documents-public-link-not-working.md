@@ -1,26 +1,27 @@
 ---
 title: 'Dokument: Fel vid användning av en offentlig länk till ett dokument'
-description: När en användare klickar på en offentlig länk för att gå till ett dokument i Workfront kan ett fel uppstå.
+description: När en användare klickar på en offentlig länk för att gå till ett dokument i Workfront visas ett fel.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 154faa161413258aae76968495cb464b17d71857
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
 # Dokument: Fel vid användning av en offentlig länk till ett dokument
 
+<!--
 >[!NOTE]
 >
->Problemet har åtgärdats.
+>This issue has been resolved.-->
 
-När en användare klickar på en offentlig länk för att gå till ett dokument i Workfront kan ett av följande fel uppstå:
+När en användare klickar på en offentlig länk för att gå till ett dokument i Workfront visas följande fel:&quot;Dokumentet finns inte längre&quot;.
 
-* 500-fel
-* [!UICONTROL Whoops! Something went wrong. Please contact Workfront so we can figure out what went wrong and fix it.]
+**Tillfällig lösning**
 
+Om användaren är inloggad kan han eller hon visa dokumentet som förväntat.
 
-_Först rapporterad den 30 maj 2024._
+_Först rapporterad 10 januari 2025._

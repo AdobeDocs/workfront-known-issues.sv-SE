@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,24 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i januari 2025
+
++++**Underhållsuppdatering 30 januari 2025**
+
+### Underhållsuppdatering 30 januari 2025
+
+#### Startsida
+
+**Godkännanden visas inte i hemwidgeten**
+
+Godkännanden som skickas av en användare visas inte i sin egen widget för Mina godkännanden, även om de filtreras så att de visas specifikt.
+
+#### Rapporter
+
+**Timrapportfilter innehåller felaktiga datum**
+
+När du filtrerar en timrapport så att endast ett visst datum visas, inkluderas i rapporten ett annat intilliggande datum. Problemet verkar vara relaterat till tidszonsinställningarna.
+
++++
 
 +++**Underhållsuppdatering 23 januari 2025**
 

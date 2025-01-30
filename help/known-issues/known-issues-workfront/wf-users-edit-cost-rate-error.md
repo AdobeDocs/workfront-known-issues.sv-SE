@@ -3,14 +3,19 @@ title: 'Användare: Det går mycket långsamt att uppdatera användare gruppvis'
 description: 'När du försöker redigera kostnadstariffen för en användare visas följande fel: "Försök igen. Om du vill infoga redigeringsdatum måste du definiera mer än 1 frekvens för rollen".'
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+exl-id: ec7464c7-2952-4a4a-8fa1-594405a3ea84
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 # Användare: Fel vid redigering av kostnadstariff
+
+>[!NOTE]
+>
+>Den här artikeln fastställdes den 18 januari 2025.
 
 När du försöker redigera kostnadstariffen för en användare visas följande fel:&quot;Vi försöker igen. Om du vill infoga redigeringsdatum måste du definiera mer än 1 frekvens för rollen&quot;.
 

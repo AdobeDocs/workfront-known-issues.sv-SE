@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront] mobilappen
 keywords: ny fil, lägga till fil
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -26,8 +26,7 @@ Den här sidan innehåller problem som för närvarande identifieras i [!DNL Ado
 Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
-| -----------------------------------------------------------------| ----------------- |
-| [Meddelanden: Push-meddelanden till Workfront-mobilappen fungerar inte](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2 januari 2024 |
+| —| — ||
 | [Workfront Mobile: Korrektur för e-postlänkar öppnas inte i iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 oktober 2024 |
 
 <!--
