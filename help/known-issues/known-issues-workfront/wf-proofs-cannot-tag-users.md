@@ -3,14 +3,19 @@ title: 'Korrektur: Det går inte att tagga vissa användare'
 description: När en användare försöker tagga en annan användare i ett korrektur är vissa användare ibland inte tillgängliga i typsnittsfältet.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+exl-id: 43ab6e92-f8f4-4cb3-8fe5-6e2708474e06
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # Korrektur: Det går inte att tagga vissa användare
+
+>[!NOTE]
+>
+>Problemet korrigerades den 7 februari 2025.
 
 När en användare försöker tagga en annan användare i ett korrektur är vissa användare ibland inte tillgängliga i typsnittsfältet.
 

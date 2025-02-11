@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '2297'
+source-wordcount: '2319'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Layoutmallar: Borttagna vyer är fortfarande tillgängliga](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
+      + [Anpassade formulär: Företag som saknas i det anpassade typsnittsfältet](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
+      + [Dokument: Det går inte att överföra till AEM mappdokumentlista](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [Korrektur: Det går inte att tagga vissa användare](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Uppgifter: Filter och vyer på projektnivå som är tillgängliga för uppgifter](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [Rapporter: Anpassade typsnittsfält i detaljnivån svarar inte](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
@@ -57,7 +60,7 @@ ht-degree: 0%
       + [Dokument: Godkännandet&quot;snabbtillägg&quot; inkluderar inte deadlinepost för nya versioner](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
       + [Layoutmallar: Administratörer kan inte redigera startlayoutmallar](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
       + [Användare: Oregistrerad tagg kvarstår efter inloggning](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
-      + [Workfront: Contributor-användare har inte åtkomst till Program eller Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [Workfront: Contributor-användare har inte åtkomst till program eller portföljer](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [Godkännanden: Filtret Alla utesluter personligt inskickade godkännanden](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [Uppgifter: Felaktig varaktighet för förflutna dagar för överordnade uppgifter med underordnade](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [Rapporter: Gruppredigering i diagramlistor svarar inte](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
@@ -151,7 +154,7 @@ ht-degree: 0%
       + [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Anpassade formulär: Anpassat formulär tas inte bort från dokumentet](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
       + [Problem: Fel vid avancerad tilldelning till ett problem](known-issues-workfront/wf-issues-error-when-making-assignment.md)
-      + [Portfolio: Användaren kan inte ange portfölj](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Portföljer: Användaren kan inte ange portfölj](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + [Workfront: Anpassad terminologi används inte](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
       + [Tid: Filtrerad timtyp är inte standard vid loggningstid](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [Faktureringsposter: Knappen Lägg till fler faktureringsposter saknas](known-issues-workfront/wf-billing-records-new-button-missing.md)
@@ -168,7 +171,7 @@ ht-degree: 0%
       + [Godkännanden: För många omdirigeringar](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Uppdateringar: Den kopierade länken klistras inte in korrekt](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [Rapporter:&quot;Inga data att visa&quot; när gruppnamnet har ett snedstreck eller ett bakåtstreck](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
-      + [Integrering: Problem med integrering med Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
+      + [Integrering: Problem med Dropbox-integrering](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [Rapporter: Fel vid visning av rapportinformation som är grupperad efter anpassat datum](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Knappen för resursplanering: [!UICONTROL More] är inte synlig](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
@@ -244,7 +247,7 @@ ht-degree: 0%
       + [[!UICONTROL Setup]: Listor läses in långsamt i [!UICONTROL Setup]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md)
       + [Uppgifter: Timmar sparas inte när timmar anges i aktiviteten [!UICONTROL Summary panel]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Korrektur: fältet [!UICONTROL Active Proof Stages] är tomt](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
-      + [[!DNL Workfront]: Problem med att skicka ett  [!DNL Workfront] supportärende på Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md)
+      + [[!DNL Workfront]: Problem med att skicka ett [!DNL Workfront] supportärende på Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md)
       + [Kontrollpaneler: Rapportdiagram som visas på en kontrollpanel har andra färger än de som visas i rapporten](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
       + [Agile: Problem vid förflyttning av kort på Agile-tavlan](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
       + [Hem: Anpassad terminologi används inte i Hem-området](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md)

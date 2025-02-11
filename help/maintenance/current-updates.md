@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Mer information om underhållsavbrott för alla Adobe-produkter, inklusive Workfront, finns på [Adobe-statussidan](https://status.adobe.com/).
+>Information om avbrott i underhållsarbetet för alla Adobe-produkter, inklusive Workfront, finns på [Adobe-statussidan](https://status.adobe.com/).
 
 På den här sidan beskrivs de problem som har åtgärdats i de veckovisa uppdateringarna av Workfront.
 
@@ -23,6 +23,20 @@ Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeri
 Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 Följande underhållsuppdateringar gjordes 2025.
+
+## Uppdateringar i februari 2025
+
++++**Underhållsuppdatering 6 februari 2025**
+
+### Underhållsuppdatering 6 februari 2025
+
+#### Listor
+
+**Det går inte att redigera uppgiftslistan efter överföring av korrektur**
+
+När du överför ett korrektur till ett projekt kan uppgiftslistan för det projektet inte redigeras infogat förrän sidan uppdateras eller korrekturet har överförts.
+
++++
 
 ## Uppdateringar i januari 2025
 
