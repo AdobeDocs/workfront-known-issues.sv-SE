@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,24 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i februari 2025
+
++++**Underhållsuppdatering 13 februari 2025**
+
+### Underhållsuppdatering 13 februari 2025
+
+#### Egna formulär
+
+**Anpassade data visas inte på sammanfattningspanelen**
+
+När en kund visar sammanfattningspanelen för en uppgift finns inga anpassade data som ska visas i sammanfattningspanelen. Detta kan inträffa även om layoutmallen för uppgifter innehåller anpassade fält.
+
+#### Rapporter
+
+**Fråga om visningsproblem**
+
+När du får tillgång till en begärd rapport med ett stort antal uppmaningar tillåter inte dialogrutan att bläddring får åtkomst till alla uppmaningar eller knappen Kör rapport.
+
++++
 
 +++**Underhållsuppdatering 6 februari 2025**
 
