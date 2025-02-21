@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+source-git-commit: 9b24b2758215149cbc2517f3c7cbac24b4070f10
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Den här sidan innehåller identifierade problem i [!DNL Adobe Workfront Fusion]
 >
 >Mer information om serverns drifttid och avbrott finns på [status.adobe.com](https://status.adobe.com). Mer information om problem som nyligen har korrigerats finns i [[!DNL Workfront] Underhållsuppdateringar](../maintenance/current-updates.md).
 
-## Nytt
+<!--
+## New
 
-Dessa nyligen rapporterade problem granskas för närvarande.
+These recently reported issues are currently under review.
 
-| **Utgåva** | **Senast ändrad** |
+| **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [API: begäran om tidsgräns](known-issues-workfront/wf-api-request-timing-out.md) | 5 augusti 2024 |
 
-{style="table-layout:auto"}
+{style="table-layout:auto"}-->
 
 ## Pågår
 
