@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,30 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i februari 2025
+
++++**Underhållsuppdatering 20 februari 2025**
+
+### Underhållsuppdatering 20 februari 2025
+
+#### Meddelanden
+
+**E-post och meddelanden i appen försenas**
+
+När en händelse inträffar som bör utlösa e-post eller meddelanden i appen, skickas inte meddelandena när händelsen inträffar, utan det tar några timmar att skicka meddelandet.
+
+#### Uppgifter
+
+**Inloggad timme finns kvar i föregående projekt när det har flyttats**
+
+När uppgifter har flyttats till ett nytt projekt innehåller det totala antalet projekttimmar för det ursprungliga projektet timmar för de flyttade aktiviteterna. Aktiviteterna behåller fortfarande sina loggade timmar i det nya projektet.
+
+#### Tidrapporter
+
+**Felaktiga totala timmar**
+
+Beräkning av totala timmar för tidrapporter visar ibland en felaktig summa.
+
++++
 
 +++**Underhållsuppdatering 13 februari 2025**
 

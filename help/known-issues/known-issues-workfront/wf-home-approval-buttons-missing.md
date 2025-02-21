@@ -3,14 +3,19 @@ title: 'Hem: Godkännandeknappar saknas i väntande godkännandewidget'
 description: När du använder widgeten Väntar på godkännande i Hem visas inte knapparna för att välja ett godkännandebeslut.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
+exl-id: 9e3c4d32-680e-4839-a0b8-8a70d16e5465
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
 # Hem: Godkännandeknappar saknas i väntande godkännandewidget
+
+>[!NOTE]
+>
+>Problemet korrigerades den 13 februari 2025.
 
 När du använder widgeten Väntar på godkännande i Hem visas inte knapparna för att välja ett godkännandebeslut.
 
