@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '693'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,18 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i februari 2025
+
++++**Underhållsuppdatering 27 februari 2025**
+
+### Underhållsuppdatering 27 februari 2025
+
+#### Grupper
+
+**Det går inte att dela administratörsåtkomstnivå**
+
+När du försöker dela administratörsåtkomstnivån till en grupp svarar inte rutan för att kontrollera varje grupp och gruppen får inte den förväntade åtkomstnivån.
+
++++
 
 +++**Underhållsuppdatering 20 februari 2025**
 
