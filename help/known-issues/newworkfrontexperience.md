@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
+source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
 workflow-type: tm+mt
-source-wordcount: '1109'
+source-wordcount: '1118'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrationer: OutlookIdentityToken-fel när Workfront används för Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 mars 2025 |
 | [Meddelanden: Duplicera e-post](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 27 februari 2025 |
 | [Dokument: Det går inte att överföra till AEM-mappdokumentlista](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 27 februari 2025 |
 | [Integrationer: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 20 februari 2025 |
