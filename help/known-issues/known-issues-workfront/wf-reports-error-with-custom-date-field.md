@@ -4,14 +4,18 @@ description: När en användare visar en rapport och klickar på informationen o
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 9ab83394-c192-4a5f-922c-f0fef7df99ca
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+source-git-commit: 88f86485714bb836ddd3f82f37452eb8d3d2e9bf
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
 # Rapporter: Fel vid visning av rapportinformation som är grupperad efter anpassat datum
+
+>[!NOTE]
+>
+>Problemet korrigerades den 25 juli 2024.
 
 När en användare visar en rapport och klickar på informationen och rapporten grupperas efter ett anpassat datumfält, läses inte informationen in och användaren ser följande fel:
 

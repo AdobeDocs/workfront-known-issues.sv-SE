@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2b7c3f6d18c70dc117688fe389e80d87c11c0cc4
+source-git-commit: 10cc321822a7369abab69f75db1bf9a7995191c2
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '983'
 ht-degree: 0%
 
 ---
@@ -30,12 +30,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | [Användare: Ett dubblettkonto skapades när systemadministratören ändrades](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 9 januari 2025 |
 | [Uppgifter: Problem med tidslinjeomberäkning](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 3 december 2024 |
 | [Workfront: Det går inte att läsa in öppna webbläsarflikar](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 november 2024 |
-| [API: API-anrop misslyckas på grund av SQL-fel](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 september 2024 |
-| [Kort: Kortstatusen matchar inte det anslutna objektet och filtret för åsidosättningar](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 3 september 2024 |
 | [Hem: &quot;Ingen åtkomst&quot; visas som projektnamn](known-issues-workfront/wf-home-no-access-project-name.md) | 15 augusti 2024 |
-| [Workfront Mobile: Det går inte att logga in utan SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 14 augusti 2024 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
-| [Rapporter: Fel vid visning av rapportinformation som är grupperad efter anpassat datum](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 14 juni 2024 |
 
 {style="table-layout:auto"}
 
@@ -47,11 +43,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | ---------------------------------- | ----------------- |
 | [Logga in som: Gruppadministratörer kan inte logga in som en annan användare](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 mars 2025 |
 | [Korrektur: Godkända korrektur visas i rapporter](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 februari 2025 |
-| [Rapporter: Inläsningstider för långa rapportverktyg](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 november 2024 |
 | [Integrationer: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 24 september 2024 |
-| [Inställningar: Problem vid utloggning som en annan användare](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 augusti 2024 |
-| [Meddelanden: Hoppfel vid inställning av aviseringsinställningar](known-issues-workfront/wf-notifications-whoops-error.md) | 8 augusti 2024 |
-| [Åtkomstnivåer: Duplicerade åtkomstnivåer i inställningsområdet](known-issues-workfront/wf-access-duplicate-level.md) | 25 juli 2024 |
 | [Team: Det går inte att visa teamägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 april 2024 |
 | [[!DNL Workfront]: Problem med att skicka ett [!DNL Workfront] supportärende på Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 
@@ -81,7 +73,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Workfront: Contributor-användare har inte åtkomst till program eller portföljer](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 5 december 2024 |
 | [Workfront: ZScaler-inställningar kan ge sämre prestanda](known-issues-workfront//wf-workfront-zscaler.md) | 20 november 2024 |
 | [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 12 november 2024 |
-| [Rapporter: Inläsningstider för långa rapportverktyg](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 12 november 2024 |
 | [Meddelanden: Det går inte att visa förhandsgranskningar av bilder med e-postmeddelanden i dokumentmeddelanden](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 29 oktober 2024 |
 | [Rapporter: Fel vid export av rapport](known-issues-workfront/wf-reports-error-cache-content.md) | 14 oktober 2024 |
 | [Hem: Borttagna anpassade fält finns kvar i widgetarna för projekt, aktiviteter och utgåvor](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8 oktober 2024 |

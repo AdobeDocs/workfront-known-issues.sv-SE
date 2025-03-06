@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+source-git-commit: 841d27f421a52b16c7770ff1cceaeeeee7af5182
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | -----------------------------------------------------------------| ----------------- |
 | [Korrektur: Det går inte att tagga vissa användare](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
 | [Dokument: Alla dokument visas inte i dokumentområdet](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2 januari 2024 |
-| [Agile: Artikelbordet blir tomt när en underaktivitet läggs till](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 26 juli 2024 |
-| [Korrektur: Om du öppnar ett korrektur öppnas flera kopior](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 juli 2024 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
-| [Integrationer: Problem med Dropbox-integrering](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 juni 2024 |
 
 {style="table-layout:auto"}
 
@@ -41,12 +38,9 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [Korrektur: Godkända korrektur visas i rapporter](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 februari 2025 |
-| [Dokument: Kan inte förhandsgranska dokument med förhandsgranskningslänk](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 15 augusti 2024 |
 | [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
-| [Det går inte att skapa vyn för dokumentlistan](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 15 juli 2024 |
 | [Dokument: Fel vid användning av en offentlig länk till ett dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |
 | [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 maj 2024 |
-| [Projekt: Det går inte att konvertera utgåva till projekt om ett webbkorrektur har bifogats](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 mars 2024 |
 
 {style="table-layout:auto"}
 
