@@ -3,14 +3,19 @@ title: 'Uppgifter: Filter och vyer på projektnivå som är tillgängliga för u
 description: När du öppnar filter- eller visningslistor för en uppgift visas filter och vyer som har skapats på projektnivå i listan med alternativ.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+exl-id: 3f28e60d-8c19-432b-94af-be217d607cad
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
 # Uppgifter: Filter och vyer på projektnivå som är tillgängliga för uppgifter
+
+>[!NOTE]
+>
+>Problemet korrigerades den 21 februari 2025.
 
 När du öppnar filter- eller visningslistor för en uppgift visas filter och vyer som har skapats på projektnivå i listan med alternativ.
 

@@ -4,9 +4,9 @@ description: Workfront-funktionalitet som använder enkel inloggning returnerar 
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
-source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
+>* Problemet korrigerades den 5 september 2024.
 >* Detta har rapporterats i förhandsvisningens sandlådemiljö och i den anpassade uppdateringsmiljön.
->* Detta har rapporterats för organisationer som använder äldre enkel inloggning (ej Adobe).
+>* Detta har rapporterats för organisationer som använder äldre SSO (inte Adobe).
 
 Workfront-funktioner som använder enkel inloggning returnerar följande fel:
 

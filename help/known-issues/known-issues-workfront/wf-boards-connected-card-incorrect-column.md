@@ -4,22 +4,19 @@ description: Problem med anslutna kort har rapporterats i fel kolumn.
 hidefromtoc: true
 feature: Agile
 exl-id: 98c1c3d7-df14-4f4d-9970-f5326870e2e0
-source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 # Kort: Anslutet kort är i fel kolumn
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on August 15, 2024.
+>Problemet korrigerades den 10 oktober 2024.
 
--->
 
 Följande problem har rapporterats angående anslutna kort i fel kolumn:
 
