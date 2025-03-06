@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
+source-git-commit: bde5a0c3f09e6a238224e03ecae168f6d5cda677
 workflow-type: tm+mt
-source-wordcount: '2352'
+source-wordcount: '2263'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Logga in som: Gruppadministratörer kan inte logga in som en annan användare](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Integreringar: outlookIdentityToken-fel vid användning av Workfront för Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Layoutmall: avsnittet Anpassade iterationer är inte tillgängligt](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [Meddelanden: Duplicerade e-postmeddelanden](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -180,30 +181,18 @@ ht-degree: 0%
       + [Rapporter: Fel vid visning av rapportinformation som är grupperad efter anpassat datum](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Knappen för resursplanering: [!UICONTROL More] är inte synlig](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
-      + [Status: Det går inte att återanvända tidigare borttagen status](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Hem: Det går inte att ta bort widgeten Menyer](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navigering: Bakåtknappen går inte tillbaka till föregående sida](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Dokument: Fel vid användning av en offentlig länk till ett dokument](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Korrektur: Det går inte att stänga korrekturläsaren](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
-      + [Projekt: Delningsmenyn läses inte in](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
-      + [Rapporter: Offentliga länkar till en rapport fungerar inte](known-issues-workfront/wf-reports-public-link-not-working.md)
-      + [[!UICONTROL Resource Planner]: Det går inte att dela filter](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [Faktiskt slutförandedatum visas som Ej tillämpligt](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [Uppgifter: Jobbrollen försvinner inte från listan när användaren tilldelas till uppgiften](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Användare: Användare saknas vid grupptilldelning](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
-      + [Anpassade formulär: Fel vid redigering av beskrivande textfält](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
-      + [Grupper: Det går inte att lägga till undergrupp](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
-      + [Uppdateringar: Användare med taggar kan inte se vem som taggat dem](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Dokument: Felskärm vid hämtning eller förhandsgranskning av resurser](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [Program: All åtkomst till programmet förloras när användaren uppdaterar åtkomst till programmet](known-issues-workfront/wf-programs-permissions-not-inherited.md)
       + [Dokument: UNK-filtillägg när dokument länkas från integration](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [Uppdateringar: När du kopierar och klistrar in ett omnämnande visas inget meddelande till den angivna användaren](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projekt: Projekt som skapats från ett ärende med en mall återspeglar inte prioritetsuppsättningen i mallen](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Tidrapporter: Fäst tidrapport går till tom sida](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [Inställningar: Banderollen Inloggad som visas inte när du är inloggad som en annan användare.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [Kontrollmoderatorer kan inte redigera behörigheter](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
-      + [[!DNL Workfront Goals]: Det går inte att ta bort målet](known-issues-workfront/wf-goals-cannot-delete-goal.md)
-      + [Användare: Det går inte att ändra användarens åtkomstnivå](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [Uppdateringar: Länk i kommentar går till tom skärm](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Team: Det går inte att visa teamets ägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Korrektur: Korrektur förhindrar konvertering av uppgift eller utleverans till projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
@@ -212,7 +201,6 @@ ht-degree: 0%
       + [Rapporter: Rapportfiltret returnerar inte förväntade resultat](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Projekt: Det går inte att konvertera utgåva till projekt om webbofferiet är bifogat](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
       + [Uppdateringar: Begärande användare kan inte lägga till bilder i uppdateringar](known-issues-workfront/wf-updates-requestors-not-add-image.md)
-      + [Kort: Kortet innehåller inte underuppgifter](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Tavlor: Problem med dubblettkort](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Nytt [!UICONTROL Home]: Widget-filter och grupperingsstandardvärden följer inte layoutmallen](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
