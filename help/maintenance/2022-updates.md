@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates in 2022
 description: Underhållsuppdateringar för 2022 för  [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '15336'
+source-wordcount: '15333'
 ht-degree: 0%
 
 ---
@@ -1079,14 +1079,13 @@ Som ett resultat av felkorrigeringarna har den e-postadress som används för at
 
 Tidigare innehöll korrekturmejladresserna organisationens underdomän. Till exempel meddelanden@[företagsdomän].my.workfront.com
 
-Nu innehåller profiler för e-postadresser inte längre någon underdomän för organisationen. Alla korrekturmeddelanden via e-post kommer från följande adress: notification@my.workfront.com
+Nu innehåller profiler för e-postadresser inte längre någon underdomän för organisationen. Alla korrekturmeddelanden via e-post kommer från följande adress: `notification@my.workfront.com`
 
 Därför rekommenderar vi att du utför följande åtgärder om du inte redan gjort det:
 
-* Uppdatera skräppostfiltren så att de accepterar e-post från notification@my.workfront.com
-* Uppdatera tillåtelselista för att acceptera e-post från notification@my.workfront.com
-
-**Det går inte att ändra användaralternativ efter den första konfigurationen i Arbetsflödesmallar**
+* Uppdatera dina skräppostfilter så att de accepterar e-post från `notification@my.workfront.com`
+* Uppdatera dina tillåtelselista för att acceptera e-post från `notification@my.workfront.com`
+  **Det går inte att ändra användaralternativ efter den första konfigurationen i Arbetsflödesmallar**
 
 *[!DNL Workfront Proof]*
 
@@ -1264,7 +1263,7 @@ När en användare försöker öppna området [!UICONTROL Work Requests] på en 
 
 **Det går inte att markera objekt som ska filtreras i [!UICONTROL Portfolio Optimizer] inställningar**
 
-*Portfolio*
+*Portföljer*
 
 När en användare är i [!UICONTROL Portfolio Optimizer] och visar fliken [!UICONTROL Project Filters] i området [!UICONTROL Preferences], är kryssrutorna bredvid objekten inte tillgängliga. Användaren kan inte markera eller avmarkera kryssrutor och kan därför inte markera objekt som ska filtreras.
 
@@ -1312,7 +1311,7 @@ När en användare visar ett scenario körningshistorik och försöker rulla ned
 
 **[!UICONTROL Portfolio Optimizer]visar poängen 0 vid användning av andra språk än engelska**
 
-*Portfolio*
+*Portföljer*
 
 När en användare använder [!DNL Workfront] på ett annat språk än engelska och visar [!UICONTROL Portfolio Optimizer] visas poängen som 0. Detta kan inträffa även när affärsärendet inte är fullständigt.
 
@@ -1378,13 +1377,13 @@ När en användare försöker redigera ett anpassat formulär som har en avsnitt
 
 *Instrumentpaneler*
 
-Följande problem har rapporterats vid utskrift av en kontrollpanel till PDF:
+Följande problem har rapporterats vid utskrift av en kontrollpanel till en PDF:
 PDF skriver inte ut varje rad i rapporten. Där rader saknas visas bara tomt utrymme.
 PDF innehåller blanksteg mellan kolumnrubrikerna och den första raden i rapporten.
 
 **[!DNL Portfolio Optimizer]visar poängen 0 vid användning av andra språk än engelska**
 
-*Portfolio*
+*Portföljer*
 
 När en användare använder [!DNL Workfront] på ett annat språk än engelska och visar [!UICONTROL Portfolio Optimizer] visas poängen som 0. Detta kan inträffa även när affärsärendet inte är fullständigt.
 

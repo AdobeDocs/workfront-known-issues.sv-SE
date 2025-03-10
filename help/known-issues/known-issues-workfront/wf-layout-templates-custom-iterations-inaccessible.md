@@ -3,14 +3,19 @@ title: 'Layoutmall: avsnittet Anpassade iterationer är inte tillgängligt'
 description: När du försöker navigera till avsnittet Anpassad när du redigerar en iteration i en layoutmall läses inte avsnittet in, utan dirigeras om till uppdateringsavsnittet.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
+exl-id: 22b36104-8ec1-4a8c-9b50-58b0d0945598
+source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
 # Layoutmall: avsnittet Anpassade iterationer är inte tillgängligt
+
+>[!NOTE]
+>
+>Problemet löstes den 6 mars 2025.
 
 När du försöker navigera till avsnittet Anpassad när du redigerar en iteration i en layoutmall läses inte avsnittet in, utan dirigeras om till uppdateringsavsnittet.
 
