@@ -4,9 +4,9 @@ description: När en användare ombeds godkänna ett bevis som de inte har åtko
 exl-id: ca75430f-42ea-4239-9756-fd8d4f4aba89
 hidefromtoc: true
 feature: Get Started with Workfront, Projects
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Produktgruppen håller på att utvärdera den här problemlösningen. När problemet är löst kommer det att kommuniceras i produktmeddelandena och inte med underhållsuppdateringarna.
+>Funktionen som hör till det här problemet har tagits bort.
 
 När en användare ombeds godkänna ett bevis som de inte har åtkomst till och deras [!UICONTROL Work List] i [!UICONTROL Home] sorteras av [!UICONTROL Project Name], kan användaren inte se projektnamnet och GUID visas i stället.
 

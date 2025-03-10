@@ -4,9 +4,9 @@ description: När en användare klickar på en .docx-miniatyrbild för att visa 
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Produktgruppen håller på att utvärdera den här problemlösningen. När problemet är löst kommer det att kommuniceras i produktmeddelandena och inte med underhållsuppdateringarna.
+>Funktionen som hör till det här problemet har tagits bort.
 
 När en användare klickar på en [!UICONTROL .docx]-miniatyrbild för att visa en förhandsgranskning av dokumentet öppnas en videospelare som inte kan se dokumentet.
 

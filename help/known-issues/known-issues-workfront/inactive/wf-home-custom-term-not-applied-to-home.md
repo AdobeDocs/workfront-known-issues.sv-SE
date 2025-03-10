@@ -4,9 +4,9 @@ description: I området Hem visas standardnamn för objekt i stället för den t
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
+>Funktionen som hör till det här problemet har tagits bort.
 
 Området [!UICONTROL Home] visar standardnamn för objekt i stället för den terminologi som angetts av organisationen. Detta har rapporterats i följande områden:
 

@@ -4,9 +4,9 @@ description: När en användare delegerar godkännanden till en användare i en 
 exl-id: 0dc3bc4c-b6b3-489f-aa4b-c925009512db
 hidefromtoc: true
 feature: Approvals
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: d4311fb34cd3eb6e6ec1bed838fbf197098dcc01
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Produktgruppen håller på att utvärdera den här problemlösningen. När problemet är löst kommer det att kommuniceras i produktmeddelandena och inte med underhållsuppdateringarna.
+>Funktionen som hör till det här problemet har tagits bort.
 
 När en användare delegerar godkännanden till en användare i en annan tidszon verkar delegeringen spara korrekt och den delegerade användaren får ett e-postmeddelande med rätt datum. Om de uppdaterar sidan ser de dock att [!UICONTROL Start Date] har flyttats tillbaka en dag och [!UICONTROL End Date] har flyttats framåt en dag. Användaren får också ett e-postmeddelande med de ändrade datumen.
 
