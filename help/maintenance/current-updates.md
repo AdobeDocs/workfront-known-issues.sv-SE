@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 670de537b1a167ad682f6e74f5ef02e4f6691c46
+source-git-commit: a463b80b8f40ef00f074a855b3a6265595d70198
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '797'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,18 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i mars 2025
+
++++**Underhållsuppdatering 13 mars 2025**
+
+### Underhållsuppdatering 13 mars 2025
+
+#### Rapporter
+
+**Antalet objekt i diagrammet är felaktigt**
+
+I en kontrollpanelsrapport fungerar det som förväntat om du klickar på ett diagramresultat med mer än 15 objekt och väljer att bara visa 15. Om du öppnar samma rapport utanför kontrollpanelen och klickar på samma diagramresultat, visar det att alla objekt visas, men endast 15 visas.
+
++++
 
 +++**Underhållsuppdatering 6 mars 2025**
 
