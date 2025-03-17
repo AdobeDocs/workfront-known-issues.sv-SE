@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f3ceee997d45018f85617da69400863a97582864
+source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '943'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Begäranden: Begärandekön är inte tillgänglig](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md) | 13 mars 2025 |
+| [Korrektur: Korrekturgenereringen är extremt långsam](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | 17 mars 2025 |
 | [Projekt: Projektets förloppsstatus uppdateras inte automatiskt till Sent](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) | 13 mars 2025 |
 | [Korrektur: Det går inte att tagga vissa användare](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
 | [Användare: Ett dubblettkonto skapades när systemadministratören ändrades](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 9 januari 2025 |
@@ -40,6 +40,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 | ---------------------------------- | ----------------- |
+| [Uppdateringar: Uppdateringarna är fördröjda](known-issues-workfront/wf-updates-delay-in-updates.md) | 17 mars 2025 |
 | [Uppdateringar: Vissa användare kan inte se bilder eller dokument som är bifogade till kommentarer](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 mars 2025 |
 | [Logga in som: Gruppadministratörer kan inte logga in som en annan användare](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 mars 2025 |
 | [[!DNL Workfront]: Problem med att skicka ett [!DNL Workfront] supportärende på Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |

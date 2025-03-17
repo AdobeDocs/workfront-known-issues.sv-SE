@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
+source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
 workflow-type: tm+mt
-source-wordcount: '1629'
+source-wordcount: '1639'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Uppdateringar: Uppdateringarna är fördröjda](known-issues-workfront/wf-updates-delay-in-updates.md)
+      + [Korrektur: Korrekturgenereringen är extremt långsam](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md)
       + [Begäranden: Begärandekön är inte tillgänglig](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [Projekt: Projektets förloppsstatus uppdateras inte automatiskt till Sent](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Uppdateringar: Vissa användare kan inte se bilder eller dokument som är kopplade till kommentarer](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
