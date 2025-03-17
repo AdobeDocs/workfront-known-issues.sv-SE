@@ -3,7 +3,7 @@ title: 'Korrektur: Korrekturgenereringen är extremt långsam'
 description: När en användare skapar ett korrektur i Workfront kan det ta 3-10 minuter att generera ett korrektur. Beviset genereras, men långsamt.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7b4146154fa50c77daf237ec8c480b900c0aa277
+source-git-commit: 6243a56d1b351bc7dd343cd8580a2b7ce3eae588
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
