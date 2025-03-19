@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
+source-git-commit: 067fc125293bbfe30f6b8ded8ef71d440506e7eb
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Scenariot körs inte](known-issues-workfront-fusion/fusion-scenario-not-running.md) | 19 mars 2024 |
 | [Workfront Fusion: Kan inte lägga till eller ta bort användare från Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | 24 september 2024 |
 
 {style="table-layout:auto"}
