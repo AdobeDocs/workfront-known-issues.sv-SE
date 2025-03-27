@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
+source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1685'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Begäranden: Inbäddade kod-URL:er läser inte in begärandekön korrekt](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
+      + [Rapporter: Användare i olika tidszoner får olika rapportresultat](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
+      + [Användare: Gruppadministratörer kan inte inaktivera användare](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [Filter: Listrutan försvinner när du klickar på rullningslisten](known-issues-workfront/wf-filter-scroll-bar.md)
       + [Hem: Det går inte att skicka svar från widgeten Menyer](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [Uppdateringar: Uppdateringarna är fördröjda](known-issues-workfront/wf-updates-delay-in-updates.md)
