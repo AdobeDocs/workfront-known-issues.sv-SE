@@ -4,9 +4,9 @@ description: När en användare visar sidan Dokumentinformation och klickar på 
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: ab447226ac968d1efee5a8846e8aa1f02661af47
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
+>Problemet har åtgärdats.
 
 När en användare visar sidan [!UICONTROL Document Details] och klickar på ett alternativ på menyn [!UICONTROL Proofing Activities] dirigeras användaren till en inloggningssida i stället för till den avsedda målsidan.
 

@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
+source-git-commit: 282c250c226a0024d0359bca938ad56d78026848
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '946'
 ht-degree: 0%
 
 ---
@@ -106,7 +106,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 augusti 2023 |
 | [[!UICONTROL Setup]: Det går inte att exportera granskningsloggar](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20 juli 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
-| [Dokument: [!UICONTROL Proofing Activities] alternativ leder till inloggningssida](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 21 april 2023 |
 | [Filter: Det går inte att dela ett filter från en rapport på en instrumentpanel](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 april 2023 |
 | [Korrektur: Mätverktyget accepterar inte decimalpunkter](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
 | [Dokument: 404-fel vid åtkomst av dokument som är länkade från  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 mars 2023 |
