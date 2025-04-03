@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
+source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '953'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Kontrollpaneler: Den anpassade kontrollpanelen öppnas inte](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | 3 april 2025 |
 | [Begäranden: Inbäddade kod-URL:er läser inte in begärandekön korrekt](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 27 mars 2025 |
 | [Rapporter: Användare i olika tidszoner får olika rapportresultat](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | 27 mars 2025 |
 | [Korrektur: Det går inte att tagga vissa användare](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
@@ -41,7 +42,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | **Utgåva** | **Senast ändrad** |
 | ---------------------------------- | ----------------- |
 | [Användare: Gruppadministratörer kan inte inaktivera användare](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) | 27 mars 2025 |
-| [Uppdateringar: Vissa användare kan inte se bilder eller dokument som är bifogade till kommentarer](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 mars 2025 |
 | [Logga in som: Gruppadministratörer kan inte logga in som en annan användare](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 mars 2025 |
 | [[!DNL Workfront]: Problem med att skicka ett [!DNL Workfront] supportärende på Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 

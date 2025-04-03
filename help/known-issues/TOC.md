@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
+source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
 workflow-type: tm+mt
-source-wordcount: '1685'
+source-wordcount: '1707'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Kontrollpaneler: Anpassad instrumentpanel öppnas inte](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Begäranden: Inbäddade kod-URL:er läser inte in begärandekön korrekt](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [Rapporter: Användare i olika tidszoner får olika rapportresultat](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
       + [Användare: Gruppadministratörer kan inte inaktivera användare](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
@@ -225,6 +226,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Kända fel i Workfront Fusion](workfrontfusion.md)
    + Aktuella problem i [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: Workfront Event Subscription version 2 options not available when connecting to a Sandbox environment](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion: Scenario körs inte](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: Börja med att ange&quot;Från och med nu&quot; för att bearbeta alla data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: Kan inte lägga till eller ta bort användare från Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
