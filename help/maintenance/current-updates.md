@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
+source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '962'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i april 2025
 
-+++**(Planerad) Underhållsuppdatering den 10 april 2025**
++++**Underhållsuppdatering 10 april 2025**
 
-### **(Planerad) Underhållsuppdatering den 10 april 2025**
+### **Underhållsuppdatering 10 april 2025**
 
-#### Instrumentbrädor
+#### Kontrollpaneler
 
 **Anpassad instrumentpanel öppnas inte**
 
-När en användare visar ett objekt och försöker öppna en anpassad instrumentpanel som är kopplad till objektet öppnas inte instrumentpanelen.
+När en användare visar ett objekt och försöker öppna en anpassad kontrollpanel som är kopplad till objektet, öppnas inte kontrollpanelen.
 
 #### Rapporter
 
@@ -44,11 +44,11 @@ Användare i olika tidszoner som använder datumväljaren för att hämta en rap
 
 +++
 
-+++**Underhållsuppdatering den 3 april 2025**
++++**Underhållsuppdatering 3 april 2025**
 
-### Underhållsuppdatering den 3 april 2025
+### Underhållsuppdatering 3 april 2025
 
-Den här uppdateringen innehåller endast mindre eller mindre framträdande buggfixar. Workfront Support meddelar dig när ett problem som du har skickat har åtgärdats.
+Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. Workfront Support meddelar dig när ett problem som du har skickat har åtgärdats.
 
 +++
 
@@ -160,15 +160,15 @@ När du överför ett korrektur till ett projekt kan uppgiftslistan för det pro
 
 ## Uppdateringar i januari 2025
 
-+++**Underhållsuppdatering den 30 januari 2025**
++++**Underhållsuppdatering 30 januari 2025**
 
-### Underhållsuppdatering den 30 januari 2025
+### Underhållsuppdatering 30 januari 2025
 
-#### Hem
+#### Startsida
 
-**Godkännanden visas inte i widgeten Hem**
+**Godkännanden visas inte i hemwidgeten**
 
-Godkännanden som skickas in av en användare visas inte i deras egen widget Mina godkännanden, även om de filtreras för att specifikt visa dem.
+Godkännanden som skickas av en användare visas inte i sin egen widget för Mina godkännanden, även om de filtreras så att de visas specifikt.
 
 #### Rapporter
 
@@ -178,9 +178,9 @@ När du filtrerar en timrapport så att endast ett visst datum visas, inkluderas
 
 +++
 
-+++**Underhållsuppdatering den 23 januari 2025**
++++**Underhållsuppdatering 23 januari 2025**
 
-### Underhållsuppdatering den 23 januari 2025
+### Underhållsuppdatering 23 januari 2025
 
 #### Rapporter
 
