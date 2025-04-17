@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 769cf7631661402b5add6e719838358859e25a21
+source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1719'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 0%
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
-   + Aktuella frågor i [!DNL Adobe Workfront] {#wf-current}
+   + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Dokument: Dokumentminiatyrer visas inte](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [Mallar: Kan inte dela med Contribute-åtkomst](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Kontrollpaneler: Anpassad instrumentpanel öppnas inte](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Begäranden: Inbäddade kod-URL:er läser inte in begärandekön korrekt](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
@@ -33,27 +34,27 @@ ht-degree: 0%
       + [Integreringar: outlookIdentityToken-fel vid användning av Workfront för Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Layoutmall: avsnittet Anpassade iterationer är inte tillgängligt](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [Meddelanden: Duplicerade e-postmeddelanden](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
-      + [Workfront Fusion: Anslutningsfel i scenario](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
-      + [Korrektur: Det går inte att skapa bevis för videor som är länkade från AEM till Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
+      + [Workfront Fusion: Scenarioanslutningsfel](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
+      + [Korrektur: Det går inte att skapa korrektur för videofilmer som är länkade från AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
       + [Layoutmallar: Borttagna vyer är fortfarande tillgängliga](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
-      + [Anpassade formulär: Företag som saknas i det anpassade fältet för typeahead](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
+      + [Anpassade formulär: Företag som saknas i det anpassade typsnittsfältet](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
       + [Dokument: Det går inte att överföra till AEM mappdokumentlista](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
-      + [Bevis: Det går inte att tagga vissa användare](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
+      + [Korrektur: Det går inte att tagga vissa användare](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Uppgifter: Filter och vyer på projektnivå som är tillgängliga för uppgifter](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
-      + [Rapporter: Anpassade typeahead-fält i detaljnivån svarar inte](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
+      + [Rapporter: Anpassade typsnittsfält i detaljnivån svarar inte](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [Logga in som: Administratörens layoutmall för startsidan visas](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
-      + [Användare: Fel vid redigering av kostnadssats](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
-      + [Uppgifter: Loggad timme finns kvar på tidigare projekt när det har flyttats](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
+      + [Användare: Fel vid redigering av kostnadstariff](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
+      + [Uppgifter: Loggad timme finns kvar i föregående projekt när det flyttats](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
       + [Rapporter: Timrapportfilter innehåller felaktiga datum](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
-      + [Tidrapporter: Felaktigt totalt antal timmar](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
-      + [Hem: Godkännandeknappar saknas i widgeten Väntar på godkännande](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
-      + [Användare: Duplicerat konto skapades vid byte av systemadministratör](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
-      + [Projekt: Sent villkor som inte tillämpats som förväntat](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
+      + [Tidrapporter: Felaktiga totala timmar](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
+      + [Hem: Godkännandeknappar saknas i väntande godkännandewidget](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
+      + [Användare: Dubblettkonto skapades när systemadministratören ändrades](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
+      + [Projekt: Sena villkor används inte som förväntat](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [Anpassade formulär: Anpassat formulär visas i äldre format](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [Faktureringspost: Timmar sparas inte](known-issues-workfront/wf-billing-record-hours-not-saved.md)
-      + [Anslagstavlor: Det går inte att flytta kortet till en annan kolumn](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [Anpassade formulär: Meddelandet &quot;Ogiltiga fält&quot; när du redigerar ett anpassat formulär](known-issues-workfront/wf-custom-forms-blank-required-field.md)
-      + [Användare: Massuppdatering av användare är mycket långsam](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [Tavlor: Det går inte att flytta kortet till en annan kolumn](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+      + [Anpassade formulär: Meddelandet&quot;Ogiltiga fält&quot; när ett anpassat formulär redigeras](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [Användare: Det går mycket långsamt att uppdatera användare gruppvis](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
       + [Anpassade formulär: Alternativknappar visas vågrätt](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
       + [Uppdateringar: Inloggade timmar visas inte i loggtidsetiketten i uppdateringsområdet](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [Rapporter: Rapportera uppmaningar läses in långsamt](known-issues-workfront/wf-reports-prompts-load-slowly.md)
@@ -76,7 +77,7 @@ ht-degree: 0%
       + [Meddelanden: E-postmeddelanden om att uppdateringar inte skickas](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
       + [Anpassade formulär: Det går inte att lägga till aktivitetsfälten &quot;estimeraByHours&quot; eller &quot;hoursPerPoint&quot;](known-issues-workfront/wf-custom-forms-invalid-fields.md)
       + [Dokument: Godkännandet&quot;snabbtillägg&quot; inkluderar inte deadlinepost för nya versioner](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
-      + [Layoutmallar: Administratörer kan inte redigera layoutmallar för startsidan](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
+      + [Layoutmallar: Administratörer kan inte redigera startlayoutmallar](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
       + [Användare: Oregistrerad tagg kvarstår efter inloggning](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
       + [Workfront: Contributor-användare har inte åtkomst till program eller portföljer](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [Godkännanden: Filtret Alla utesluter personligt inskickade godkännanden](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
@@ -93,23 +94,23 @@ ht-degree: 0%
       + [Hem: Borttagna anpassade fält finns kvar i widgetar för projekt, uppgifter och utgåvor](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [Prioriteringar: Grupperingar förhindrar sortering och infogad redigering](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [Projekt: Det går inte att dela projekt på grund av felet &quot;åtkomst till borttagning&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
-      + [Rapporter: Det går inte att bläddra för att se hela diagramrapporten](known-issues-workfront/wf-reports-unable-to-scroll.md)
-      + [Grupper: Statusen Borttagen grupp visas igen](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + [Meddelanden: Deltagaranvändare får inte e-postaviseringar](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
-      + [Workfront: Det går inte att använda enkel inloggning](known-issues-workfront/wf-workfront-cannot-use-sso.md)
-      + [Anpassade formulär: Formulär är som standard projektformulär](known-issues-workfront/wf-custom-forms-default-to-project.md)
-      + [Integrationer: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
-      + [Dokument: Korrekturkommentarer visas inte vid dokumentuppdateringar](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
-      + [Hem: &quot;Ingen åtkomst&quot; visas som projektnamn](known-issues-workfront/wf-home-no-access-project-name.md)
-      + [Hem: Hemmet kraschar med felet &quot;Slut på minne&quot;.](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [Rapporter: Det går inte att rulla för att visa hela diagramrapporten](known-issues-workfront/wf-reports-unable-to-scroll.md)
+      + [Grupper: Borttagen gruppstatus visas igen](known-issues-workfront/wf-groups-deleted-status-reappears.md)
+      + [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
+      + [Workfront: Kan inte använda enkel inloggning](known-issues-workfront/wf-workfront-cannot-use-sso.md)
+      + [Egna formulär: Forms har som standard Project-formulär](known-issues-workfront/wf-custom-forms-default-to-project.md)
+      + [Integrering: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
+      + [Dokument: Korrekturkommentarer visas inte i dokumentuppdateringar](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
+      + [Hem:&quot;Ingen åtkomst&quot; visas som projektnamn](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [Hem: Hem kraschar med felet&quot;Slut på minne&quot;](known-issues-workfront/wf-home-crashes-with-error.md)
       + [Workfront: Flera webbläsarflikar gör att Workfront loggar ut](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
-      + [Förfrågningar: Användaren kan ändra status trots brist på behörigheter](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
-      + [Tavlor: Kortet är anslutet i fel kolumn](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Begäranden: Användaren kan ändra status trots att behörigheter saknas](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [Kort: Anslutet kort är i fel kolumn](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
       + [Rapporter: Fel vid export av rapport](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Uppgifter: Problem med omberäkning av tidslinjen](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
-      + [Anpassade formulär: Formulärbyggaren kraschar när visningslogik anges](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
-      + [Anpassade formulär: Beräknat fält som visar felaktigt värde](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
-      + [Workfront Fusion: Det går inte att autentisera en anslutning med Workfront Log in som funktion](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [Uppgifter: Problem med tidslinjeomberäkning](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [Anpassade formulär: Formulärverktyget kraschar när visningslogik anges](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [Anpassade formulär: Beräknat fält med felaktigt värde](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion: Det går inte att autentisera en anslutning med Workfront Inloggningsfunktion](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
       + [API: begäran om tidsgräns](known-issues-workfront/wf-api-request-timing-out.md)
       + [korrektur: Godkända korrektur visas i rapporter](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
@@ -137,7 +138,7 @@ ht-degree: 0%
       + [Rapporter: Rapportfiltret returnerar inte förväntade resultat](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Uppdateringar: Begärande användare kan inte lägga till bilder i uppdateringar](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [Korrektur: Zippade korrektur kan inte generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
-      + [Nytt [!UICONTROL Home]: Standardinställningar för widgetfilter och gruppering följer inte layoutmallen](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
+      + [Nytt [!UICONTROL Home]: Widget-filter och grupperingsstandardvärden följer inte layoutmallen](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [Team: Problem med att ange gruppstatus för knappen [!UICONTROL Done]](known-issues-workfront/wf-teams-statuses-missing.md)
       + [Inställningar: Det går inte att använda [!UICONTROL Kick-Starts] för att konfigurera grupperingar](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md)
       + [Kort: Kort som flyttats till en kolumn återgår till den ursprungliga kolumnen efter uppdatering](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
@@ -153,13 +154,13 @@ ht-degree: 0%
       + [[!UICONTROL Home]: Widgeten [!UICONTROL Mentions] i nya [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Setup]: Det går inte att exportera granskningsloggar](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md)
-      + [Bevis: Bevis skapas långsamt i förhandsgranskningsmiljön](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
-      + [Anpassade formulär: &quot;[!UICONTROL Whoops]&quot;-fel när du ställer in ett beräknat fält](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
-      + [Korrektur: [!UICONTROL Proof Activity] fliken öppnas [!UICONTROL Proof Details]](known-issues-workfront/inactive/wf-proofs-proofing-activity-redirects-to-details.md)
+      + [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
+      + [Anpassade formulär: [!UICONTROL Whoops]-fel när ett beräknat fält konfigureras](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
+      + [Korrektur: [!UICONTROL Proof Activity]-fliken öppnas [!UICONTROL Proof Details]](known-issues-workfront/inactive/wf-proofs-proofing-activity-redirects-to-details.md)
       + [Filter: Det går inte att dela ett filter från en rapport på en instrumentpanel](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
-      + [Bevis: Mätverktyget accepterar inte decimaler](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
+      + [Korrektur: Mätverktyget accepterar inte decimalpunkter](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Dokument: Problem med dokumentlistan](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
-      + [Dokument: 404-fel vid åtkomst till dokument som är länkade från [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
+      + [Dokument: 404-fel vid åtkomst av dokument som är länkade från  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [Dokument: [!UICONTROL Proofing Activities] alternativ leder till inloggningssida](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md)
       + [[!UICONTROL Workload Balancer]: Timmarna justeras inte efter användarens ledig tid](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL Updates]: Det går inte att logga tid för den aktuella dagen i området [!UICONTROL Updates]](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
@@ -202,7 +203,7 @@ ht-degree: 0%
    + [Kända fel i  [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuella problem i [!DNL Workfront Proof] {#proof-current}
       + [Workfront Mobile: Korrektur för e-postlänkar öppnas inte i iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
-      + [[!UICONTROL Workfront Proof]: Det går inte att ändra ordningen på resurser när du skapar ett korrektur](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
+      + [[!UICONTROL Workfront Proof]: Det går inte att ändra ordning på resurser när ett korrektur skapas](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: Felaktig tidsstämpel på [!UICONTROL Proof Summary]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: Det går inte att utöka arbetsflödet](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront Proof: Instrumentpanelsdata är inte alltid korrekta](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
@@ -220,7 +221,7 @@ ht-degree: 0%
       + [[!UICONTROL Proof Approval]-rapporten kan inte fastställa deadlines korrekt](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL Home]: Slutförde korrektur som fastnat i [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [Dokument: Ikonen för korrekturarbetsflöde visas inte](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + Löste problem i [!DNL Workfront] korrektur {#proof-resolved}
+   + Löste problem i [!DNL Workfront]-korrektur {#proof-resolved}
       + [Korrektur: Korrektur visas som [!UICONTROL Generating proof] för mycket tid](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
@@ -245,7 +246,7 @@ ht-degree: 0%
    + [Kända fel i  [!DNL Workfront Goals]](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [Kända fel i  [!DNL Workfront Library]](workfrontlibrary.md)
-+ [!DNL Workfront]-mobilapp {#mobile}
++ Mobilappen [!DNL Workfront] {#mobile}
    + [Kända fel i  [!DNL Workfront] mobilappen](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
    + [Kända fel i  [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
