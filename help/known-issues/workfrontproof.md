@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: f352217ebfb597ea74b02a99c639b27bb3eed53d
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | -----------------------------------------------------------------| ----------------- |
 | [Korrektur: Korrekturgenereringen är långsam](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | 17 mars 2025 |
 | [Korrektur: Det går inte att tagga vissa användare](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
-| [Dokument: Alla dokument visas inte i dokumentområdet](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2 januari 2024 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
 {style="table-layout:auto"}

@@ -1,12 +1,12 @@
 ---
 title: 'Workfront: Varumärkningen är inte tillgänglig'
-description: När en användare överför filer till området Varumärke i installationsprogrammet verkar filerna överföras korrekt. Om en användare däremot visar huvudmenyn visas inte logotypen. I stället visas ett felmeddelande.
+description: Varumärket är inte tillgängligt för organisationer som har migrerats till Adobe Admin Console, Adobe Unified Shell eller Adobe IMS (Identity Management System).
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
-source-git-commit: edbb0ac85506450aaf5b5147525fe50f2089b119
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

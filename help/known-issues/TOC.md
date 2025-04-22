@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: ad58881526869c966792584b9a139c2759e7282d
 workflow-type: tm+mt
-source-wordcount: '1719'
+source-wordcount: '1538'
 ht-degree: 0%
 
 ---
@@ -50,50 +50,29 @@ ht-degree: 0%
       + [Hem: Godkännandeknappar saknas i väntande godkännandewidget](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [Användare: Dubblettkonto skapades när systemadministratören ändrades](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Projekt: Sena villkor används inte som förväntat](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
-      + [Anpassade formulär: Anpassat formulär visas i äldre format](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [Faktureringspost: Timmar sparas inte](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [Tavlor: Det går inte att flytta kortet till en annan kolumn](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [Anpassade formulär: Meddelandet&quot;Ogiltiga fält&quot; när ett anpassat formulär redigeras](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [Användare: Det går mycket långsamt att uppdatera användare gruppvis](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
-      + [Anpassade formulär: Alternativknappar visas vågrätt](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [Uppdateringar: Inloggade timmar visas inte i loggtidsetiketten i uppdateringsområdet](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [Rapporter: Rapportera uppmaningar läses in långsamt](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Meddelanden: Push-meddelanden till Workfront-mobilappen fungerar inte](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
-      + [Dokument: Dokumentområdet visar inte alla dokument](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
-      + [Anpassade formulär: Fel vid redigering av anpassat formulär via kolumn](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [Begäranden och problem: Fel vid avancerade användartilldelningar](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [Anpassade formulär: Anpassade data visas inte på panelen Sammanfattning](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
-      + [Agile: Det går inte att massredigera artiklar i en iteration](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
-      + [Korrektur: Det går inte att lägga till mottagare i korrektur](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
-      + [Korrektur: Korrekturnamn visas inte på webbläsarfliken](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
-      + [Uppgifter: Oftesfel när personliga uppgifter läggs till](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
       + [Korrektur: Webbfångstkorrektur genererar inte](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [Godkännanden: Delegerade godkännanden visas inte för ombud](known-issues-workfront/wf-approvals-delegation-not-working.md)
-      + [Dokument:&quot;Osparade ändringar&quot;-fel när ett formulär läggs till i ett dokument](known-issues-workfront/wf-documents-unsaved-changes-error.md)
-      + [Uppgifter: Fältet är klart att börja inte uppdateras trots slutförda föregående aktiviteter](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
       + [Workfront: Datumformatet ändras i hela programmet](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront: ZScaler-inställningar kan ge sämre prestanda](known-issues-workfront//wf-workfront-zscaler.md)
-      + [Tidrapporter: Deltagare har en&quot;Skicka för godkännande&quot;-knapp](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [Meddelanden: E-postmeddelanden om att uppdateringar inte skickas](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
-      + [Anpassade formulär: Det går inte att lägga till aktivitetsfälten &quot;estimeraByHours&quot; eller &quot;hoursPerPoint&quot;](known-issues-workfront/wf-custom-forms-invalid-fields.md)
-      + [Dokument: Godkännandet&quot;snabbtillägg&quot; inkluderar inte deadlinepost för nya versioner](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
-      + [Layoutmallar: Administratörer kan inte redigera startlayoutmallar](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
       + [Användare: Oregistrerad tagg kvarstår efter inloggning](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
       + [Workfront: Contributor-användare har inte åtkomst till program eller portföljer](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [Godkännanden: Filtret Alla utesluter personligt inskickade godkännanden](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [Uppgifter: Felaktig varaktighet för förflutna dagar för överordnade uppgifter med underordnade](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [Rapporter: Gruppredigering i diagramlistor svarar inte](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront: Det går inte att läsa in webbläsarflikar som är öppna](known-issues-workfront/wf-workfront-browser-tabs-error.md)
-      + [Rapporter: Rapporter läses inte in](known-issues-workfront/wf-reports-fail-to-load.md)
       + [Layoutmallar: Anpassade datafält visas inte när de läggs till i uppgiftssammanfattning via layoutmall](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
-      + [Hem: Widgeten Mina uppdateringar fungerar inte](known-issues-workfront/wf-home-my-updates-not-working.md)
-      + [Dokument: Knappen Alternativ för godkännande saknas i dokument](known-issues-workfront/wf-documents-missing-approval-button.md)
       + [Integreringar: JumpSeat-integreringar misslyckas för organisationer med enhetligt gränssnitt](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [Meddelanden: Det går inte att visa förhandsvisningar av bilder i e-postmeddelanden om dokumentmeddelanden](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Korrektur: Det går inte att skapa korrektur i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [Hem: Borttagna anpassade fält finns kvar i widgetar för projekt, uppgifter och utgåvor](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [Prioriteringar: Grupperingar förhindrar sortering och infogad redigering](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
-      + [Projekt: Det går inte att dela projekt på grund av felet &quot;åtkomst till borttagning&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
       + [Rapporter: Det går inte att rulla för att visa hela diagramrapporten](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Grupper: Borttagen gruppstatus visas igen](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)

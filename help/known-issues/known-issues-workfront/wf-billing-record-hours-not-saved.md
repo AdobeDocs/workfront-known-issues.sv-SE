@@ -4,7 +4,7 @@ description: När en användare försöker lägga till berättigade timmar i en 
 hidefromtoc: true
 feature: Work Management
 exl-id: a199d943-69d7-4262-8fd8-ca8ff4f5ab33
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Den här artikeln fastställdes den 29 januari 2025.
+>Problemet korrigerades den 29 januari 2025.
 
 När en användare försöker lägga till berättigade timmar i en affärspost sparas inte timmarna och användaren ser följande meddelande:
 
