@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: f352217ebfb597ea74b02a99c639b27bb3eed53d
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Uppdateringar: Vissa användare kan inte se bilder eller dokument som är bifogade till kommentarer](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 mars 2025 |
 | [Korrektur: Godkända korrektur visas i rapporter](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 februari 2025 |
 | [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
-| [Dokument: Fel vid användning av en offentlig länk till ett dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 juni 2024 |
 | [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 maj 2024 |
 
 {style="table-layout:auto"}

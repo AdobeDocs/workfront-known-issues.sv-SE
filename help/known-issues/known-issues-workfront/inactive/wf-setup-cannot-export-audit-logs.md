@@ -4,9 +4,9 @@ description: När en användare försöker exportera ett stort antal gransknings
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Produktgruppen håller på att utvärdera den här problemlösningen. När problemet är löst kommer det att kommuniceras i produktmeddelandena och inte med underhållsuppdateringarna.
+>Problemet korrigerades den 4 november 2024.
 
 När en användare försöker exportera ett stort antal granskningsloggar exporteras inte loggarna. Det finns inget som tyder på att exporten misslyckades.
 

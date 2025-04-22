@@ -4,9 +4,9 @@ description: När en användare tittar på ett beräknat fält som refererar til
 hidefromtoc: true
 feature: Custom Forms
 exl-id: a6768daa-f248-4311-8274-3ad4310faad7
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
+>Problemet korrigerades den 10 oktober 2024.
 
 När en användare tittar på ett beräknat fält som refererar till värden för externa sökfält med flera val, visar beräkningsfältet endast ett valt värde. Detta kan inträffa även när flera värden är markerade och de flera värdena visas när användaren redigerar fältet.
 

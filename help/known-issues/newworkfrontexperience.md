@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '901'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 | ----------------------------------------------------------------- | ----------------- |
 | [Mallar: Kan inte dela med Contribute-åtkomst](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | 11 april 2025 |
 | [Korrektur: Det går inte att tagga vissa användare](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
-| [Workfront: Det går inte att läsa in öppna webbläsarflikar](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 november 2024 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
 {style="table-layout:auto"}
@@ -50,6 +49,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront: Det går inte att läsa in öppna webbläsarflikar](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 22 april 2025 |
 | [Filter: Listrutan försvinner när du klickar på rullningslisten](known-issues-workfront/wf-filter-scroll-bar.md) | 26 mars 2025 |
 | [Team: Det går inte att visa teamägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 13 mars 2025 |
 | [Hem: &quot;Ingen åtkomst&quot; visas som projektnamn](known-issues-workfront/wf-home-no-access-project-name.md) | 13 mars 2025 |
@@ -78,7 +78,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Hem: Hem kraschar med felet &quot;Slut på minne&quot; ](known-issues-workfront/wf-home-crashes-with-error.md) | 5 september 2024 |
 | [Rapporter: Det går inte att rulla för att visa hela diagramrapporten](known-issues-workfront/wf-reports-unable-to-scroll.md) | 19 september 2024 |
 | [Workfront: Flera webbläsarflikar gör att Workfront loggar ut](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 18 september 2024 |
-| [Anpassade formulär: Beräknade fält med felaktigt värde](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 12 september 2024 |
 | [Hem: Hem kraschar med felet &quot;Slut på minne&quot; ](known-issues-workfront/wf-home-crashes-with-error.md) | 12 september 2024 |
 | [Brevkort: Kortet visas inte som användare när [!UICONTROL Log in as]](known-issues-workfront/wf-boards-log-in-as.md) används | 30 augusti 2024 |
 | [Navigering: Bakåtknappen går inte tillbaka till föregående sida](known-issues-workfront/wf-navigation-back-button-not-work.md) | 30 augusti 2024 |
@@ -101,7 +100,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [[!UICONTROL Home]: Widgeten [!UICONTROL Mentions] i nya [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 25 september 2023 |
 | [[!UICONTROL Home]: Den nya [!UICONTROL Home] widgetförhandsvisningen visar inte rätt objektnamn ](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 september 2023 |
 | [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 augusti 2023 |
-| [[!UICONTROL Setup]: Det går inte att exportera granskningsloggar](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20 juli 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
 | [Filter: Det går inte att dela ett filter från en rapport på en instrumentpanel](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 april 2023 |
 | [Korrektur: Mätverktyget accepterar inte decimalpunkter](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
