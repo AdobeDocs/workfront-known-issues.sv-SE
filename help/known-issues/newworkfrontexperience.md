@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
+source-git-commit: ef202b88d094e783b2b4e288aea68ccbb71c175f
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '892'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront: Det går inte att läsa in öppna webbläsarflikar](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 22 april 2025 |
 | [Filter: Listrutan försvinner när du klickar på rullningslisten](known-issues-workfront/wf-filter-scroll-bar.md) | 26 mars 2025 |
 | [Team: Det går inte att visa teamägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 13 mars 2025 |
 | [Hem: &quot;Ingen åtkomst&quot; visas som projektnamn](known-issues-workfront/wf-home-no-access-project-name.md) | 13 mars 2025 |

@@ -4,9 +4,9 @@ description: 'När en användare har Workfront webbläsarflikar öppna tillräck
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: ac9ec88e-2edd-44de-9925-f2936a0feebf
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+source-git-commit: ef202b88d094e783b2b4e288aea68ccbb71c175f
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Korrigeringen för det här problemet håller på att stegvis släppas.
+>Problemet har åtgärdats.
 
 När en användare har Workfront webbläsarflikar öppna tillräckligt länge för att Workfront ska kunna kräva en annan inloggning visas ett felmeddelande i stället för att användaren uppmanas att logga in igen:&quot;500-001a: Det gick inte att läsa in sidan&quot;.
 
