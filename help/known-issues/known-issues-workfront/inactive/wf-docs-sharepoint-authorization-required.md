@@ -29,6 +29,6 @@ Auktoriseringstidpunkten styrs av Microsoft.
 
 Återauktorisera.
 
-Om problemen kvarstår kontrollerar du avsnittet [Felsökning](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html#troubleshooting) i [Konfigurera SharePoint-integreringen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html).
+Om problemen kvarstår kontrollerar du avsnittet [Felsökning](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=sv-SE#troubleshooting) i [Konfigurera SharePoint-integreringen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=sv-SE).
 
 _Först rapporterad den 9 november 2023._

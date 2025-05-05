@@ -999,7 +999,7 @@ För att åtgärda ett kommentarsproblem i [!UICONTROL Desktop Proofing Viewe]r 
 
 Användare som redan har [!UICONTROL Desktop Proofing Viewer] installerat får uppdateringen automatiskt.
 
-Användarna kan även manuellt välja den senaste versionen. Mer information finns i [Installera [!UICONTROL Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+Användarna kan även manuellt välja den senaste versionen. Mer information finns i [Installera [!UICONTROL Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=sv-SE).
 
 * Tidigare version: 2.1.22
 * Ny version: 2.1.23
@@ -1210,7 +1210,7 @@ _Korrektur_
 
 För att åtgärda ett problem med frysning i Desktop Proofing Viewer har vi distribuerat en ny version av Desktop Proofing Viewer. Användare som redan har installerat Desktop Proofing Viewer får den här uppdateringen automatiskt.
 
-Användarna kan även manuellt välja den senaste versionen. Mer information finns i [Installera Desktop Proofing Viewer](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+Användarna kan även manuellt välja den senaste versionen. Mer information finns i [Installera Desktop Proofing Viewer](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=sv-SE).
 
 * Tidigare version: 2.1.19
 * Ny version: 2.1.20

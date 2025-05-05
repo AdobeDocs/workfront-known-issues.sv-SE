@@ -649,7 +649,7 @@ När en användare skapar en uppgift eller ett problem i ett projekt och klickar
 
 Från och med torsdagen den 8 september 2022 har vi tagit bort möjligheten att skicka ett bevis via e-post till en dropzon i den fristående [!DNL Workfront Proof]-produkten.
 
-Du kan fortfarande använda dropzone på andra sätt för att skicka in nya korrektur och nya versioner av korrektur till ditt konto utan att behöva logga in på ditt konto. Mer information finns i [Dropzone](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html).
+Du kan fortfarande använda dropzone på andra sätt för att skicka in nya korrektur och nya versioner av korrektur till ditt konto utan att behöva logga in på ditt konto. Mer information finns i [Dropzone](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html?lang=sv-SE).
 
 +++
 
