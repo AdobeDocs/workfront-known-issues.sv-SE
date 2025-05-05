@@ -169,7 +169,7 @@ När en användare försöker generera ett korrektur skapas inte korrekturet och
 
 [!UICONTROL Error generating proof]
 
-Detta inträffar när användarens åtkomstnivåinställning [!UICONTROL  View Contact Info] är Inaktiverad.
+Detta inträffar när användarens åtkomstnivåinställning [!UICONTROL &#x200B; View Contact Info] är Inaktiverad.
 
 **Fält rensas när ett dokument läggs till i en begäran**
 
