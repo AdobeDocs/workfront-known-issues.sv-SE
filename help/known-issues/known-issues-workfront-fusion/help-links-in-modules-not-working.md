@@ -4,7 +4,7 @@ description: Hjälplänkar i [!DNL Workfront Fusion] leder för närvarande inte
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 feature: Workfront Fusion
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 889157407be97219b0a258c038f5094b197238b1
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Problemet korrigerades den 25 april 2023.
+>Problemet korrigerades den 5 maj 2025.
 
 Hjälplänkar i [!DNL Workfront Fusion] leder för närvarande inte till de avsedda hjälpsidorna. I stället leder alla [!DNL Fusion]-hjälplänkar till startsidan för [!DNL Workfront]-dokumentationen. Från den här landningssidan kan du söka efter den information du behöver.
 

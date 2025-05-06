@@ -3,19 +3,19 @@ title: 'Workfront Fusion: Workfront Event Subscription version 2 options not ava
 description: När en användare konfigurerar en Workfront-modul som bevakar händelser i en sandlådemiljö i Workfront är villkor som baseras på version 2 i Workfront händelsetjänst inte tillgängliga.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 25175774cf26ff51af61ba81a33195113c7be5aa
+exl-id: f087353d-aec2-4f98-b74a-696d91e37d59
+source-git-commit: 889157407be97219b0a258c038f5094b197238b1
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Fusion: Workfront Event Subscription version 2 options not available when connecting to a Sandbox environment
 
 >[!NOTE]
 >
->Det här problemet har rapporterats för sandlådemiljön.
+>Problemet korrigerades den 5 maj 2025.
 
 När en användare konfigurerar en Workfront-modul som bevakar händelser i en sandlådemiljö i Workfront är villkor som baseras på version 2 i Workfront händelsetjänst inte tillgängliga.
 
