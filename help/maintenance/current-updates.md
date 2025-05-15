@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3dd2b146d100d75f3b756c461b52faf917768537
+source-git-commit: 55507ca9bb62e46af3b896819faeeacc8262c660
 workflow-type: tm+mt
-source-wordcount: '1086'
+source-wordcount: '1129'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,18 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i maj 2025
+
++++**Underhållsuppdatering 15 maj 2025**
+
+### Underhållsuppdatering 15 maj 2025
+
+#### Rapporter
+
+**Fel vid visning av en rapport med en milstolpe-vy**
+
+När en användare försöker visa en rapport som har en milstolpe som kan aktiveras, läses rapporten inte in och ett fel visas.
+
++++
 
 +++**Underhållsuppdatering 8 maj 2025**
 
