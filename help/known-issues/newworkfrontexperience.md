@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
+source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
 workflow-type: tm+mt
-source-wordcount: '900'
+source-wordcount: '883'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Mallar: Kan inte dela med Contribute-åtkomst](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | 11 april 2025 |
-| [Korrektur: Det går inte att tagga vissa användare](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
+| [Resursplanering: Exportknappen är inaktiverad](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 22 maj 2025 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
 {style="table-layout:auto"}
@@ -38,7 +37,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | **Utgåva** | **Senast ändrad** |
 | ---------------------------------- | ----------------- |
 | [Dokument: Dokumentminiatyrer visas inte](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 april 2025 |
-| [Logga in som: Gruppadministratörer kan inte logga in som en annan användare](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 mars 2025 |
 | [[!DNL Workfront]: Problem med att skicka ett [!DNL Workfront] supportärende på Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
 
 {style="table-layout:auto"}
