@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7b73c768009d730f95684e6cc3fb46dbd08c9afe
+source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '901'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Resursplanering: Exportknappen är inaktiverad](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 22 maj 2025 |
+| [Sök: Avancerad sökning returnerar inte förväntade resultat](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md) | 29 maj 2025 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
 {style="table-layout:auto"}
@@ -36,6 +36,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 | ---------------------------------- | ----------------- |
+| [Resursplanering: Exportknappen är inaktiverad](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 29 maj 2025 |
 | [Användare: märket &quot;Väntar på godkännande&quot; visas för nya användare](known-issues-workfront/wf-users-pending-approval.md) | 23 maj 2025 |
 | [Dokument: Dokumentminiatyrer visas inte](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 april 2025 |
 | [[!DNL Workfront]: Problem med att skicka ett [!DNL Workfront] supportärende på Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 augusti 2022 |
