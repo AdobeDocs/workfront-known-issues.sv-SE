@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6e9a1d2bc434be36549a91e692d4fa44db0f26cd
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
 workflow-type: tm+mt
-source-wordcount: '1248'
+source-wordcount: '1321'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,27 @@ Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i juni 2025
 
-+++**Underhållsuppdateringar 2-6 juni 2025**
++++**Underhållsuppdateringar vecka 9-13 juni 2025**
 
-### Underhållsuppdatering 2-6 juni 2025
+### Underhållsuppdateringsvecka 9-13 juni 2025
+
+#### Resursplanering
+
+**Knappen Exportera är inaktiverad**
+
+När en användare försöker exportera från resursplaneraren inaktiveras knappen (nedtonad) och användaren kan inte exportera.
+
+#### Tidrapporter
+
+**Tidrapporter har inte skapats korrekt**
+
+När en användare försöker generera tidrapporter, och genereringen är inställd på&quot;Varannan vecka&quot;, genereras bara en vecka.
+
++++
+
++++**Underhållsuppdateringar vecka 2-6 juni 2025**
+
+### Underhållsuppdateringsvecka 2-6 juni 2025
 
 ### Sök
 
@@ -40,9 +58,9 @@ När en användare använder Avancerad sökning returneras inte de förväntade 
 
 ## Uppdateringar i maj 2025
 
-+++**Underhållsuppdateringar 26-30 maj 2025**
++++**Underhållsuppdateringar vecka 26-30 maj 2025**
 
-### Underhållsuppdatering 26-30 maj 2025
+### Underhållsuppdateringsvecka 26-30 maj 2025
 
 Den här veckan innehåller endast mindre eller mindre viktiga felkorrigeringar. Workfront Support meddelar dig när ett problem som du har skickat har åtgärdats.
 
