@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
+source-git-commit: ba6b0d326919a29c45204fe52549401bdeda20f0
 workflow-type: tm+mt
-source-wordcount: '900'
+source-wordcount: '872'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Integrationer: OutlookIdentityToken-fel när Workfront används för Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 mars 2025 |
 | [Meddelanden: Duplicera e-post](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 27 februari 2025 |
 | [Dokument: Det går inte att överföra till AEM-mappdokumentlista](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 27 februari 2025 |
-| [Integrationer: Det går inte att logga in på Workfront för Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 20 februari 2025 |
 | [Projekt: Sena villkor används inte som förväntat](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 20 januari 2025 |
 | [Anpassade formulär: Företag som saknas i det anpassade typsnittsfältet](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 20 februari 2025 |
 | [Korrektur: Det går inte att skapa korrektur för videofilmer som har länkats från AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 februari 2025 |
@@ -70,7 +69,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Meddelanden: E-postmeddelanden om att uppdateringar inte skickas](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 5 december 2024 |
 | [Workfront: Contributor-användare har inte åtkomst till program eller portföljer](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 5 december 2024 |
 | [Workfront: ZScaler-inställningar kan ge sämre prestanda](known-issues-workfront//wf-workfront-zscaler.md) | 20 november 2024 |
-| [Meddelanden: Medverkande användare får inga e-postmeddelanden](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 12 november 2024 |
 | [Meddelanden: Det går inte att visa förhandsgranskningar av bilder med e-postmeddelanden i dokumentmeddelanden](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 29 oktober 2024 |
 | [Rapporter: Fel vid export av rapport](known-issues-workfront/wf-reports-error-cache-content.md) | 14 oktober 2024 |
 | [Hem: Borttagna anpassade fält finns kvar i widgetarna för projekt, aktiviteter och utgåvor](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8 oktober 2024 |
@@ -99,7 +97,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [[!DNL Workfront Proof]: Det går inte att utöka arbetsflödet ](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
 | [[!UICONTROL Home]: Widgeten [!UICONTROL Mentions] i nya [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 25 september 2023 |
 | [[!UICONTROL Home]: Den nya [!UICONTROL Home] widgetförhandsvisningen visar inte rätt objektnamn ](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 september 2023 |
-| [Korrektur: Korrektur visas inte i rapporter som godkända](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 augusti 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
 | [Filter: Det går inte att dela ett filter från en rapport på en instrumentpanel](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 april 2023 |
 | [Korrektur: Mätverktyget accepterar inte decimalpunkter](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
