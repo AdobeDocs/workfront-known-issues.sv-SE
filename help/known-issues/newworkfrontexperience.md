@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ba6b0d326919a29c45204fe52549401bdeda20f0
+source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -49,6 +49,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Det går inte att lägga till användare i ett korrektur efter namn i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16 juni 2025 |
 | [Korrektur: Stänger korrektur dirigeras om till dokumentlistan](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 14 maj 2025 |
 | [Filter: Listrutan försvinner när du klickar på rullningslisten](known-issues-workfront/wf-filter-scroll-bar.md) | 26 mars 2025 |
 | [Team: Det går inte att visa teamägare eller ta bort team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 13 mars 2025 |

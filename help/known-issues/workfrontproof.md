@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 93003ab8b3f6b5fe38255c08e43da37ebcfd5887
+source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Det går inte att lägga till användare i ett korrektur efter namn i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16 juni 2025 |
 | [Korrektur: Stänger korrektur dirigeras om till dokumentlistan](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 14 maj 2025 |
 | [Korrektur: Det går inte att skapa korrektur för videofilmer som har länkats från AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 februari 2025 |
 | [Korrektur: Webbfångstkorrektur genererar inte](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 december 2024 |
