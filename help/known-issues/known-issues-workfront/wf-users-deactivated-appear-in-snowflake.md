@@ -1,18 +1,18 @@
 ---
-title: 'Användare: Inaktiverade eller borttagna användare visas som aktiva i Snowflake'
-description: 'Användare som har inaktiverats eller tagits bort i Workfront kan visas som aktiva i Snowflake. '
+title: 'Workfront: Osynkroniserade objekt mellan Workfront och Snowflake'
+description: 'Objekt i Workfront kan bli osynkroniserade med Snowflake. Detta innebär att antalet objekt kan vara olika mellan Workfront och Snowflake, och att frågor till Snowflake inte returnerar samma objekt som en sökning eller rapport i Workfront. '
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 1d882ff2e8415575e3658bc492aa24a7fc68687a
+source-git-commit: 7924fcf0740229da5f7130691b1574aecf129eed
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 
-# Användare: Inaktiverade eller borttagna användare visas som aktiva i Snowflake
+# Workfront: Osynkroniserade objekt mellan Workfront och Snowflake
 
-Användare som har inaktiverats eller tagits bort i Workfront kan visas som aktiva i Snowflake.
+Objekt i Workfront kan bli osynkroniserade med Snowflake. Detta innebär att antalet objekt kan vara olika mellan Workfront och Snowflake, och att frågor till Snowflake inte returnerar samma objekt som en sökning eller rapport i Workfront.
 
 _Först rapporterad den 22 april 2025._
