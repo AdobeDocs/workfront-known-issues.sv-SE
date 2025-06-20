@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7924fcf0740229da5f7130691b1574aecf129eed
+source-git-commit: e1833c5e6ae78b2cfc174dbffb6c43d9597be2e1
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '904'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 | ---------------------------------- | ----------------- |
+| [Projekt: Det går inte att flytta projektet till angivet program](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md) | 20 juni 2025 |
 | [Workfront: Osynkroniserade objekt mellan Workfront och Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 17 juni 2025 |
 | [Korrektur: Kan inte öppna korrektur från direktlänk](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 9 juni 2025 |
 | [Användare: märket &quot;Väntar på godkännande&quot; visas för nya användare](known-issues-workfront/wf-users-pending-approval.md) | 23 maj 2025 |
