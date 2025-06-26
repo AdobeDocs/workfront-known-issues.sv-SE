@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
 workflow-type: tm+mt
-source-wordcount: '1360'
+source-wordcount: '1421'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,18 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i juni 2025
+
++++**Underhållsuppdateringar vecka 22-27 juni 2025**
+
+### Underhållsuppdateringsvecka 22-27 juni 2025
+
+#### Korrektur
+
+**Det går inte att öppna korrektur från direktlänk**
+
+När en användare försöker öppna ett korrektur från en direktlänk öppnas inte korrekturet. Detta kan inträffa även om användaren har ett arbetsflöde för korrekturet eller om användaren är Workfront-administratör.
+
++++
 
 +++**Underhållsuppdateringar vecka 15-21 juni 2025**
 
