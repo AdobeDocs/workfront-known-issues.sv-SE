@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1463'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,14 @@ Följande underhållsuppdateringar gjordes 2025.
 **Det går inte att öppna korrektur från direktlänk**
 
 När en användare försöker öppna ett korrektur från en direktlänk öppnas inte korrekturet. Detta kan inträffa även om användaren har ett arbetsflöde för korrekturet eller om användaren är Workfront-administratör.
+
+#### Rapporter
+
+**Diagramdetaljen innehåller felaktiga resultat**
+
+När en användare visar en diagramrapport och försöker fördjupa sig i en viss gruppering, innehåller informationen resultat som inte finns i den valda grupperingen.
+
+Detta har rapporterats i rapporter grupperade efter datum.
 
 +++
 
