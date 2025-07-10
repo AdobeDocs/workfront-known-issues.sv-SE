@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
-source-wordcount: '1463'
+source-wordcount: '1522'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,20 @@ Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeri
 Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 Följande underhållsuppdateringar gjordes 2025.
+
+## Uppdateringar i juli 2025
+
++++**Underhållsuppdateringar vecka 6-12 juli 2025**
+
+### Underhållsuppdateringar vecka 6-12 juli
+
+### Projekt
+
+**Det går inte att flytta projektet till angivet program**
+
+När en användare försöker flytta ett projekt till ett program flyttas inte projektet. Detta kan inträffa även om användaren har fått ett meddelande om att projektet har flyttats.
+
++++
 
 ## Uppdateringar i juni 2025
 
