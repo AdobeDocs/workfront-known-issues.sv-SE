@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
+source-git-commit: 798be3dd7ef5e7bf0ecf14484242f7758ac9d9a4
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '924'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Behörigheter: Objektbehörigheter ärvs inte korrekt](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 15 juli 2025 |
 | [Korrektur: Det går inte att lägga till användare i ett korrektur efter namn i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16 juni 2025 |
 | [Korrektur: Stänger korrektur dirigeras om till dokumentlistan](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 14 maj 2025 |
 | [Filter: Listrutan försvinner när du klickar på rullningslisten](known-issues-workfront/wf-filter-scroll-bar.md) | 26 mars 2025 |
