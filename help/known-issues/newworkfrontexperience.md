@@ -4,7 +4,7 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 798be3dd7ef5e7bf0ecf14484242f7758ac9d9a4
+source-git-commit: 73fd34c9ae295f0c3ac0d13c433f50afaf283626
 workflow-type: tm+mt
 source-wordcount: '924'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Installation: Det går inte att logga in som en annan användare](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md) | 7 juli 2025 |
+| [Behörigheter: Objektbehörigheter ärvs inte korrekt](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | 16 juli 2025 |
 | [Integreringar: Problem med integreringen med Workfront för Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md) | 7 juli 2025 |
 | [Åtgärder: Godkännandeområdet tas bort från den vänstra navigeringen](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | 27 juni 2025 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
