@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
+source-git-commit: 6981a09efc71d2b7b5c20362878b0101ffd00b06
 workflow-type: tm+mt
-source-wordcount: '1522'
+source-wordcount: '1590'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,22 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i juli 2025
+
++++**Underhållsuppdateringar vecka 13-19 juli 2025**
+
+### Underhållsuppdateringar vecka 13-192 juli
+
+### Integreringar
+
+**problem med Workfront för Slack-integrering**
+
+Följande problem har rapporterats när det gäller integreringen av Workfront för Slack:
+
+* Användare meddelas inte i Slack när uppdateringar görs i Workfront.
+* Användare kan inte logga in på Workfront från Slack.
+* Andra kommandon i integreringen av Workfront för Slack fungerar inte som förväntat.
+
++++
 
 +++**Underhållsuppdateringar vecka 6-12 juli 2025**
 
