@@ -4,7 +4,7 @@ description: 'När en användare flyttar ett dokument till ett annat projekt är
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -30,3 +30,7 @@ När en användare flyttar ett dokument till ett annat projekt ärver dokumentet
 Du kan också anteckna dokumentets ID (finns i URL:en för sidan [!UICONTROL Document Details]) och kontakta [!DNL Workfront] kundsupport.
 
 _Först rapporterad 6 januari 2023._
+
+
+
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->

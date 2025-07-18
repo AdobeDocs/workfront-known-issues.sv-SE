@@ -4,7 +4,7 @@ description: När en användare försöker exportera ett stort antal gransknings
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
-source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -24,3 +24,6 @@ När en användare försöker exportera ett stort antal granskningsloggar export
 Exportera färre loggar i en och samma export.
 
 _Först rapporterad den 20 juni 2023._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+

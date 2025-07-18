@@ -4,7 +4,7 @@ description: När en administratör är inloggad som en annan användare och gö
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 896e6dcb-945d-4563-80b4-f1e1eeb2eddb
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -20,3 +20,5 @@ ht-degree: 0%
 När en administratör är inloggad som en annan användare och gör en kommentar, tillskrivs kommentaren den användaren, i stället för att tillskrivas användaren [!UICONTROL on behalf of].
 
 _Först rapporterad den 8 mars 2024._
+
+<!--CHECK ME - NO VIEWS APR-JUN 2025-->

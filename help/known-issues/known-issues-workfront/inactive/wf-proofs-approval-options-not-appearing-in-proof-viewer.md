@@ -4,7 +4,7 @@ description: När en användare försöker godkänna ett korrektur i Desktop Pro
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -24,3 +24,5 @@ När en användare försöker godkänna ett korrektur i [!UICONTROL Desktop Proo
 Godkänn dokumentet från sidan [!UICONTROL Document Details] i [!DNL Workfront].
 
 _Först rapporterad den 12 juni 2023._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
