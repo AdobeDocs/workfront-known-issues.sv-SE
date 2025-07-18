@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+source-git-commit: 23747b7f1257a4c52760d0d9448e7e2bb9ef0a91
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrektur: Korrekturgenereringen är långsam](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | 17 mars 2025 |
 | [Korrektur: Det går inte att tagga vissa användare](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
@@ -38,7 +37,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
 | [Dokument: Dokumentminiatyrer visas inte](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 april 2025 |
-| [Uppdateringar: Vissa användare kan inte se bilder eller dokument som är bifogade till kommentarer](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 mars 2025 |
 | [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 juli 2024 |
 | [Hem: Widgeten Godkännanden är inte korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 maj 2024 |
 

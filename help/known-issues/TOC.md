@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
+source-git-commit: 4d0ff9fa398a3daf22ffbf202073cde6b5e05458
 workflow-type: tm+mt
-source-wordcount: '1394'
+source-wordcount: '1292'
 ht-degree: 0%
 
 ---
@@ -36,17 +36,8 @@ ht-degree: 0%
       + [korrektur: Stängande korrektur omdirigeras till dokumentlista](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [Dokument: Dokumentminiatyrer visas inte](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [Mallar: Kan inte dela med Contribute-åtkomst](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
-      + [Kontrollpaneler: Anpassad instrumentpanel öppnas inte](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
-      + [Begäranden: Inbäddade kod-URL:er läser inte in begärandekön korrekt](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
-      + [Rapporter: Användare i olika tidszoner får olika rapportresultat](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
-      + [Användare: Gruppadministratörer kan inte inaktivera användare](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [Filter: Listrutan försvinner när du klickar på rullningslisten](known-issues-workfront/wf-filter-scroll-bar.md)
-      + [Hem: Det går inte att skicka svar från widgeten Menyer](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
-      + [Uppdateringar: Uppdateringarna är fördröjda](known-issues-workfront/wf-updates-delay-in-updates.md)
-      + [Korrektur: Korrekturgenereringen är långsam](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
-      + [Begäranden: Begärandekön är inte tillgänglig](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [Projekt: Projektets förloppsstatus uppdateras inte automatiskt till Sent](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
-      + [Uppdateringar: Vissa användare kan inte se bilder eller dokument som är kopplade till kommentarer](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [Logga in som: Gruppadministratörer kan inte logga in som en annan användare](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Integreringar: outlookIdentityToken-fel vid användning av Workfront för Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Meddelanden: Duplicerade e-postmeddelanden](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -56,7 +47,6 @@ ht-degree: 0%
       + [Dokument: Det går inte att överföra till AEM mappdokumentlista](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [Korrektur: Det går inte att tagga vissa användare](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Logga in som: Administratörens layoutmall för startsidan visas](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
-      + [Användare: Dubblettkonto skapades när systemadministratören ändrades](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Projekt: Sena villkor används inte som förväntat](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [Rapporter: Rapportera uppmaningar läses in långsamt](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Korrektur: Webbfångstkorrektur genererar inte](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
@@ -82,7 +72,6 @@ ht-degree: 0%
       + [Workfront: Flera webbläsarflikar gör att Workfront loggar ut](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [Begäranden: Användaren kan ändra status trots att behörigheter saknas](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
       + [Rapporter: Fel vid export av rapport](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Anpassade formulär: Beräknat fält med felaktigt värde](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
       + [Workfront Fusion: Det går inte att autentisera en anslutning med Workfront Inloggningsfunktion](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
       + [Meddelanden: Miniatyrbilder visas inte i e-postmeddelanden](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Portföljer: Användaren kan inte ange portfölj](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
@@ -128,7 +117,6 @@ ht-degree: 0%
       + [Korrektur: Mätverktyget accepterar inte decimalpunkter](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Dokument: Problem med dokumentlistan](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [Dokument: 404-fel vid åtkomst av dokument som är länkade från  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
-      + [Dokument: [!UICONTROL Proofing Activities] alternativ leder till inloggningssida](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md)
       + [[!UICONTROL Workload Balancer]: Timmarna justeras inte efter användarens ledig tid](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL Updates]: Det går inte att logga tid för den aktuella dagen i området [!UICONTROL Updates]](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Dokument: Behörigheter ärvs inte när ett dokument flyttas till ett nytt projekt](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
@@ -189,7 +177,6 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Kända fel i Workfront Fusion](workfrontfusion.md)
    + Aktuella problem i [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion: Workfront Event Subscription version 2 options not available when connecting to a Sandbox environment](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion: Scenario körs inte](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: Börja med att ange&quot;Från och med nu&quot; för att bearbeta alla data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: Kan inte lägga till eller ta bort användare från Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
@@ -198,7 +185,7 @@ ht-degree: 0%
       + [Workfront Fusion: Utdataformatering](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Fel med lågt minne](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Duplicera projekt som skapats från en enda modul](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Custom API Call] modul som returnerar 404- eller 422-fel](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] modul som returnerar 404- eller 422-fel](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Felet &quot;Det gick inte att verifiera anslutningen&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] module returnerar 404-fel utan ytterligare information](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] hjälplänkar i appen leder inte till specifika hjälpsidor](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
