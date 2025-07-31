@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '1629'
+source-wordcount: '1646'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,11 @@ Följande underhållsuppdateringar gjordes 2025.
 
 ### Underhållsuppdateringsvecka 20-26 juli 2025
 
-Den här veckan innehåller endast mindre eller mindre viktiga felkorrigeringar. Workfront Support meddelar dig när ett problem som du har skickat har åtgärdats.
+#### Korrektur
+
+**Det går inte att tagga användare i korrekturkommentarer**
+
+När en användare försöker tagga en annan användare i en korrekturkommentar och börjar skriva användarens namn, visas inte användaren i listan och kan inte markeras som taggad.
 
 +++
 
