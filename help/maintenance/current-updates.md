@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 32b7c00b3338bc4d1152b1b0748843daaa58a115
+source-git-commit: 0c440c0387e3d981351c943cdc097bb283b0e1de
 workflow-type: tm+mt
-source-wordcount: '1740'
+source-wordcount: '1760'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 
 Följande underhållsuppdateringar gjordes 2025.
 
-## Uppdateringar i juli 2025
+## Uppdateringar i augusti 2025
 
-+++**Underhållsuppdateringar vecka 20-26 juli 2025**
++++**Underhållsuppdateringar vecka 27-3 augusti 2025**
 
-### Underhållsuppdateringsvecka 20-26 juli 2025
+### Underhållsuppdateringar vecka 27-3 augusti 2025
 
 #### Projekt
 
@@ -41,6 +41,14 @@ Användarna ser nu en varningsikon när projektets tidslinje inte har beräknats
 Ibland kan det hända att tidslinjer inte beräknas om eftersom ett projekt är extremt komplext. Ett projekt som har flera beroenden, ett stort antal uppgifter, flera föregångare mellan projekt eller flera indrag för uppgifter kan påverkas.
 
 Tidigare fanns det inget som tydde på att en tidslinje inte hade beräknats om.
+
++++
+
+## Uppdateringar i juli 2025
+
++++**Underhållsuppdateringar vecka 20-26 juli 2025**
+
+### Underhållsuppdateringar vecka 20-26 juli 2025
 
 #### Korrektur
 
