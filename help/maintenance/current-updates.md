@@ -3,9 +3,9 @@ title: Workfront Maintenance Updates
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0c440c0387e3d981351c943cdc097bb283b0e1de
+source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
-source-wordcount: '1760'
+source-wordcount: '1801'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,9 @@ Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i augusti 2025
 
-+++**Underhållsuppdateringar vecka 27-3 augusti 2025**
++++**Underhållsuppdateringar vecka 27-2 augusti 2025**
 
-### Underhållsuppdateringar vecka 27-3 augusti 2025
+### Underhållsuppdateringar vecka 27-2 augusti 2025
 
 #### Projekt
 
@@ -41,6 +41,12 @@ Användarna ser nu en varningsikon när projektets tidslinje inte har beräknats
 Ibland kan det hända att tidslinjer inte beräknas om eftersom ett projekt är extremt komplext. Ett projekt som har flera beroenden, ett stort antal uppgifter, flera föregångare mellan projekt eller flera indrag för uppgifter kan påverkas.
 
 Tidigare fanns det inget som tydde på att en tidslinje inte hade beräknats om.
+
+#### Uppgifter
+
+**Godkännandeområdet tas bort från vänster navigering**
+
+När en användare visar en uppgift kan området Godkännanden försvinna från den vänstra navigeringen. Problemet kan lösas om du tar bort och lägger till området Godkännanden i layoutmallen, men problemet kan återkomma.
 
 +++
 
