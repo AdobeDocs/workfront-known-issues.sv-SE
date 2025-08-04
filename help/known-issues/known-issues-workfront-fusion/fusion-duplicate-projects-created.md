@@ -4,9 +4,9 @@ description: När en Skapa projekt-modul används vid en scenariokörning skapas
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 95cb41ab-aa1c-41a8-ad3d-bdc99f54e241
-source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
+source-git-commit: 1e1528b2fc0c2ffd8ec62eeb2ba3bedb5693ada9
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 >
 >Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
 
-När en Skapa projekt-modul används vid en scenariokörning skapas två identiska projekt. Detta kan skapa förvirring när du använder projekt i Workfront.
+När du använder modulen Skapa projekt eller när ett ärende konverteras till ett projekt vid en scenariokörning skapas två identiska projekt. Detta kan skapa förvirring när du använder projekt i Workfront.
 
 _Först rapporterad den 11 oktober 2023._
