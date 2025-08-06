@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 889157407be97219b0a258c038f5094b197238b1
+source-git-commit: 8329afea4d9cdd80c6e9dba9636dcf8b27c910e4
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Uppdateringar av webkrok sparar inte automatiskt](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 6 augusti 2025 |
 | [Korrektur: Det går inte att skapa korrektur för videofilmer som har länkats från AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 februari 2025 |
 | [Workfront Fusion: Starta inställningen &quot;Från och med nu&quot; som bearbetar alla data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 29 oktober 2024 |
 | [Workfront Fusion: Fält saknas i modul](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 5 februari 2024 |
