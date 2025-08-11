@@ -4,9 +4,9 @@ description: En scenariokörning misslyckas med ett minnesfel. Detta kan inträf
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: df39ee6b-1693-4b8d-8d42-d3567f8bf1dd
-source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
+source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Produktgruppen håller på att utvärdera den här problemlösningen, vilket kan kräva produktförbättringar. Produktförbättringarna presenteras i produktmeddelandena och inte i underhållsuppdateringarna.
+>Problemet har åtgärdats.
 
 En scenariokörning misslyckas med ett minnesfel. Detta kan inträffa även om scenariot tidigare har körts korrekt.
 
