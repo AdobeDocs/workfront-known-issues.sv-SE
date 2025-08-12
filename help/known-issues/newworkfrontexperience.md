@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '918'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 | ---------------------------------- | ----------------- |
+| [Dokument: Användare som lagts till som godkännare när godkännandet är slutfört meddelas inte](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 12 augusti 2025 |
 | [Korrektur: Det går inte att tagga användare i korrekturkommentarer](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 10 juli 2025 |
 | [Workfront: Osynkroniserade objekt mellan Workfront och Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 17 juni 2025 |
 | [Användare: märket &quot;Väntar på godkännande&quot; visas för nya användare](known-issues-workfront/wf-users-pending-approval.md) | 23 maj 2025 |
