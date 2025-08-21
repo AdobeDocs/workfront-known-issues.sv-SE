@@ -1,11 +1,11 @@
 ---
-title: Workfront Maintenance Updates
+title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 9fb1fd8ba321c8b86a5f56228c4c64b668036754
+source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
 workflow-type: tm+mt
-source-wordcount: '1879'
+source-wordcount: '1957'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,33 @@ Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i augusti 2025
 
++++**Underhållsuppdateringar vecka 17-23 augusti 2025**
+
+### Underhållsuppdateringsvecka 17-25 augusti 2025
+
+#### Projekt
+
+**Ett fel uppstod när ett projekt skulle läggas till i ett program**
+
+När en användare försöker lägga till ett befintligt projekt i ett program läggs projektet inte till och användaren ser följande felmeddelande:
+
+&quot;Fel vid inläsning av sekundärt innehåll..&quot;
+
+**Exporterade projekt innehåller felaktiga faktiska timmar**
+
+När en användare exporterar ett projekt till Excel visas inte rätt data i kolumnen Faktiska timmar.
+
++++
+
 +++**Underhållsuppdateringar vecka 10-16 augusti 2025**
 
 ### Underhållsuppdateringsvecka 10-16 augusti 2025
 
 Den här veckan innehåller endast mindre eller mindre viktiga felkorrigeringar. Workfront Support meddelar dig när ett problem som du har skickat har åtgärdats.
 
-++++++**Underhållsuppdateringar vecka 3-9 augusti 2025**
++++
+
++++**Underhållsuppdateringar vecka 3-9 augusti 2025**
 
 ### Underhållsuppdateringsvecka 3-9 augusti 2025
 
