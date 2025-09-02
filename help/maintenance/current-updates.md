@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
+source-git-commit: a66310d736a326ea77557db8547b232caff4ee60
 workflow-type: tm+mt
-source-wordcount: '1957'
+source-wordcount: '2091'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,33 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 
 Följande underhållsuppdateringar gjordes 2025.
 
+## Uppdateringar i september 2025
+
++++**Underhållsuppdateringar vecka 31-6 augusti 2025**
+
+### Underhållsuppdateringsvecka 31-6 augusti 2025
+
+#### API
+
+**Nya skyddsräcken för att undvika överbelastning av händelseprenumerationer**
+
+Evenemangsprenumerationer är utformade för att ge tillförlitlig leverans av händelser för alla användare. För att säkerställa detta har man infört skyddsåtgärder för att förhindra överdriven händelseproduktion från en enda användare som kan orsaka potentiella problem med tjänstkvaliteten för alla användare. En användare som producerar för många händelser med hög hastighet inom en kort tidsram kan därför drabbas av fördröjningar i sandlådan och händelsehanteringen.
+
++++
+
 ## Uppdateringar i augusti 2025
+
++++**Underhållsuppdateringar vecka 24-30 augusti 2025**
+
+### Underhållsuppdateringsvecka 24-30 augusti 2025
+
+Den här veckan innehåller endast mindre eller mindre viktiga felkorrigeringar. Workfront Support meddelar dig när ett problem som du har skickat har åtgärdats.
+
++++
 
 +++**Underhållsuppdateringar vecka 17-23 augusti 2025**
 
-### Underhållsuppdateringsvecka 17-25 augusti 2025
+### Underhållsuppdateringsvecka 17-23 augusti 2025
 
 #### Projekt
 
