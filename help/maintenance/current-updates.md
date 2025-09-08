@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 13a081ac430090ef3ac7f5c0e1ac1ba6a68227bd
+source-git-commit: 5468975035561c205f30fb2a92f6ad43346c0c2f
 workflow-type: tm+mt
-source-wordcount: '2091'
+source-wordcount: '2133'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,12 @@ Följande underhållsuppdateringar gjordes 2025.
 **Nya skyddsräcken för att undvika överbelastning av händelseprenumerationer**
 
 Evenemangsprenumerationer är utformade för att ge tillförlitlig leverans av händelser för alla användare. För att säkerställa detta har man infört skyddsåtgärder för att förhindra överdriven händelseproduktion från en enda användare som kan orsaka potentiella problem med tjänstkvaliteten för alla användare. En användare som producerar för många händelser med hög hastighet inom en kort tidsram kan därför drabbas av fördröjningar i sandlådan och händelsehanteringen.
+
+#### Dokument
+
+**Användare som lagts till som godkännare när godkännandet är slutfört meddelas inte**
+
+När en användare har godkänt ett dokument och sedan fler användare läggs till som godkännare, får de nya godkännarna inga e-postmeddelanden eller meddelanden om godkännandebegäran.
 
 +++
 
