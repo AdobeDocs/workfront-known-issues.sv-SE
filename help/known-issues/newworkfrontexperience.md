@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4f1d7936c677f102f32a4b6c480a7bf3f53962bd
+source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
 workflow-type: tm+mt
-source-wordcount: '952'
+source-wordcount: '980'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Användare: Det går inte att redigera meddelandeinställningar för en annan användare](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md) | 11 september 2025 |
+| [Användare: Det går inte att ändra åtkomstnivå för en användare](known-issues-workfront/wf-users-cannot-change-access-level.md) | 11 september 2025 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
 {style="table-layout:auto"}
@@ -51,6 +53,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen, men 
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrektur: Det går inte att generera ett korrektur från en PowerPoint-fil](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 11 september 2025 |
 | [Behörigheter: Objektbehörigheter ärvs inte korrekt](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 15 juli 2025 |
 | [Filter: Listrutan försvinner när du klickar på rullningslisten](known-issues-workfront/wf-filter-scroll-bar.md) | 26 mars 2025 |
 | [Integrationer: OutlookIdentityToken-fel när Workfront används för Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 mars 2025 |
