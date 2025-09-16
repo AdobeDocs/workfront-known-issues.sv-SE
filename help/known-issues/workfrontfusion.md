@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
+source-git-commit: 0f4dba4664f645920752cc0c346782c9582b0e54
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Den här sidan innehåller identifierade problem i [!DNL Adobe Workfront Fusion]
 >
 >Mer information om serverns drifttid och avbrott finns på [status.adobe.com](https://status.adobe.com). Mer information om problem som nyligen har korrigerats finns i [[!DNL Workfront] Underhållsuppdateringar](../maintenance/current-updates.md).
 
-## Nytt
+## Nyhet
 
 Dessa nyligen rapporterade problem granskas för närvarande.
 
@@ -39,16 +39,24 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 {style="table-layout:auto"}
 
+## Tillfällig lösning finns
+
+Korrigeringar av dessa problem finns för närvarande inte på färdplanen, men tillfälliga lösningar finns tillgängliga och beskrivs i artikeln för varje problem.
+
+| **Utgåva** | **Senast ändrad** |
+| -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Jira Search-modulen returnerar ett fel](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | 16 september 2025 |
+| [Workfront Fusion: Fält saknas i modul](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 5 februari 2024 |
+| [Workfront Fusion: Uppdateringar av webkrok sparar inte automatiskt](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 6 augusti 2025 |
+
 ## Ingen korrigering
 
 Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vissa fall åtgärdas dessa problem genom nya funktioner eller funktionsuppdateringar.
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Uppdateringar av webkrok sparar inte automatiskt](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 6 augusti 2025 |
 | [Korrektur: Det går inte att skapa korrektur för videofilmer som har länkats från AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 februari 2025 |
 | [Workfront Fusion: Starta inställningen &quot;Från och med nu&quot; som bearbetar alla data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 29 oktober 2024 |
-| [Workfront Fusion: Fält saknas i modul](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 5 februari 2024 |
 | [Workfront Fusion: Utdataformatering för datum](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 31 januari 2024 |
 | [Workfront Fusion: Duplicera projekt som skapats från en enda modul](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 oktober 2023 |
 | [[!DNL Workfront Proof]: 500 fel vid åtkomst till  [!DNL Workfront Proof]  via API eller  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 maj 2023 |
