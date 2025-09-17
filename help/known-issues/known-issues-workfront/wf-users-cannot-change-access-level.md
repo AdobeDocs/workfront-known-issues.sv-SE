@@ -3,15 +3,19 @@ title: 'Användare: Det går inte att ändra åtkomstnivå för en användare'
 description: När en administratör försöker ändra åtkomstnivån för en användare ändras inte åtkomstnivån och administratören ser ett felmeddelande.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
+source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
 
 # Användare: Det går inte att ändra åtkomstnivå för en användare
+
+>[!NOTE]
+>
+>Problemet korrigerades den 12 september 2025.
 
 När en administratör försöker ändra åtkomstnivån för en användare ändras inte åtkomstnivån och administratören ser följande meddelande:
 
