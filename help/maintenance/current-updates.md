@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
 workflow-type: tm+mt
-source-wordcount: '2172'
+source-wordcount: '2269'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,28 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i september 2025
+
++++**Underhållsuppdateringar vecka 21-27 september 2025**
+
+### Underhållsuppdateringar vecka 21-27 september 2025
+
+#### Användare
+
+**Det går inte att redigera meddelandeinställningar för en annan användare**
+
+När en användare försöker redigera meddelandeinställningarna för en annan användare, kan han/hon inte redigera inställningarna och de ser följande meddelande:
+
+&quot;Du har inte tillräcklig behörighet för att redigera ekonomiska data.&quot;
+
++++
+
++++**Underhållsuppdateringar vecka 14-20 september 2025**
+
+### Underhållsuppdateringar vecka 14-20 september 2025
+
+Den här veckan innehåller endast mindre eller mindre viktiga felkorrigeringar. Workfront Support meddelar dig när ett problem som du har skickat har åtgärdats.
+
++++
 
 +++**Underhållsuppdateringar vecka 7-13 september 2025**
 

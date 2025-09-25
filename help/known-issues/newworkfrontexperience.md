@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
 workflow-type: tm+mt
-source-wordcount: '971'
+source-wordcount: '985'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 | ---------------------------------- | ----------------- |
+| [Godkännanden: Godkännandet visas som Ingen deadline när tid inte inkluderas i deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 25 september 2025 |
 | [Användare: Det går inte att redigera en användares Federations-ID](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | 9 september 2025 |
 | [Dokument: Användare som lagts till som godkännare när godkännandet är slutfört meddelas inte](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 12 augusti 2025 |
 | [Korrektur: Det går inte att tagga användare i korrekturkommentarer](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 10 juli 2025 |
