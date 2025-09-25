@@ -1,9 +1,9 @@
 ---
-title: 'Godkännanden: Godkännanden visas som Ingen deadline när tid inte inkluderas i deadline'
+title: 'Godkännanden: Godkännandet visas som Ingen deadline när tid inte inkluderas i deadline'
 description: När en godkännandebutik bara innehåller ett datum, och inte en tid, visas den i widgeten Godkännandenas startsida som en deadline Ingen.
 hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront
-source-git-commit: 6eac1cb70ad0bbd7b1ddb77139dd185b35564cd8
+source-git-commit: ca8e5b7ff629064fdd7f372c21090a10cf2346da
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
