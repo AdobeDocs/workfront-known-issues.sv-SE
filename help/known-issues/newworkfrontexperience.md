@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '995'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Program: Det går inte att spara när ett program redigeras](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md) | 30 september 2025 |
 | [Användare: Det går inte att ändra åtkomstnivå för en användare](known-issues-workfront/wf-users-cannot-change-access-level.md) | 11 september 2025 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
@@ -37,7 +38,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | **Utgåva** | **Senast ändrad** |
 | ---------------------------------- | ----------------- |
 | [Godkännanden: Godkännandet visas som Ingen deadline när tid inte inkluderas i deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 25 september 2025 |
-| [Användare: Det går inte att redigera en användares Federations-ID](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | 9 september 2025 |
 | [Dokument: Användare som lagts till som godkännare när godkännandet är slutfört meddelas inte](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 12 augusti 2025 |
 | [Korrektur: Det går inte att tagga användare i korrekturkommentarer](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 10 juli 2025 |
 | [Workfront: Osynkroniserade objekt mellan Workfront och Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 17 juni 2025 |
@@ -53,6 +53,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen, men 
 
 | **Utgåva** | **Senast ändrad** |
 | -----------------------------------------------------------------| ----------------- |
+| [Godkännanden: Beslutsknappar för godkännande visas inte i korrekturläsaren](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 30 september 2025 |
 | [Korrektur: Det går inte att generera ett korrektur från en PowerPoint-fil](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 11 september 2025 |
 | [Behörigheter: Objektbehörigheter ärvs inte korrekt](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 15 juli 2025 |
 | [Filter: Listrutan försvinner när du klickar på rullningslisten](known-issues-workfront/wf-filter-scroll-bar.md) | 26 mars 2025 |
