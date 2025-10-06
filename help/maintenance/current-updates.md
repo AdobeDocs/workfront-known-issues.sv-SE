@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
-source-wordcount: '2269'
+source-wordcount: '2314'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,20 @@ Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeri
 Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 Följande underhållsuppdateringar gjordes 2025.
+
+## Uppdateringar i oktober 2025
+
++++**Underhållsuppdateringar vecka 28-4 oktober 2025**
+
+### Underhållsuppdateringar vecka 28-4 oktober 2025
+
+#### Program
+
+**Det går inte att spara när ett program redigeras**
+
+När en användare redigerar ett program och försöker spara ändringarna sparas inte ändringarna.
+
++++
 
 ## Uppdateringar i september 2025
 

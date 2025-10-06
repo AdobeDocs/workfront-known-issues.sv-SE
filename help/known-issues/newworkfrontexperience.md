@@ -4,9 +4,9 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '978'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,6 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Program: Det går inte att spara när ett program redigeras](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md) | 30 september 2025 |
 | [Användare: Det går inte att ändra åtkomstnivå för en användare](known-issues-workfront/wf-users-cannot-change-access-level.md) | 11 september 2025 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
@@ -57,7 +56,6 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen, men 
 | [Korrektur: Det går inte att generera ett korrektur från en PowerPoint-fil](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 11 september 2025 |
 | [Behörigheter: Objektbehörigheter ärvs inte korrekt](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 15 juli 2025 |
 | [Filter: Listrutan försvinner när du klickar på rullningslisten](known-issues-workfront/wf-filter-scroll-bar.md) | 26 mars 2025 |
-| [Integrationer: OutlookIdentityToken-fel när Workfront används för Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 mars 2025 |
 | [Dokument: Det går inte att överföra till AEM-mappdokumentlista](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 27 februari 2025 |
 | [Korrektur: Det går inte att skapa korrektur för videofilmer som har länkats från AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 februari 2025 |
 | [Korrektur: Webbfångstkorrektur genererar inte](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 december 2024 |
