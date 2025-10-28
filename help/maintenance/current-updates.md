@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
 workflow-type: tm+mt
-source-wordcount: '2314'
+source-wordcount: '2492'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,40 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i oktober 2025
+
++++**Underhållsuppdateringar vecka 19-25 oktober 2025**
+
+### Underhållsuppdateringar vecka 19-25 oktober 2025
+
+#### Egna formulär
+
+**Fältvisningslogiken följs inte korrekt**
+
+När en användare fyller i ett anpassat formulär som innehåller visningslogik (där vissa fält visas eller inte baseras på värden i andra fält) visas inte fälten på ett sätt som följer den fällogiken.
+
+#### Korrektur
+
+**Kan inte stänga korrekturläsaren**
+
+När en användare visar ett korrektur i korrekturläsaren och försöker stänga korrekturet genom att klicka på krysset i det övre högra hörnet, stängs inte korrekturet.
+
++++
+
++++**Underhållsuppdateringar vecka 12-18 oktober 2025**
+
+### Underhållsuppdateringsvecka 12-18 oktober 2025
+
+Den här veckan innehåller endast mindre eller mindre viktiga felkorrigeringar. Workfront Support meddelar dig när ett problem som du har skickat har åtgärdats.
+
++++
+
++++**Underhållsuppdateringar vecka 5-11 oktober 2025**
+
+### Underhållsuppdateringsvecka 5-11 oktober 2025
+
+Den här veckan innehåller endast mindre eller mindre viktiga felkorrigeringar. Workfront Support meddelar dig när ett problem som du har skickat har åtgärdats.
+
++++
 
 +++**Underhållsuppdateringar vecka 28-4 oktober 2025**
 
