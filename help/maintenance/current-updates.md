@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 99364233b38b7b2e12c20b6a8185ebef9796552c
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
 workflow-type: tm+mt
-source-wordcount: '2492'
+source-wordcount: '2607'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,39 @@ Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeri
 Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 Följande underhållsuppdateringar gjordes 2025.
+
+
+
+## Uppdateringar i november 2025
+
++++**Underhållsuppdateringar vecka 26-1 november 2025**
+
+### Underhållsuppdateringar vecka 26-1 november 2025
+
+#### Rapporter
+
+**Problem med listrutor i diagram**
+
+Följande problem har rapporterats angående listrutor i diagram:
+
+* När en användare visar en rapport med en nedrullningsbar kolumn och använder funktionen Diagram fungerar inte listrutan i diagramfönstret.
+* När en användare försöker tilldela användare från en rapport med hjälp av en listruta sparas inte uppdraget.
+
+#### Användare
+
+**Det går inte att använda avancerade alternativ när användare skapas**
+
+När en Workfront-administratör skapar en användare och försöker använda det avancerade alternativet, kan de inte använda alternativen och de ser följande meddelande:
+
+```
+Cannot read properties of undefined (reading 'sections')
+
+Cannot read properties of undefined (reading 'sections')
+
+Error fetching object details
+```
+
++++
 
 ## Uppdateringar i oktober 2025
 
