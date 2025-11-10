@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0329ebb285dcf771bd23b0cebf93e36152d6587f
+source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
 workflow-type: tm+mt
-source-wordcount: '2646'
+source-wordcount: '2712'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,18 @@ Följande underhållsuppdateringar gjordes 2025.
 
 
 ## Uppdateringar i november 2025
+
++++**Underhållsuppdateringar vecka 9-15 november 2025**
+
+### Underhållsuppdateringar vecka 9-15 november 2025
+
+#### Uppgifter
+
+**Om du lägger till föregående aktiviteter är det inte längre beroende av underinställningarna för redigering av aktiviteter på åtkomstnivån**
+
+Användare kan lägga till föregående aktiviteter till uppgifter när Åtkomst till Redigera är aktiverat för uppgifter på åtkomstnivå, oavsett vilka underinställningar du har valt. Detta är nu förenligt med den befintliga API-funktionen.
+
++++
 
 +++**Underhållsuppdateringar vecka 2-8 november 2025**
 
