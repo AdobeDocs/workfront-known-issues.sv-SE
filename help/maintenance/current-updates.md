@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
+source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
 workflow-type: tm+mt
-source-wordcount: '2712'
+source-wordcount: '2790'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,18 @@ Följande underhållsuppdateringar gjordes 2025.
 
 
 ## Uppdateringar i november 2025
+
++++**Workfront Planning Maintenance Updates week of November 9-15, 2025**
+
+### Workfront Planning Maintenance Updates week of November 9-15, 2025
+
+#### Posttyper
+
+**Om du lägger till föregående aktiviteter är det inte längre beroende av underinställningarna för redigering av aktiviteter på åtkomstnivån**
+
+Vi har tagit bort alternativen Redigera och Inställningar från menyn Mer för en global posttyp som lades till på en sekundär arbetsyta från en befintlig global posttyp. Före den här uppdateringen var menyerna nedtonade och fungerar inte.
+
++++
 
 +++**Underhållsuppdateringar vecka 9-15 november 2025**
 
