@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '2791'
+source-wordcount: '2900'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,20 @@ Följande underhållsuppdateringar gjordes 2025.
 
 
 ## Uppdateringar i november 2025
+
++++**Workfront Planning Maintenance Updates week of November 16-22, 2025**
+
+### Workfront Planning Maintenance Updates week of November 16-22, 2025
+
+#### Anpassad Forms
+
+**Aktiv/inaktiv indikator har lagts till i listan med anpassade formulär där ett fält används**
+
+I den anpassade formulärdesignern kan du markera ett fält och klicka på **Visa relaterade Forms** för att visa en lista över alla andra formulär där fältet används. Här ser du vilka andra formulär som kommer att påverkas om du redigerar fältet.
+
+En förbättring av den här listan är en aktiv/inaktiv indikator för varje formulär. Du kan snabbt se om fältet används i aktiva eller inaktiva formulär.
+
++++
 
 +++**Workfront Planning Maintenance Updates week of November 9-15, 2025**
 
