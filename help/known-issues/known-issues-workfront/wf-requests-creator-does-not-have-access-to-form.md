@@ -3,9 +3,9 @@ title: 'Begäranden: Formulärskaparen har inte åtkomst till formuläret'
 description: När en användare skapar ett begärandeformulär i Workfront Planning och sedan försöker få åtkomst till formuläret, kan han/hon inte få åtkomst till det och han/hon ser meddelandet Du har inte åtkomst till det här formuläret.
 hidefromtoc: true
 feature: Requests
-source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
+source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Det här problemet gäller funktioner som endast finns i Workfront Planning.
+>* Problemet korrigerades den 26 november 2025.
+>* Det här problemet gäller funktioner som endast finns i Workfront Planning.
 
 När en användare skapar ett begärandeformulär i Workfront Planning, och sedan försöker få åtkomst till formuläret, kan han/hon inte få åtkomst till det, och meddelandet&quot;Du har inte åtkomst till det här formuläret&quot; visas.
 
