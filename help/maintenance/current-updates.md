@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 714d49f190bbe66d94c2cd86d68e46500f130d1a
+source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
 workflow-type: tm+mt
-source-wordcount: '2943'
+source-wordcount: '3008'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,20 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i december 2025
+
++++**Underhållsuppdateringar vecka 7-13 december 2025**
+
+### Underhållsuppdateringar vecka 7-13 december 2025
+
+#### Användare
+
+**Gruppredigeringsanvändare tar bort resurspooler och direkta rapporter**
+
+När en användare redigerar användare gruppvis, klickar i fältet Resurspooler och anger inget värde, tas Resurspooler bort för alla redigerade användare.
+
+Vid gruppredigering kan även direktrapporter tas bort från de redigerade användarna.
+
++++
 
 +++**Underhållsuppdateringar vecka 30 november-6 december 2025**
 

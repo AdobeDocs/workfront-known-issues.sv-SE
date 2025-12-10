@@ -3,15 +3,19 @@ title: 'Användare: Gruppredigeringsanvändare tar bort resurspooler och direktr
 description: När en användare redigerar användare gruppvis, klickar i fältet Resurspooler och anger inget värde, tas Resurspooler bort för alla redigerade användare. Vid gruppredigering kan även direktrapporter tas bort från de redigerade användarna.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 29a523089c599950569751be3e2dc214f5c1bb62
+source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 
 # Användare: Gruppredigeringsanvändare tar bort resurspooler och direktrapporter
+
+>[!NOTE]
+>
+>Problemet korrigerades den 9 december 2025.
 
 När en användare redigerar användare gruppvis, klickar i fältet Resurspooler och anger inget värde, tas Resurspooler bort för alla redigerade användare.
 
