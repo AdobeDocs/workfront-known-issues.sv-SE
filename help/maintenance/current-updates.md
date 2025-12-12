@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '3008'
+source-wordcount: '3103'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,13 @@ Följande underhållsuppdateringar gjordes 2025.
 
 ### Underhållsuppdateringar vecka 7-13 december 2025
 
+#### Begäranden
+
+**Det går inte att överföra dokument till begäran från GDrive**
+
+När en användare skapar en begäran i den nya begärande upplevelsen och försöker överföra ett dokument från GDrive, svarar inte GDrive-fönstret. Användaren kan inte välja en fil eller stänga fönstret.
+
+
 #### Användare
 
 **Gruppredigeringsanvändare tar bort resurspooler och direkta rapporter**
@@ -37,6 +44,12 @@ Följande underhållsuppdateringar gjordes 2025.
 När en användare redigerar användare gruppvis, klickar i fältet Resurspooler och anger inget värde, tas Resurspooler bort för alla redigerade användare.
 
 Vid gruppredigering kan även direktrapporter tas bort från de redigerade användarna.
+
+**Fel vid öppning av användarsidan**
+
+När en användare försöker öppna sidan Användare från huvudmenyn öppnas inte sidan och användaren ser följande meddelande:
+
+&quot;Ett fel har inträffat och vi arbetar för att lösa problemet. Om du vill fortsätta med ditt arbete kan du försöka med att uppdatera den här webbläsarsidan.&quot;
 
 +++
 

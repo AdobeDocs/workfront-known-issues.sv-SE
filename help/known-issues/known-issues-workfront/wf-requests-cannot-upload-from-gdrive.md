@@ -3,9 +3,9 @@ title: 'Begäranden: Det går inte att överföra dokument till begäran från G
 description: När en användare skapar en begäran i den nya begärande upplevelsen och försöker överföra ett dokument från GDrive, svarar inte GDrive-fönstret. Användaren kan inte välja en fil eller stänga fönstret. Det finns en lösning.
 hidefromtoc: true
 feature: Requests, Digital Content and Documents
-source-git-commit: aaaf2be1a00c0b401d54ec152d3b8fb35323459e
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Det här problemet påverkar den nya upplevelsen av begärande.
+>* Det här problemet påverkar den nya upplevelsen av begärande.
+>* Problemet korrigerades den 12 december 2025.
 
 När en användare skapar en begäran i den nya begärande upplevelsen och försöker överföra ett dokument från GDrive, svarar inte GDrive-fönstret. Användaren kan inte välja en fil eller stänga fönstret.
 

@@ -3,15 +3,19 @@ title: 'Användare: Fel vid öppning av sidan Användare'
 description: När en användare försöker öppna sidan Användare från huvudmenyn öppnas inte sidan och användaren ser ett felmeddelande.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
 
 # Användare: Fel vid öppning av sidan Användare
+
+>[!NOTE]
+>
+>Problemet korrigerades den 12 december 2025.
 
 När en användare försöker öppna sidan Användare från huvudmenyn öppnas inte sidan och användaren ser följande meddelande:
 
