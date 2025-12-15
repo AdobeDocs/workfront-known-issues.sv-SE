@@ -3,9 +3,9 @@ title: Inline-redigeringar av en uppgift sparas inte
 description: När en användare gör ändringar i avsnittet Redigeringar för en uppgift i den äldre aktivitetsdialogrutan och sparar, sparas inte ändringarna.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Det här problemet gäller den äldre uppgiftsupplevelsen.
+>* Problemet korrigerades den 15 december 2025.
+>* Det här problemet gäller den äldre uppgiftsupplevelsen.
 
 När en användare gör textbundna ändringar i en uppgift i den äldre uppgiftsupplevelsen och sparar, sparas inte ändringarna.
 

@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '3103'
+source-wordcount: '3210'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,30 @@ Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i december 2025
+
++++**Underhållsuppdateringar vecka 14-20 december 2025**
+
+### Underhållsuppdateringar vecka 14-20 december 2025
+
+#### Uppdrag
+
+**Teamtilldelningar sparas inte**
+
+När en användare tilldelar ett team till ett arbetsobjekt i Workfront sparas inte teamuppdraget och teamet meddelas inte om arbetet.
+
+#### Uppgifter
+
+**Inline-redigeringar av en aktivitet sparas inte**
+
+När en användare gör textbundna ändringar i en uppgift i den äldre uppgiftsupplevelsen och sparar, sparas inte ändringarna.
+
+#### Tidrapporter
+
+**Tidrapporter har inte genererats**
+
+Tidrapporter genereras inte automatiskt som förväntat. Detta kan inträffa även om tidrapportprofilerna är korrekta och tidrapporter för andra veckor genereras korrekt.
+
++++
 
 +++**Underhållsuppdateringar vecka 7-13 december 2025**
 
