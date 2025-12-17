@@ -3,9 +3,9 @@ title: 'Användare: Problem med ändringar i korrekturprofilen'
 description: Problem har rapporterats när det gäller att göra ändringar i en användares korrekturprofil.
 hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
-source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
+source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # Användare: Problem med ändringar i korrekturprofilen
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on December 5, 2025.
--->
+>Problemet korrigerades den 17 december 2025.
 
 Följande problem har rapporterats när det gäller att göra ändringar i en användares korrekturprofil:
 
