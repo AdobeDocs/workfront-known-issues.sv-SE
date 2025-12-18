@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
 workflow-type: tm+mt
-source-wordcount: '3210'
+source-wordcount: '3378'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,13 @@ Följande underhållsuppdateringar gjordes 2025.
 
 När en användare tilldelar ett team till ett arbetsobjekt i Workfront sparas inte teamuppdraget och teamet meddelas inte om arbetet.
 
+#### Scheman
+
+**Behörigheter att schemalägga har återkallats för en grupp**
+
+När en Workfront-gruppadministratör lägger till ett datumundantag i ett schema och sparar ändringarna tas behörigheterna för det schemat bort från gruppen och Workfront-administratören måste bevilja åtkomst för gruppen.
+
+
 #### Uppgifter
 
 **Inline-redigeringar av en aktivitet sparas inte**
@@ -47,6 +54,20 @@ När en användare gör textbundna ändringar i en uppgift i den äldre uppgifts
 **Tidrapporter har inte genererats**
 
 Tidrapporter genereras inte automatiskt som förväntat. Detta kan inträffa även om tidrapportprofilerna är korrekta och tidrapporter för andra veckor genereras korrekt.
+
+#### Användare
+
+**Problem med ändringar i korrekturprofilen**
+
+Följande problem har rapporterats när det gäller att göra ändringar i en användares korrekturprofil:
+
+* När en användare tilldelar en annan korrekturprofil till en användare och sparar, sparas inte ändringen och användaren behåller den tidigare korrekturprofilen.
+* En användares korrekturprofil kan visas som felaktig korrekturprofil, även om rätt korrekturprofil har tilldelats.
+* När andra ändringar görs för en användare kan även behörigheten för korrektur ändras.
+
+**Alternativ för att automatiskt generera korrektur saknas i användarprofilen**
+
+När en användare visar en användarprofil är alternativet Generera korrektur automatiskt när dokument överförs inte tillgängligt. Detta kan inträffa även om alla krav för alternativet är uppfyllda.
 
 +++
 
