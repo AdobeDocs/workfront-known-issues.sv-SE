@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
+source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1452'
 ht-degree: 0%
 
 ---
@@ -48,28 +48,13 @@ ht-degree: 0%
       + [Godkännanden: Godkännandet visas som Ingen deadline när tiden inte ingår i deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [Korrektur: Det går inte att generera ett korrektur från en PowerPoint-fil](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [Användare: Det går inte att redigera meddelandeinställningar för en annan användare](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
-      + [Användare: Det går inte att ändra åtkomstnivå för en användare](known-issues-workfront/wf-users-cannot-change-access-level.md)
       + [Användare: Kan inte redigera en användares Federations-ID](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
-      + [Dokument: Användare som läggs till som godkännare när godkännandet är slutfört meddelas inte](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
-      + [Korrektur: Det går inte att tagga användare i korrekturkommentarer](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
-      + [Behörigheter: Objektbehörigheter ärvs inte korrekt](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [Behörigheter: Objektbehörigheter ärvs inte korrekt](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
-      + [Projekt: Fel när ett projekt läggs till i ett program](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
-      + [Inställningar: Det går inte att logga in som en annan användare](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
-      + [Integrering: Problem med integreringen mellan Workfront för Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
-      + [Uppgifter: Godkännandeområdet försvinner från den vänstra navigeringen](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
-      + [Projekt: Det går inte att flytta projektet till angivet program](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront: Osynkroniserade objekt mellan Workfront och Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [Korrektur: Det går inte att lägga till användare i ett korrektur efter namn i förhandsvisningsmiljön](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
-      + [Korrektur: Det går inte att öppna korrektur från direktlänk](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
-      + [Rapporter: Diagramfördjupningen innehåller felaktiga resultat](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
-      + [Tidrapporter: Tidrapporter har inte skapats korrekt](known-issues-workfront/wf-timesheets-one-week-created.md)
-      + [Sök: Avancerad sökning returnerar inte förväntade resultat](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [Användare: Märket&quot;Väntar på godkännande&quot; visas för nya användare](known-issues-workfront/wf-users-pending-approval.md)
-      + [Resursplanering: Knappen Exportera är inaktiverad](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [korrektur: Stängande korrektur omdirigeras till dokumentlista](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [Dokument: Dokumentminiatyrer visas inte](known-issues-workfront/wf-documents-thumbnails-not-display.md)
-      + [Mallar: Kan inte dela med Contribute-åtkomst](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Filter: Listrutan försvinner när du klickar på rullningslisten](known-issues-workfront/wf-filter-scroll-bar.md)
       + [Projekt: Projektets förloppsstatus uppdateras inte automatiskt till Sent](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Logga in som: Gruppadministratörer kan inte logga in som en annan användare](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
@@ -91,7 +76,6 @@ ht-degree: 0%
       + [Workfront: Contributor-användare har inte åtkomst till program eller portföljer](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [Godkännanden: Filtret Alla utesluter personligt inskickade godkännanden](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [Uppgifter: Felaktig varaktighet för förflutna dagar för överordnade uppgifter med underordnade](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
-      + [Workfront: Det går inte att läsa in webbläsarflikar som är öppna](known-issues-workfront/wf-workfront-browser-tabs-error.md)
       + [Layoutmallar: Anpassade datafält visas inte när de läggs till i uppgiftssammanfattning via layoutmall](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [Integreringar: JumpSeat-integreringar misslyckas för organisationer med enhetligt gränssnitt](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [Meddelanden: Det går inte att visa förhandsvisningar av bilder i e-postmeddelanden om dokumentmeddelanden](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
@@ -142,7 +126,6 @@ ht-degree: 0%
       + [[!UICONTROL Home]: Den nya förhandsvisningen av [!UICONTROL Home]-widgeten visar inte rätt objektnamn](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Home]: [!UICONTROL Requests]-widgeten visar inte alla tilldelade team](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [[!UICONTROL Home]: Widgeten [!UICONTROL Mentions] i nya [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL Setup]: Det går inte att exportera granskningsloggar](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
       + [Anpassade formulär: [!UICONTROL Whoops]-fel när ett beräknat fält konfigureras](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [Korrektur: [!UICONTROL Proof Activity]-fliken öppnas [!UICONTROL Proof Details]](known-issues-workfront/inactive/wf-proofs-proofing-activity-redirects-to-details.md)
@@ -220,10 +203,13 @@ ht-degree: 0%
       + [Workfront Fusion: Utdataformatering](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Fel med lågt minne](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Duplicera projekt som skapats från en enda modul](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Custom API Call] modul som returnerar 404- eller 422-fel](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] modul som returnerar 404- eller 422-fel](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Felet &quot;Det gick inte att verifiera anslutningen&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] module returnerar 404-fel utan ytterligare information](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] hjälplänkar i appen leder inte till specifika hjälpsidor](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
+
++ [!DNL Workfront] Planering {#planning}
+   + [Kända fel i  [!DNL Workfront] Planering](workfrontplanning.md)
 
 + Mobilappen [!DNL Workfront] {#mobile}
    + [Kända fel i  [!DNL Workfront] mobilappen](workfrontmobile.md)
