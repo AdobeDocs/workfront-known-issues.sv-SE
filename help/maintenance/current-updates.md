@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
+source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
 workflow-type: tm+mt
-source-wordcount: '3378'
+source-wordcount: '3415'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,12 @@ Följande underhållsuppdateringar gjordes 2025.
 +++**Underhållsuppdateringar vecka 14-20 december 2025**
 
 ### Underhållsuppdateringar vecka 14-20 december 2025
+
+#### Godkännanden
+
+**Länkar till godkännanden är inte tillgängliga**
+
+När en användare tilldelas som godkännare för ett objekt visas inte länken till det objektet i området Mina uppdateringar eller widgeten Mina godkännanden i Hem.
 
 #### Uppdrag
 
