@@ -3,7 +3,7 @@ title: 'rapportera: Användare kan se ekonomiska data i Canvas Dashboard-visuali
 description: Användare med behörigheten Visa eller Redigera för åtkomst till ekonomiska data på åtkomstnivån kan se ekonomiska data i Canvas Dashboard-visualiseringar, även om behörigheten Visa ekonomi har tagits bort på aktivitets- eller projektnivå.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
+source-git-commit: fc6c4f1fa7f563ef7d7aa9335fb8b89025fcb572
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
