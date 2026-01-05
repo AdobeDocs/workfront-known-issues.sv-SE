@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
+source-git-commit: 9b7fb2257432fae02c7ab8eba1aca5d05bfea90e
 workflow-type: tm+mt
-source-wordcount: '3415'
+source-wordcount: '3664'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,50 @@ Följande underhållsuppdateringar gjordes 2025.
 
 ## Uppdateringar i december 2025
 
++++**Workfront Planning Maintenance Updates week of December 21-27, 2025**
+
+### Workfront Planning Maintenance Updates week of December 21-27, 2025
+
+#### Fel vid borttagning av anslutet fält
+
+När en användare försöker ta bort ett anslutet fält i Workfront Planning kan de inte ta bort fältet och de ser meddelandet&quot;Det går inte att ta bort fältet. Försök igen.&quot;
+
++++
+
++++**Underhållsuppdateringar vecka 21-27 december 2025**
+
+### Underhållsuppdateringar vecka 21-27 december 2025
+
+#### Egna formulär
+
+**Kan inte redigera RTF-fält**
+
+När en användare försöker redigera ett RTF-fält i ett anpassat formulär sparas inte ändringarna och fältet uppdateras inte för att återspegla ändringarna.
+
+#### Uppgifter
+
+**Det går inte att välja användarroll när en uppgift skapas**
+
+När en användare skapar en uppgift och försöker tilldela en användarroll, finns inte alternativet att tilldela rollen och användaren kan inte tilldela en användarroll.
+
++++
+
++++**Workfront Planning Maintenance Updates week of December 14-20, 2025**
+
+### Workfront Planning Maintenance Updates week of December 14-20, 2025
+
+#### Kan inte lägga till ett fält i en vy
+
+>[!NOTE]
+>
+>* Problemet har rapporterats i sandlådan för anpassad uppdatering.
+
+När en användare försöker lägga till ett fält i en vy i Workfront Planning läggs fältet inte till och användaren ser följande meddelande:
+
+&quot;Det går inte att skapa fältkolumnen. Försök igen.&quot;
+
++++
+
 +++**Underhållsuppdateringar vecka 14-20 december 2025**
 
 ### Underhållsuppdateringar vecka 14-20 december 2025
@@ -41,6 +85,12 @@ När en användare tilldelas som godkännare för ett objekt visas inte länken 
 **Teamtilldelningar sparas inte**
 
 När en användare tilldelar ett team till ett arbetsobjekt i Workfront sparas inte teamuppdraget och teamet meddelas inte om arbetet.
+
+#### Begäranden
+
+**Behörigheter ärvs inte när en begäran skapas**
+
+När en användare skapar en begäran ärver den inte behörigheter. Detta innebär att användarna kanske inte kan komma åt begäran.
 
 #### Scheman
 

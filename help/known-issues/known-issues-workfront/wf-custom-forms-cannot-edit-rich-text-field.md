@@ -3,15 +3,19 @@ title: 'Anpassade formulär: Det går inte att redigera RTF-fält'
 description: När en användare försöker redigera ett RTF-fält i ett anpassat formulär sparas inte ändringarna och fältet uppdateras inte för att återspegla ändringarna.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 
 # Anpassade formulär: Det går inte att redigera RTF-fält
+
+>[!NOTE]
+>
+>Problemet korrigerades den 22 december 2025.
 
 När en användare försöker redigera ett RTF-fält i ett anpassat formulär sparas inte ändringarna och fältet uppdateras inte för att återspegla ändringarna.
 

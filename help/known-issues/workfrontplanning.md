@@ -3,9 +3,9 @@ title: Kända fel i  [!DNL Adobe Workfront Planning]
 description: Rapporterade kända problem för  [!DNL Adobe Workfront Planning]
 keywords: ny fil, lägga till fil
 feature: Workfront Planning
-source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | --- | --- |
-| [Workfront Planning: Fel vid borttagning av anslutet fält](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 12 december 2025 |
+| Ingen | |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 | --- | --- |
-| [Workfront Planning: Det går inte att lägga till ett fält i en vy](known-issues-workfront/wf-planning-cannot-add-field.md) | 15 december 2025 |
+| Ingen | |
 
 {style="table-layout:auto"}
 

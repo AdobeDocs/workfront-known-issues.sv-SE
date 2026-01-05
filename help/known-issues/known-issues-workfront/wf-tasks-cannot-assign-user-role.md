@@ -3,15 +3,19 @@ title: 'Uppgifter: Det går inte att välja användarroll när en uppgift skapas
 description: När en användare skapar en uppgift och försöker tilldela en användarroll, finns inte alternativet att tilldela rollen och användaren kan inte tilldela en användarroll. Det finns en lösning.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 
 # Uppgifter: Det går inte att välja användarroll när en uppgift skapas
+
+>[!NOTE]
+>
+>Problemet korrigerades den 21 december 2025.
 
 När en användare skapar en uppgift och försöker tilldela en användarroll, finns inte alternativet att tilldela rollen och användaren kan inte tilldela en användarroll.
 
