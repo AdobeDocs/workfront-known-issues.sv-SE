@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Fusion]
 keywords: ny fil, lägga till fil
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 8c2f913bcda64043a42ffe8477ba23d2dad7d210
+source-git-commit: 3af3819111daabfea1860179d7ba7529bae4c34a
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -24,8 +24,8 @@ Den här sidan innehåller identifierade problem i [!DNL Adobe Workfront Fusion]
 Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
-| -----------------------------------------------------------------| ----------------- |
-| Ingen |  |
+| ----------------------------------------------------------------- | ----------------- |
+| [Workfront Fusion: Huvudfel saknas i AWS-moduler](known-issues-workfront-fusion/fusion-missing-header-aws.md) | 6 januari 2026 |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 Korrigeringar av dessa problem pågår för närvarande eller planeras för den närmaste framtiden.
 
 | **Utgåva** | **Senast ändrad** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Workfront Fusion: Kan inte lägga till eller ta bort användare från Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | 24 september 2024 |
 
 {style="table-layout:auto"}
@@ -44,7 +44,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 Korrigeringar av dessa problem finns för närvarande inte på färdplanen, men tillfälliga lösningar finns tillgängliga och beskrivs i artikeln för varje problem.
 
 | **Utgåva** | **Senast ändrad** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Workfront Fusion: Jira Search-modulen returnerar ett fel](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | 16 september 2025 |
 | [Workfront Fusion: Fält saknas i modul](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 5 februari 2024 |
 | [Workfront Fusion: Uppdateringar av webkrok sparar inte automatiskt](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 6 augusti 2025 |
@@ -54,7 +54,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen, men 
 Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vissa fall åtgärdas dessa problem genom nya funktioner eller funktionsuppdateringar.
 
 | **Utgåva** | **Senast ändrad** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Korrektur: Det går inte att skapa korrektur för videofilmer som har länkats från AEM via Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 februari 2025 |
 | [Workfront Fusion: Starta inställningen &quot;Från och med nu&quot; som bearbetar alla data](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 29 oktober 2024 |
 | [Workfront Fusion: Utdataformatering för datum](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 31 januari 2024 |
