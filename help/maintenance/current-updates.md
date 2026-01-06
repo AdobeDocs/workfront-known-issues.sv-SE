@@ -3,7 +3,7 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e1b9715833d8b35f403400c9969a182d688b7116
+source-git-commit: c2634db0768c32bb003d6401afc2239e941bf6d2
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 2%
@@ -20,9 +20,9 @@ På den här sidan beskrivs de problem som har åtgärdats i de veckovisa uppdat
 
 Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeringar. [!DNL Workfront] Support meddelar dig när ett problem som du har skickat har åtgärdats.
 
-Underhållsuppdateringar före 2025 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
+Underhållsuppdateringar före 2026 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
-Följande underhållsuppdateringar gjordes 2025.
+Följande underhållsuppdateringar gjordes 2026.
 
 ## Uppdateringar i januari 2026
 
