@@ -3,15 +3,19 @@ title: 'Fusion: Huvudfel saknas i AWS-moduler'
 description: 'AWS-moduler misslyckas med felet: Nödvändigt huvud saknas för denna begäran'
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 3af3819111daabfea1860179d7ba7529bae4c34a
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
 
 # Fusion: Huvudfel saknas i AWS-moduler
+
+>[!NOTE]
+>
+>Problemet korrigerades den 8 januari 2026.
 
 AWS-moduler misslyckas med följande fel:
 

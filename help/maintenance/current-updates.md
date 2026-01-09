@@ -3,10 +3,10 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c2634db0768c32bb003d6401afc2239e941bf6d2
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 2%
+source-wordcount: '217'
+ht-degree: 1%
 
 ---
 
@@ -25,6 +25,18 @@ Underhållsuppdateringar före 2026 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2026.
 
 ## Uppdateringar i januari 2026
+
++++**Workfront Fusion Maintenance Updates week of January 4-10, 2026**
+
+### Underhållsuppdateringar vecka 4-10 januari 2012
+
+**Huvudfel saknas i AWS-moduler**
+
+AWS-moduler misslyckas med följande fel:
+
+&quot;Nödvändigt huvud saknas för denna begäran&quot;
+
++++
 
 +++**Underhållsuppdateringar vecka 4-10 januari 2026**
 
