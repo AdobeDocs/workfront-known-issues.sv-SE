@@ -3,15 +3,19 @@ title: 'Godkännanden: Widgeten Mina godkännanden visar slutförda godkännande
 description: När en användare visar widgeten Mina godkännanden i Hem innehåller widgeten korrektur som redan har godkänts.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 
 # Godkännanden: Widgeten Mina godkännanden visar slutförda godkännanden
+
+>[!NOTE]
+>
+>Problemet korrigerades den 8 januari 2026.
 
 När en användare visar widgeten Mina godkännanden i Hem innehåller widgeten korrektur som redan har godkänts.
 

@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '274'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Följande underhållsuppdateringar gjordes 2026.
 
 +++**Workfront Fusion Maintenance Updates week of January 4-10, 2026**
 
-### Underhållsuppdateringar vecka 4-10 januari 2012
+### Underhållsuppdateringar vecka 4-10 januari 2026
 
 **Huvudfel saknas i AWS-moduler**
 
@@ -40,13 +40,26 @@ AWS-moduler misslyckas med följande fel:
 
 +++**Underhållsuppdateringar vecka 4-10 januari 2026**
 
-### Underhållsuppdateringar vecka 4-10 januari 2012
+### Underhållsuppdateringar vecka 4-10 januari 2026
+
+#### Godkännanden
+
+**Widgeten Mina godkännanden visar slutförda godkännanden**
+
+När en användare visar widgeten Mina godkännanden i Hem innehåller widgeten korrektur som redan har godkänts.
 
 #### Korrektur
 
 **Korrekturstatusändringar är fördröjda**
 
 När beslut fattas om ett bevis, visas inte beslutet i ett projekts dokumentområde i upp till 24 timmar. Detta kan orsaka förvirring eftersom statusen fortfarande visas som Väntande eller en annan inaktuell status, även om ett beslut har fattats.
+
+#### Begäranden
+
+**Begärandeköer visas flera gånger**
+
+När en användare börjar skapa en begäran och väljer en begärandekö visas samma begärandekö flera gånger i listrutan.
+
 
 +++
 
