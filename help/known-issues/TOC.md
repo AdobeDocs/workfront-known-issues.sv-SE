@@ -2,9 +2,9 @@
 user-guide-title: Kända fel
 user-guide-description: Kända fel för  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2a8b9279bcffd316c9c4f2242633270ea076b1a4
+source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
 workflow-type: tm+mt
-source-wordcount: '1561'
+source-wordcount: '1572'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Kända fel i  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuella problem i [!DNL Adobe Workfront] {#wf-current}
+      + [Begäranden: Felet&quot;Du har inte tillräcklig åtkomst&quot; vid kopiering av begäranden](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
       + [Scheman: Det går inte att se undantag från tidigare år](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
       + [Förfrågningar: vyn &quot;Alla&quot; visar inte alla begäranden](known-issues-workfront/wf-requests-not-showing-all.md)
       + [Anpassade formulär: Beräknade fält visar inte data för icke-administratörer](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
@@ -216,7 +217,7 @@ ht-degree: 0%
       + [Workfront Fusion: Utdataformatering](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Fel med lågt minne](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Duplicera projekt som skapats från en enda modul](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Custom API Call] modul som returnerar 404- eller 422-fel](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] modul som returnerar 404- eller 422-fel](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Felet &quot;Det gick inte att verifiera anslutningen&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] module returnerar 404-fel utan ytterligare information](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] hjälplänkar i appen leder inte till specifika hjälpsidor](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
