@@ -74,7 +74,7 @@ Lösningar på dessa problem finns för närvarande inte på färdplanen, men l�
 | [Workfront: ZScaler-inställningar kan orsaka minskad prestanda](known-issues-workfront//wf-workfront-zscaler.md) | 20 november 2024 |
 | [Notiser: Dokumentnotiser via e-post kan inte visa bildförhandsvisningar](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 29 oktober 2024 |
 | [Hem: Borttagna anpassade fält kvarstår i projekt-, uppgifts- och ärendewidgets](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8 oktober 2024 |
-| [Hem: Hem kraschar med felet &quot;Slut på minne&quot; ](known-issues-workfront/wf-home-crashes-with-error.md) | 5 september 2024 |
+| [Hem: Hem kraschar med felet &quot;Slut på minne&quot; &#x200B;](known-issues-workfront/wf-home-crashes-with-error.md) | 5 september 2024 |
 | [Workfront: Flera webbläsarflikar gör att Workfront loggar ut](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 18 september 2024 |
 | [Korrektur: Korrektur förhindrar konvertering av aktivitet eller problem till projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 juni 2024 |
 | [Hem: Aktiviteter i projekt med statusen Godkänd eller Planering ingår inte i Min aktivitet eller Hemarbetslista](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 7 juni 2024 |

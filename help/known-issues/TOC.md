@@ -218,7 +218,7 @@ ht-degree: 0%
       + [Workfront Fusion: Utdataformatering för datum](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Lågt minnesfel](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Dubblettprojekt skapade från en enda modul](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] modul som returnerar 404- eller 422-fel](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Custom API Call] modul som returnerar 404- eller 422-fel](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: &quot;Misslyckades med att verifiera anslutningen&quot;-felet](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] module returnerar 404-fel utan ytterligare information](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] Hjälplänkar i appen leder inte till specifika hjälpsidor](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
@@ -227,7 +227,7 @@ ht-degree: 0%
    + [Kända frågor inom [!DNL Workfront] planering](workfrontplanning.md)
 
 + [!DNL Workfront] Mobilapp {#mobile}
-   + [Kända problem i mobilappen [!DNL Workfront] ](workfrontmobile.md)
+   + [Kända problem i mobilappen [!DNL Workfront] &#x200B;](workfrontmobile.md)
 
 <!--
 
