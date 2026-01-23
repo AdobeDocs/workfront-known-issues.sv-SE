@@ -3,10 +3,10 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
+source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 1%
+source-wordcount: '406'
+ht-degree: 0%
 
 ---
 
@@ -25,6 +25,35 @@ Underhållsuppdateringar före 2026 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2026.
 
 ## Uppdateringar i januari 2026
+
++++**Underhållsuppdateringsvecka 18-24 januari 2026**
+
+### Underhållsuppdateringsvecka 18-24 januari 2026
+
+#### Begäranden
+
+**Problem med utkast i den nya begärande upplevelsen**
+
+Följande problem har rapporterats när det gäller utkast i den nya begärande upplevelsen:
+
+* Förfrågningar som skapats som utkast och sedan skickats in visar endast den första bokstaven i ämnet i listan Förfrågningar.
+* Ignorerade utkast tas inte bort från listan över begäranden,
+
+#### Scheman
+
+**Det går inte att se undantag från tidigare år**
+
+När en användare tittar på undantagskalendern och försöker visa tidigare år, kan de inte visa föregående år.
+
++++
+
++++**Underhållsuppdateringsvecka 11-17 januari 2026**
+
+### Underhållsuppdateringsvecka 11-17 januari 2026
+
+Den här uppdateringen innehåller endast mindre eller mindre viktiga felkorrigeringar. Workfront Support meddelar dig när ett problem som du har skickat har åtgärdats.
+
++++
 
 +++**Workfront Fusion Maintenance Updates week of January 4-10, 2026**
 
