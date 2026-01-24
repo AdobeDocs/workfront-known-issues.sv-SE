@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om du är [!DNL Workfront] auktoriserad supportkontakt och har problem med att skicka in ett supportärende kan du få instruktioner på följande bloggar:
 
-* [Så här skickar du en supportanmälan i Experience Leag](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737)
+* [Så här skickar du en supportanmälan i Experience Leag](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737?profile.language=sv)
 * [Loggar in för första gången som ny eller befintlig medlem i Workfront Experience League Community](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472)
 
 Om du fortfarande har problem kan du ringa oss på telefonnumren nedan så att vi kan hjälpa dig.
