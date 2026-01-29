@@ -4,7 +4,7 @@ description: Kända fel för den nya  [!DNL Adobe Workfront] upplevelsen har rap
 keywords: ny fil, lägga till fil
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
 source-wordcount: '1085'
 ht-degree: 0%
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | --- | --- |
+| [Inloggning: Workfront läses inte in efter inloggning](known-issues-workfront/wf-login-wf-does-not-load.md) | 29 januari 2026 |
 | [Utjämning av arbetsbelastning: Timmar per användare beräknas inte korrekt](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | 29 januari 2026 |
 | [Användare: Användare har inte etablerats korrekt på Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 7 januari 2026 |
 | [Användare: Kan inte uppdatera användaråtkomst](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 5 januari 2026 |
@@ -45,7 +46,6 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 | [Förfrågningar: Vyn Alla visar inte alla förfrågningar](known-issues-workfront/wf-requests-not-showing-all.md) | 16 januari 2026 |
 | [Anpassade formulär: Beräknade fält visar inte data för icke-administratörer](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 16 januari 2026 |
 | [Begäranden: Felet&quot;Du måste vara systemadministratör&quot; när begäranden kopieras](known-issues-workfront/wf-requests-error-when-copying.md) | 15 januari 2026 |
-| [Godkännanden: Widgeten Mina godkännanden visar slutförda godkännanden](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 15 januari 2026 |
 | [Förfrågningar: Problem med utkast i den nya begärande upplevelsen](known-issues-workfront/wf-requests-issues-with-drafts.md) | 7 januari 2026 |
 | [Rapportering: Användare kan se ekonomiska data i visualiseringar på arbetsytans kontrollpanel](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 19 december 2025 |
 | [Godkännanden: Godkännandet visas som Ingen deadline när tid inte inkluderas i deadline](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 25 september 2025 |
@@ -74,7 +74,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen, men 
 | [Workfront: ZScaler-inställningar kan ge sämre prestanda](known-issues-workfront//wf-workfront-zscaler.md) | 20 november 2024 |
 | [Meddelanden: Det går inte att visa förhandsgranskningar av bilder med e-postmeddelanden i dokumentmeddelanden](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 29 oktober 2024 |
 | [Hem: Borttagna anpassade fält finns kvar i widgetarna för projekt, aktiviteter och utgåvor](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8 oktober 2024 |
-| [Hem: Hem kraschar med felet &quot;Slut på minne&quot; &#x200B;](known-issues-workfront/wf-home-crashes-with-error.md) | 5 september 2024 |
+| [Hem: Hem kraschar med felet &quot;Slut på minne&quot; ](known-issues-workfront/wf-home-crashes-with-error.md) | 5 september 2024 |
 | [Workfront: Flera webbläsarflikar gör att Workfront loggar ut](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 18 september 2024 |
 | [Korrektur: Korrektur förhindrar konvertering av aktivitet eller problem till projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 juni 2024 |
 | [Hem: Aktiviteter i projekt med statusen Godkänd eller Planering ingår inte i Min aktivitet eller Hemarbetslista](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 7 juni 2024 |
@@ -129,19 +129,19 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Konfigurera: Det går inte att använda [!UICONTROL Kick-Starts] för att konfigurera grupperingar](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 30 november 2023 |
 | [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 november 2023 |
 | [Workfront Fusion: Duplicera projekt som skapats från en enda modul](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9 november 2023 |
-| [[!UICONTROL Home]: [!UICONTROL Requests]-widgeten visar inte alla tilldelade team &#x200B;](known-issues-workfront/inactive/wf-home-request-shows-one-team.md) | 26 oktober 2023 |
-| [[!DNL Workfront Proof]: Det går inte att utöka arbetsflödet &#x200B;](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
+| [[!UICONTROL Home]: [!UICONTROL Requests]-widgeten visar inte alla tilldelade team ](known-issues-workfront/inactive/wf-home-request-shows-one-team.md) | 26 oktober 2023 |
+| [[!DNL Workfront Proof]: Det går inte att utöka arbetsflödet ](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
 | [[!UICONTROL Home]: Widgeten [!UICONTROL Mentions] i nya [!UICONTROL Home] begränsas inte till meddelanden där användaren är taggad](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 25 september 2023 |
-| [[!UICONTROL Home]: Den nya [!UICONTROL Home] widgetförhandsvisningen visar inte rätt objektnamn &#x200B;](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 september 2023 |
+| [[!UICONTROL Home]: Den nya [!UICONTROL Home] widgetförhandsvisningen visar inte rätt objektnamn ](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 september 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 juni 2023 |
 | [Korrektur: Mätverktyget accepterar inte decimalpunkter](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 mars 2023 |
 | [[!UICONTROL Home]: Slutförde korrektur som fastnat i [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 januari 2023 |
-| [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
+| [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
 | [API: kan inte sortera efter dynamiska fält](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md) | 31 oktober 2022 |
 | [[!UICONTROL Setup]: Listor läses in långsamt i [!UICONTROL Setup]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md) | 28 oktober 2022 |
 | [Kontrollpaneler: Rapportdiagram som visas på en kontrollpanel har andra färger än de som visas i rapporten](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 5 augusti 2022 |
-| [Agile: Problem vid flyttning av kort på [!UICONTROL Agile] board &#x200B;](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 april 2022 |
-| [[!UICONTROL Home]: Alternativet Ny aktivitet visar inaktiverade användare i fältet [!UICONTROL Assign To] &#x200B;](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 oktober 2021 |
+| [Agile: Problem vid flyttning av kort på [!UICONTROL Agile] board ](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 april 2022 |
+| [[!UICONTROL Home]: Alternativet Ny aktivitet visar inaktiverade användare i fältet [!UICONTROL Assign To] ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 oktober 2021 |
 | [Uppdateringar: Teamnamnet visas inte i @mention](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 1 oktober 2021 |
 | [Agile: Fel i [!UICONTROL Completed Points] för en iteration](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 22 juni 2021 |
 | [E-postmeddelanden: Inställningen [!UICONTROL I'm assigned to an issue] visas](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 juni 2021 |
