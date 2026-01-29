@@ -3,19 +3,15 @@ title: 'Begäranden: Problem med utkast i den nya begärande upplevelsen'
 description: Flera rapporter har lämnats om utkast i den nya upplevelsen av begärande.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
+source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 
 # Begäranden: Problem med utkast i den nya begärande upplevelsen
-
->[!NOTE]
->
->Problemet korrigerades den 23 januari 2026.
 
 Följande problem har rapporterats när det gäller utkast i den nya begärande upplevelsen:
 
