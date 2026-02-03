@@ -3,15 +3,19 @@ title: 'Begäranden: Du måste vara ett systemadministratörsfel när begärande
 description: När en användare kopierar en begäran och försöker spara, sparas inte begäran och användaren ser ett felmeddelande
 hidefromtoc: true
 feature: Requests
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
 
 # Begäranden: Felet&quot;Du måste vara systemadministratör&quot; när begäranden kopieras
+
+>[!NOTE]
+>
+>Problemet korrigerades den 3 februari 2026.
 
 När en användare kopierar en begäran och försöker spara, sparas inte begäran och användaren ser följande meddelande:
 

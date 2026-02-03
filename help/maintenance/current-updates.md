@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,34 @@ Uppdateringarna innehåller även andra mindre eller mindre viktiga felkorrigeri
 Underhållsuppdateringar före 2026 finns i [Tidigare underhållsuppdateringar](#previous-maintenance-updates)
 
 Följande underhållsuppdateringar gjordes 2026.
+
+## Uppdateringar i februari 2026
+
++++**Underhållsuppdateringsvecka 1-7 februari 2026**
+
+### Underhållsuppdateringsvecka 1-7 februari 2026
+
+#### Begäranden
+
+Felet **&quot;Du har inte tillräcklig åtkomst&quot; vid kopiering av begäranden**
+
+När en användare försöker kopiera en begäran via sidan med begäran kopieras inte begäran och användaren ser följande fel:
+
+&quot;Du har inte tillräcklig behörighet för att redigera det här problemet.&quot;
+
+Felet **&quot;Du måste vara systemadministratör&quot; vid kopiering av begäranden**
+
+När en användare kopierar en begäran och försöker spara, sparas inte begäran och användaren ser följande meddelande:
+
+&quot;Du måste vara systemadministratör för att kunna ändra det här anpassade dataparametervärdet.&quot;
+
+#### Användare
+
+**Användare har inte etablerats korrekt på Adobe Admin Console**
+
+Om en användare redan finns på en Adobe Admin Console och sedan automatiskt etableras på en konsol som innehåller Workfront, etableras den användaren inte korrekt på den nya konsolen.
+
++++
 
 ## Uppdateringar i januari 2026
 
