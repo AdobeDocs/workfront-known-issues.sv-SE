@@ -1,24 +1,28 @@
 ---
-title: 'Dokument: Sammanfattningspanelen är tom'
-description: När en användare tittar på en dokumentlista och klickar på ett dokument öppnas Sammanfattningspanelen, men förblir tom. Användaren kan inte stänga sammanfattarpanelen.
+title: 'Dokument: Panelen Sammanfattning är tom'
+description: När en användare visar en dokumentlista och klickar på ett dokument öppnas panelen Sammanfattning, men den är tom. Användaren kan inte stänga panelen Sammanfattning.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
+exl-id: 475cda94-7329-4df9-b8db-819e4634bbd4
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
+# Dokument: Panelen Sammanfattning är tom
 
-# Dokument: Sammanfattningspanelen är tom
+>[!NOTE]
+>
+>Problemet korrigerades den 5 februari 2026.
 
-När en användare tittar på en dokumentlista och klickar på ett dokument öppnas Sammanfattningspanelen, men förblir tom. Användaren kan inte stänga sammanfattarpanelen.
+När en användare visar en dokumentlista och klickar på ett dokument öppnas panelen Sammanfattning, men den är tom. Användaren kan inte stänga panelen Sammanfattning.
 
-Om användaren laddar om sidan kan Sammanfattningspanelen fyllas som förväntat. Men om användaren klickar på ett annat dokument är det dokumentets sammanfattningspanel tom.
+Om användaren läser in sidan igen kan sammanfattningspanelen fyllas i som förväntat. Men om användaren klickar på ett annat dokument är dokumentets sammanfattningspanel tom.
 
-**Lösningslösning**
+**Tillfällig lösning**
 
-För att tillfälligt visa Sammanfattningspanelen, försök ladda om sidan.
+Om du tillfälligt vill visa panelen Sammanfattning kan du försöka läsa in sidan igen.
 
 _Först rapporterad den 13 januari 2025._

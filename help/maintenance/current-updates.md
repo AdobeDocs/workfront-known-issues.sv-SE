@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '761'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,21 @@ Följande underhållsuppdateringar gjordes 2026.
 
 ### Underhållsuppdateringsvecka 1-7 februari 2026
 
+#### Dokument
+
+**Panelen Sammanfattning är tom**
+
+När en användare visar en dokumentlista och klickar på ett dokument öppnas panelen Sammanfattning, men den är tom. Användaren kan inte stänga panelen Sammanfattning.
+
+Om användaren läser in sidan igen kan sammanfattningspanelen fyllas i som förväntat. Men om användaren klickar på ett annat dokument är dokumentets sammanfattningspanel tom.
+
 #### Begäranden
+
+**&quot;Inget ämne&quot; visas i listan över förfrågningar**
+
+När en användare visar listan med förfrågningar i den nya begärande upplevelsen visas&quot;Inget ämne&quot; i kolumnen Ämne.
+
+Om användaren öppnar en av dessa förfrågningar ser han eller hon att förfrågningen har ett ämne.
 
 Felet **&quot;Du har inte tillräcklig åtkomst&quot; vid kopiering av begäranden**
 
@@ -49,6 +63,12 @@ När en användare kopierar en begäran och försöker spara, sparas inte begär
 **Användare har inte etablerats korrekt på Adobe Admin Console**
 
 Om en användare redan finns på en Adobe Admin Console och sedan automatiskt etableras på en konsol som innehåller Workfront, etableras den användaren inte korrekt på den nya konsolen.
+
+#### Utjämning av arbetsbelastning
+
+**Timmar per användare beräknas inte korrekt**
+
+När en användare visar en användares timmar i Utjämning av arbetsbelastning kan dessa timmar komma att beräknas felaktigt. Veckovyn kan t.ex. visa en beräkning av timmar, men vyn 4 veckor visar ett annat antal timmar för den veckan.
 
 +++
 
