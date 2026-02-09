@@ -3,15 +3,19 @@ title: 'Rapporter: Data Lake-frågan returnerar inte förväntade resultat'
 description: När Data Lake efterfrågas returneras inte alla förväntade resultat.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 26ea0ef4504eed2f99cb3fb6e0af20410f9853a1
+exl-id: c24d7a82-1f58-4344-8677-a2e6dee67d70
+source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-
 # Rapporter: Data Lake-frågan returnerar inte förväntade resultat
+
+>[!NOTE]
+>
+>Problemet korrigerades den 9 februari 2026.
 
 När Data Lake efterfrågas returneras inte alla förväntade resultat.
 

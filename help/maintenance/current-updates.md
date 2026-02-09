@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '798'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,18 @@ Underhållsuppdateringar före 2026 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2026.
 
 ## Uppdateringar i februari 2026
+
++++**Underhållsuppdateringsvecka 8-14 februari 2026**
+
+### Underhållsuppdateringsvecka 8-14 februari 2026
+
+#### Rapporter
+
+**Data Lake-frågan returnerar inte förväntade resultat**
+
+När Data Lake efterfrågas returneras inte alla förväntade resultat.
+
++++
 
 +++**Underhållsuppdateringsvecka 1-7 februari 2026**
 
