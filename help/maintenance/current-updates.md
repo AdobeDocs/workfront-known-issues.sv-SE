@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '951'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,12 @@ Följande underhållsuppdateringar gjordes 2026.
 När Data Lake efterfrågas returneras inte alla förväntade resultat.
 
 #### Begäranden
+
+**Utkast som skapats tillsammans med begäran orsakar problem**
+
+När en användare skapar och skickar en ny begäran i den nya upplevelsen för begärande skapas också ett utkast. Utkastet visar endast den första bokstaven i namnet på den inskickade begäran, och om du försöker öppna det uppstår ett fel av typen&quot;Det gick inte att hämta&quot;.
+
+Om den inskickade begäran sedan tas bort verkar den dessutom tas bort, men visas i området med förfrågningar i Workfront. Om användaren försöker att öppna begäran igen visas ett meddelande som anger att begäran inte finns.
 
 **Problem med utkast i den nya begärande upplevelsen**
 

@@ -3,9 +3,10 @@ title: Kända fel i  [!DNL Adobe Workfront Planning]
 description: Rapporterade kända problem för  [!DNL Adobe Workfront Planning]
 keywords: ny fil, lägga till fil
 feature: Workfront Planning
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
+exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -34,7 +35,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 | --- | --- |
-| Ingen | |
+| [Rapportering: Workfront Planning-fält visas inte i rapportverktyget för arbetsytans kontrollpaneler](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 11 februari 2026 |
 
 {style="table-layout:auto"}
 
