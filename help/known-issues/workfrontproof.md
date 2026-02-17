@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Proof]
 keywords: ny fil, lägga till fil
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: dc6d6c021ec44ad74aa0a40319235208594eecaf
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Godkännanden: Godkännanden låses automatiskt](known-issues-workfront/wf-approvals-are-locked.md) | 17 februari 2026 |
 | [Korrektur: Det går inte att tagga vissa användare](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 februari 2025 |
 | [Integrationer: Länkar mapp från [!DNL Google Drive] länkar inte resurser i mappen](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 juni 2024 |
 
@@ -36,6 +37,8 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Hem: Meningar från korrektur visas inte i widgeten Mentions](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | 17 februari 2026 |
+| [Godkännanden: Det går inte att godkänna dokument från widgeten Mina godkännanden i Hem](known-issues-workfront/wf-approval-not-work-from-widget.md) | 17 februari 2026 |
 | [Workfront Proof: Korrektur visas inte i mappar](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 6 februari 2026 |
 | [Godkännanden: Widgeten Mina godkännanden visar slutförda godkännanden](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 15 januari 2026 |
 | [Dokument: Dokumentminiatyrer visas inte](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 april 2025 |
@@ -57,7 +60,7 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [Korrektur: Webbfångstkorrektur genererar inte](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 december 2024 |
 | [Korrektur: Det går inte att generera](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) i zippade korrektur | 7 juni 2024 |
 | [Korrektur: Fel vid delning av korrektur från e-postlänk](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 november 2023 |
-| [[!DNL Workfront Proof]: Det går inte att utöka arbetsflödet &#x200B;](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
+| [[!DNL Workfront Proof]: Det går inte att utöka arbetsflödet ](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 oktober 2023 |
 | [Workfront Proof: Instrumentpanelsdata är inte alltid korrekta](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 september 2023 |
 | [Workfront Proof: Sökdata är inte alltid korrekta](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 september 2023 |
 | [Korrektur: Korrektur skapas långsamt i förhandsvisningsmiljön](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 juni 2023 |
@@ -71,10 +74,10 @@ Korrigeringar av dessa problem finns för närvarande inte på färdplanen. I vi
 | [[!DNL Workfront Proof]: Området [!UICONTROL Reports] stöds inte längre](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 mars 2023 |
 | [Korrektur: Nytt stadium har skapats eftersom deadline inte kan matcha deadline för befintligt stadium](known-issues-workfront-proof/proof-new-stage-created.md) | 2 februari 2023 |
 | [[!UICONTROL Home]: Slutförde korrektur som fastnat i [!UICONTROL Work List]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 januari 2023 |
-| [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
+| [Korrektur: Korrekturstatus uppdateras inte i [!UICONTROL Document] listor ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 december 2022 |
 | [Korrektur: Korrektur delas inte med användare i korrekturarbetsflödet](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 september 2022 |
 | [Korrektur: fältet [!UICONTROL Active Proof Stages] är tomt](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14 september 2022 |
-| [[!DNL Workfront Proof]: Det går inte att lägga till användare i korrektur genom att tagga användaren i en kommentar &#x200B;](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 mars 2022 |
+| [[!DNL Workfront Proof]: Det går inte att lägga till användare i korrektur genom att tagga användaren i en kommentar ](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 mars 2022 |
 | [[!DNL Workfront Proof]: [!UICONTROL Proof Approval]-rapporten kan inte fastställa deadlines korrekt](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 april 2021 |
 | [Dokument: Ikonen för korrekturarbetsflöde visas inte](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 mars 2021 |
 

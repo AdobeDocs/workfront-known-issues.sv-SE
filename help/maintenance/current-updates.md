@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '1003'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,18 @@ Underhållsuppdateringar före 2026 finns i [Tidigare underhållsuppdateringar](
 Följande underhållsuppdateringar gjordes 2026.
 
 ## Uppdateringar i februari 2026
+
++++**Underhållsuppdateringsvecka 15-21 februari 2026**
+
+### Underhållsuppdateringsvecka 15-21 februari 2026
+
+#### Egna formulär
+
+**Visningslogiken visas inte korrekt i begärandeformuläret**
+
+När en användare fyller i ett anpassat formulär som är kopplat till en begäran följs inte visningslogiken, och vissa fält kanske inte visas som förväntat.
+
++++
 
 +++**Underhållsuppdateringsvecka 8-14 februari 2026**
 
