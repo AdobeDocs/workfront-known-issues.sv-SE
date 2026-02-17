@@ -25,7 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | --- | --- |
-| [Workfront Planning: Felet &quot;Det gick inte att skicka begäran&quot; ](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 17 februari 2026 |
+| [Workfront Planning: Felet &quot;Det gick inte att skicka begäran&quot; &#x200B;](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 17 februari 2026 |
 
 {style="table-layout:auto"}
 
