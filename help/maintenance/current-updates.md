@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
 workflow-type: tm+mt
-source-wordcount: '1003'
+source-wordcount: '1040'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,13 @@ Följande underhållsuppdateringar gjordes 2026.
 **Visningslogiken visas inte korrekt i begärandeformuläret**
 
 När en användare fyller i ett anpassat formulär som är kopplat till en begäran följs inte visningslogiken, och vissa fält kanske inte visas som förväntat.
+
+#### Begäranden
+
+Vyn **&quot;Alla&quot; visar inte alla begäranden**
+
+När en användare visar listan med förfrågningar i den nya begärande upplevelsen, och vyn är inställd på att visa alla förfrågningar, visas bara en del av förfrågningarna.
+
 
 +++
 
