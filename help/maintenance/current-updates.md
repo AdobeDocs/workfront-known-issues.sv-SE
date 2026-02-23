@@ -3,9 +3,9 @@ title: Underhållsuppdateringar för Workfront
 description: Underhållsuppdateringar för  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,53 @@ Följande underhållsuppdateringar gjordes 2026.
 
 ## Uppdateringar i februari 2026
 
++++**Underhållsuppdateringsvecka 22-28 februari 2026**
+
+### Underhållsuppdateringsvecka 22-28 februari 2026
+
+#### Begäranden
+
+**Det går inte att överföra ett dokument när en begäran fylls i**
+
+När en användare fyller i en begäran och försöker överföra ett dokument, överförs inte dokumentet och användaren ser följande fel:
+
+&quot;Överföringsfel: Försök med en mindre fil eller bifoga fil när du har skapat den.&quot;
+
++++
+
 +++**Underhållsuppdateringsvecka 15-21 februari 2026**
 
 ### Underhållsuppdateringsvecka 15-21 februari 2026
 
 #### Egna formulär
 
+**Beräknade fält visar inte data för icke-administratörer**
+
+När en användare som inte är Workfront-administratör visar ett anpassat formulär med fält som hämtar data i ett formuläravsnitt som bara är för administratörer, visas inte det beräknade värdet i det fältet. Om användaren kör Omberäkna uttryck visas värdet, men det går förlorat vid uppdatering.
+
+Workfront-administratörer kan se fältvärdena som förväntat.
+
 **Visningslogiken visas inte korrekt i begärandeformuläret**
 
 När en användare fyller i ett anpassat formulär som är kopplat till en begäran följs inte visningslogiken, och vissa fält kanske inte visas som förväntat.
+
+#### Startsida
+
+**Meningar från korrektur visas inte i widgeten Mentions**
+
+När en användare omnämns i en kommentar om ett korrektur, inkluderas inte omnämnandet i widgeten Mentions i Home.
+
+#### Inloggning
+
+**Workfront läses inte in efter inloggning**
+
+När en användare loggar in på Workfront läses Workfront inte in. Om användaren uppdaterar sidan läses Workfront in som förväntat.
+
+#### Rapportering
+
+Workfront planeringsfält visas inte i rapportverktyget för kontrollpaneler på arbetsytan
+
+När en användare använder verktyget i Canvas Dashboards och försöker referera till fält från Workfront Planning, visas inte dessa fält i verktyget.
 
 #### Begäranden
 

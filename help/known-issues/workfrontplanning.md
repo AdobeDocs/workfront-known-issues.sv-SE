@@ -4,9 +4,9 @@ description: Rapporterade kända problem för  [!DNL Adobe Workfront Planning]
 keywords: ny fil, lägga till fil
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 02f93911d8c8f9b90b0ae78216ccba8835f54e90
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Dessa nyligen rapporterade problem granskas för närvarande.
 
 | **Utgåva** | **Senast ändrad** |
 | --- | --- |
-| [Workfront Planning: Felet &quot;Det gick inte att skicka begäran&quot; &#x200B;](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 17 februari 2026 |
+| [Workfront Planning: Felet &quot;Det gick inte att skicka begäran&quot; ](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 17 februari 2026 |
 
 {style="table-layout:auto"}
 
@@ -35,7 +35,7 @@ Korrigeringar av dessa problem pågår för närvarande eller planeras för den 
 
 | **Utgåva** | **Senast ändrad** |
 | --- | --- |
-| [Rapportering: Workfront Planning-fält visas inte i rapportverktyget för arbetsytans kontrollpaneler](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 11 februari 2026 |
+| Ingen | |
 
 {style="table-layout:auto"}
 
