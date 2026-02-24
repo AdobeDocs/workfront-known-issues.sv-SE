@@ -4,20 +4,20 @@ description: När en användare tittar på en mapp som ska ha resurser, visas in
 hidefromtoc: true
 feature: Workfront Proof
 exl-id: a288781d-ef63-4e88-ab6c-3ce33eac3259
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Workfront Proof: Korrektur visas inte i mappar
 
-<!--
+
 >[!NOTE]
 >
->This issue was fixed on February 4, 2026.
--->
+>Problemet korrigerades den 23 februari 2026.
+
 
 När en användare tittar på en mapp som ska ha resurser, visas inga resurser i mappen.
 
